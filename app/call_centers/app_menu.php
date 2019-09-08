@@ -20,12 +20,14 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Колл-центр";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Call Center";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Кол-центр";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Trung tâm cuộc gọi";
 	$apps[$x]['menu'][$y]['uuid'] = "6c072b29-5b6c-49fc-008e-95e24c77de99";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";
 	$apps[$x]['menu'][$y]['path'] = "/app/call_centers/call_center_queues.php";
-	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
+	$apps[$x]['menu'][$y]['groups'][] = "agent";
 	$apps[$x]['menu'][$y]['groups'][] = "admin";
+	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
 	$y++;
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Agent Status";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
@@ -46,6 +48,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Статус агента";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Agent Status";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Статус оператора";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Trạng thái Agent";
 	$apps[$x]['menu'][$y]['uuid'] = "597c483a-51a9-f95a-8d54-ea7d87ada2b8";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "0438b504-8613-7887-c420-c837ffb20cb1";
 	$apps[$x]['menu'][$y]['category'] = "internal";

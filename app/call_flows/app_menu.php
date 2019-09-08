@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Переключатель вызовов";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Samtalsflöden";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Потоки дзвінків";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Lưu lượng cuộc gọi";
 	$apps[$x]['menu'][$y]['uuid'] = "b0939384-7055-44e8-8b4c-9f72293e1878";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

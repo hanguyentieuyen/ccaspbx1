@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Внутренние номера";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Anknytningar";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Розширення";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Máy nhánh";
 	$apps[$x]['menu'][$y]['uuid'] = "d3036a99-9a9f-2ad6-a82a-1fe7bebbe2d3";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "bc96d773-ee57-0cdd-c3ac-2d91aba61b55";
 	$apps[$x]['menu'][$y]['category'] = "internal";

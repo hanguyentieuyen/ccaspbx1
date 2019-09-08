@@ -38,7 +38,6 @@
 		$apps[$x]['destinations'][$y]['field']['name'] = "ring_group_name";
 		$apps[$x]['destinations'][$y]['field']['destination'] = "ring_group_extension";
 		$apps[$x]['destinations'][$y]['field']['description'] = "ring_group_description";
-		$apps[$x]['destinations'][$y]['field']['context'] = "ring_group_context";
 		$apps[$x]['destinations'][$y]['select_value']['dialplan'] = "transfer:\${destination} XML \${context}";
 		$apps[$x]['destinations'][$y]['select_value']['ivr'] = "menu-exec-app:transfer \${destination} XML \${context}";
 		$apps[$x]['destinations'][$y]['select_label'] = "\${destination} \${name} \${description}";
@@ -119,9 +118,6 @@
 		$apps[$x]['permissions'][$y]['name'] = "ring_group_cid_name_prefix";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "ring_group_cid_number_prefix";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "ring_group_context";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 
 	//default settings
 		$y=0;
@@ -255,8 +251,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = "char(36)";
 		$apps[$x]['db'][$y]['fields'][$z]['key']['type'] = "foreign";
-		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['table'] = "v_dialplans";
-		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['field'] = "dialplan_uuid";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "ring_group_forward_toll_allow";

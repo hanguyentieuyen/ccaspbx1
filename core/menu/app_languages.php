@@ -20,6 +20,7 @@ $text['title-menus']['ro-ro'] = "";
 $text['title-menus']['ru-ru'] = "Управление меню";
 $text['title-menus']['sv-se'] = "Meny Inställningar";
 $text['title-menus']['uk-ua'] = "Менеджер меню";
+$text['title-menus']['vi'] = "Quản lý menu";
 
 $text['title-menu_item-edit']['en-us'] = "Menu Item";
 $text['title-menu_item-edit']['ar-eg'] = "";
@@ -120,6 +121,7 @@ $text['option-internal']['ro-ro'] = "";
 $text['option-internal']['ru-ru'] = "Внутренний";
 $text['option-internal']['sv-se'] = "Intern";
 $text['option-internal']['uk-ua'] = "Внутрішній (Internal)";
+$text['option-internal']['vi'] = "Bên trong";
 
 $text['option-external']['en-us'] = "External";
 $text['option-external']['ar-eg'] = "";
@@ -140,6 +142,7 @@ $text['option-external']['ro-ro'] = "";
 $text['option-external']['ru-ru'] = "Внешний";
 $text['option-external']['sv-se'] = "Extern";
 $text['option-external']['uk-ua'] = "Зовнішній (External)";
+$text['option-external']['vi'] = "Bên ngoài";
 
 $text['option-email']['en-us'] = "E-mail";
 $text['option-email']['ar-eg'] = "";
@@ -180,6 +183,7 @@ $text['message-update']['ro-ro'] = "";
 $text['message-update']['ru-ru'] = "Обновление завершено";
 $text['message-update']['sv-se'] = "Uppdatering Klar";
 $text['message-update']['uk-ua'] = "Оновлення завершено";
+$text['message-update']['vi'] = "Cập nhật thành công";
 
 $text['message-moved_up']['en-us'] = "Item Moved Up";
 $text['message-moved_up']['ar-eg'] = "";
@@ -200,6 +204,7 @@ $text['message-moved_up']['ro-ro'] = "";
 $text['message-moved_up']['ru-ru'] = "Элемент перемещен вверх";
 $text['message-moved_up']['sv-se'] = "Posten Flyttades Uppåt";
 $text['message-moved_up']['uk-ua'] = "Елемент переміщено вгору";
+$text['message-moved_up']['vi'] = "Mục đã được di chuyển lên";
 
 $text['message-moved_down']['en-us'] = "Item Moved Down";
 $text['message-moved_down']['ar-eg'] = "";
@@ -220,6 +225,7 @@ $text['message-moved_down']['ro-ro'] = "";
 $text['message-moved_down']['ru-ru'] = "Элемент перемещен вниз";
 $text['message-moved_down']['sv-se'] = "Posten Flyttades Nedåt";
 $text['message-moved_down']['uk-ua'] = "Елемент переміщено вниз";
+$text['message-moved_down']['vi'] = "Mục đã được di chuyển xuống";
 
 $text['label-title']['en-us'] = "Title";
 $text['label-title']['ar-eg'] = "";
@@ -240,6 +246,7 @@ $text['label-title']['ro-ro'] = "";
 $text['label-title']['ru-ru'] = "Название";
 $text['label-title']['sv-se'] = "Titel";
 $text['label-title']['uk-ua'] = "Назва";
+$text['label-title']['vi'] = "Tiêu đề";
 
 $text['label-protected']['en-us'] = "Protected";
 $text['label-protected']['ar-eg'] = "";
@@ -260,6 +267,7 @@ $text['label-protected']['ro-ro'] = "";
 $text['label-protected']['ru-ru'] = "Защищено";
 $text['label-protected']['sv-se'] = "Skyddad";
 $text['label-protected']['uk-ua'] = "Захищено";
+$text['label-protected']['vi'] = "Được bảo vệ";
 
 $text['label-parent_menu']['en-us'] = "Parent Menu";
 $text['label-parent_menu']['ar-eg'] = "";
@@ -280,6 +288,7 @@ $text['label-parent_menu']['ro-ro'] = "";
 $text['label-parent_menu']['ru-ru'] = "Родительское меню";
 $text['label-parent_menu']['sv-se'] = "Överordnad Meny";
 $text['label-parent_menu']['uk-ua'] = "Батьківське меню";
+$text['label-parent_menu']['vi'] = "Menu mẹ";
 
 $text['label-name']['en-us'] = "Name";
 $text['label-name']['ar-eg'] = "";
@@ -300,6 +309,7 @@ $text['label-name']['ro-ro'] = "";
 $text['label-name']['ru-ru'] = "Название";
 $text['label-name']['sv-se'] = "Namn";
 $text['label-name']['uk-ua'] = "Назва";
+$text['label-name']['vi'] = "Tên";
 
 $text['label-menu_order']['en-us'] = "Order";
 $text['label-menu_order']['ar-eg'] = "";
@@ -320,6 +330,7 @@ $text['label-menu_order']['ro-ro'] = "";
 $text['label-menu_order']['ru-ru'] = "Приоритет";
 $text['label-menu_order']['sv-se'] = "Ordning";
 $text['label-menu_order']['uk-ua'] = "Інше";
+$text['label-menu_order']['vi'] = "Thứ tự";
 
 $text['label-link']['en-us'] = "Link";
 $text['label-link']['ar-eg'] = "";
@@ -360,6 +371,7 @@ $text['label-language']['ro-ro'] = "";
 $text['label-language']['ru-ru'] = "Язык";
 $text['label-language']['sv-se'] = "Språk";
 $text['label-language']['uk-ua'] = "Мова";
+$text['label-language']['vi'] = "Ngôn ngữ";
 
 $text['label-icon']['en-us'] = "Icon";
 $text['label-icon']['ar-eg'] = "";
@@ -380,6 +392,7 @@ $text['label-icon']['ro-ro'] = "";
 $text['label-icon']['ru-ru'] = "Иконка";
 $text['label-icon']['sv-se'] = "Ikon";
 $text['label-icon']['uk-ua'] = "іконка";
+$text['label-icon']['vi'] = "Biểu tượng";
 
 $text['label-groups']['en-us'] = "Groups";
 $text['label-groups']['ar-eg'] = "";
@@ -400,6 +413,7 @@ $text['label-groups']['ro-ro'] = "";
 $text['label-groups']['ru-ru'] = "Группы";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
+$text['label-groups']['vi'] = "Nhóm";
 
 $text['label-category']['en-us'] = "Target";
 $text['label-category']['ar-eg'] = "";
@@ -420,6 +434,7 @@ $text['label-category']['ro-ro'] = "";
 $text['label-category']['ru-ru'] = "Цель";
 $text['label-category']['sv-se'] = "KMäl";
 $text['label-category']['uk-ua'] = "Категорія";
+$text['label-category']['vi'] = "Mục tiêu";
 
 $text['header-menus']['en-us'] = "Menu Manager";
 $text['header-menus']['ar-eg'] = "";
@@ -440,6 +455,7 @@ $text['header-menus']['ro-ro'] = "";
 $text['header-menus']['ru-ru'] = "Управление меню";
 $text['header-menus']['sv-se'] = "Meny Inställningar";
 $text['header-menus']['uk-ua'] = "Менеджер меню";
+$text['header-menus']['vi'] = "Quản lý menu";
 
 $text['header-menu_item-edit']['en-us'] = "Menu Item";
 $text['header-menu_item-edit']['ar-eg'] = "";
@@ -460,6 +476,7 @@ $text['header-menu_item-edit']['ro-ro'] = "";
 $text['header-menu_item-edit']['ru-ru'] = "Пункт меню";
 $text['header-menu_item-edit']['sv-se'] = "Meny Post";
 $text['header-menu_item-edit']['uk-ua'] = "Пункт меню";
+$text['header-menu_item-edit']['vi'] = "Mục menu";
 
 $text['header-menu_item-add']['en-us'] = "Menu Item";
 $text['header-menu_item-add']['ar-eg'] = "";
@@ -480,6 +497,7 @@ $text['header-menu_item-add']['ro-ro'] = "";
 $text['header-menu_item-add']['ru-ru'] = "Пункт меню";
 $text['header-menu_item-add']['sv-se'] = "Meny Post";
 $text['header-menu_item-add']['uk-ua'] = "Пункт меню";
+$text['header-menu_item-add']['vi'] = "Mục menu";
 
 $text['header-menu-edit']['en-us'] = "Menu";
 $text['header-menu-edit']['ar-eg'] = "";
@@ -540,6 +558,7 @@ $text['description-title']['ro-ro'] = "";
 $text['description-title']['ru-ru'] = "Описание";
 $text['description-title']['sv-se'] = "Beskrivning";
 $text['description-title']['uk-ua'] = "Опис";
+$text['description-title']['vi'] = "Mô tả";
 
 $text['description-protected']['en-us'] = "Enable this to protect the menu item from being removed by 'Restore Default'.";
 $text['description-protected']['ar-eg'] = "";
@@ -560,6 +579,7 @@ $text['description-protected']['ro-ro'] = "";
 $text['description-protected']['ru-ru'] = "Включите это, чтобы защитить пункт меню от удаления с помощью 'Восстановить значение по умолчанию'.";
 $text['description-protected']['sv-se'] = "Aktivera för att skydda menyalternativet från att tas bort med 'Återställ Standard'.";
 $text['description-protected']['uk-ua'] = "Цей параметр використовується для захисту пункту меню від видалення після  'Відновити значення за замовчуванням».";
+$text['description-protected']['vi'] = "Cho phép điều này để bảo vệ mục menu khỏi bị xóa bởi 'Khôi phục mặc định'.";
 
 $text['description-parent_menu']['en-us'] = "Description";
 $text['description-parent_menu']['ar-eg'] = "";
@@ -580,6 +600,7 @@ $text['description-parent_menu']['ro-ro'] = "";
 $text['description-parent_menu']['ru-ru'] = "Описание";
 $text['description-parent_menu']['sv-se'] = "Beskrivning";
 $text['description-parent_menu']['uk-ua'] = "Опис";
+$text['description-parent_menu']['vi'] = "Mô tả";
 
 $text['description-name']['en-us'] = "Enter the name of the menu.";
 $text['description-name']['ar-eg'] = "";
@@ -600,6 +621,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите название меню.";
 $text['description-name']['sv-se'] = "Skriv in namnet på menyn.";
 $text['description-name']['uk-ua'] = "Введіть назву меню";
+$text['description-name']['vi'] = "Nhập tên của menu.";
 
 $text['description-menus']['en-us'] = "Used to customize one or more menus.";
 $text['description-menus']['ar-eg'] = "";
@@ -620,6 +642,7 @@ $text['description-menus']['ro-ro'] = "";
 $text['description-menus']['ru-ru'] = "Используется для настройки одного или нескольких меню.";
 $text['description-menus']['sv-se'] = "Används för att anpassa en eller flera menyer.";
 $text['description-menus']['uk-ua'] = "Використовується для налаштування одного або декількох меню.";
+$text['description-menus']['vi'] = "Được sử dụng để tùy chỉnh một hoặc nhiều menu.";
 
 $text['description-menu_order']['en-us'] = "Description";
 $text['description-menu_order']['ar-eg'] = "";
@@ -640,6 +663,7 @@ $text['description-menu_order']['ro-ro'] = "";
 $text['description-menu_order']['ru-ru'] = "Описание";
 $text['description-menu_order']['sv-se'] = "Beskrivning";
 $text['description-menu_order']['uk-ua'] = "Опис";
+$text['description-menu_order']['vi'] = "Mô tả";
 
 $text['description-menu_item-edit']['en-us'] = "Description";
 $text['description-menu_item-edit']['ar-eg'] = "";
@@ -660,6 +684,7 @@ $text['description-menu_item-edit']['ro-ro'] = "";
 $text['description-menu_item-edit']['ru-ru'] = "Описание";
 $text['description-menu_item-edit']['sv-se'] = "Beskrivning";
 $text['description-menu_item-edit']['uk-ua'] = "Опис";
+$text['description-menu_item-edit']['vi'] = "Mô tả";
 
 $text['description-menu_item-add']['en-us'] = "Description";
 $text['description-menu_item-add']['ar-eg'] = "";
@@ -680,6 +705,7 @@ $text['description-menu_item-add']['ro-ro'] = "";
 $text['description-menu_item-add']['ru-ru'] = "Описание";
 $text['description-menu_item-add']['sv-se'] = "Beskrivning";
 $text['description-menu_item-add']['uk-ua'] = "Опис";
+$text['description-menu_item-add']['vi'] = "Mô tả";
 
 $text['description-menu-edit']['en-us'] = "Used to customize one or more menus.";
 $text['description-menu-edit']['ar-eg'] = "";
@@ -700,6 +726,7 @@ $text['description-menu-edit']['ro-ro'] = "";
 $text['description-menu-edit']['ru-ru'] = "Используется для настройки одного или нескольких меню.";
 $text['description-menu-edit']['sv-se'] = "Används för att anpassa en eller flera menyer.";
 $text['description-menu-edit']['uk-ua'] = "Використовується для налаштування одного або декількох меню.";
+$text['description-menu-edit']['vi'] = "Được sử dụng để tùy chỉnh một hoặc nhiều menu.";
 
 $text['description-menu-add']['en-us'] = "Used to customize one or more menus.";
 $text['description-menu-add']['ar-eg'] = "";
@@ -720,6 +747,7 @@ $text['description-menu-add']['ro-ro'] = "";
 $text['description-menu-add']['ru-ru'] = "Используется для настройки одного или нескольких меню.";
 $text['description-menu-add']['sv-se'] = "Används för att anpassa en eller flera menyer.";
 $text['description-menu-add']['uk-ua'] = "Використовується для налаштування одного або декількох меню.";
+$text['description-menu-add']['vi'] = "Được sử dụng để tùy chỉnh một hoặc nhiều menu.";
 
 $text['description-link']['en-us'] = "Description";
 $text['description-link']['ar-eg'] = "";
@@ -740,6 +768,7 @@ $text['description-link']['ro-ro'] = "";
 $text['description-link']['ru-ru'] = "Описание";
 $text['description-link']['sv-se'] = "Beskrivning";
 $text['description-link']['uk-ua'] = "Опис";
+$text['description-link']['vi'] = "Mô tả";
 
 $text['description-language']['en-us'] = "Enter the language.";
 $text['description-language']['ar-eg'] = "";
@@ -760,6 +789,7 @@ $text['description-language']['ro-ro'] = "";
 $text['description-language']['ru-ru'] = "Введите язык.";
 $text['description-language']['sv-se'] = "Väl språk";
 $text['description-language']['uk-ua'] = "Введіть мову.";
+$text['description-language']['vi'] = "Nhập ngôn ngữ.";
 
 $text['description-groups']['en-us'] = "Description";
 $text['description-groups']['ar-eg'] = "";
@@ -780,6 +810,7 @@ $text['description-groups']['ro-ro'] = "";
 $text['description-groups']['ru-ru'] = "Описание";
 $text['description-groups']['sv-se'] = "Beskrivning";
 $text['description-groups']['uk-ua'] = "Опис";
+$text['description-groups']['vi'] = "Mô tả";
 
 $text['description-description']['en-us'] = "Enter a description, if desired.";
 $text['description-description']['ar-eg'] = "";
@@ -800,6 +831,7 @@ $text['description-description']['ro-ro'] = "";
 $text['description-description']['ru-ru'] = "Введите описание, если хотите.";
 $text['description-description']['sv-se'] = "Fyll i en beskrivning, om nödvändigt.";
 $text['description-description']['uk-ua'] = "Введіть опис, якщо це необхідно.";
+$text['description-description']['vi'] = "Nhập mô tả, nếu muốn.";
 
 $text['description-category']['en-us'] = "Description";
 $text['description-category']['ar-eg'] = "";
@@ -820,6 +852,7 @@ $text['description-category']['ro-ro'] = "";
 $text['description-category']['ru-ru'] = "Описание";
 $text['description-category']['sv-se'] = "Beskrivning";
 $text['description-category']['uk-ua'] = "Опис";
+$text['description-category']['vi'] = "Mô tả";
 
 $text['button-restore_default']['en-us'] = "Restore Default";
 $text['button-restore_default']['ar-eg'] = "";
@@ -840,6 +873,7 @@ $text['button-restore_default']['ro-ro'] = "";
 $text['button-restore_default']['ru-ru'] = "Восстановить значения по умолчанию";
 $text['button-restore_default']['sv-se'] = "Återställ Standard";
 $text['button-restore_default']['uk-ua'] = "Відновити значення за замовчуванням";
+$text['button-restore_default']['vi'] = "Khôi phục mặc định";
 
 $text['button-restore_all']['en-us'] = "Restore All";
 $text['button-restore_all']['ar-eg'] = "";
@@ -860,6 +894,7 @@ $text['button-restore_all']['ro-ro'] = "";
 $text['button-restore_all']['ru-ru'] = "Восстановить все";
 $text['button-restore_all']['sv-se'] = "Återställ Allt";
 $text['button-restore_all']['uk-ua'] = "Відновити все";
+$text['button-restore_all']['vi'] = "Khôi phục tất cả";
 
 $text['button-move_up']['en-us'] = "Move Up";
 $text['button-move_up']['ar-eg'] = "";
@@ -880,6 +915,7 @@ $text['button-move_up']['ro-ro'] = "";
 $text['button-move_up']['ru-ru'] = "Переместить вверх";
 $text['button-move_up']['sv-se'] = "Flytta Upp";
 $text['button-move_up']['uk-ua'] = "Перемістити вгору";
+$text['button-move_up']['vi'] = "Di chuyển lên";
 
 $text['button-move_down']['en-us'] = "Move Down";
 $text['button-move_down']['ar-eg'] = "";
@@ -900,5 +936,5 @@ $text['button-move_down']['ro-ro'] = "";
 $text['button-move_down']['ru-ru'] = "Переместить вниз";
 $text['button-move_down']['sv-se'] = "Flytta Ned";
 $text['button-move_down']['uk-ua'] = "Перемістити вниз";
-
+$text['button-move_down']['vi'] = "Di chuyển xuống";
 ?>

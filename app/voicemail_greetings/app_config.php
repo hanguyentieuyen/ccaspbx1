@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Менеджер приветствий Голосовой почты для Внутренних Номеров.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Lời chào quản lý thư thoại cho phần mở rộng.";
 	//permission details
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_greeting_view";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";

@@ -44,41 +44,38 @@
 
 //get posted values, if any
 	if (sizeof($_REQUEST) > 0) {
-		$action = $_REQUEST["action"];
+		$action = check_str($_REQUEST["action"]);
 		$default_setting_uuids = $_REQUEST["id"];
-		$enabled = $_REQUEST['enabled'];
-		$category = $_REQUEST['category'];
-		$search = $_REQUEST['search'];
+		$enabled = check_str($_REQUEST['enabled']);
+		$category = check_str($_REQUEST['category']);
+		$search = check_str($_REQUEST['search']);
 
-		if (sizeof($default_setting_uuids) == 1 && $enabled != '' && is_uuid($default_setting_uuids[0])) {
-			$array['default_settings'][0]['default_setting_uuid'] = $default_setting_uuids[0];
-			$array['default_settings'][0]['default_setting_enabled'] = $enabled;
-			$database = new database;
-			$database->app_name = 'default_settings';
-			$database->app_uuid = '2c2453c0-1bea-4475-9f44-4d969650de09';
-			$database->save($array);
-			$message = $database->message;
-			unset($array);
+		if (sizeof($default_setting_uuids) == 1 && $enabled != '') {
+			$sql = "update v_default_settings set ";
+			$sql .= "default_setting_enabled = '".$enabled."' ";
+			$sql .= "where default_setting_uuid = '".$default_setting_uuids[0]."'";
+			$db->exec(check_sql($sql));
+			unset($sql);
 
-			message::add($text['message-update']);
-			header("Location: default_settings.php".($search != '' ? "?search=".escape($search) : null)."#anchor_".escape($category));
+			messages::add($text['message-update']);
+			header("Location: default_settings.php".(($search != '') ? "?search=".escape($search) : null)."#anchor_".escape($category));
 			exit;
 		}
 
 		if ($action == 'copy' && permission_exists('domain_setting_add')) {
-			$target_domain_uuid = $_POST["target_domain_uuid"];
+			$target_domain_uuid = check_str($_POST["target_domain_uuid"]);
 
-			if (is_uuid($target_domain_uuid) && is_array($default_setting_uuids) && sizeof($default_setting_uuids) > 0) {
+			if ($target_domain_uuid != '' && sizeof($default_setting_uuids) > 0) {
 				$settings_copied = 0;
 				foreach ($default_setting_uuids as $default_setting_uuid) {
 
 					// get default setting from db
 					$sql = "select * from v_default_settings ";
-					$sql .= "where default_setting_uuid = :default_setting_uuid ";
-					$parameters['default_setting_uuid'] = $default_setting_uuid;
-					$database = new database;
-					$row = $database->select($sql, $parameters, 'row');
-					if (is_array($row) && sizeof($row) != 0) {
+					$sql .= "where default_setting_uuid = '".$default_setting_uuid."' ";
+					$prep_statement = $db->prepare(check_sql($sql));
+					$prep_statement->execute();
+					$result = $prep_statement->fetchAll(PDO::FETCH_NAMED);
+					foreach ($result as &$row) {
 						$default_setting_category = $row["default_setting_category"];
 						$default_setting_subcategory = $row["default_setting_subcategory"];
 						$default_setting_name = $row["default_setting_name"];
@@ -87,7 +84,7 @@
 						$default_setting_enabled = $row["default_setting_enabled"];
 						$default_setting_description = $row["default_setting_description"];
 					}
-					unset($sql, $parameters, $row);
+					unset ($prep_statement);
 
 					//set a random password for http_auth_password
 					if ($default_setting_subcategory == "http_auth_password") {
@@ -96,90 +93,108 @@
 
 					// check if exists
 					$sql = "select domain_setting_uuid from v_domain_settings ";
-					$sql .= "where domain_uuid = :domain_uuid ";
-					$sql .= "and domain_setting_category = :domain_setting_category ";
-					$sql .= "and domain_setting_subcategory = :domain_setting_subcategory ";
-					$sql .= "and domain_setting_name = :domain_setting_name ";
+					$sql .= "where domain_uuid = '".$target_domain_uuid."' ";
+					$sql .= "and domain_setting_category = '".$default_setting_category."' ";
+					$sql .= "and domain_setting_subcategory = '".$default_setting_subcategory."' ";
+					$sql .= "and domain_setting_name = '".$default_setting_name."' ";
 					$sql .= "and domain_setting_name <> 'array' ";
-					$parameters['domain_uuid'] = $target_domain_uuid;
-					$parameters['domain_setting_category'] = $default_setting_category;
-					$parameters['domain_setting_subcategory'] = $default_setting_subcategory;
-					$parameters['domain_setting_name'] = $default_setting_name;
-					$database = new database;
-					$target_domain_setting_uuid = $database->select($sql, $parameters, 'column');
-					$message = $database->message;
-
-					$action = is_uuid($target_domain_setting_uuid) ? 'update' : 'add';
-					unset($sql, $parameters);
+					$prep_statement = $db->prepare(check_sql($sql));
+					$prep_statement->execute();
+					$result = $prep_statement->fetchAll(PDO::FETCH_NAMED);
+					if (sizeof($result) > 0) {
+						foreach ($result as &$row) {
+							$target_domain_setting_uuid = $row["domain_setting_uuid"];
+							break;
+						}
+						$action = "update";
+					}
+					else {
+						$action = "add";
+					}
+					unset ($prep_statement);
 
 					// fix null
-					$default_setting_order = $default_setting_order != '' ? $default_setting_order : null;
+					$default_setting_order = ($default_setting_order != '') ? $default_setting_order : 'null';
 
-					//begin array
-					$array['domain_settings'][0]['domain_uuid'] = $target_domain_uuid;
-					$array['domain_settings'][0]['domain_setting_category'] = $default_setting_category;
-					$array['domain_settings'][0]['domain_setting_subcategory'] = $default_setting_subcategory;
-					$array['domain_settings'][0]['domain_setting_name'] = $default_setting_name;
-					$array['domain_settings'][0]['domain_setting_value'] = $default_setting_value;
-					$array['domain_settings'][0]['domain_setting_order'] = $default_setting_order;
-					$array['domain_settings'][0]['domain_setting_enabled'] = $default_setting_enabled;
-					$array['domain_settings'][0]['domain_setting_description'] = $default_setting_description;
-
-					//insert
+					// insert for target domain
 					if ($action == "add" && permission_exists("domain_select") && permission_exists("domain_setting_add") && count($_SESSION['domains']) > 1) {
-						$array['domain_settings'][0]['domain_setting_uuid'] = uuid();
-					}
-					//update
-					if ($action == "update" && permission_exists('domain_setting_edit')) {
-						$array['domain_settings'][0]['domain_setting_uuid'] = $target_domain_setting_uuid;
-					}
-
-					//execute
-					if (is_uuid($array['domain_settings'][0]['domain_setting_uuid'])) {
-						$database = new database;
-						$database->app_name = 'default_settings';
-						$database->app_uuid = '2c2453c0-1bea-4475-9f44-4d969650de09';
-						$database->save($array);
-						$message = $database->message;
-						unset($array);
+						$sql = "insert into v_domain_settings ";
+						$sql .= "(";
+						$sql .= "domain_uuid, ";
+						$sql .= "domain_setting_uuid, ";
+						$sql .= "domain_setting_category, ";
+						$sql .= "domain_setting_subcategory, ";
+						$sql .= "domain_setting_name, ";
+						$sql .= "domain_setting_value, ";
+						$sql .= "domain_setting_order, ";
+						$sql .= "domain_setting_enabled, ";
+						$sql .= "domain_setting_description ";
+						$sql .= ")";
+						$sql .= "values ";
+						$sql .= "(";
+						$sql .= "'".$target_domain_uuid."', ";
+						$sql .= "'".uuid()."', ";
+						$sql .= "'".$default_setting_category."', ";
+						$sql .= "'".$default_setting_subcategory."', ";
+						$sql .= "'".$default_setting_name."', ";
+						$sql .= "'".$default_setting_value."', ";
+						$sql .= " ".$default_setting_order." , ";
+						$sql .= "'".$default_setting_enabled."', ";
+						$sql .= "'".$default_setting_description."' ";
+						$sql .= ")";
+						$db->exec(check_sql($sql));
+						unset($sql);
 
 						$settings_copied++;
-					}
+					} // add
 
+					if ($action == "update" && permission_exists('domain_setting_edit')) {
+						$sql = "update v_domain_settings set ";
+						$sql .= "domain_setting_category = '".$default_setting_category."', ";
+						$sql .= "domain_setting_subcategory = '".$default_setting_subcategory."', ";
+						$sql .= "domain_setting_name = '".$default_setting_name."', ";
+						$sql .= "domain_setting_value = '".$default_setting_value."', ";
+						$sql .= "domain_setting_order = ".$default_setting_order.", ";
+						$sql .= "domain_setting_enabled = '".$default_setting_enabled."', ";
+						$sql .= "domain_setting_description = '".$default_setting_description."' ";
+						$sql .= "where domain_uuid = '".$target_domain_uuid."' ";
+						$sql .= "and domain_setting_uuid = '".$target_domain_setting_uuid."' ";
+						$db->exec(check_sql($sql));
+						unset($sql);
+
+						$settings_copied++;
+					} // update
 				} // foreach
 
 				// set message
-				message::add($text['message-copy'].": ".escape($settings_copied));
+				$_SESSION["message"] = $text['message-copy'].": ".escape($settings_copied);
 			}
 			else {
 				// set message
-				message::add($text['message-copy_failed']);
+				messages::add($text['message-copy_failed']);
 			}
 
-			header("Location: default_settings.php".($search != '' ? "?search=".escape($search) : null));
+			header("Location: default_settings.php".(($search != '') ? "?search=".escape($search) : null));
 			exit;
 		}
 
 		if ($action == 'delete' && permission_exists('default_setting_delete')) {
 			if (sizeof($default_setting_uuids) > 0) {
-				foreach ($default_setting_uuids as $index => $default_setting_uuid) {
+				foreach ($default_setting_uuids as $default_setting_uuid) {
 					//delete default_setting(s)
-					$array['default_settings'][$index]['default_setting_uuid'] = $default_setting_uuid;
+					$sql = "delete from v_default_settings ";
+					$sql .= "where default_setting_uuid = '".$default_setting_uuid."' ";
+					$prep_statement = $db->prepare(check_sql($sql));
+					$prep_statement->execute();
+					unset($sql);
 				}
-				if (is_array($array)) {
-					$database = new database;
-					$database->app_name = 'default_settings';
-					$database->app_uuid = '2c2453c0-1bea-4475-9f44-4d969650de09';
-					$database->delete($array);
-					$message = $database->message;
-					unset($array);
-				}
+
 				// set message
 				$_SESSION["message"] = $text['message-delete'].": ".sizeof($default_setting_uuids);
 			}
 			else {
 				// set message
-				message::add($text['message-delete_failed'], 'negative');
+				messages::add($text['message-delete_failed'], 'negative');
 			}
 
 			header("Location: default_settings.php".(($search != '') ? "?search=".escape($search) : null));
@@ -219,7 +234,7 @@
 		echo "	}\n";
 		echo "\n";
 		echo "	$( document ).ready(function() {\n";
-		echo "		$('#default_setting_search').trigger('focus').trigger('select');\n";
+		echo "		$('#default_setting_search').focus();\n";
 		if ($search == '') {
 			echo "		// scroll to previous category\n";
 			echo "		var category_span_id;\n";
@@ -240,7 +255,7 @@
 //prevent enter key submit on search field
 	echo "<script language='javascript' type='text/javascript'>\n";
 	echo "	$(document).ready(function() {\n";
-	echo "		$('#default_setting_search').on('keydown',function(event){\n";
+	echo "		$('#default_setting_search').keydown(function(event){\n";
 	echo "			if (event.keyCode == 13) {\n";
 	echo "				event.preventDefault();\n";
 	echo "				return false;\n";
@@ -283,10 +298,18 @@
 	echo "<br>";
 
 //prepare to page the results
-	$sql = "select count(*) from v_default_settings ";
-	$database = new database;
-	$num_rows = $database->select($sql, null, 'column');
-	unset($sql);
+	$sql = "select count(*) as num_rows from v_default_settings ";
+	$prep_statement = $db->prepare($sql);
+	if ($prep_statement) {
+	$prep_statement->execute();
+		$row = $prep_statement->fetch(PDO::FETCH_ASSOC);
+		if ($row['num_rows'] > 0) {
+			$num_rows = $row['num_rows'];
+		}
+		else {
+			$num_rows = '0';
+		}
+	}
 
 //prepare to page the results
 	$rows_per_page = 1000;
@@ -298,22 +321,24 @@
 
 //get the list
 	$sql = "select * from v_default_settings ";
-	if ($order_by == '') {
+	if (strlen($order_by) == 0) {
 		$sql .= "order by default_setting_category, default_setting_subcategory, default_setting_order asc, default_setting_name, default_setting_value ";
 	}
 	else {
-		$sql .= order_by($order_by, $order);
+		$sql .= "order by $order_by $order ";
 	}
-	$sql .= limit_offset($rows_per_page, $offset);
-	$database = new database;
-	$result = $database->select($sql, null, 'all');
-	unset($sql);
+	$sql .= "limit $rows_per_page offset $offset ";
+	$prep_statement = $db->prepare(check_sql($sql));
+	$prep_statement->execute();
+	$result = $prep_statement->fetchAll(PDO::FETCH_NAMED);
+	$result_count = count($result);
+	unset ($prep_statement, $sql);
 
 	$c = 0;
 	$row_style["0"] = "row_style0";
 	$row_style["1"] = "row_style1";
 
-	if (is_array($result) && sizeof($result) != 0) {
+	if ($result_count > 0) {
 		$previous_category = '';
 		foreach($result as $row) {
 
@@ -356,17 +381,15 @@
 				echo "</tr>\n";
 			}
 
-			$tr_link = (permission_exists('default_setting_edit')) ? "href=\"default_setting_edit.php?id=".urlencode($row['default_setting_uuid'])."\"" : null;
+			$tr_link = (permission_exists('default_setting_edit')) ? "href=\"javascript:document.location.href='default_setting_edit.php?id=".escape($row['default_setting_uuid'])."&search='+$('#default_setting_search').val();\"" : null;
 			echo "<tr id='setting_".$row['default_setting_uuid']."' ".$tr_link.">\n";
 			if ( (permission_exists("domain_select") && permission_exists("domain_setting_add") && count($_SESSION['domains']) > 1) || permission_exists("default_setting_delete") ) {
-				echo "	<td valign='top' class='".$row_style[$c]." tr_link_void' style='text-align: center; padding: 3px 3px 0px 8px;'>\n";
-				echo "		<input type='checkbox' name='id[]' id='checkbox_".escape($row['default_setting_uuid'])."' value='".escape($row['default_setting_uuid'])."' onclick=\"if (!this.checked) { document.getElementById('chk_all_".escape($row['default_setting_category'])."').checked = false; }\">\n";
-				echo "	</td>\n";
+				echo "	<td valign='top' class='".$row_style[$c]." tr_link_void' style='text-align: center; padding: 3px 3px 0px 8px;'><input type='checkbox' name='id[]' id='checkbox_".escape($row['default_setting_uuid'])."' value='".escape($row['default_setting_uuid'])."' onclick=\"if (!this.checked) { document.getElementById('chk_all_".escape($row['default_setting_category'])."').checked = false; }\"></td>\n";
 				$subcat_ids[strtolower($row['default_setting_category'])][] = 'checkbox_'.$row['default_setting_uuid'];
 			}
 			echo "	<td valign='top' class='".$row_style[$c]."'>";
 			if (permission_exists('default_setting_edit')) {
-				echo "<a href=\"default_setting_edit.php?id=".urlencode($row['default_setting_uuid'])."\">".escape($row['default_setting_subcategory'])."</a>";
+				echo "<a href=\"javascript:document.location.href='default_setting_edit.php?id=".$row['default_setting_uuid']."&search='+$('#default_setting_search').val(); return false;\">".escape($row['default_setting_subcategory'])."</a>";
 			}
 			else {
 				echo $row['default_setting_subcategory'];
@@ -380,14 +403,14 @@
 			$name = $row['default_setting_name'];
 			if ($category == "domain" && $subcategory == "menu" && $name == "uuid" ) {
 				$sql = "select * from v_menus ";
-				$sql .= "where menu_uuid = :menu_uuid ";
-				$parameters['menu_uuid'] = $row['default_setting_value'];
-				$database = new database;
-				$sub_result = $database->select($sql, $parameters, 'all');
+				$sql .= "where menu_uuid = '".$row['default_setting_value']."' ";
+				$sub_prep_statement = $db->prepare(check_sql($sql));
+				$sub_prep_statement->execute();
+				$sub_result = $sub_prep_statement->fetchAll(PDO::FETCH_NAMED);
+				unset ($prep_statement, $sql);
 				foreach ($sub_result as &$sub_row) {
 					echo $sub_row["menu_language"]." - ".$sub_row["menu_name"]."\n";
 				}
-				unset($sql, $sub_result, $sub_row);
 			}
 			else if ($category == "domain" && $subcategory == "template" && $name == "name" ) {
 				echo "		".ucwords($row['default_setting_value']);
@@ -408,10 +431,7 @@
 				) {
 				echo "		".$text['label-'.$row['default_setting_value']];
 			}
-			else if ($category == 'theme' && $subcategory == 'custom_css_code' && $name == 'text') {
-				echo "		[...]\n";
-			}
-			else if ($subcategory == 'password' || substr_count($subcategory, '_password') > 0 || $category == "login" && $subcategory == "password_reset_key" && $name == "text" || substr_count($subcategory, '_secret') > 0) {
+			else if ($subcategory == 'password' || substr_count($subcategory, '_password') > 0 || $category == "login" && $subcategory == "password_reset_key" && $name == "text") {
 				echo "		".str_repeat('*', strlen($row['default_setting_value']));
 			}
 			else {
@@ -434,7 +454,6 @@
 			echo "	</td>\n";
 			echo "	<td valign='top' class='row_stylebg' style='width: 40%; max-width: 50px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;'>".escape($row['default_setting_description'])."&nbsp;</td>\n";
 			echo "	<td class='list_control_icons' nowrap='nowrap'>";
-//this one works
 			if (permission_exists('default_setting_edit')) {
 				echo "<a href=\"javascript:document.location.href='default_setting_edit.php?id=".escape($row['default_setting_uuid'])."&search='+$('#default_setting_search').val();\" alt='".$text['button-edit']."'>$v_link_label_edit</a>";
 			}
@@ -450,9 +469,7 @@
 			$array_setting_uuids[] = $row['default_setting_uuid'];
 			$array_setting_subcategories[] = $row['default_setting_subcategory'];
 			$array_setting_types[] = $row['default_setting_name'];
-			if (!($category == "theme" && $subcategory == "custom_css_code" && $name == "text" )) {
-				$array_setting_values[] = str_replace('"','\"',$row['default_setting_value']);
-			}
+			$array_setting_values[] = str_replace('"','\"',$row['default_setting_value']);
 			$array_setting_descriptions[] = str_replace('"','\"',$row['default_setting_description']);
 
 			$previous_category = $row['default_setting_category'];
@@ -533,6 +550,7 @@
 	//auto run, if search term passed back
 		if ($search != '') {
 			echo "	setting_search();";
+			echo "	$('#default_setting_search').select();\n";
 		}
 		echo "</script>\n";
 

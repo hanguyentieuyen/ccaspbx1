@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Голосовые меню (IVR)";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "IVR Meny";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Menus IVR";
 	$apps[$x]['menu'][$y]['uuid'] = "72259497-a67b-e5aa-cac2-0f2dcef16308";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

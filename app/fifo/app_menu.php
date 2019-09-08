@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Очереди";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Hàng chờ";
 	$apps[$x]['menu'][$y]['uuid'] = "c535ac0b-1da1-0f9c-4653-7934c6f4732c";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

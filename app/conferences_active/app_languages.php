@@ -20,6 +20,7 @@ $text['message-denied']['ro-ro'] = "";
 $text['message-denied']['ru-ru'] = "Доступ запрещён";
 $text['message-denied']['sv-se'] = "Tillträde Nekat";
 $text['message-denied']['uk-ua'] = "в доступі відмовлено";
+$text['message-denied']['vi'] = "truy cập bị từ chối";
 
 $text['message-connection']['en-us'] = "Connection to Event Socket failed.";
 $text['message-connection']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['message-connection']['ro-ro'] = "";
 $text['message-connection']['ru-ru'] = "Подключение к Event Socket неудачно.";
 $text['message-connection']['sv-se'] = "Anslutning till Händelse misslyckades";
 $text['message-connection']['uk-ua'] = "Помилка підключення до сокета подій.";
+$text['message-connection']['vi'] = "Kết nối thất bại tới Event Socket.";
 
 $text['message-click_to_unmute']['en-us'] = "Click to Unmute Member";
 $text['message-click_to_unmute']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['message-click_to_unmute']['ro-ro'] = "";
 $text['message-click_to_unmute']['ru-ru'] = "Нажмите, чтобы включить микрофон участника";
 $text['message-click_to_unmute']['sv-se'] = "Klicka för att Aktivera Deltagares Mikrofon";
 $text['message-click_to_unmute']['uk-ua'] = "Натисніть, щоб включити учасника";
+$text['message-click_to_unmute']['vi'] = "Click để bật tiếng thành viên";
 
 $text['message-click_to_mute']['en-us'] = "Click to mute Member";
 $text['message-click_to_mute']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['message-click_to_mute']['ro-ro'] = "";
 $text['message-click_to_mute']['ru-ru'] = "Нажмите, чтобы отключить микрофон участника";
 $text['message-click_to_mute']['sv-se'] = "Klicka för att Stänga Av Deltagares Mikrofon";
 $text['message-click_to_mute']['uk-ua'] = "Натисніть, щоб вилючити учасника";
+$text['message-click_to_mute']['vi'] = "Nhấn vào đây để tắt tiếng thành viên";
 
 $text['label-yes']['en-us'] = "Yes";
 $text['label-yes']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-yes']['ro-ro'] = "";
 $text['label-yes']['ru-ru'] = "Да";
 $text['label-yes']['sv-se'] = "Ja";
 $text['label-yes']['uk-ua'] = "Так";
+$text['label-yes']['vi'] = "Có";
 
 $text['label-volume']['en-us'] = "Vol";
 $text['label-volume']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-volume']['ro-ro'] = "";
 $text['label-volume']['ru-ru'] = "Громкость";
 $text['label-volume']['sv-se'] = "Vol";
 $text['label-volume']['uk-ua'] = "";
+$text['label-volume']['vi'] = "Vol";
 
 $text['label-video']['en-us'] = "Video";
 $text['label-video']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-video']['ro-ro'] = "";
 $text['label-video']['ru-ru'] = "Видео";
 $text['label-video']['sv-se'] = "Video";
 $text['label-video']['uk-ua'] = "Відео";
+$text['label-video']['vi'] = "Video";
 
 $text['label-unmute-all']['en-us'] = "Unmute All";
 $text['label-unmute-all']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-unmute-all']['ro-ro'] = "";
 $text['label-unmute-all']['ru-ru'] = "Включить все микрофоны";
 $text['label-unmute-all']['sv-se'] = "Aktivera Allas Mikrofoner";
 $text['label-unmute-all']['uk-ua'] = "Unmute All ";
+$text['label-unmute-all']['vi'] = "Tắt tiếng tất cả";
 
 $text['label-unmute']['en-us'] = "Unmute";
 $text['label-unmute']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-unmute']['ro-ro'] = "";
 $text['label-unmute']['ru-ru'] = "Включить микрофон";
 $text['label-unmute']['sv-se'] = "Mikrofon Aktiv";
 $text['label-unmute']['uk-ua'] = "Unmute ";
+$text['label-unmute']['vi'] = "Bật tiếng";
 
 $text['label-unlock']['en-us'] = "Unlock";
 $text['label-unlock']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-unlock']['ro-ro'] = "";
 $text['label-unlock']['ru-ru'] = "Разблокировать";
 $text['label-unlock']['sv-se'] = "Lås Upp";
 $text['label-unlock']['uk-ua'] = "Розблокувати";
+$text['label-unlock']['vi'] = "Mở khóa";
 
 $text['label-undeaf']['en-us'] = "Undeaf";
 $text['label-undeaf']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-undeaf']['ro-ro'] = "";
 $text['label-undeaf']['ru-ru'] = "Undeaf";
 $text['label-undeaf']['sv-se'] = "Hörbarhet";
 $text['label-undeaf']['uk-ua'] = "";
+$text['label-undeaf']['vi'] = "Undeaf";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Утилиты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-tool']['en-us'] = "Tools";
 $text['label-tool']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-tool']['ro-ro'] = "";
 $text['label-tool']['ru-ru'] = "Утилиты";
 $text['label-tool']['sv-se'] = "Verktyg";
 $text['label-tool']['uk-ua'] = "Параметри";
+$text['label-tool']['vi'] = "Công cụ";
 
 $text['label-talking']['en-us'] = "Talking";
 $text['label-talking']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-talking']['ro-ro'] = "";
 $text['label-talking']['ru-ru'] = "Разговривайте";
 $text['label-talking']['sv-se'] = "Talande";
 $text['label-talking']['uk-ua'] = "Розмова";
+$text['label-talking']['vi'] = "Đang nói chuyện";
 
 $text['label-speak']['en-us'] = "Speak";
 $text['label-speak']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-speak']['ro-ro'] = "";
 $text['label-speak']['ru-ru'] = "Говорите";
 $text['label-speak']['sv-se'] = "Tala";
 $text['label-speak']['uk-ua'] = "Говорити";
+$text['label-speak']['vi'] = "Nói";
 
 $text['label-recording']['en-us'] = "Recording";
 $text['label-recording']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-recording']['ro-ro'] = "";
 $text['label-recording']['ru-ru'] = "Запись";
 $text['label-recording']['sv-se'] = "Inspelning";
 $text['label-recording']['uk-ua'] = "Запис";
+$text['label-recording']['vi'] = "Bản ghi";
 
 $text['label-quiet']['en-us'] = "Quiet";
 $text['label-quiet']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-quiet']['ro-ro'] = "";
 $text['label-quiet']['ru-ru'] = "Тихо";
 $text['label-quiet']['sv-se'] = "Tyst";
 $text['label-quiet']['uk-ua'] = "";
+$text['label-quiet']['vi'] = "Im lặng";
 
 $text['label-participant-pin']['en-us'] = "Participant PIN";
 $text['label-participant-pin']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-participant-pin']['ro-ro'] = "";
 $text['label-participant-pin']['ru-ru'] = "PIN участника";
 $text['label-participant-pin']['sv-se'] = "PIN Deltagare";
 $text['label-participant-pin']['uk-ua'] = "PIN учасника";
+$text['label-participant-pin']['vi'] = "PIN người tham gia";
 
 $text['label-participant']['en-us'] = "Participant";
 $text['label-participant']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-participant']['ro-ro'] = "";
 $text['label-participant']['ru-ru'] = "Участник";
 $text['label-participant']['sv-se'] = "Deltagare";
 $text['label-participant']['uk-ua'] = "Учасник";
+$text['label-participant']['vi'] = "Người tham dự";
 
 $text['label-not-recording']['en-us'] = "Not Recording";
 $text['label-not-recording']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-not-recording']['ro-ro'] = "";
 $text['label-not-recording']['ru-ru'] = "Не записывается";
 $text['label-not-recording']['sv-se'] = "Spelar inte in";
 $text['label-not-recording']['uk-ua'] = "";
+$text['label-not-recording']['vi'] = "Không ghi âm";
 
 $text['label-no']['en-us'] = "No";
 $text['label-no']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['label-no']['ro-ro'] = "";
 $text['label-no']['ru-ru'] = "Нет";
 $text['label-no']['sv-se'] = "Nej";
 $text['label-no']['uk-ua'] = "Ні";
+$text['label-no']['vi'] = "Không";
 
 $text['label-mute-all-alt']['en-us'] = "Mute all Participants.";
 $text['label-mute-all-alt']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['label-mute-all-alt']['ro-ro'] = "";
 $text['label-mute-all-alt']['ru-ru'] = "Отключить микрофоны всем участникам.";
 $text['label-mute-all-alt']['sv-se'] = "Stäng av Deltagares mikrofon";
 $text['label-mute-all-alt']['uk-ua'] = "";
+$text['label-mute-all-alt']['vi'] = "Tắt tiếng tất cả những người tham gia.";
 
 $text['label-mute-all']['en-us'] = "Mute All";
 $text['label-mute-all']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-mute-all']['ro-ro'] = "";
 $text['label-mute-all']['ru-ru'] = "Отключить все микрофоны";
 $text['label-mute-all']['sv-se'] = "Stäng av Allas mikrofon";
 $text['label-mute-all']['uk-ua'] = "";
+$text['label-mute-all']['vi'] = "Tắt tiếng tất cả";
 
 $text['label-mute']['en-us'] = "Mute";
 $text['label-mute']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-mute']['ro-ro'] = "";
 $text['label-mute']['ru-ru'] = "Отключить микрофон";
 $text['label-mute']['sv-se'] = "Stäng av mikrofon";
 $text['label-mute']['uk-ua'] = "";
+$text['label-mute']['vi'] = "Tắt tiếng";
 
 $text['label-moderator']['en-us'] = "Moderator";
 $text['label-moderator']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['label-moderator']['ro-ro'] = "";
 $text['label-moderator']['ru-ru'] = "Модератор";
 $text['label-moderator']['sv-se'] = "Värd";
 $text['label-moderator']['uk-ua'] = "Модератор";
+$text['label-moderator']['vi'] = "Người điều hành";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-members']['en-us'] = "Members";
 $text['label-members']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['label-members']['ro-ro'] = "";
 $text['label-members']['ru-ru'] = "Участники";
 $text['label-members']['sv-se'] = "Deltagare";
 $text['label-members']['uk-ua'] = "Учасники";
+$text['label-members']['vi'] = "Thành viên";
 
 $text['label-member-count']['en-us'] = "Member Count";
 $text['label-member-count']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['label-member-count']['ro-ro'] = "";
 $text['label-member-count']['ru-ru'] = "Количество участников";
 $text['label-member-count']['sv-se'] = "Antal Deltagare";
 $text['label-member-count']['uk-ua'] = "Кількість учасиків";
+$text['label-member-count']['vi'] = "Số lượng";
 
 $text['label-lock']['en-us'] = "Lock";
 $text['label-lock']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['label-lock']['ro-ro'] = "";
 $text['label-lock']['ru-ru'] = "Заблокировать";
 $text['label-lock']['sv-se'] = "Lås";
 $text['label-lock']['uk-ua'] = "Блокувати";
+$text['label-lock']['vi'] = "Khóa";
 
 $text['label-kick']['en-us'] = "Kick";
 $text['label-kick']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['label-kick']['ro-ro'] = "";
 $text['label-kick']['ru-ru'] = "Выкинуть";
 $text['label-kick']['sv-se'] = "Sparka Ut";
 $text['label-kick']['uk-ua'] = "";
+$text['label-kick']['vi'] = "Thoát";
 
 $text['label-joined']['en-us'] = "Joined";
 $text['label-joined']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['label-joined']['ro-ro'] = "";
 $text['label-joined']['ru-ru'] = "Подключился";
 $text['label-joined']['sv-se'] = "Blev medlem";
 $text['label-joined']['uk-ua'] = "";
+$text['label-joined']['vi'] = "Tham gia";
 
 $text['label-interactive']['en-us'] = "Interactive Conference";
 $text['label-interactive']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['label-interactive']['ro-ro'] = "";
 $text['label-interactive']['ru-ru'] = "Интерактивная конференция";
 $text['label-interactive']['sv-se'] = "Interaktiv Konferens";
 $text['label-interactive']['uk-ua'] = "";
+$text['label-interactive']['vi'] = "Tương tác hội nghị ";
 
 $text['label-id']['en-us'] = "ID";
 $text['label-id']['ar-eg'] = "";
@@ -680,6 +712,7 @@ $text['label-hear']['ro-ro'] = "";
 $text['label-hear']['ru-ru'] = "Слушать";
 $text['label-hear']['sv-se'] = "Höra";
 $text['label-hear']['uk-ua'] = "";
+$text['label-hear']['vi'] = "Nghe";
 
 $text['label-gain']['en-us'] = "Gain";
 $text['label-gain']['ar-eg'] = "";
@@ -700,6 +733,7 @@ $text['label-gain']['ro-ro'] = "";
 $text['label-gain']['ru-ru'] = "Усиление";
 $text['label-gain']['sv-se'] = "Förstärka";
 $text['label-gain']['uk-ua'] = "";
+$text['label-gain']['vi'] = "Thu được";
 
 $text['label-floor']['en-us'] = "Has Floor";
 $text['label-floor']['ar-eg'] = "";
@@ -720,6 +754,7 @@ $text['label-floor']['ro-ro'] = "";
 $text['label-floor']['ru-ru'] = "Has Floor";
 $text['label-floor']['sv-se'] = "Har Ordet";
 $text['label-floor']['uk-ua'] = "";
+$text['label-floor']['vi'] = "Có tầng";
 
 $text['label-energy']['en-us'] = "Energy";
 $text['label-energy']['ar-eg'] = "";
@@ -740,6 +775,7 @@ $text['label-energy']['ro-ro'] = "";
 $text['label-energy']['ru-ru'] = "Энергия";
 $text['label-energy']['sv-se'] = "Energi";
 $text['label-energy']['uk-ua'] = "";
+$text['label-energy']['vi'] = "Năng lượng";
 
 $text['label-end-conference']['en-us'] = "End Conference";
 $text['label-end-conference']['ar-eg'] = "";
@@ -760,6 +796,7 @@ $text['label-end-conference']['ro-ro'] = "";
 $text['label-end-conference']['ru-ru'] = "Закончить конференцию";
 $text['label-end-conference']['sv-se'] = "Avsluta Konferens";
 $text['label-end-conference']['uk-ua'] = "";
+$text['label-end-conference']['vi'] = "Kết thúc hội nghị";
 
 $text['label-deaf']['en-us'] = "Deaf";
 $text['label-deaf']['ar-eg'] = "";
@@ -780,6 +817,7 @@ $text['label-deaf']['ro-ro'] = "";
 $text['label-deaf']['ru-ru'] = "Deaf";
 $text['label-deaf']['sv-se'] = "Hör inte";
 $text['label-deaf']['uk-ua'] = "";
+$text['label-deaf']['vi'] = "Deaf";
 
 $text['label-cid-num']['en-us'] = "CID Number";
 $text['label-cid-num']['ar-eg'] = "";
@@ -800,6 +838,7 @@ $text['label-cid-num']['ro-ro'] = "";
 $text['label-cid-num']['ru-ru'] = "Номер Caller ID";
 $text['label-cid-num']['sv-se'] = "CID, nummerpresentation";
 $text['label-cid-num']['uk-ua'] = "CID Номер";
+$text['label-cid-num']['vi'] = "Số CID";
 
 $text['label-cid-name']['en-us'] = "CID Name";
 $text['label-cid-name']['ar-eg'] = "";
@@ -820,6 +859,7 @@ $text['label-cid-name']['ro-ro'] = "";
 $text['label-cid-name']['ru-ru'] = "CID Имя";
 $text['label-cid-name']['sv-se'] = "CID, Namnpresentation";
 $text['label-cid-name']['uk-ua'] = "CID Ім’я";
+$text['label-cid-name']['vi'] = "Tên CID";
 
 $text['label-capabilities']['en-us'] = "Capabilities";
 $text['label-capabilities']['ar-eg'] = "";
@@ -840,6 +880,7 @@ $text['label-capabilities']['ro-ro'] = "";
 $text['label-capabilities']['ru-ru'] = "Возможности";
 $text['label-capabilities']['sv-se'] = "Möjligheter";
 $text['label-capabilities']['uk-ua'] = "Можливості";
+$text['label-capabilities']['vi'] = "Khả năng";
 
 $text['label-active']['en-us'] = "Active Conferences";
 $text['label-active']['ar-eg'] = "";
@@ -860,6 +901,7 @@ $text['label-active']['ro-ro'] = "";
 $text['label-active']['ru-ru'] = "Активные конференции";
 $text['label-active']['sv-se'] = "Aktiva Konferenser";
 $text['label-active']['uk-ua'] = "Активні кноференції";
+$text['label-active']['vi'] = "Hội nghị hoạt động";
 
 $text['description-interactive']['en-us'] = "Use this to monitor and interact with the members of the conference.";
 $text['description-interactive']['ar-eg'] = "";
@@ -880,6 +922,7 @@ $text['description-interactive']['ro-ro'] = "";
 $text['description-interactive']['ru-ru'] = "Используйте это, чтобы наблюдать и взаимодействовать с участниками конференции.";
 $text['description-interactive']['sv-se'] = "Använd detta för att Monitorera och Interagera med deltagare i Konferensen";
 $text['description-interactive']['uk-ua'] = "";
+$text['description-interactive']['vi'] = "Sử dụng điều này để theo dõi và tương tác với các thành viên của hội nghị.";
 
 $text['description-active']['en-us'] = "List all the conferences that are currently active with one or more members.";
 $text['description-active']['ar-eg'] = "";
@@ -900,6 +943,7 @@ $text['description-active']['ro-ro'] = "";
 $text['description-active']['ru-ru'] = "Список всех активных конференций с по крайней мере одним участником.";
 $text['description-active']['sv-se'] = "Lista alla Konferenser som är aktiva med en eller fler deltagare";
 $text['description-active']['uk-ua'] = "";
+$text['description-active']['vi'] = "Liệt kê tất cả các hội nghị hiện đang hoạt động với một hoặc nhiều thành viên.";
 
 $text['button-stop-rec']['en-us'] = "Stop Record";
 $text['button-stop-rec']['ar-eg'] = "";
@@ -920,6 +964,7 @@ $text['button-stop-rec']['ro-ro'] = "";
 $text['button-stop-rec']['ru-ru'] = "Остановить запись";
 $text['button-stop-rec']['sv-se'] = "Stoppa Inspelning";
 $text['button-stop-rec']['uk-ua'] = "Зупинити";
+$text['button-stop-rec']['vi'] = "Dừng ghi âm";
 
 $text['button-start-rec']['en-us'] = "Start Record";
 $text['button-start-rec']['ar-eg'] = "";
@@ -940,5 +985,5 @@ $text['button-start-rec']['ro-ro'] = "";
 $text['button-start-rec']['ru-ru'] = "Включить запись";
 $text['button-start-rec']['sv-se'] = "Starta Inspelning";
 $text['button-start-rec']['uk-ua'] = "Записувати";
-
+$text['button-start-rec']['vi'] = "Bắt đầu ghi âm";
 ?>

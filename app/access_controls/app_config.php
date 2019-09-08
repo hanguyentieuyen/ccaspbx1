@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Danh sách quản lý truy cập";
 
 	//permission details
 		$y=0;
@@ -54,9 +55,6 @@
 		$apps[$x]['permissions'][$y]['name'] = "access_control_node_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
-
-	//cache details
-		$apps[$x]['cache']['key'] = "configuration.acl.conf";
 
 	//schema details
 		$y=0;

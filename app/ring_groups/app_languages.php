@@ -620,6 +620,7 @@ $text['label-forwarding']['ro-ro'] = "expediere";
 $text['label-forwarding']['ru-ru'] = "Передать далее";
 $text['label-forwarding']['sv-se'] = "Spedition";
 $text['label-forwarding']['uk-ua'] = "експедиція";
+$text['label-forwarding']['vi'] = "Chuyển tiếp";
 
 $text['label-ring_group_forward_toll_allow']['en-us'] = "Forwarding Toll Allow";
 $text['label-ring_group_forward_toll_allow']['ar-eg'] = "Toll Allow إعادة ت وجيه";
@@ -680,6 +681,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-email']['en-us'] = "Email";
 $text['label-email']['ar-eg'] = "";
@@ -1020,6 +1022,7 @@ $text['header-ring-group-forward']['ro-ro'] = "";
 $text['header-ring-group-forward']['ru-ru'] = "Перенаправление группы вызовов";
 $text['header-ring-group-forward']['sv-se'] = "Ringgrupp Vidarekoppling";
 $text['header-ring-group-forward']['uk-ua'] = "";
+$text['header-ring-group-forward']['vi'] = "Nhóm chuyển tiếp";
 
 $text['header-description']['en-us'] = "Description";
 $text['header-description']['ar-eg'] = "";
@@ -1041,7 +1044,7 @@ $text['header-description']['ru-ru'] = "Описание";
 $text['header-description']['sv-se'] = "Beskrivning";
 $text['header-description']['uk-ua'] = "Опис";
 
-$text['description-user_list']['en-us'] = "Define users assigned to this ring group.";
+$text['description-user_list']['en-us'] = "Assign the users that are assigned to this ring group.";
 $text['description-user_list']['ar-eg'] = "";
 $text['description-user_list']['de-at'] = "Weisen Sie diese Rufgruppe Benutzern zu."; //copied from de-de
 $text['description-user_list']['de-ch'] = "Weisen Sie diese Rufgruppe Benutzern zu."; //copied from de-de

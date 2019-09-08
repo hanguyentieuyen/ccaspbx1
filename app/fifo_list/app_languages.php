@@ -20,6 +20,7 @@ $text['title-queue']['ro-ro'] = "";
 $text['title-queue']['ru-ru'] = "Очередь";
 $text['title-queue']['sv-se'] = "Kö";
 $text['title-queue']['uk-ua'] = "Черга";
+$text['title-queue']['vi'] = "Hàng chờ";
 
 $text['title-active_queues']['en-us'] = "Active Queues";
 $text['title-active_queues']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-active_queues']['ro-ro'] = "";
 $text['title-active_queues']['ru-ru'] = "Активные Очереди";
 $text['title-active_queues']['sv-se'] = "Aktiva Köer";
 $text['title-active_queues']['uk-ua'] = "Активні черги";
+$text['title-active_queues']['vi'] = "Hàng chờ hoạt động";
 
 $text['label-waiting_count']['en-us'] = "Waiting Count";
 $text['label-waiting_count']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-waiting_count']['ro-ro'] = "";
 $text['label-waiting_count']['ru-ru'] = "Счетчик ожиданий";
 $text['label-waiting_count']['sv-se'] = "Antal Väntande";
 $text['label-waiting_count']['uk-ua'] = "Кількість в очікуванні";
+$text['label-waiting_count']['vi'] = "Số lượng hàng chờ";
 
 $text['label-view']['en-us'] = "View";
 $text['label-view']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-view']['ro-ro'] = "";
 $text['label-view']['ru-ru'] = "Просмотр";
 $text['label-view']['sv-se'] = "Visa";
 $text['label-view']['uk-ua'] = "Перегляд";
+$text['label-view']['vi'] = "Xem";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-username']['ro-ro'] = "";
 $text['label-username']['ru-ru'] = "Имя Пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Người dùng";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Стан";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-priority']['en-us'] = "Priority";
 $text['label-priority']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-priority']['ro-ro'] = "";
 $text['label-priority']['ru-ru'] = "Приоритет";
 $text['label-priority']['sv-se'] = "Prioritet";
 $text['label-priority']['uk-ua'] = "Пріоритет";
+$text['label-priority']['vi'] = "Ưu tiên";
 
 $text['label-position']['en-us'] = "Position";
 $text['label-position']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-position']['ro-ro'] = "";
 $text['label-position']['ru-ru'] = "Позиция";
 $text['label-position']['sv-se'] = "Position";
 $text['label-position']['uk-ua'] = "Позиція";
+$text['label-position']['vi'] = "Vị trí";
 
 $text['label-name']['en-us'] = "Name";
 $text['label-name']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-name']['ro-ro'] = "";
 $text['label-name']['ru-ru'] = "Имя";
 $text['label-name']['sv-se'] = "Namn";
 $text['label-name']['uk-ua'] = "Назва";
+$text['label-name']['vi'] = "Tên";
 
 $text['label-language']['en-us'] = "Language";
 $text['label-language']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-language']['ro-ro'] = "";
 $text['label-language']['ru-ru'] = "Язык";
 $text['label-language']['sv-se'] = "Språk";
 $text['label-language']['uk-ua'] = "Мова";
+$text['label-language']['vi'] = "Ngôn ngữ";
 
 $text['label-importance']['en-us'] = "Importance";
 $text['label-importance']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-importance']['ro-ro'] = "";
 $text['label-importance']['ru-ru'] = "Важность";
 $text['label-importance']['sv-se'] = "Betydelse";
 $text['label-importance']['uk-ua'] = "Важливість";
+$text['label-importance']['vi'] = "Quan trọng";
 
 $text['label-duration']['en-us'] = "Duration";
 $text['label-duration']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-duration']['ro-ro'] = "";
 $text['label-duration']['ru-ru'] = "Продолжительность";
 $text['label-duration']['sv-se'] = "Samtalstid";
 $text['label-duration']['uk-ua'] = "Тривалість";
+$text['label-duration']['vi'] = "Thời lượng";
 
 $text['label-destination_number']['en-us'] = "Destination Number";
 $text['label-destination_number']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-destination_number']['ro-ro'] = "";
 $text['label-destination_number']['ru-ru'] = "Целевой номер";
 $text['label-destination_number']['sv-se'] = "Destination Nummer";
 $text['label-destination_number']['uk-ua'] = "Номер";
+$text['label-destination_number']['vi'] = "Số điện thoại đích đến";
 
 $text['label-consumer_count']['en-us'] = "Consumer Count";
 $text['label-consumer_count']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-consumer_count']['ro-ro'] = "";
 $text['label-consumer_count']['ru-ru'] = "Количество клиентов";
 $text['label-consumer_count']['sv-se'] = "Förbrukat Antal";
 $text['label-consumer_count']['uk-ua'] = "Кількість споживачів";
+$text['label-consumer_count']['vi'] = "Số lượng người tiêu dùng";
 
 $text['label-caller_id_number']['en-us'] = "Caller ID Number";
 $text['label-caller_id_number']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-caller_id_number']['ro-ro'] = "";
 $text['label-caller_id_number']['ru-ru'] = "Caller ID Номера";
 $text['label-caller_id_number']['sv-se'] = "Inringande ID Nummer";
 $text['label-caller_id_number']['uk-ua'] = "Caller ID Номер";
+$text['label-caller_id_number']['vi'] = "Số ID người gọi";
 
 $text['label-caller_id_name']['en-us'] = "Caller ID Name";
 $text['label-caller_id_name']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-caller_id_name']['ro-ro'] = "";
 $text['label-caller_id_name']['ru-ru'] = "Caller ID Имя";
 $text['label-caller_id_name']['sv-se'] = "Inringande ID Namn";
 $text['label-caller_id_name']['uk-ua'] = "Caller ID Ім’я";
+$text['label-caller_id_name']['vi'] = "Tên ID người gọi";
 
 $text['label-caller_count']['en-us'] = "Caller Count";
 $text['label-caller_count']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-caller_count']['ro-ro'] = "";
 $text['label-caller_count']['ru-ru'] = "Количество абонентов";
 $text['label-caller_count']['sv-se'] = "Antal samtal";
 $text['label-caller_count']['uk-ua'] = "Кількість абонентів";
+$text['label-caller_count']['vi'] = "Số lượng người gọi";
 
 $text['header-queue']['en-us'] = "Queue";
 $text['header-queue']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['header-queue']['ro-ro'] = "";
 $text['header-queue']['ru-ru'] = "Очередь";
 $text['header-queue']['sv-se'] = "Kö";
 $text['header-queue']['uk-ua'] = "Черга";
+$text['header-queue']['vi'] = "Hàng chờ";
 
 $text['header-active_queues']['en-us'] = "Active Queues";
 $text['header-active_queues']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['header-active_queues']['ro-ro'] = "";
 $text['header-active_queues']['ru-ru'] = "Активные Очереди";
 $text['header-active_queues']['sv-se'] = "Aktiva Köer";
 $text['header-active_queues']['uk-ua'] = "Активні черги";
+$text['header-active_queues']['vi'] = "Hàng chờ hoạt động";
 
 $text['description-queue']['en-us'] = "Use this page to monitor the queue activity.";
 $text['description-queue']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['description-queue']['ro-ro'] = "";
 $text['description-queue']['ru-ru'] = "Используйте эту страницу для мониторинга активности очереди.";
 $text['description-queue']['sv-se'] = "Använd denna sida för att monitorera kö aktivitet";
 $text['description-queue']['uk-ua'] = "Використовуйте цю сторінку, щоб стежити за активністю черги.";
+$text['description-queue']['vi'] = "Sử dụng trang này để theo dõi hoạt động xếp hàng.";
 
 $text['description-active_queues']['en-us'] = "List all the queues that are currently active with one or more callers.";
 $text['description-active_queues']['ar-eg'] = "";
@@ -420,5 +440,5 @@ $text['description-active_queues']['ro-ro'] = "";
 $text['description-active_queues']['ru-ru'] = "Список всех очередей, которые в данный момент активны, с одним или несколькими вызывающими абонентами.";
 $text['description-active_queues']['sv-se'] = "Lista alla köer med en eller fler aktiva samtal";
 $text['description-active_queues']['uk-ua'] = "Перелік всіх черг, в яких в даний час є активні абоненти.";
-
+$text['description-active_queues']['vi'] = "Liệt kê tất cả các hàng đợi hiện đang hoạt động với một hoặc nhiều người gọi.";
 ?>

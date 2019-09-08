@@ -20,6 +20,7 @@ $text['title-manage-files']['ro-ro'] = "";
 $text['title-manage-files']['ru-ru'] = "Управление файлами";
 $text['title-manage-files']['sv-se'] = "Hantera Filer";
 $text['title-manage-files']['uk-ua'] = "";
+$text['title-manage-files']['vi'] = "Quản lý tệp tin";
 
 $text['title-manage-clips']['en-us'] = "Manage Clips";
 $text['title-manage-clips']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-manage-clips']['ro-ro'] = "";
 $text['title-manage-clips']['ru-ru'] = "Управление клипами";
 $text['title-manage-clips']['sv-se'] = "Hantera Klipp";
 $text['title-manage-clips']['uk-ua'] = "";
+$text['title-manage-clips']['vi'] = "Quản lý Clip";
 
 $text['label-folder']['en-us'] = "Folder:";
 $text['label-folder']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-folder']['ro-ro'] = "";
 $text['label-folder']['ru-ru'] = "Папка:";
 $text['label-folder']['sv-se'] = "Mapp:";
 $text['label-folder']['uk-ua'] = "";
+$text['label-folder']['vi'] = "Thư mục:";
 
 $text['label-before-selection']['en-us'] = "Before Selection:";
 $text['label-before-selection']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-before-selection']['ro-ro'] = "";
 $text['label-before-selection']['ru-ru'] = "Перед выбором:";
 $text['label-before-selection']['sv-se'] = "Före Val:";
 $text['label-before-selection']['uk-ua'] = "";
+$text['label-before-selection']['vi'] = "Trước khi lựa chọn:";
 
 $text['label-after-selection']['en-us'] = "After Selection:";
 $text['label-after-selection']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-after-selection']['ro-ro'] = "";
 $text['label-after-selection']['ru-ru'] = "После выбора:";
 $text['label-after-selection']['sv-se'] = "Efter Val:";
 $text['label-after-selection']['uk-ua'] = "";
+$text['label-after-selection']['vi'] = "Sau khi lựa chọn:";
 
 $text['label-notes']['en-us'] = "Notes:";
 $text['label-notes']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-notes']['ro-ro'] = "";
 $text['label-notes']['ru-ru'] = "Заметки:";
 $text['label-notes']['sv-se'] = "Noteringar:";
 $text['label-notes']['uk-ua'] = "";
+$text['label-notes']['vi'] = "Chú ý:";
 
 $text['message-give-up']['en-us'] = "Giving up :( Cannot create an XMLHTTP instance";
 $text['message-give-up']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['message-give-up']['ro-ro'] = "";
 $text['message-give-up']['ru-ru'] = "Операция отменена :( Невозможно создать XMLHTTP экземпляр";
 $text['message-give-up']['sv-se'] = "Ger upp :( Kan inte skapa en XMLHTTP instans";
 $text['message-give-up']['uk-ua'] = "";
+$text['message-give-up']['vi'] = "Đưa ra :( Không thể tạo một trường hợp XMLHTTP";
 
 $text['message-problem']['en-us'] = "There was a problem with the request.";
 $text['message-problem']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['message-problem']['ro-ro'] = "";
 $text['message-problem']['ru-ru'] = "Возникла проблема с запросом.";
 $text['message-problem']['sv-se'] = "Det uppstod ett problem med begäran.";
 $text['message-problem']['uk-ua'] = "";
+$text['message-problem']['vi'] = "Có một vấn đề với các yêu cầu.";
 
 $text['label-clip-library']['en-us'] = "Clip Library";
 $text['label-clip-library']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-clip-library']['ro-ro'] = "";
 $text['label-clip-library']['ru-ru'] = "Библиотека клипов";
 $text['label-clip-library']['sv-se'] = "Klipp Bibliotek";
 $text['label-clip-library']['uk-ua'] = "";
+$text['label-clip-library']['vi'] = "Thư viện Clip";
 
 $text['label-selected-clip']['en-us'] = "Selected Clip";
 $text['label-selected-clip']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-selected-clip']['ro-ro'] = "";
 $text['label-selected-clip']['ru-ru'] = "Выбранный клип";
 $text['label-selected-clip']['sv-se'] = "";
 $text['label-selected-clip']['uk-ua'] = "";
+$text['label-selected-clip']['vi'] = "Chọn Clip";
 
 $text['button-edit-clip']['en-us'] = "Edit Clip";
 $text['button-edit-clip']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['button-edit-clip']['ro-ro'] = "";
 $text['button-edit-clip']['ru-ru'] = "Редактировать клип";
 $text['button-edit-clip']['sv-se'] = "Ändra Klipp";
 $text['button-edit-clip']['uk-ua'] = "";
+$text['button-edit-clip']['vi'] = "Chỉnh sửa Clip";
 
 $text['button-add-clip']['en-us'] = "Add Clip";
 $text['button-add-clip']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['button-add-clip']['ro-ro'] = "";
 $text['button-add-clip']['ru-ru'] = "Добавить клип";
 $text['button-add-clip']['sv-se'] = "Lägg Till Klipp";
 $text['button-add-clip']['uk-ua'] = "";
+$text['button-add-clip']['vi'] = "Thêm Clip";
 
 $text['message-delete-clip']['en-us'] = "Are you sure you want to delete the selected clip?";
 $text['message-delete-clip']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['message-delete-clip']['ro-ro'] = "";
 $text['message-delete-clip']['ru-ru'] = "Вы действительно хотите удалить выбранный клип?";
 $text['message-delete-clip']['sv-se'] = "Är du säker på att du vill radera det valda klippet?";
 $text['message-delete-clip']['uk-ua'] = "";
+$text['message-delete-clip']['vi'] = "Bạn có chắc chắn muốn xóa clip đã chọn?";
 
 $text['button-close']['en-us'] = "Close";
 $text['button-close']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['button-close']['ro-ro'] = "";
 $text['button-close']['ru-ru'] = "Закрыть";
 $text['button-close']['sv-se'] = "Stäng";
 $text['button-close']['uk-ua'] = "";
+$text['button-close']['vi'] = "Đóng";
 
 $text['label-path']['en-us'] = "Path:";
 $text['label-path']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-path']['ro-ro'] = "";
 $text['label-path']['ru-ru'] = "Путь:";
 $text['label-path']['sv-se'] = "Sökväg:";
 $text['label-path']['uk-ua'] = "";
+$text['label-path']['vi'] = "Đường dẫn:";
 
 $text['label-file-name']['en-us'] = "File Name:";
 $text['label-file-name']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-file-name']['ro-ro'] = "";
 $text['label-file-name']['ru-ru'] = "Имя Файла:";
 $text['label-file-name']['sv-se'] = "Filnamn:";
 $text['label-file-name']['uk-ua'] = "";
+$text['label-file-name']['vi'] = "Tên tệp tin:";
 
 $text['button-new-file']['en-us'] = "New File";
 $text['button-new-file']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['button-new-file']['ro-ro'] = "";
 $text['button-new-file']['ru-ru'] = "Новый Файл";
 $text['button-new-file']['sv-se'] = "Ny Fil";
 $text['button-new-file']['uk-ua'] = "";
+$text['button-new-file']['vi'] = "Tên tệp tin";
 
 $text['label-file-name-orig']['en-us'] = "Original File Name:";
 $text['label-file-name-orig']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-file-name-orig']['ro-ro'] = "";
 $text['label-file-name-orig']['ru-ru'] = "Оригинальное Имя Файла:";
 $text['label-file-name-orig']['sv-se'] = "Original Filnamn:";
 $text['label-file-name-orig']['uk-ua'] = "";
+$text['label-file-name-orig']['vi'] = "Tên tệp tin gốc:";
 
 $text['label-rename-file-to']['en-us'] = "Rename File To:";
 $text['label-rename-file-to']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-rename-file-to']['ro-ro'] = "";
 $text['label-rename-file-to']['ru-ru'] = "Переименовать Файл:";
 $text['label-rename-file-to']['sv-se'] = "Ändra Filnamn Till:";
 $text['label-rename-file-to']['uk-ua'] = "";
+$text['label-rename-file-to']['vi'] = "Đổi tên tệp tin thành:";
 
 $text['label-files']['en-us'] = "Files";
 $text['label-files']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-files']['ro-ro'] = "";
 $text['label-files']['ru-ru'] = "Файлы";
 $text['label-files']['sv-se'] = "Filer";
 $text['label-files']['uk-ua'] = "";
+$text['label-files']['vi'] = "File";
 
 $text['button-add-file']['en-us'] = "Add File";
 $text['button-add-file']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['button-add-file']['ro-ro'] = "";
 $text['button-add-file']['ru-ru'] = "Добавить Файл";
 $text['button-add-file']['sv-se'] = "Lägg Till Fil";
 $text['button-add-file']['uk-ua'] = "";
+$text['button-add-file']['vi'] = "Thêm tệp tin";
 
 $text['button-add-dir']['en-us'] = "Add Dir";
 $text['button-add-dir']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['button-add-dir']['ro-ro'] = "";
 $text['button-add-dir']['ru-ru'] = "Добавить Каталог";
 $text['button-add-dir']['sv-se'] = "Lägg Till Katalog";
 $text['button-add-dir']['uk-ua'] = "";
+$text['button-add-dir']['vi'] = "Thêm thư mục";
 
 $text['button-rename-file']['en-us'] = "Rename File";
 $text['button-rename-file']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['button-rename-file']['ro-ro'] = "";
 $text['button-rename-file']['ru-ru'] = "Переименовать Файл";
 $text['button-rename-file']['sv-se'] = "Namnändra Fil";
 $text['button-rename-file']['uk-ua'] = "";
+$text['button-rename-file']['vi'] = "Thay đổi tên tệp tin";
 
 $text['message-delete-file']['en-us'] = "Are you sure you want to delete the selected file?";
 $text['message-delete-file']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['message-delete-file']['ro-ro'] = "";
 $text['message-delete-file']['ru-ru'] = "Вы уверены, что хотите удалить выбранный файл?";
 $text['message-delete-file']['sv-se'] = "Är du säker på att du vill radera den valda filen?";
 $text['message-delete-file']['uk-ua'] = "";
+$text['message-delete-file']['vi'] = "Bạn có chắc chắn muốn xóa tệp đã chọn?";
 
 $text['button-del-file']['en-us'] = "Delete File";
 $text['button-del-file']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['button-del-file']['ro-ro'] = "";
 $text['button-del-file']['ru-ru'] = "Удалить Файл";
 $text['button-del-file']['sv-se'] = "Ta Bort Fil";
 $text['button-del-file']['uk-ua'] = "";
+$text['button-del-file']['vi'] = "Xóa tệp tin";
 
 $text['message-delete-folder']['en-us'] = "Are you sure you want to delete the selected folder?";
 $text['message-delete-folder']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['message-delete-folder']['ro-ro'] = "";
 $text['message-delete-folder']['ru-ru'] = "Вы действительно хотите удалить выбранный Каталог?";
 $text['message-delete-folder']['sv-se'] = "Är du säker på att du vill radera den valda mappen?";
 $text['message-delete-folder']['uk-ua'] = "";
+$text['message-delete-folder']['vi'] = "Bạn có chắc chắn muốn xóa thư mục đã chọn?";
 
 $text['button-del-dir']['en-us'] = "Delete Dir";
 $text['button-del-dir']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['button-del-dir']['ro-ro'] = "";
 $text['button-del-dir']['ru-ru'] = "Удалить Каталог";
 $text['button-del-dir']['sv-se'] = "Ta Bort Mapp";
 $text['button-del-dir']['uk-ua'] = "";
+$text['button-del-dir']['vi'] = "Xóa thư mục";
 
 $text['message-error']['en-us'] = "Error!!";
 $text['message-error']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['message-error']['ro-ro'] = "";
 $text['message-error']['ru-ru'] = "Ошибка!!";
 $text['message-error']['sv-se'] = "Fel!!";
 $text['message-error']['uk-ua'] = "";
+$text['message-error']['vi'] = "Lỗi!!";
 
 $text['label-folder-name']['en-us'] = "Folder Name:";
 $text['label-folder-name']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['label-folder-name']['ro-ro'] = "";
 $text['label-folder-name']['ru-ru'] = "Имя Каталога";
 $text['label-folder-name']['sv-se'] = "Katalog Namn:";
 $text['label-folder-name']['uk-ua'] = "";
+$text['label-folder-name']['vi'] = "Tên thư mục:";
 
 $text['button-new-folder']['en-us'] = "New Folder";
 $text['button-new-folder']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['button-new-folder']['ro-ro'] = "";
 $text['button-new-folder']['ru-ru'] = "Новый Каталогr";
 $text['button-new-folder']['sv-se'] = "Ny Mapp";
 $text['button-new-folder']['uk-ua'] = "";
+$text['button-new-folder']['vi'] = "Thư mục mới";
 
 $text['button-delete-this']['en-us'] = "Are you sure want to delete this?";
 $text['button-delete-this']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['button-delete-this']['ro-ro'] = "";
 $text['button-delete-this']['ru-ru'] = "Вы действительно хотите удалить это?";
 $text['button-delete-this']['sv-se'] = "Vill du verkligen ta bort det här?";
 $text['button-delete-this']['uk-ua'] = "";
+$text['button-delete-this']['vi'] = "Bạn có chắc chắn muốn xóa cái này?";
 
 $text['label-file']['en-us'] = "File:";
 $text['label-file']['ar-eg'] = "";
@@ -640,5 +671,6 @@ $text['label-file']['ro-ro'] = "";
 $text['label-file']['ru-ru'] = "Файл:";
 $text['label-file']['sv-se'] = "Fil:";
 $text['label-file']['uk-ua'] = "";
+$text['label-file']['vi'] = "Tệp tin:";
 
 ?>

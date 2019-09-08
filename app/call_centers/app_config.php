@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Hàng chờ để quản lý các cuộc gọi hướng vào và định tuyến các cuộc gọi đó đến các agent có sẵn.";
+		
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";
@@ -65,6 +66,7 @@
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "call_center_agent_view";
 		$apps[$x]['permissions'][$y]['menu']['uuid'] = "597c483a-51a9-f95a-8d54-ea7d87ada2b8";
+		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
@@ -82,6 +84,7 @@
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "call_center_tier_view";
 		$apps[$x]['permissions'][$y]['menu']['uuid'] = "6c072b29-5b6c-49fc-008e-95e24c77de99";
+		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
@@ -114,6 +117,8 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
+		$apps[$x]['permissions'][$y]['name'] = "call_center_wallboard";
+		//$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 
 	//default settings
 		$y = 0;
@@ -140,9 +145,6 @@
 		$apps[$x]['default_settings'][$y]['default_setting_value'] = "1";
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${domain_name}";
 
 	//schema details
 		$y=0;
@@ -288,10 +290,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "queue_extension";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "queue_greeting";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Select the greeting.";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "queue_strategy";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";

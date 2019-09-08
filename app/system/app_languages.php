@@ -20,6 +20,7 @@ $text['title-sys-status']['ro-ro'] = "";
 $text['title-sys-status']['ru-ru'] = "Статус Системы";
 $text['title-sys-status']['sv-se'] = "System Status";
 $text['title-sys-status']['uk-ua'] = "Стан системи ";
+$text['title-sys-status']['vi'] = "Trạng thái hệ thống";
 
 $text['title-sys-info']['en-us'] = "System Information";
 $text['title-sys-info']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-sys-info']['ro-ro'] = "";
 $text['title-sys-info']['ru-ru'] = "Системная информация";
 $text['title-sys-info']['sv-se'] = "System Information";
 $text['title-sys-info']['uk-ua'] = "Інформація про систему";
+$text['title-sys-info']['vi'] = "Hệ thống thông tin";
 
 $text['title-os-info']['en-us'] = "Operating System Information";
 $text['title-os-info']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-os-info']['ro-ro'] = "";
 $text['title-os-info']['ru-ru'] = "Информация о операционной системе";
 $text['title-os-info']['sv-se'] = "Operativsystem Systeminformation";
 $text['title-os-info']['uk-ua'] = "Інформація про Операційна система ";
+$text['title-os-info']['vi'] = "Thông tin hệ điều hành";
 
 $text['title-memcache']['en-us'] = "Memcache Information";
 $text['title-memcache']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-memcache']['ro-ro'] = "";
 $text['title-memcache']['ru-ru'] = "Информация о кеш памяти";
 $text['title-memcache']['sv-se'] = "Memcache Information ";
 $text['title-memcache']['uk-ua'] = "Інформація про кеш-пам'ять ";
+$text['title-memcache']['vi'] = "Thông tin Memcache";
 
 $text['title-mem']['en-us'] = "Memory Information";
 $text['title-mem']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-mem']['ro-ro'] = "";
 $text['title-mem']['ru-ru'] = "Информация о памяти";
 $text['title-mem']['sv-se'] = "Minnes Information";
 $text['title-mem']['uk-ua'] = "Інформація про пам'ять ";
+$text['title-mem']['vi'] = "Thông tin bộ nhớ";
 
 $text['title-drive']['en-us'] = "Drive Information";
 $text['title-drive']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['title-drive']['ro-ro'] = "";
 $text['title-drive']['ru-ru'] = "Сведения о дисках";
 $text['title-drive']['sv-se'] = "Enhetsinformation";
 $text['title-drive']['uk-ua'] = "Інформація про привід ";
+$text['title-drive']['vi'] = "Thông tin ổ đĩa";
 
 $text['title-cpu']['en-us'] = "CPU Information";
 $text['title-cpu']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['title-cpu']['ro-ro'] = "";
 $text['title-cpu']['ru-ru'] = "Информация о процессоре";
 $text['title-cpu']['sv-se'] = "CPU Information";
 $text['title-cpu']['uk-ua'] = "Інформація про процесор";
+$text['title-cpu']['vi'] = "Thông tin CPU";
 
 $text['message-unavailable']['en-us'] = "Unavailable";
 $text['message-unavailable']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['message-unavailable']['ro-ro'] = "";
 $text['message-unavailable']['ru-ru'] = "Недоступен";
 $text['message-unavailable']['sv-se'] = "Otillgänglig";
 $text['message-unavailable']['uk-ua'] = "Недоступний ";
+$text['message-unavailable']['vi'] = "Không có sẵn";
 
 $text['label-os']['en-us'] = "Operating System";
 $text['label-os']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-os']['ro-ro'] = "";
 $text['label-os']['ru-ru'] = "Операционная система";
 $text['label-os']['sv-se'] = "Operativsystem";
 $text['label-os']['uk-ua'] = "Операційна система";
+$text['label-os']['vi'] = "Hệ điều hành";
 
 $text['label-kernel']['en-us'] = "Kernel";
 $text['label-kernel']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['label-version']['ro-ro'] = "";
 $text['label-version']['ru-ru'] = "Версия";
 $text['label-version']['sv-se'] = "Version";
 $text['label-version']['uk-ua'] = "версія";
+$text['label-version']['vi'] = "Phiên bản";
 
 $text['label-path']['en-us'] = "Project Path";
 $text['label-path']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-path']['ro-ro'] = "";
 $text['label-path']['ru-ru'] = "Путь к проекту";
 $text['label-path']['sv-se'] = "Projekt Path";
 $text['label-path']['uk-ua'] = "шлях проекту";
+$text['label-path']['vi'] = "Đường dẫn dự án";
 
 $text['label-git_info']['en-us'] = "Git Information";
 $text['label-git_info']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['label-git_info']['ro-ro'] = "";
 $text['label-git_info']['ru-ru'] = "Информация о Git";
 $text['label-git_info']['sv-se'] = "Git Information";
 $text['label-git_info']['uk-ua'] = "Гіт інформація";
+$text['label-git_info']['vi'] = "Thông tin Git";
 
 $text['label-git_corrupted']['en-us'] = "Git data is corrupt";
 $text['label-git_corrupted']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['label-git_corrupted']['ro-ro'] = "";
 $text['label-git_corrupted']['ru-ru'] = "Git Данные повреждены";
 $text['label-git_corrupted']['sv-se'] = "Git data är korrupt";
 $text['label-git_corrupted']['uk-ua'] = "Гіт дані пошкоджені";
+$text['label-git_corrupted']['vi'] = "Dữ liệu Git bị hỏng";
 
 $text['label-switch']['en-us'] = "Switch";
 $text['label-switch']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['label-switch']['ro-ro'] = "";
 $text['label-switch']['ru-ru'] = "FreeSwitch";
 $text['label-switch']['sv-se'] = "Switch";
 $text['label-switch']['uk-ua'] = "перемикач";
+$text['label-switch']['vi'] = "Chuyển đổi";
 
 $text['label-git_branch']['en-us'] = "Branch";
 $text['label-git_branch']['ar-eg'] = "";
@@ -320,6 +334,7 @@ $text['label-git_branch']['ro-ro'] = "";
 $text['label-git_branch']['ru-ru'] = "Ветка";
 $text['label-git_branch']['sv-se'] = "Branch";
 $text['label-git_branch']['uk-ua'] = "філія";
+$text['label-git_branch']['vi'] = "Chi nhánh";
 
 $text['label-git_commit']['en-us'] = "Commit";
 $text['label-git_commit']['ar-eg'] = "";
@@ -340,6 +355,7 @@ $text['label-git_commit']['ro-ro'] = "";
 $text['label-git_commit']['ru-ru'] = "Фиксация";
 $text['label-git_commit']['sv-se'] = "Commit";
 $text['label-git_commit']['uk-ua'] = "здійснити";
+$text['label-git_commit']['vi'] = "Cam kết";
 
 $text['label-git_origin']['en-us'] = "Origin";
 $text['label-git_origin']['ar-eg'] = "";
@@ -360,6 +376,7 @@ $text['label-git_origin']['ro-ro'] = "";
 $text['label-git_origin']['ru-ru'] = "Происхождение";
 $text['label-git_origin']['sv-se'] = "Ursprung";
 $text['label-git_origin']['uk-ua'] = "походження";
+$text['label-git_origin']['vi'] = "Nguồn gốc";
 
 $text['label-git_status']['en-us'] = "Status";
 $text['label-git_status']['ar-eg'] = "";
@@ -380,6 +397,7 @@ $text['label-git_status']['ro-ro'] = "";
 $text['label-git_status']['ru-ru'] = "Статус";
 $text['label-git_status']['sv-se'] = "Status";
 $text['label-git_status']['uk-ua'] = "Статус";
+$text['label-git_status']['vi'] = "Trạng thái";
 
 $text['label-memcache_status']['en-us'] = "Memcache Status";
 $text['label-memcache_status']['ar-eg'] = "";
@@ -400,6 +418,7 @@ $text['label-memcache_status']['ro-ro'] = "";
 $text['label-memcache_status']['ru-ru'] = "Статус кеш памяти";
 $text['label-memcache_status']['sv-se'] = "Memcache Status ";
 $text['label-memcache_status']['uk-ua'] = "Стан кеш-пам'яті";
+$text['label-memcache_status']['vi'] = "Trạng thái Memcache";
 
 $text['label-mem']['en-us'] = "Memory Status";
 $text['label-mem']['ar-eg'] = "";

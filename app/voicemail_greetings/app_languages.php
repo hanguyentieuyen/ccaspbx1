@@ -20,6 +20,7 @@ $text['title']['ro-ro'] = "";
 $text['title']['ru-ru'] = "";
 $text['title']['sv-se'] = "Röstbrevlåda Hälsningar";
 $text['title']['uk-ua'] = "Привітання";
+$text['title']['vi'] = "Thư thoại chào";
 
 $text['table-size']['en-us'] = "Size";
 $text['table-size']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['table-size']['ro-ro'] = "";
 $text['table-size']['ru-ru'] = "";
 $text['table-size']['sv-se'] = "Storlek";
 $text['table-size']['uk-ua'] = "Розмір";
+$text['table-size']['vi'] = "Kích cỡ";
 
 $text['table-number']['en-us'] = "#";
 $text['table-number']['ar-eg'] = "";
@@ -80,6 +82,7 @@ $text['table-name']['ro-ro'] = "";
 $text['table-name']['ru-ru'] = "";
 $text['table-name']['sv-se'] = "Namn";
 $text['table-name']['uk-ua'] = "Назва";
+$text['table-name']['vi'] = "Tên";
 
 $text['table-filename']['en-us'] = "File Name";
 $text['table-filename']['ar-eg'] = "";
@@ -100,6 +103,7 @@ $text['table-filename']['ro-ro'] = "";
 $text['table-filename']['ru-ru'] = "";
 $text['table-filename']['sv-se'] = "Filnamn";
 $text['table-filename']['uk-ua'] = "ім'я Файлу";
+$text['table-filename']['vi'] = "Tên file";
 
 $text['table-download']['en-us'] = "Download";
 $text['table-download']['ar-eg'] = "";
@@ -120,6 +124,7 @@ $text['table-download']['ro-ro'] = "";
 $text['table-download']['ru-ru'] = "";
 $text['table-download']['sv-se'] = "Ladda Ned";
 $text['table-download']['uk-ua'] = "Скачати";
+$text['table-download']['vi'] = "Tải";
 
 $text['table-description']['en-us'] = "Description";
 $text['table-description']['ar-eg'] = "";
@@ -140,6 +145,7 @@ $text['table-description']['ro-ro'] = "";
 $text['table-description']['ru-ru'] = "";
 $text['table-description']['sv-se'] = "Beskrivning";
 $text['table-description']['uk-ua'] = "Опис";
+$text['table-description']['vi'] = "Mô tả";
 
 $text['table-choose']['en-us'] = "Choose";
 $text['table-choose']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['table-choose']['ro-ro'] = "";
 $text['table-choose']['ru-ru'] = "";
 $text['table-choose']['sv-se'] = "Välj";
 $text['table-choose']['uk-ua'] = "Вибрати";
+$text['table-choose']['vi'] = "Chọn";
 
 $text['message-uploaded']['en-us'] = "Upload Complete";
 $text['message-uploaded']['ar-eg'] = "";
@@ -180,6 +187,7 @@ $text['message-uploaded']['ro-ro'] = "";
 $text['message-uploaded']['ru-ru'] = "";
 $text['message-uploaded']['sv-se'] = "Uppladdning Klar";
 $text['message-uploaded']['uk-ua'] = "Завантажено";
+$text['message-uploaded']['vi'] = "Tải lên thành công";
 
 $text['message-unsupported_file_type']['en-us'] = "Unsupported File Type";
 $text['message-unsupported_file_type']['ar-eg'] = "";
@@ -200,6 +208,7 @@ $text['message-unsupported_file_type']['ro-ro'] = "";
 $text['message-unsupported_file_type']['ru-ru'] = "";
 $text['message-unsupported_file_type']['sv-se'] = "Filtypen Supporteras Inte";
 $text['message-unsupported_file_type']['uk-ua'] = "Тип файлу не підтримується";
+$text['message-unsupported_file_type']['vi'] = "Loại tập tin không được hỗ trợ";
 
 $text['message-greeting_selected']['en-us'] = "Greeting Selected";
 $text['message-greeting_selected']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['message-greeting_selected']['ro-ro'] = "";
 $text['message-greeting_selected']['ru-ru'] = "";
 $text['message-greeting_selected']['sv-se'] = "Hälsning Vald";
 $text['message-greeting_selected']['uk-ua'] = "привітання Вибрані";
+$text['message-greeting_selected']['vi'] = "Câu chào được chọn";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-select_a_file']['en-us'] = "Select a file...";
 $text['label-select_a_file']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['label-select_a_file']['ro-ro'] = "";
 $text['label-select_a_file']['ru-ru'] = "";
 $text['label-select_a_file']['sv-se'] = "Välj en fil ...";
 $text['label-select_a_file']['uk-ua'] = "Виберіть файл ...";
+$text['label-select_a_file']['vi'] = "Chọn 1 file...";
 
 $text['label-play']['en-us'] = "Play";
 $text['label-play']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['label-play']['ro-ro'] = "";
 $text['label-play']['ru-ru'] = "";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
+$text['label-play']['vi'] = "Hoạt động";
 
 $text['label-pause']['en-us'] = "Pause";
 $text['label-pause']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['label-pause']['ro-ro'] = "";
 $text['label-pause']['ru-ru'] = "";
 $text['label-pause']['sv-se'] = "Pausa";
 $text['label-pause']['uk-ua'] = "Призупинити";
+$text['label-pause']['vi'] = "Tạm dừng";
 
 $text['label-greeting']['en-us'] = "Greeting";
 $text['label-greeting']['ar-eg'] = "";
@@ -320,6 +334,7 @@ $text['label-greeting']['ro-ro'] = "";
 $text['label-greeting']['ru-ru'] = "";
 $text['label-greeting']['sv-se'] = "Hälsning";
 $text['label-greeting']['uk-ua'] = "привітання";
+$text['label-greeting']['vi'] = "Câu chào";
 
 $text['label-filename']['en-us'] = "File Name";
 $text['label-filename']['ar-eg'] = "";
@@ -340,6 +355,7 @@ $text['label-filename']['ro-ro'] = "";
 $text['label-filename']['ru-ru'] = "";
 $text['label-filename']['sv-se'] = "Filnamn";
 $text['label-filename']['uk-ua'] = "ім'я Файлу";
+$text['label-filename']['vi'] = "Tên file";
 
 $text['label-edit']['en-us'] = "Edit Greeting";
 $text['label-edit']['ar-eg'] = "";
@@ -360,6 +376,7 @@ $text['label-edit']['ro-ro'] = "";
 $text['label-edit']['ru-ru'] = "";
 $text['label-edit']['sv-se'] = "Ändra Hälsning";
 $text['label-edit']['uk-ua'] = "Редагувати";
+$text['label-edit']['vi'] = "Chỉnh sửa lời chào";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -380,6 +397,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "Завантажини";
+$text['label-download']['vi'] = "Tải";
 
 $text['label-add']['en-us'] = "Add Greeting";
 $text['label-add']['ar-eg'] = "";
@@ -400,6 +418,7 @@ $text['label-add']['ro-ro'] = "";
 $text['label-add']['ru-ru'] = "";
 $text['label-add']['sv-se'] = "Lägg Till Hälsning";
 $text['label-add']['uk-ua'] = "Додати привітання";
+$text['label-add']['vi'] = "Thêm lời chào";
 
 $text['description-name']['en-us'] = "A name for the greeting (not parsed).";
 $text['description-name']['ar-eg'] = "";
@@ -420,6 +439,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "";
 $text['description-name']['sv-se'] = "Ett namn för hälsningen.";
 $text['description-name']['uk-ua'] = "Введіть назву привітання";
+$text['description-name']['vi'] = "Tên cho câu chào (không được phân tích cú pháp).";
 
 $text['description-info']['en-us'] = "You may enter a description here for your reference (not parsed).";
 $text['description-info']['ar-eg'] = "";
@@ -440,6 +460,7 @@ $text['description-info']['ro-ro'] = "";
 $text['description-info']['ru-ru'] = "";
 $text['description-info']['sv-se'] = "Du kan ange en beskrivning här som din egna referens.";
 $text['description-info']['uk-ua'] = "Введіть опис";
+$text['description-info']['vi'] = "Bạn có thể nhập một mô tả ở đây để bạn tham khảo (không được phân tích cú pháp).";
 
 $text['description']['en-us'] = "Select the active greeting message to play for extension:";
 $text['description']['ar-eg'] = "";
@@ -460,6 +481,7 @@ $text['description']['ro-ro'] = "";
 $text['description']['ru-ru'] = "";
 $text['description']['sv-se'] = "Välj hälsning att som skall användas för anknytning:";
 $text['description']['uk-ua'] = "Виберіть активне привітання для розширення";
+$text['description']['vi'] = "Chọn tin nhắn lời chào hoạt động cho máy nhánh:";
 
 $text['confirm-name']['en-us'] = "Please provide: Greeting Name";
 $text['confirm-name']['ar-eg'] = "";
@@ -480,6 +502,7 @@ $text['confirm-name']['ro-ro'] = "";
 $text['confirm-name']['ru-ru'] = "";
 $text['confirm-name']['sv-se'] = "Var god ange: Hälsningsnamn";
 $text['confirm-name']['uk-ua'] = "Введіть назву привітання";
+$text['confirm-name']['vi'] = "Vui lòng cung cấp: Tên lời chào";
 
 $text['confirm-filename']['en-us'] = "Please provide: Greeting Filename";
 $text['confirm-filename']['ar-eg'] = "";
@@ -500,5 +523,5 @@ $text['confirm-filename']['ro-ro'] = "";
 $text['confirm-filename']['ru-ru'] = "";
 $text['confirm-filename']['sv-se'] = "Var god ange: Hälsnings Filnamn";
 $text['confirm-filename']['uk-ua'] = "Будь ласка, надайте: Привітання файлу";
-
+$text['confirm-filename']['vi'] = "Vui lòng cung cấp: Tên tập tin câu chào";
 ?>

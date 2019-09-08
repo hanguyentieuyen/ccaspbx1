@@ -20,6 +20,7 @@ $text['title-music_on_hold_settings']['ro-ro'] = "";
 $text['title-music_on_hold_settings']['ru-ru'] = "Музыка на удержание параметры";
 $text['title-music_on_hold_settings']['sv-se'] = "Väntmusik inställningar";
 $text['title-music_on_hold_settings']['uk-ua'] = "Музика на утриманні настройки";
+$text['title-music_on_hold_settings']['vi'] = "Cài đặt nhạc chờ";
 
 $text['title-music_on_hold']['en-us'] = "Music on Hold";
 $text['title-music_on_hold']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-music_on_hold']['ro-ro'] = "";
 $text['title-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['title-music_on_hold']['sv-se'] = "Väntmusik";
 $text['title-music_on_hold']['uk-ua'] = "Музика на утриманні";
+$text['title-music_on_hold']['vi'] = "Nhạc chờ";
 
 $text['label-others']['en-us'] = "Others";
 $text['label-others']['ar-eg'] = "آخرون";
@@ -60,6 +62,7 @@ $text['label-others']['ro-ro'] = "";
 $text['label-others']['ru-ru'] = "другие";
 $text['label-others']['sv-se'] = "Andra";
 $text['label-others']['uk-ua'] = "інші";
+$text['label-others']['vi'] = "Khác";
 
 $text['option-local']['en-us'] = "Local";
 $text['option-local']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['option-local']['ro-ro'] = "";
 $text['option-local']['ru-ru'] = "Местный";
 $text['option-local']['sv-se'] = "Lokal";
 $text['option-local']['uk-ua'] = "місцевий";
+$text['option-local']['vi'] = "Nội bộ";
 
 $text['option-global']['en-us'] = "Global";
 $text['option-global']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['option-global']['ro-ro'] = "";
 $text['option-global']['ru-ru'] = "Глобальный";
 $text['option-global']['sv-se'] = "Global";
 $text['option-global']['uk-ua'] = "Глобальний";
+$text['option-global']['vi'] = "Toàn bộ";
 
 $text['option-default']['en-us'] = "Default";
 $text['option-default']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['option-default']['ro-ro'] = "";
 $text['option-default']['ru-ru'] = "По умолчанию";
 $text['option-default']['sv-se'] = "Standard";
 $text['option-default']['uk-ua'] = "Типово";
+$text['option-default']['vi'] = "Mặc định";
 
 $text['message-upload_completed']['en-us'] = "Upload Completed";
 $text['message-upload_completed']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['message-upload_completed']['ro-ro'] = "";
 $text['message-upload_completed']['ru-ru'] = "Загрузка завершена";
 $text['message-upload_completed']['sv-se'] = "Ladda Avslutat";
 $text['message-upload_completed']['uk-ua'] = "Завантажено";
+$text['message-upload_completed']['vi'] = "Cập nhật thành công";
 
 $text['message-unsupported_file_type']['en-us'] = "Unsupported File Type";
 $text['message-unsupported_file_type']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['message-unsupported_file_type']['ro-ro'] = "";
 $text['message-unsupported_file_type']['ru-ru'] = "Тип файла не поддерживается";
 $text['message-unsupported_file_type']['sv-se'] = "Inte stöds filtyp";
 $text['message-unsupported_file_type']['uk-ua'] = "Тип файлу не підтримується";
+$text['message-unsupported_file_type']['vi'] = "Không hỗ trợ loại file này";
 
 $text['message-nofiles']['en-us'] = "No files found.";
 $text['message-nofiles']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['message-nofiles']['ro-ro'] = "";
 $text['message-nofiles']['ru-ru'] = "Файлы не найдены";
 $text['message-nofiles']['sv-se'] = "Ingen ljudfil.";
 $text['message-nofiles']['uk-ua'] = "Файлів не знайдено";
+$text['message-nofiles']['vi'] = "Không tìm thấy file.";
 
 $text['message-missing_required_fields']['en-us'] = "Missing Required Fields";
 $text['message-missing_required_fields']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['message-missing_required_fields']['ro-ro'] = "";
 $text['message-missing_required_fields']['ru-ru'] = "Отсутствуют обязательные поля";
 $text['message-missing_required_fields']['sv-se'] = "Saknas Obligatoriska fält";
 $text['message-missing_required_fields']['uk-ua'] = "Відсутні поля обов'язкові для заповнення";
+$text['message-missing_required_fields']['vi'] = "Thiếu các trường bắt buộc";
 
 $text['message-event-socket']['en-us'] = "Connection to Event Socket failed.";
 $text['message-event-socket']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['message-event-socket']['ro-ro'] = "";
 $text['message-event-socket']['ru-ru'] = "Подключение к сокету событий не удалось.";
 $text['message-event-socket']['sv-se'] = "Kontakt till 'Event Socket' misslyckades.";
 $text['message-event-socket']['uk-ua'] = "Помилка підключення до сокета подій";
+$text['message-event-socket']['vi'] = "Không thể kết nối tới Event Socket.";
 
 $text['message-click-select']['en-us'] = "Double-Click to Select an Existing Category";
 $text['message-click-select']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['message-click-select']['ro-ro'] = "";
 $text['message-click-select']['ru-ru'] = "Дважды щелкните, чтобы выбрать существующую категорию";
 $text['message-click-select']['sv-se'] = "Dubbelklicka för att välja en existerande kategori.";
 $text['message-click-select']['uk-ua'] = "Двічі клацніть, щоб вибрати існуючу категорію";
+$text['message-click-select']['vi'] = "Nhấp đúp để chọn danh mục hiện có";
 
 $text['label-uploaded']['en-us'] = "Uploaded";
 $text['label-uploaded']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-uploaded']['ro-ro'] = "";
 $text['label-uploaded']['ru-ru'] = "Загружено";
 $text['label-uploaded']['sv-se'] = "Uppladdad";
 $text['label-uploaded']['uk-ua'] = "Завантажено";
+$text['label-uploaded']['vi'] = "Tải lên";
 
 $text['label-upload-music_on_hold']['en-us'] = "Upload Music";
 $text['label-upload-music_on_hold']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-upload-music_on_hold']['ro-ro'] = "";
 $text['label-upload-music_on_hold']['ru-ru'] = "Загрузить музыку";
 $text['label-upload-music_on_hold']['sv-se'] = "Ladda Upp Musik";
 $text['label-upload-music_on_hold']['uk-ua'] = "Завантажити мелодію";
+$text['label-upload-music_on_hold']['vi'] = "Tải nhạc lên";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Инструменты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Інструменти";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-stop']['en-us'] = "Stop";
 $text['label-stop']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-stop']['ro-ro'] = "";
 $text['label-stop']['ru-ru'] = "Стоп";
 $text['label-stop']['sv-se'] = "Sluta";
 $text['label-stop']['uk-ua'] = "СТОП";
+$text['label-stop']['vi'] = "Dừng lại";
 
 $text['label-stereo']['en-us'] = "Stereo";
 $text['label-stereo']['ar-eg'] = "";
@@ -360,6 +376,7 @@ $text['label-shuffle']['ro-ro'] = "";
 $text['label-shuffle']['ru-ru'] = "Перемешать";
 $text['label-shuffle']['sv-se'] = "Blanda";
 $text['label-shuffle']['uk-ua'] = "тасування";
+$text['label-shuffle']['en-us'] = "Shuffle";
 
 $text['label-select_a_file']['en-us'] = "Select a file...";
 $text['label-select_a_file']['ar-eg'] = "";
@@ -380,6 +397,7 @@ $text['label-select_a_file']['ro-ro'] = "";
 $text['label-select_a_file']['ru-ru'] = "Виберите файл ...";
 $text['label-select_a_file']['sv-se'] = "Välj en fil ...";
 $text['label-select_a_file']['uk-ua'] = "Виберіть файл ...";
+$text['label-select_a_file']['vi'] = "Chọn 1 file...";
 
 $text['label-rate']['en-us'] = "Sampling";
 $text['label-rate']['ar-eg'] = "";
@@ -400,6 +418,7 @@ $text['label-rate']['ro-ro'] = "";
 $text['label-rate']['ru-ru'] = "Частота семплирования";
 $text['label-rate']['sv-se'] = "Sampling";
 $text['label-rate']['uk-ua'] = "Якість";
+$text['label-rate']['vi'] = "Lấy mẫu";
 
 $text['label-play']['en-us'] = "Play";
 $text['label-play']['ar-eg'] = "";
@@ -420,6 +439,7 @@ $text['label-play']['ro-ro'] = "";
 $text['label-play']['ru-ru'] = "Проиграть";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
+$text['label-play']['vi'] = "Phát";
 
 $text['label-path']['en-us'] = "Path";
 $text['label-path']['ar-eg'] = "";
@@ -440,6 +460,7 @@ $text['label-path']['ro-ro'] = "";
 $text['label-path']['ru-ru'] = "Путь";
 $text['label-path']['sv-se'] = "Väg";
 $text['label-path']['uk-ua'] = "Path";
+$text['label-path']['vi'] = "Đường dẫn";
 
 $text['label-pause']['en-us'] = "Pause";
 $text['label-pause']['ar-eg'] = "";
@@ -460,6 +481,7 @@ $text['label-pause']['ro-ro'] = "";
 $text['label-pause']['ru-ru'] = "Пауза";
 $text['label-pause']['sv-se'] = "Paus";
 $text['label-pause']['uk-ua'] = "Призупинити";
+$text['label-pause']['vi'] = "Tạm dừng";
 
 $text['label-mono']['en-us'] = "Mono";
 $text['label-mono']['ar-eg'] = "";
@@ -500,6 +522,7 @@ $text['label-music_on_hold']['ro-ro'] = "";
 $text['label-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "Музика на утриманні";
+$text['label-music_on_hold']['vi'] = "Nhạc chờ";
 
 $text['label-location']['en-us'] = "Location";
 $text['label-location']['ar-eg'] = "";
@@ -520,6 +543,7 @@ $text['label-location']['ro-ro'] = "";
 $text['label-location']['ru-ru'] = "Место нахождения";
 $text['label-location']['sv-se'] = "Plats";
 $text['label-location']['uk-ua'] = "Розміщення";
+$text['label-location']['vi'] = "Vị trí";
 
 $text['label-interval']['en-us'] = "Interval";
 $text['label-interval']['ar-eg'] = "";
@@ -540,6 +564,7 @@ $text['label-interval']['ro-ro'] = "";
 $text['label-interval']['ru-ru'] = "Интервал";
 $text['label-interval']['sv-se'] = "Intervall";
 $text['label-interval']['uk-ua'] = "Інтервал";
+$text['label-interval']['vi'] = "khoảng thời gian";
 
 $text['label-timer_name']['en-us'] = "Timer Name";
 $text['label-timer_name']['ar-eg'] = "";
@@ -560,6 +585,7 @@ $text['label-timer_name']['ro-ro'] = "";
 $text['label-timer_name']['ru-ru'] = "Имя Таймера";
 $text['label-timer_name']['sv-se'] = "Timer Namn";
 $text['label-timer_name']['uk-ua'] = "";
+$text['label-timer_name']['vi'] = "Tên timer";
 
 $text['label-global']['en-us'] = "Global";
 $text['label-global']['ar-eg'] = "";
@@ -580,6 +606,7 @@ $text['label-global']['ro-ro'] = "";
 $text['label-global']['ru-ru'] = "Глобальный";
 $text['label-global']['sv-se'] = "Global";
 $text['label-global']['uk-ua'] = "Глобальний";
+$text['label-global']['vi'] = "Toàn cầu";
 
 $text['label-file_name']['en-us'] = "File Name";
 $text['label-file_name']['ar-eg'] = "";
@@ -600,6 +627,7 @@ $text['label-file_name']['ro-ro'] = "";
 $text['label-file_name']['ru-ru'] = "Имя Файла";
 $text['label-file_name']['sv-se'] = "Fil-namn";
 $text['label-file_name']['uk-ua'] = "Назва файлу";
+$text['label-file_name']['vi'] = "Tên File";
 
 $text['label-file-size']['en-us'] = "File Size";
 $text['label-file-size']['ar-eg'] = "";
@@ -620,6 +648,7 @@ $text['label-file-size']['ro-ro'] = "";
 $text['label-file-size']['ru-ru'] = "Размер Файла";
 $text['label-file-size']['sv-se'] = "Filstorlek";
 $text['label-file-size']['uk-ua'] = "Розмір файлу";
+$text['label-file-size']['vi'] = "Kích thướcFile";
 
 $text['label-file-path']['en-us'] = "File Path";
 $text['label-file-path']['ar-eg'] = "";
@@ -640,6 +669,7 @@ $text['label-file-path']['ro-ro'] = "";
 $text['label-file-path']['ru-ru'] = "Путь к Файлу";
 $text['label-file-path']['sv-se'] = "Sökväg till fil";
 $text['label-file-path']['uk-ua'] = "Шлях";
+$text['label-file-path']['vi'] = "Đường dẫn file";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -660,6 +690,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "Загрузить";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "Скачати";
+$text['label-download']['vi'] = "Tải xuống";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "النطاق";
@@ -680,6 +711,7 @@ $text['label-domain']['ro-ro'] = "Domeniu";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-delete-category']['en-us'] = "Delete Category";
 $text['label-delete-category']['ar-eg'] = "";
@@ -700,6 +732,7 @@ $text['label-delete-category']['ro-ro'] = "";
 $text['label-delete-category']['ru-ru'] = "Удалить категорию";
 $text['label-delete-category']['sv-se'] = "Ta Bort Kategori";
 $text['label-delete-category']['uk-ua'] = "Видалити категорію";
+$text['label-delete-category']['vi'] = "Xóa danh mục";
 
 $text['label-default']['en-us'] = "Default";
 $text['label-default']['ar-eg'] = "";
@@ -720,6 +753,7 @@ $text['label-default']['ro-ro'] = "";
 $text['label-default']['ru-ru'] = "По умолчанию";
 $text['label-default']['sv-se'] = "Standard";
 $text['label-default']['uk-ua'] = "Типово";
+$text['label-default']['vi'] = "Mặc định";
 
 $text['label-chime_maximum']['en-us'] = "Chime Maximum";
 $text['label-chime_maximum']['ar-eg'] = "الحد الأقصى الدقات";
@@ -740,6 +774,7 @@ $text['label-chime_maximum']['ro-ro'] = "maxime Chimes";
 $text['label-chime_maximum']['ru-ru'] = "Максимальный перезвон";
 $text['label-chime_maximum']['sv-se'] = "maximala Chimes";
 $text['label-chime_maximum']['uk-ua'] = "максимум куранти";
+$text['label-chime_maximum']['vi'] = "Tối đa Chime";
 
 $text['label-chime_list']['en-us'] = "Chime File";
 $text['label-chime_list']['ar-eg'] = "الملف تتناغم";
@@ -760,8 +795,9 @@ $text['label-chime_list']['ro-ro'] = "Fișier chime";
 $text['label-chime_list']['ru-ru'] = "Файл перезвона";
 $text['label-chime_list']['sv-se'] = "chime File";
 $text['label-chime_list']['uk-ua'] = "передзвін файлу";
+$text['label-chime_list']['vi'] = "File Chime";
 
-$text['label-chime_frequency']['en-us'] = "Chime Frequency";
+$text['label-chime_frequency']['vi'] = "Tần số Chime";
 $text['label-chime_frequency']['ar-eg'] = "تردد الرنين";
 $text['label-chime_frequency']['de-at'] = "Chime Frequenz"; //copied from de-de
 $text['label-chime_frequency']['de-ch'] = "Chime Frequenz"; //copied from de-de
@@ -800,6 +836,7 @@ $text['label-channels']['ro-ro'] = "Canale";
 $text['label-channels']['ru-ru'] = "Каналы";
 $text['label-channels']['sv-se'] = "Kanaler";
 $text['label-channels']['uk-ua'] = "Канали";
+$text['label-channels']['vi'] = "Kênh";
 
 $text['header-music_on_hold_settings']['en-us'] = "Music on Hold Settings";
 $text['header-music_on_hold_settings']['ar-eg'] = "";
@@ -820,6 +857,7 @@ $text['header-music_on_hold_settings']['ro-ro'] = "";
 $text['header-music_on_hold_settings']['ru-ru'] = "Музыка на удержании параметы";
 $text['header-music_on_hold_settings']['sv-se'] = "Väntmusik inställningar";
 $text['header-music_on_hold_settings']['uk-ua'] = "Музика на утриманні настройки";
+$text['header-music_on_hold_settings']['vi'] = "Cài đặ tnhạc chờ";
 
 $text['desc-music_on_hold']['en-us'] = "Music on hold can be in WAV or MP3 format. To play an MP3 file you must have mod_shout enabled on the 'Modules' tab. You can adjust the volume of the MP3 audio from the 'Settings' tab. For best performance upload 16 bit, 8/16/32/48 kHz <i>mono</i> WAV files.";
 $text['desc-music_on_hold']['ar-eg'] = "";
@@ -840,6 +878,7 @@ $text['desc-music_on_hold']['ro-ro'] = "";
 $text['desc-music_on_hold']['ru-ru'] = "Музыка на удержании может быть в формате WAV или MP3. Чтобы воспроизвести файл MP3, на вкладке «Модули» необходимо включить mod_shout. Вы можете отрегулировать громкость звука MP3 на вкладке «Настройки». Для лучшей производительности загружайте 16-битные, 8/16/32/48 кГц <i> моно </ i> файлы WAV.";
 $text['desc-music_on_hold']['sv-se'] = "Väntmusik kan vara i formaten WAV eller MP3. För att spela upp en MP3 fil så måste 'mod_shout' vara aktiverat i 'moduler' fliken. Du kan justera volymen på MP3 filerna genom inställnings fliken. För bästa prestanda, ladda upp 16 bit, 8/16/32/48 kHz mono WAV filer.";
 $text['desc-music_on_hold']['uk-ua'] = "Музика на утриманні може бути в WAV або MP3 формат. Для відтворення файлів MP3 ви повинні включити mod_shout на вкладці 'модулі'. Ви можете налаштувати гучність MP3-аудіо на вкладці «Налаштування». Для кращої продуктивності завантаження 16 біт, моно 8/16/32/48 кГц WAV файлів.";
+$text['desc-music_on_hold']['vi'] = "Nhạc chờ có thể ở định dạng WAV hoặc MP3. Để phát tệp MP3, bạn phải bật mod_shout trên tab 'Mô-đun'. Bạn có thể điều chỉnh âm lượng của âm thanh MP3 từ tab 'Cài đặt'. Để có hiệu suất tốt nhất, hãy tải lên 16 bit, 8/16/32/48 kHz <i> mono </ i> tệp WAV.";
 
 $text['button-upload']['en-us'] = "Upload";
 $text['button-upload']['ar-eg'] = "";
@@ -860,6 +899,7 @@ $text['button-upload']['ro-ro'] = "";
 $text['button-upload']['ru-ru'] = "Загрузить";
 $text['button-upload']['sv-se'] = "Ladda Upp";
 $text['button-upload']['uk-ua'] = "Завантажити";
+$text['button-upload']['vi'] = "Tải lên";
 
 $text['button-clear']['en-us'] = "Clear";
 $text['button-clear']['ar-eg'] = "";
@@ -880,5 +920,5 @@ $text['button-clear']['ro-ro'] = "";
 $text['button-clear']['ru-ru'] = "Очистить";
 $text['button-clear']['sv-se'] = "Rensa";
 $text['button-clear']['uk-ua'] = "Очистити";
-
+$text['button-clear']['vi'] = "Xóa";
 ?>

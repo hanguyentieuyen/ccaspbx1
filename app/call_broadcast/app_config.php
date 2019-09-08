@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Lên lịch để thực hiện ngay nhiều cuộc gọi đến máy nhánh, Menu IVR, Phòng hội nghị hoặc bất kỳ số nào khác.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "call_broadcast_view";

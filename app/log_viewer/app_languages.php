@@ -20,6 +20,7 @@ $text['label-syntax']['ro-ro'] = "";
 $text['label-syntax']['ru-ru'] = "Выделение Синтаксиса";
 $text['label-syntax']['sv-se'] = "Syntax Markerad";
 $text['label-syntax']['uk-ua'] = "Підсвічування синтаксису";
+$text['label-syntax']['vi'] = "Cú pháp nổi bật";
 
 $text['label-sort']['en-us'] = "Sort Descending";
 $text['label-sort']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['label-sort']['ro-ro'] = "";
 $text['label-sort']['ru-ru'] = "Сортировка по убыванию";
 $text['label-sort']['sv-se'] = "Sortera Fallande";
 $text['label-sort']['uk-ua'] = "Сортувати за спаданням";
+$text['label-sort']['vi'] = "Sắp xếp giảm dần";
 
 $text['label-open_file']['en-us'] = "opening entire file";
 $text['label-open_file']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-open_file']['ro-ro'] = "";
 $text['label-open_file']['ru-ru'] = "Открытие всего файла";
 $text['label-open_file']['sv-se'] = "Öppnar hela filen";
 $text['label-open_file']['uk-ua'] = "відкрито весь файл";
+$text['label-open_file']['vi'] = "mở toàn bộ tập tin";
 
 $text['label-open_at']['en-us'] = "opening at";
 $text['label-open_at']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-open_at']['ro-ro'] = "";
 $text['label-open_at']['ru-ru'] = "Открытие на";
 $text['label-open_at']['sv-se'] = "Öppnar vid";
 $text['label-open_at']['uk-ua'] = "відкрито о";
+$text['label-open_at']['vi'] = "mở tại";
 
 $text['label-log_viewer']['en-us'] = "Log Viewer";
 $text['label-log_viewer']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-log_viewer']['ro-ro'] = "";
 $text['label-log_viewer']['ru-ru'] = "Просмотр Логов";
 $text['label-log_viewer']['sv-se'] = "Log Viewer";
 $text['label-log_viewer']['uk-ua'] = "Логи";
+$text['label-log_viewer']['vi'] = "Log Viewer";
 
 $text['label-line_number']['en-us'] = "Show Line Numbers";
 $text['label-line_number']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-line_number']['ro-ro'] = "";
 $text['label-line_number']['ru-ru'] = "Показывать номера строк";
 $text['label-line_number']['sv-se'] = "Visa Linje Nummer";
 $text['label-line_number']['uk-ua'] = "Нумерація рядків";
+$text['label-line_number']['vi'] = "Hiển thị số dòng";
 
 $text['label-size']['en-us'] = "KB";
 $text['label-size']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['label-filter']['ro-ro'] = "";
 $text['label-filter']['ru-ru'] = "Фильтр";
 $text['label-filter']['sv-se'] = "Filter";
 $text['label-filter']['uk-ua'] = "Фільтр";
+$text['label-filter']['vi'] = "Bộ lọc";
 
 $text['label-displaying']['en-us'] = "Displaying the last";
 $text['label-displaying']['ar-eg'] = "";
@@ -180,6 +187,7 @@ $text['label-displaying']['ro-ro'] = "";
 $text['label-displaying']['ru-ru'] = "Отображение последнего";
 $text['label-displaying']['sv-se'] = "Visar den sista";
 $text['label-displaying']['uk-ua'] = "Показувати останні";
+$text['label-displaying']['vi'] = "Hiển thị cuối cùng";
 
 $text['label-bytes']['en-us'] = "bytes";
 $text['label-bytes']['ar-eg'] = "";
@@ -220,6 +228,7 @@ $text['error-open_file']['ro-ro'] = "";
 $text['error-open_file']['ru-ru'] = "Невозможно открыть файл!";
 $text['error-open_file']['sv-se'] = "Kan inte öppna fil!";
 $text['error-open_file']['uk-ua'] = "Неможливо відкрити файл!";
+$text['error-open_file']['vi'] = "Không thể mở tập tin!";
 
 $text['description-filter']['en-us'] = "Filtering the log with the text:";
 $text['description-filter']['ar-eg'] = "";
@@ -240,5 +249,6 @@ $text['description-filter']['ro-ro'] = "";
 $text['description-filter']['ru-ru'] = "Фильтрация журнала с текстом:";
 $text['description-filter']['sv-se'] = "Filtrerar loggen med texten:";
 $text['description-filter']['uk-ua'] = "Фільтрування логів по тексту";
+$text['description-filter']['vi'] = "Lọc log với văn bản:";
 
 ?>

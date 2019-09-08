@@ -60,6 +60,7 @@ $text['select-global']['ro-ro'] = "Global";
 $text['select-global']['ru-ru'] = "Глобальный";
 $text['select-global']['sv-se'] = "Global";
 $text['select-global']['uk-ua'] = "Global";
+$text['select-global']['vi'] = "Toàn cầu";
 
 $text['message-maximum_gateways']['en-us'] = "Maximum Gateways:";
 $text['message-maximum_gateways']['ar-eg'] = "";
@@ -80,6 +81,7 @@ $text['message-maximum_gateways']['ro-ro'] = "Gateways maxime:";
 $text['message-maximum_gateways']['ru-ru'] = "Максимум Шлюзов:";
 $text['message-maximum_gateways']['sv-se'] = "Max antal Gateways:";
 $text['message-maximum_gateways']['uk-ua'] = "Максимальна кількість шлюзів";
+$text['message-maximum_gateways']['vi'] = "Gateways tối đa :";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "اسم المستخدم";
@@ -100,6 +102,7 @@ $text['label-username']['ro-ro'] = "Utilizator";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Tên người dùng";
 
 $text['label-supress_cng']['en-us'] = "Supress CNG";
 $text['label-supress_cng']['ar-eg'] = "";
@@ -120,6 +123,7 @@ $text['label-supress_cng']['ro-ro'] = "";
 $text['label-supress_cng']['ru-ru'] = "Подавление CNG";
 $text['label-supress_cng']['sv-se'] = "Göm CNG";
 $text['label-supress_cng']['uk-ua'] = "Supress CNG";
+$text['label-supress_cng']['vi'] = "Supress CNG";
 
 $text['label-status-stopped']['en-us'] = "Stopped";
 $text['label-status-stopped']['ar-eg'] = "متوقف";
@@ -140,6 +144,7 @@ $text['label-status-stopped']['ro-ro'] = "Oprit";
 $text['label-status-stopped']['ru-ru'] = "Остановлен";
 $text['label-status-stopped']['sv-se'] = "Stoppad";
 $text['label-status-stopped']['uk-ua'] = "Зупинено";
+$text['label-status-stopped']['vi'] = "Đã dừng";
 
 $text['label-status-running']['en-us'] = "Running";
 $text['label-status-running']['ar-eg'] = "فعال";
@@ -160,6 +165,7 @@ $text['label-status-running']['ro-ro'] = "Alergare";
 $text['label-status-running']['ru-ru'] = "Запущено";
 $text['label-status-running']['sv-se'] = "I drift";
 $text['label-status-running']['uk-ua'] = "Запущено";
+$text['label-status-running']['vi'] = "Đang chạy";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "الحالة";
@@ -180,6 +186,7 @@ $text['label-status']['ro-ro'] = "Stare";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-state']['en-us'] = "State";
 $text['label-state']['ar-eg'] = "";
@@ -200,6 +207,7 @@ $text['label-state']['ro-ro'] = "Stat";
 $text['label-state']['ru-ru'] = "Cостояние";
 $text['label-state']['sv-se'] = "Status";
 $text['label-state']['uk-ua'] = "Стан";
+$text['label-state']['vi'] = "Địa chỉ";
 
 $text['label-sip_cid_type']['en-us'] = "Sip CID Type";
 $text['label-sip_cid_type']['ar-eg'] = "";
@@ -220,6 +228,7 @@ $text['label-sip_cid_type']['ro-ro'] = "";
 $text['label-sip_cid_type']['ru-ru'] = "Введите SIP идентификатор (CID) вызывающего абонента";
 $text['label-sip_cid_type']['sv-se'] = "Sip CID Typ";
 $text['label-sip_cid_type']['uk-ua'] = "Sip CID Type";
+$text['label-sip_cid_type']['en-us'] = "Loại Sip CID";
 
 $text['label-retry_seconds']['en-us'] = "Retry Seconds";
 $text['label-retry_seconds']['ar-eg'] = "";
@@ -240,6 +249,7 @@ $text['label-retry_seconds']['ro-ro'] = "reîncerca secunde";
 $text['label-retry_seconds']['ru-ru'] = "Повтор попытки регистрации";
 $text['label-retry_seconds']['sv-se'] = "Retry sekunder";
 $text['label-retry_seconds']['uk-ua'] = "Retry Seconds ";
+$text['label-retry_seconds']['vi'] = "Thử lại";
 
 $text['label-register_transport']['en-us'] = "Register Transport";
 $text['label-register_transport']['ar-eg'] = "";
@@ -260,6 +270,7 @@ $text['label-register_transport']['ro-ro'] = "Inregistrati- Transport";
 $text['label-register_transport']['ru-ru'] = "Регистрация Транспорта";
 $text['label-register_transport']['sv-se'] = "Register Transport";
 $text['label-register_transport']['uk-ua'] = "Транспорт для реєстрації";
+$text['label-register_transport']['vi'] = "Đăng ký vận chuyển";
 
 $text['label-register_proxy']['en-us'] = "Register Proxy";
 $text['label-register_proxy']['ar-eg'] = "";
@@ -280,6 +291,7 @@ $text['label-register_proxy']['ro-ro'] = "Proxy înregistrare în";
 $text['label-register_proxy']['ru-ru'] = "Прокси-сервер регистрации";
 $text['label-register_proxy']['sv-se'] = "Register Proxy";
 $text['label-register_proxy']['uk-ua'] = "Проксі для реєстрації";
+$text['label-register_proxy']['vi'] = "Đăng ký Proxy";
 
 $text['label-register']['en-us'] = "Register";
 $text['label-register']['ar-eg'] = "";
@@ -300,6 +312,7 @@ $text['label-register']['ro-ro'] = "Inregistreaza-te";
 $text['label-register']['ru-ru'] = "Регистрация";
 $text['label-register']['sv-se'] = "Register";
 $text['label-register']['uk-ua'] = "Реєстрація";
+$text['label-register']['vi'] = "Đăng ký";
 
 $text['label-realm']['en-us'] = "Realm";
 $text['label-realm']['ar-eg'] = "";
@@ -320,6 +333,7 @@ $text['label-realm']['ro-ro'] = "domeniu";
 $text['label-realm']['ru-ru'] = "Область";
 $text['label-realm']['sv-se'] = "Realm";
 $text['label-realm']['uk-ua'] = "Realm";
+$text['label-realm']['vi'] = "Realm";
 
 $text['label-proxy']['en-us'] = "Proxy";
 $text['label-proxy']['ar-eg'] = "";
@@ -400,6 +414,7 @@ $text['label-password']['ro-ro'] = "Parolă";
 $text['label-password']['ru-ru'] = "Пароль";
 $text['label-password']['sv-se'] = "Lösenord";
 $text['label-password']['uk-ua'] = "Пароль";
+$text['label-password']['vi'] = "Mật khẩu";
 
 $text['label-outbound_proxy']['en-us'] = "Outbound Proxy";
 $text['label-outbound_proxy']['ar-eg'] = "";
@@ -460,6 +475,7 @@ $text['label-from_user']['ro-ro'] = "de la utilizator";
 $text['label-from_user']['ru-ru'] = "От пользователя";
 $text['label-from_user']['sv-se'] = "From User";
 $text['label-from_user']['uk-ua'] = "Від користувача";
+$text['label-from_user']['vi'] = "Từ người dùng";
 
 $text['label-from_domain']['en-us'] = "From Domain";
 $text['label-from_domain']['ar-eg'] = "";
@@ -480,6 +496,7 @@ $text['label-from_domain']['ro-ro'] = "de la domeniu";
 $text['label-from_domain']['ru-ru'] = "";
 $text['label-from_domain']['sv-se'] = "From Domain";
 $text['label-from_domain']['uk-ua'] = "From Domain";
+$text['label-from_domain']['vi'] = "Từ tên miền";
 
 $text['label-extension_in_contact']['en-us'] = "Extension In Contact";
 $text['label-extension_in_contact']['ar-eg'] = "";
@@ -500,6 +517,7 @@ $text['label-extension_in_contact']['ro-ro'] = "Extensie Contact";
 $text['label-extension_in_contact']['ru-ru'] = "Внутренний нмер для Контакта";
 $text['label-extension_in_contact']['sv-se'] = "Anknytning In Contact";
 $text['label-extension_in_contact']['uk-ua'] = "Розширення у контакта";
+$text['label-extension_in_contact']['vi'] = "Gia hạn liên hệ";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
@@ -520,6 +538,7 @@ $text['label-extension']['ro-ro'] = "Extensie";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-expire_seconds']['en-us'] = "Expire Seconds";
 $text['label-expire_seconds']['ar-eg'] = "";
@@ -540,6 +559,7 @@ $text['label-expire_seconds']['ro-ro'] = "";
 $text['label-expire_seconds']['ru-ru'] = "Время жизни регистрации";
 $text['label-expire_seconds']['sv-se'] = "Utgår Sekunder";
 $text['label-expire_seconds']['uk-ua'] = "Expire Seconds";
+$text['label-expire_seconds']['vi'] = "Giây hết hạn";
 
 $text['label-hostname']['en-us'] = "Hostname";
 $text['label-hostname']['ar-eg'] = "";
@@ -560,6 +580,7 @@ $text['label-hostname']['ro-ro'] = "Hostname";
 $text['label-hostname']['ru-ru'] = "Имя Хоста";
 $text['label-hostname']['sv-se'] = "Hostname";
 $text['label-hostname']['uk-ua'] = "Назва хоста";
+$text['label-hostname']['vi'] = "Tên máy chủ";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "النطاق";
@@ -580,6 +601,7 @@ $text['label-domain']['ro-ro'] = "Domeniu";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-distinct_to']['en-us'] = "Distinct To";
 $text['label-distinct_to']['ar-eg'] = "";
@@ -600,6 +622,7 @@ $text['label-distinct_to']['ro-ro'] = "";
 $text['label-distinct_to']['ru-ru'] = "Отличный";
 $text['label-distinct_to']['sv-se'] = "Distinct To";
 $text['label-distinct_to']['uk-ua'] = "Distinct To";
+$text['label-distinct_to']['vi'] = "Khác biệt với";
 
 $text['label-context']['en-us'] = "Context";
 $text['label-context']['ar-eg'] = "";
@@ -640,6 +663,7 @@ $text['label-codec_prefs']['ro-ro'] = "Preferințe codec";
 $text['label-codec_prefs']['ru-ru'] = "Параметры Кодека";
 $text['label-codec_prefs']['sv-se'] = "Codec Preferences";
 $text['label-codec_prefs']['uk-ua'] = "Codec Preferences";
+$text['label-codec_prefs']['vi'] = "Tùy chọn Codec";
 
 $text['label-channels']['en-us'] = "Channels";
 $text['label-channels']['ar-eg'] = "";
@@ -660,6 +684,7 @@ $text['label-channels']['ro-ro'] = "Canale";
 $text['label-channels']['ru-ru'] = "Каналы";
 $text['label-channels']['sv-se'] = "Kanaler";
 $text['label-channels']['uk-ua'] = "Канали";
+$text['label-channels']['vi'] = "Kênh";
 
 $text['label-caller_id_in_from']['en-us'] = "Caller ID In From";
 $text['label-caller_id_in_from']['ar-eg'] = "";
@@ -680,6 +705,7 @@ $text['label-caller_id_in_from']['ro-ro'] = "";
 $text['label-caller_id_in_from']['ru-ru'] = "Идентификтор (Caller ID) вызывающего абонента";
 $text['label-caller_id_in_from']['sv-se'] = "Caller ID In From";
 $text['label-caller_id_in_from']['uk-ua'] = "Caller ID In From ";
+$text['label-caller_id_in_from']['vi'] = "ID người gọi từ";
 
 $text['label-auth_username']['en-us'] = "Auth Username";
 $text['label-auth_username']['ar-eg'] = "";
@@ -700,6 +726,7 @@ $text['label-auth_username']['ro-ro'] = "autentificare Nume utilizator";
 $text['label-auth_username']['ru-ru'] = "Имя Пользователя для авторизации";
 $text['label-auth_username']['sv-se'] = "Auth Username";
 $text['label-auth_username']['uk-ua'] = "Auth Username ";
+$text['label-auth_username']['vi'] = "Xác thực tên người dùng";
 
 $text['label-action-stop']['en-us'] = "Stop";
 $text['label-action-stop']['ar-eg'] = "تعطيل";
@@ -720,6 +747,7 @@ $text['label-action-stop']['ro-ro'] = "Stop";
 $text['label-action-stop']['ru-ru'] = "Стоп";
 $text['label-action-stop']['sv-se'] = "Stopp";
 $text['label-action-stop']['uk-ua'] = "Зупинити";
+$text['label-action-stop']['vi'] = "Dừng";
 
 $text['label-action-start']['en-us'] = "Start";
 $text['label-action-start']['ar-eg'] = "تشغيل";
@@ -740,6 +768,7 @@ $text['label-action-start']['ro-ro'] = "Start";
 $text['label-action-start']['ru-ru'] = "Старт";
 $text['label-action-start']['sv-se'] = "Start";
 $text['label-action-start']['uk-ua'] = "Запустити";
+$text['label-action-start']['vi'] = "Bắt đầu";
 
 $text['label-action']['en-us'] = "Action";
 $text['label-action']['ar-eg'] = "";
@@ -760,26 +789,7 @@ $text['label-action']['ro-ro'] = "Acțiune";
 $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
-
-$text['label-copy']['en-us'] = "Copy";
-$text['label-copy']['ar-eg'] = "Copy";
-$text['label-copy']['de-at'] = "Copy";
-$text['label-copy']['de-ch'] = "Copy";
-$text['label-copy']['de-de'] = "Copy";
-$text['label-copy']['es-cl'] = "Copy";
-$text['label-copy']['es-mx'] = "Copy";
-$text['label-copy']['fr-ca'] = "Copy";
-$text['label-copy']['fr-fr'] = "Copy";
-$text['label-copy']['he-il'] = "Copy";
-$text['label-copy']['it-it'] = "Copy";
-$text['label-copy']['nl-nl'] = "Copy";
-$text['label-copy']['pl-pl'] = "Copy";
-$text['label-copy']['pt-br'] = "Copy";
-$text['label-copy']['pt-pt'] = "Copy";
-$text['label-copy']['ro-ro'] = "Copy";
-$text['label-copy']['ru-ru'] = "Copy";
-$text['label-copy']['sv-se'] = "Copy";
-$text['label-copy']['uk-ua'] = "Copy";
+$text['label-action']['vi'] = "Hoạt động";
 
 $text['description-username']['en-us'] = "Enter the username here.";
 $text['description-username']['ar-eg'] = "أدخل اسم المستخدم هنا";
@@ -800,6 +810,7 @@ $text['description-username']['ro-ro'] = "Introduceți numele de utilizator aici
 $text['description-username']['ru-ru'] = "Введите здесь имя пользователя.";
 $text['description-username']['sv-se'] = "Ange användarnamn här.";
 $text['description-username']['uk-ua'] = "Введіть ім’я користувача";
+$text['description-username']['vi'] = "Nhập tên người dùng ở đây.";
 
 $text['description-supress_cng']['en-us'] = "Enter the supress-cng";
 $text['description-supress_cng']['ar-eg'] = "";
@@ -820,6 +831,7 @@ $text['description-supress_cng']['ro-ro'] = "";
 $text['description-supress_cng']['ru-ru'] = "Чтобы сохранить пропускную способность, используемую RTP, не отправляет RTP-пакеты во время молчания.";
 $text['description-supress_cng']['sv-se'] = "Ange 'supress-cng'";
 $text['description-supress_cng']['uk-ua'] = "Enter the supress-cng";
+$text['description-supress_cng']['vi'] = "Nhập supress-cng";
 
 $text['description-sip_cid_type']['en-us'] = "Enter the sip cid type: none, pid, and rpid.";
 $text['description-sip_cid_type']['ar-eg'] = "";
@@ -840,6 +852,7 @@ $text['description-sip_cid_type']['ro-ro'] = "";
 $text['description-sip_cid_type']['ru-ru'] = "Введите тип sip cid: none, pid и rpid.";
 $text['description-sip_cid_type']['sv-se'] = "Ange sip cid type: none, pid, and rpid";
 $text['description-sip_cid_type']['uk-ua'] = "";
+$text['description-sip_cid_type']['vi'] = "Nhập loại sip cid: none, pid và rpid.";
 
 $text['description-retry_seconds']['en-us'] = "Enter the retry-seconds here.";
 $text['description-retry_seconds']['ar-eg'] = "";
@@ -860,6 +873,7 @@ $text['description-retry_seconds']['ro-ro'] = "Introduceți secunde Reîncercare
 $text['description-retry_seconds']['ru-ru'] = "Укажите время в секундах, прежде чем пытаться перерегистрировать после превышения времени ожидания ответа или сбоя.";
 $text['description-retry_seconds']['sv-se'] = "Ange 'retry-sekunder' här.";
 $text['description-retry_seconds']['uk-ua'] = "Enter the retry-seconds here.";
+$text['description-retry_seconds']['vi'] = "Nhập thử lại ở đây.";
 
 $text['description-register_transport']['en-us'] = "Choose whether to register-transport.";
 $text['description-register_transport']['ar-eg'] = "";
@@ -880,6 +894,7 @@ $text['description-register_transport']['ro-ro'] = "Alegeți dacă doriți să s
 $text['description-register_transport']['ru-ru'] = "Выберите предпочтительный транспорт для регистраций.";
 $text['description-register_transport']['sv-se'] = "Välj om registrera transport eller ej.";
 $text['description-register_transport']['uk-ua'] = "Choose whether to register-transport.";
+$text['description-register_transport']['vi'] = "Chọn đăng ký vận chuyển.";
 
 $text['description-register_proxy']['en-us'] = "Enter the hostname or IP address of the register proxy. host[:port]";
 $text['description-register_proxy']['ar-eg'] = "أدخل اسم المضيف أو عنوان إب الخاص بروكسي السجل. (وهذا يمكن أن تتخذ شكل المضيف: ميناء)";
@@ -900,6 +915,7 @@ $text['description-register_proxy']['ro-ro'] = "Introduceți numele gazdei sau a
 $text['description-register_proxy']['ru-ru'] = "Введите IP-адрес или название хоста прокси-сервера для регистрации. (Возможно указать номер порта в формате host:port)";
 $text['description-register_proxy']['sv-se'] = "Ange värdprofilens värdnamn eller IP-adress. (Detta kan ta formatet för värd:port)";
 $text['description-register_proxy']['uk-ua'] = "Введіть ім'я хоста або IP-адресу зареєстрованого проксі. (Це може мати формат host:port)";
+$text['description-register_proxy']['vi'] = "Nhập tên máy chủ hoặc địa chỉ IP của proxy đăng ký. máy chủ [:cổng]";
 
 $text['description-register']['en-us'] = "Choose whether to register.";
 $text['description-register']['ar-eg'] = "";
@@ -920,6 +936,7 @@ $text['description-register']['ro-ro'] = "Alegeți dacă doriți să se înregis
 $text['description-register']['ru-ru'] = "Выберите, нужно ли регистрироваться.";
 $text['description-register']['sv-se'] = "Välj om du vill registrera.";
 $text['description-register']['uk-ua'] = "Choose whether to register.";
+$text['description-register']['en-us'] = "Chọn đăng ký.";
 
 $text['description-realm']['en-us'] = "Enter the realm here.";
 $text['description-realm']['ar-eg'] = "";
@@ -940,6 +957,7 @@ $text['description-realm']['ro-ro'] = "Introduceți domeniul aici.";
 $text['description-realm']['ru-ru'] = "Вставьте поле, используемое для аутентификации";
 $text['description-realm']['sv-se'] = "Ange 'realm' här.";
 $text['description-realm']['uk-ua'] = "Enter the realm here.";
+$text['description-realm']['vi'] = "Nhập realm ở đây.";
 
 $text['description-proxy']['en-us'] = "Enter the hostname or IP address of the proxy. host[:port]";
 $text['description-proxy']['ar-eg'] = "أدخل اسم المضيف أو عنوان إب الخاص بالوكيل. (وهذا يمكن أن تتخذ شكل المضيف: ميناء)";
@@ -960,6 +978,7 @@ $text['description-proxy']['ro-ro'] = "Introduceți numele gazdei sau adresa IP 
 $text['description-proxy']['ru-ru'] = "Введите IP-адрес или название хоста прокси-сервера. (Возможно указать номер порта в формате host:port)";
 $text['description-proxy']['sv-se'] = "Ange värdnamn eller IP-adress för proxyn. (Detta kan ta formatet för värd:port)";
 $text['description-proxy']['uk-ua'] = "Введіть ім'я хоста або IP-адресу проксі-сервера. (Це може мати формат host:port)";
+$text['description-proxy']['vi'] = "Nhập tên máy chủ hoặc địa chỉ IP của proxy. tổ cổng]";
 
 $text['description-profile']['en-us'] = "Enter the profile here.";
 $text['description-profile']['ar-eg'] = "";
@@ -980,6 +999,7 @@ $text['description-profile']['ro-ro'] = "Introduceți profilul aici.";
 $text['description-profile']['ru-ru'] = "Выберите профиль, используемый для этого шлюза.";
 $text['description-profile']['sv-se'] = "Definiera inställningar för denna profil.";
 $text['description-profile']['uk-ua'] = "Введіть профіль";
+$text['description-profile']['vi'] = "Nhập profile ở đây.";
 
 $text['description-ping']['en-us'] = "Enter the ping interval here in seconds.";
 $text['description-ping']['ar-eg'] = "";
@@ -1000,6 +1020,7 @@ $text['description-ping']['ro-ro'] = "Introduceți intervalul de ping aici în c
 $text['description-ping']['ru-ru'] = "Введите интервал ping здесь, в секундах.";
 $text['description-ping']['sv-se'] = "Ange interval för ping i sekunder.";
 $text['description-ping']['uk-ua'] = "Введіть інтервал пінгування в секундах.";
+$text['description-ping']['vi'] = "Nhập khoảng thời gian ping ở đây trong vài giây.";
 
 $text['description-password']['en-us'] = "Enter the password here.";
 $text['description-password']['ar-eg'] = "";
@@ -1020,6 +1041,7 @@ $text['description-password']['ro-ro'] = "Aici parola.";
 $text['description-password']['ru-ru'] = "Введите здесь пароль.";
 $text['description-password']['sv-se'] = "Fyll i lösenord.";
 $text['description-password']['uk-ua'] = "Введіть пароль";
+$text['description-password']['vi'] = "Nhập mật khẩu ở đây.";
 
 $text['description-outbound_proxy']['en-us'] = "Enter the hostname or IP address of the outbound proxy. host[:port]";
 $text['description-outbound_proxy']['ar-eg'] = "أدخل اسم المضيف أو عنوان إب الخاص بالوكيل الصادر. (وهذا يمكن أن تتخذ شكل المضيف: ميناء)";
@@ -1040,6 +1062,7 @@ $text['description-outbound_proxy']['ro-ro'] = "Introduceți numele gazdei sau a
 $text['description-outbound_proxy']['ru-ru'] = "Введите IP-адрес или название хоста исходящего прокси-сервера. (Возможно указать номер порта в формате host:port)";
 $text['description-outbound_proxy']['sv-se'] = "Ange värdnamn eller IP-adress för utgående proxy. (Detta kan ta formatet för värd:port)";
 $text['description-outbound_proxy']['uk-ua'] = "Введіть ім'я хоста або IP-адресу вихідного проксі. (Це може мати формат host:port)";
+$text['description-outbound_proxy']['vi'] = "Nhập tên máy chủ hoặc địa chỉ IP của proxy outbound. máy chủ [cổng]";
 
 $text['description-gateway-name']['en-us'] = "Enter the gateway name here.";
 $text['description-gateway-name']['ar-eg'] = "";
@@ -1060,6 +1083,7 @@ $text['description-gateway-name']['ro-ro'] = "Introduceți numele de gateway aic
 $text['description-gateway-name']['ru-ru'] = "Введите здесь имя шлюза.";
 $text['description-gateway-name']['sv-se'] = "Ange gateway namn här.";
 $text['description-gateway-name']['uk-ua'] = "Введіть назву шлюзу";
+$text['description-gateway-name']['vi'] = "Nhập tên gateway ở đây.";
 
 $text['description-gateway-edit']['en-us'] = "Defines a connections to a SIP Provider or another SIP server.";
 $text['description-gateway-edit']['ar-eg'] = "";
@@ -1080,6 +1104,7 @@ $text['description-gateway-edit']['ro-ro'] = "Definește o conexiune la un furni
 $text['description-gateway-edit']['ru-ru'] = "Определяет подключения к поставщику SIP или другому SIP-серверу.";
 $text['description-gateway-edit']['sv-se'] = "Definierar anslutning till en SIP Provider eller annan SIP -server.";
 $text['description-gateway-edit']['uk-ua'] = "Визначає підключення до провайдера SIP або іншого SIP-сервера.";
+$text['description-gateway-edit']['vi'] = "Xác định kết nối với Nhà cung cấp SIP hoặc máy chủ SIP khác.";
 
 $text['description-gateway']['en-us'] = "Gateways provide access into other voice networks. These can be voice providers or other systems that require SIP registration.";
 $text['description-gateway']['ar-eg'] = "";
@@ -1100,6 +1125,8 @@ $text['description-gateway']['ro-ro'] = "Gateways asigura accesul în alte rețe
 $text['description-gateway']['ru-ru'] = "Шлюзы обеспечивают доступ в другие голосовые сети. Это могут быть голосовые провайдеры или другие системы, которые требуют регистрации SIP.";
 $text['description-gateway']['sv-se'] = "Gateways ger tillgång till andra röstnätverk. Dessa kan vara telefoni leverantörer eller andra system som kräver SIP registrering.";
 $text['description-gateway']['uk-ua'] = "Gateways provide access into other voice networks. These can be voice providers or other systems that require SIP registration.";
+$text['description-gateway']['vi'] = "Gateways cung cấp quyền truy cập vào các mạng thoại khác. Đây có thể là nhà cung cấp voice hoặc các hệ thống khác yêu cầu đăng ký SIP.";
+$text['description-gateway']['vi'] = "Cổng cung cấp quyền truy cập vào các mạng thoại khác. Đây có thể là nhà cung cấp giọng nói hoặc các hệ thống khác yêu cầu đăng ký SIP.";
 
 $text['description-from_user']['en-us'] = "Enter the from-user here.";
 $text['description-from_user']['ar-eg'] = "";
@@ -1120,6 +1147,7 @@ $text['description-from_user']['ro-ro'] = "Introdu o dată de la utilizatorul ai
 $text['description-from_user']['ru-ru'] = "Введите  Имя пользователя отправителя.";
 $text['description-from_user']['sv-se'] = "Ange 'from-user' här.";
 $text['description-from_user']['uk-ua'] = "Enter the from-user here.";
+$text['description-from_user']['vi'] = "Nhập từ người dùng ở đây.";
 
 $text['description-from_domain']['en-us'] = "Enter the from-domain here.";
 $text['description-from_domain']['ar-eg'] = "";
@@ -1140,6 +1168,7 @@ $text['description-from_domain']['ro-ro'] = "Introduceți domeniul de la - aici.
 $text['description-from_domain']['ru-ru'] = "Введите Домен отправителя.";
 $text['description-from_domain']['sv-se'] = "Ange 'from-domain' här.";
 $text['description-from_domain']['uk-ua'] = "Enter the from-domain here.";
+$text['description-from_domain']['vi'] = "Nhập tên miền từ đây.";
 
 $text['description-extension_in_contact']['en-us'] = "Enter the Extension In Contact";
 $text['description-extension_in_contact']['ar-eg'] = "";
@@ -1160,6 +1189,7 @@ $text['description-extension_in_contact']['ro-ro'] = "Introdu o extensie de cont
 $text['description-extension_in_contact']['ru-ru'] = "Введите контактный номер внутреннего абонента";
 $text['description-extension_in_contact']['sv-se'] = "Ange 'Extension In Contact'";
 $text['description-extension_in_contact']['uk-ua'] = "Enter the Extension In Contact";
+$text['description-extension_in_contact']['vi'] = "Nhập sô máy nhánh để liên hệ";
 
 $text['description-extension']['en-us'] = "Enter the extension here.";
 $text['description-extension']['ar-eg'] = "";
@@ -1180,6 +1210,7 @@ $text['description-extension']['ro-ro'] = "Introduceți extensia aici.";
 $text['description-extension']['ru-ru'] = "Введите внутренний номер";
 $text['description-extension']['sv-se'] = "Ange anknytningen här.";
 $text['description-extension']['uk-ua'] = "Введіть розширення";
+$text['description-extension']['vi'] = "Nhập máy nhánh ở đây.";
 
 $text['description-expire_seconds']['en-us'] = "Enter the expire-seconds here.";
 $text['description-expire_seconds']['ar-eg'] = "";
@@ -1200,6 +1231,7 @@ $text['description-expire_seconds']['ro-ro'] = "Introduceți - secunde aici expi
 $text['description-expire_seconds']['ru-ru'] = "Время в секундах. Это время, по истечению которого необходимо обновить регистрацию.";
 $text['description-expire_seconds']['sv-se'] = "Ange 'expire-seconds' här.";
 $text['description-expire_seconds']['uk-ua'] = "Enter the expire-seconds here.";
+$text['description-expire_seconds']['vi'] = "Nhập thời gian hết hạn ở đây";
 
 $text['description-hostname']['en-us'] = "Enter the hostname / switchname.";
 $text['description-hostname']['ar-eg'] = "";
@@ -1220,6 +1252,7 @@ $text['description-hostname']['ro-ro'] = "";
 $text['description-hostname']['ru-ru'] = "Введите Имя хоста / коммутатора.";
 $text['description-hostname']['sv-se'] = "Fyll i hostname / switchname.";
 $text['description-hostname']['uk-ua'] = "Введіть назву хоста / switchname.";
+$text['description-hostname']['vi'] = "Nhập tên máy chủ / tên chuyển đổi.";
 
 $text['description-enabled']['en-us'] = "Enable or Disable the Gateway";
 $text['description-enabled']['ar-eg'] = "";
@@ -1240,6 +1273,7 @@ $text['description-enabled']['ro-ro'] = "Activați sau dezactivați Gateway";
 $text['description-enabled']['ru-ru'] = "Включение и выключение данного Шлюза";
 $text['description-enabled']['sv-se'] = "Aktivera eller In-aktivera Gateway";
 $text['description-enabled']['uk-ua'] = "Enable or Disable the Gateway";
+$text['description-enabled']['vi'] = "Kích hoạt hoặc vô hiệu hóa Gateway";
 
 $text['description-distinct_to']['en-us'] = "Enter the distinct_to here.";
 $text['description-distinct_to']['ar-eg'] = "";
@@ -1260,6 +1294,7 @@ $text['description-distinct_to']['ro-ro'] = "Introdu o distinct_to aici.";
 $text['description-distinct_to']['ru-ru'] = "Enter the distinct_to here.";
 $text['description-distinct_to']['sv-se'] = "Ange 'distinct_to' här. ";
 $text['description-distinct_to']['uk-ua'] = "Enter the distinct_to here.";
+$text['description-distinct_to']['vi'] = "Nhập khác biệt vào đây.";
 
 $text['description-context']['en-us'] = "Enter the context here.";
 $text['description-context']['ar-eg'] = "";
@@ -1280,6 +1315,7 @@ $text['description-context']['ro-ro'] = "Introduceți contextul aici.";
 $text['description-context']['ru-ru'] = "Введите здесь контекст.";
 $text['description-context']['sv-se'] = "Ange 'context' här.";
 $text['description-context']['uk-ua'] = "Enter the context here.";
+$text['description-context']['vi'] = "Nhập context ở đây.";
 
 $text['description-codec_prefs']['en-us'] = "Enter the codec preferences as a list. Ex: PCMA,PCMU,G722";
 $text['description-codec_prefs']['ar-eg'] = "";
@@ -1300,6 +1336,7 @@ $text['description-codec_prefs']['ro-ro'] = "";
 $text['description-codec_prefs']['ru-ru'] = "Задайте список кодеков в порядке предпочтения: PCMA,PCMU,G722";
 $text['description-codec_prefs']['sv-se'] = "Ange codec preferenser som en lista . Ex : PCMA , PCMU , G722";
 $text['description-codec_prefs']['uk-ua'] = "";
+$text['description-codec_prefs']['vi'] = "Nhập các tùy chọn codec dưới dạng một danh sách. Vd: PCMA, PCMU, G722";
 
 $text['description-channels']['en-us'] = "Maximum number of simultaneous channels available in the gateway.";
 $text['description-channels']['ar-eg'] = "";
@@ -1320,6 +1357,7 @@ $text['description-channels']['ro-ro'] = "Numărul maxim de canale simultane dis
 $text['description-channels']['ru-ru'] = "Максимальное количество одновременных каналов, доступных в шлюзе.";
 $text['description-channels']['sv-se'] = "Max antal samtidiga kanaler för gateway.";
 $text['description-channels']['uk-ua'] = "Maximum number of simultaneous channels available in the gateway.";
+$text['description-channels']['vi'] = "Số lượng kênh tối đa có sẵn trong cổng.";
 
 $text['description-caller_id_in_from']['en-us'] = "Enter the caller-id-in-from.";
 $text['description-caller_id_in_from']['ar-eg'] = "";
@@ -1340,6 +1378,7 @@ $text['description-caller_id_in_from']['ro-ro'] = "";
 $text['description-caller_id_in_from']['ru-ru'] = "Введите идентификатор вызывающего абонента (Caller ID) в заголовке SIP.";
 $text['description-caller_id_in_from']['sv-se'] = "Ange 'caller-id-in-from'.";
 $text['description-caller_id_in_from']['uk-ua'] = "";
+$text['description-caller_id_in_from']['vi'] = "Nhập ID người gọi từ đây.";
 
 $text['description-auth_username']['en-us'] = "Enter the auth-username here.";
 $text['description-auth_username']['ar-eg'] = "";
@@ -1360,6 +1399,7 @@ $text['description-auth_username']['ro-ro'] = "Introduceți numele de utilizator
 $text['description-auth_username']['ru-ru'] = "Введите имя пользователя для авторизации.";
 $text['description-auth_username']['sv-se'] = "Ange 'uth-username' här.";
 $text['description-auth_username']['uk-ua'] = "Enter the auth-username here.";
+$text['description-auth_username']['vi'] = "Nhập xác thực tên người dùng ở đây.";
 
 $text['confirm-copy']['en-us'] = "Do you really want to copy this?";
 $text['confirm-copy']['ar-eg'] = "";
@@ -1380,5 +1420,5 @@ $text['confirm-copy']['ro-ro'] = "Chiar doriți să copiați acest lucru?";
 $text['confirm-copy']['ru-ru'] = "Вы действительно хотите это скопировать?";
 $text['confirm-copy']['sv-se'] = "Vill du verkligen kopiera detta?";
 $text['confirm-copy']['uk-ua'] = "Ви дійсно бажаєте це копіювати?";
-
+$text['confirm-copy']['vi'] = "Bạn có thực sự muốn sao chép ?";
 ?>

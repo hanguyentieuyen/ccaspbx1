@@ -20,7 +20,8 @@
 		$text['title-streams']['ru-ru'] = '';
 		$text['title-streams']['sv-se'] = '';
 		$text['title-streams']['uk-ua'] = '';
-
+		$text['title-streams']['vi'] = 'Luồng';
+		
 		$text['title-stream']['en-us'] = 'Stream';
 		$text['title-stream']['ar-eg'] = '';
 		$text['title-stream']['de-at'] = '';
@@ -40,7 +41,8 @@
 		$text['title-stream']['ru-ru'] = '';
 		$text['title-stream']['sv-se'] = '';
 		$text['title-stream']['uk-ua'] = '';
-
+		$text['title-stream']['vi'] = 'Luồng';
+		
 		$text['title_description-stream']['en-us'] = 'Define details for streaming audio.';
 		$text['title_description-stream']['ar-eg'] = '';
 		$text['title_description-stream']['de-at'] = '';
@@ -60,7 +62,7 @@
 		$text['title_description-stream']['ru-ru'] = '';
 		$text['title_description-stream']['sv-se'] = '';
 		$text['title_description-stream']['uk-ua'] = '';
-
+		$text['title_description-stream']['vi'] = 'Xác định chi tiết để truyền âm thanh.';
 		$text['label-stream_name']['en-us'] = 'Name';
 		$text['label-stream_name']['ar-eg'] = '';
 		$text['label-stream_name']['de-at'] = '';
@@ -80,6 +82,7 @@
 		$text['label-stream_name']['ru-ru'] = '';
 		$text['label-stream_name']['sv-se'] = '';
 		$text['label-stream_name']['uk-ua'] = '';
+		$text['label-stream_name']['vi'] = 'Tên';
 
 		$text['description-stream_name']['en-us'] = 'Enter the name.';
 		$text['description-stream_name']['ar-eg'] = '';
@@ -100,6 +103,7 @@
 		$text['description-stream_name']['ru-ru'] = '';
 		$text['description-stream_name']['sv-se'] = '';
 		$text['description-stream_name']['uk-ua'] = '';
+		$text['description-stream_name']['vi'] = 'Nhập tên.';
 
 		$text['label-stream_location']['en-us'] = 'Location';
 		$text['label-stream_location']['ar-eg'] = '';
@@ -120,7 +124,7 @@
 		$text['label-stream_location']['ru-ru'] = '';
 		$text['label-stream_location']['sv-se'] = '';
 		$text['label-stream_location']['uk-ua'] = '';
-
+	    $text['label-stream_location']['vi'] = 'Vị trí';
 		$text['description-stream_location']['en-us'] = 'Enter the location.';
 		$text['description-stream_location']['ar-eg'] = '';
 		$text['description-stream_location']['de-at'] = '';
@@ -140,7 +144,8 @@
 		$text['description-stream_location']['ru-ru'] = '';
 		$text['description-stream_location']['sv-se'] = '';
 		$text['description-stream_location']['uk-ua'] = '';
-
+		$text['description-stream_location']['vi'] = 'Nhập vị trí.';
+		
 		$text['label-stream_enabled']['en-us'] = 'Enabled';
 		$text['label-stream_enabled']['ar-eg'] = '';
 		$text['label-stream_enabled']['de-at'] = '';
@@ -160,7 +165,8 @@
 		$text['label-stream_enabled']['ru-ru'] = '';
 		$text['label-stream_enabled']['sv-se'] = '';
 		$text['label-stream_enabled']['uk-ua'] = '';
-
+		$text['label-stream_enabled']['vi'] = 'Cho phép';
+		
 		$text['description-stream_enabled']['en-us'] = 'Enable or disable this stream. ';
 		$text['description-stream_enabled']['ar-eg'] = '';
 		$text['description-stream_enabled']['de-at'] = '';
@@ -180,7 +186,8 @@
 		$text['description-stream_enabled']['ru-ru'] = '';
 		$text['description-stream_enabled']['sv-se'] = '';
 		$text['description-stream_enabled']['uk-ua'] = '';
-
+		$text['description-stream_enabled']['vi'] = 'Bật hoặc tắt luồng này. ';
+		
 		$text['label-stream_description']['en-us'] = 'Description';
 		$text['label-stream_description']['ar-eg'] = '';
 		$text['label-stream_description']['de-at'] = '';
@@ -200,7 +207,8 @@
 		$text['label-stream_description']['ru-ru'] = '';
 		$text['label-stream_description']['sv-se'] = '';
 		$text['label-stream_description']['uk-ua'] = '';
-
+		$text['label-stream_description']['vi'] = 'Mô tả';
+		
 		$text['description-stream_description']['en-us'] = 'Enter the description.';
 		$text['description-stream_description']['ar-eg'] = '';
 		$text['description-stream_description']['de-at'] = '';
@@ -220,5 +228,6 @@
 		$text['description-stream_description']['ru-ru'] = '';
 		$text['description-stream_description']['sv-se'] = '';
 		$text['description-stream_description']['uk-ua'] = '';
+		$text['description-stream_description']['vi'] = 'Nhập mô tả.';
 
 ?>

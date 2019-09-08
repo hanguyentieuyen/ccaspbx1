@@ -20,6 +20,7 @@ $text['label-user']['ro-ro'] = "";
 $text['label-user']['ru-ru'] = "Пользователь";
 $text['label-user']['sv-se'] = "Användare";
 $text['label-user']['uk-ua'] = "Користувач";
+$text['label-user']['vi'] = "Người dùng";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-response']['en-us'] = "Response:";
 $text['label-response']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-response']['ro-ro'] = "";
 $text['label-response']['ru-ru'] = "Отклик:";
 $text['label-response']['sv-se'] = "Respons:";
 $text['label-response']['uk-ua'] = "Відповідь:";
+$text['label-response']['vi'] = "Phản hồi:";
 
 $text['label-refresh_pause']['en-us'] = "Pause Refresh";
 $text['label-refresh_pause']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-refresh_pause']['ro-ro'] = "";
 $text['label-refresh_pause']['ru-ru'] = "Приостановить обновление";
 $text['label-refresh_pause']['sv-se'] = "Paus Uppdatera";
 $text['label-refresh_pause']['uk-ua'] = "пауза Оновити";
+$text['label-refresh_pause']['vi'] = "Tạm dừng Làm mới";
 
 $text['label-refresh_enable']['en-us'] = "Enable Refresh";
 $text['label-refresh_enable']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-refresh_enable']['ro-ro'] = "";
 $text['label-refresh_enable']['ru-ru'] = "Включить обновление";
 $text['label-refresh_enable']['sv-se'] = "Aktivera Uppdatera";
 $text['label-refresh_enable']['uk-ua'] = "включити Оновити";
+$text['label-refresh_enable']['vi'] = "Bật làm mới";
 
 $text['label-port']['en-us'] = "Port";
 $text['label-port']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-port']['ro-ro'] = "";
 $text['label-port']['ru-ru'] = "Порт";
 $text['label-port']['sv-se'] = "Port";
 $text['label-port']['uk-ua'] = "Порт";
+$text['label-port']['vi'] = "Cổng";
 
 $text['label-ping']['en-us'] = "Ping";
 $text['label-ping']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Недопустимый профиль!";
 $text['label-message']['sv-se'] = "Ogiltig Profil!";
 $text['label-message']['uk-ua'] = "Хибний профіль!";
+$text['label-message']['vi'] = "Profile không hợp lệ!";
 
 $text['label-lan_ip']['en-us'] = "LAN IP";
 $text['label-lan_ip']['ar-eg'] = "";
@@ -220,6 +227,7 @@ $text['label-interval']['ro-ro'] = "";
 $text['label-interval']['ru-ru'] = "Интервал (сек)";
 $text['label-interval']['sv-se'] = "Intervall (Sek)";
 $text['label-interval']['uk-ua'] = "Інтервал (с.)";
+$text['label-interval']['vi'] = "Khoảng (Giây)";
 
 $text['label-hostname']['en-us'] = "Hostname";
 $text['label-hostname']['ar-eg'] = "";
@@ -240,6 +248,7 @@ $text['label-hostname']['ro-ro'] = "";
 $text['label-hostname']['ru-ru'] = "Имя хоста";
 $text['label-hostname']['sv-se'] = "Hostname";
 $text['label-hostname']['uk-ua'] = "Назва хоста";
+$text['label-hostname']['vi'] = "Máy chủ";
 
 $text['label-event']['en-us'] = "Event:";
 $text['label-event']['ar-eg'] = "";
@@ -260,6 +269,7 @@ $text['label-event']['ro-ro'] = "";
 $text['label-event']['ru-ru'] = "Событие:";
 $text['label-event']['sv-se'] = "Event:";
 $text['label-event']['uk-ua'] = "Подія:";
+$text['label-event']['vi'] = "Sự kiện:";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "";
@@ -280,6 +290,7 @@ $text['label-domain']['ro-ro'] = "";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-agent']['en-us'] = "Agent";
 $text['label-agent']['ar-eg'] = "";
@@ -300,6 +311,7 @@ $text['label-agent']['ro-ro'] = "";
 $text['label-agent']['ru-ru'] = "Оператор";
 $text['label-agent']['sv-se'] = "Agent";
 $text['label-agent']['uk-ua'] = "Оператор";
+$text['label-agent']['vi'] = "Nhân viên";
 
 $text['label-contact']['en-us'] = "Contact";
 $text['label-contact']['ar-eg'] = "";
@@ -320,6 +332,7 @@ $text['label-contact']['ro-ro'] = "";
 $text['label-contact']['ru-ru'] = "Контакт";
 $text['label-contact']['sv-se'] = "Kontakta";
 $text['label-contact']['uk-ua'] = "Контакт";
+$text['label-contact']['vi'] = "Liên hệ";
 
 $text['label-sip_profile_name']['en-us'] = "Profile";
 $text['label-sip_profile_name']['ar-eg'] = "";
@@ -360,6 +373,7 @@ $text['header-registrations']['ro-ro'] = "";
 $text['header-registrations']['ru-ru'] = "Регистрация";
 $text['header-registrations']['sv-se'] = "Registreringar";
 $text['header-registrations']['uk-ua'] = "Реєстрації";
+$text['header-registrations']['vi'] = "Đăng ký";
 
 $text['error-event-socket']['en-us'] = "Connection to Event Socket failed.";
 $text['error-event-socket']['ar-eg'] = "";
@@ -380,6 +394,7 @@ $text['error-event-socket']['ro-ro'] = "";
 $text['error-event-socket']['ru-ru'] = "Подключение к сокету событий не удалось.";
 $text['error-event-socket']['sv-se'] = "Kontakten till 'Event Socket' misslyckades.";
 $text['error-event-socket']['uk-ua'] = "Помилка підключення до Event Socket";
+$text['error-event-socket']['vi'] = "Kết nối lỗi Event Socket.";
 
 $text['button-unregister']['en-us'] = "Unregister";
 $text['button-unregister']['ar-eg'] = "";
@@ -400,6 +415,7 @@ $text['button-unregister']['ro-ro'] = "";
 $text['button-unregister']['ru-ru'] = "Отменить регистрацию";
 $text['button-unregister']['sv-se'] = "Avregistrera";
 $text['button-unregister']['uk-ua'] = "Розреєструвати";
+$text['button-unregister']['vi'] = "Hủy đăng ký";
 
 $text['button-reboot']['en-us'] = "Reboot";
 $text['button-reboot']['ar-eg'] = "";
@@ -420,6 +436,7 @@ $text['button-reboot']['ro-ro'] = "";
 $text['button-reboot']['ru-ru'] = "Перезагрузить";
 $text['button-reboot']['sv-se'] = "Starta Om";
 $text['button-reboot']['uk-ua'] = "Перезавантажити";
+$text['button-reboot']['vi'] = "Khởi động lại";
 
 $text['button-provision']['en-us'] = "Provision";
 $text['button-provision']['ar-eg'] = "";
@@ -440,5 +457,5 @@ $text['button-provision']['ro-ro'] = "";
 $text['button-provision']['ru-ru'] = "Обеспечение";
 $text['button-provision']['sv-se'] = "Provisionera";
 $text['button-provision']['uk-ua'] = "Provision ";
-
+$text['button-provision']['vi'] = "Nhà cung cấp";
 ?>

@@ -20,6 +20,7 @@ $text['title-2']['ro-ro'] = "";
 $text['title-2']['ru-ru'] = "Активные внутренние номера";
 $text['title-2']['sv-se'] = "Aktiva anknytningar";
 $text['title-2']['uk-ua'] = "Активні розширення";
+$text['title-2']['vi'] = "Máy nhánh hoạt động";
 
 $text['title']['en-us'] = "Active Calls";
 $text['title']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title']['ro-ro'] = "";
 $text['title']['ru-ru'] = "Активные вызовы";
 $text['title']['sv-se'] = "Aktiva Samtal";
 $text['title']['uk-ua'] = "Активні дзвінки";
+$text['title']['vi'] = "Cuộc gọi hoạt động";
 
 $text['label-time']['en-us'] = "Time";
 $text['label-time']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-time']['ro-ro'] = "";
 $text['label-time']['ru-ru'] = "Время";
 $text['label-time']['sv-se'] = "Tid";
 $text['label-time']['uk-ua'] = "Час";
+$text['label-time']['vi'] = "Thời gian";
 
 $text['label-stop']['en-us'] = "stop record";
 $text['label-stop']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-stop']['ro-ro'] = "";
 $text['label-stop']['ru-ru'] = "остановить запись";
 $text['label-stop']['sv-se'] = "Stoppa inspelning";
 $text['label-stop']['uk-ua'] = "Зупинити запис";
+$text['label-stop']['vi'] = "ngừng ghi âm";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-start']['en-us'] = "start record";
 $text['label-start']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-start']['ro-ro'] = "";
 $text['label-start']['ru-ru'] = "начать запись";
 $text['label-start']['sv-se'] = "Starta inspelning";
 $text['label-start']['uk-ua'] = "Запустити запис";
+$text['label-start']['vi'] = "bắt đầu ghi âm";
 
 $text['label-secure']['en-us'] = "Secure";
 $text['label-secure']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-secure']['ro-ro'] = "";
 $text['label-secure']['ru-ru'] = "Безопасный";
 $text['label-secure']['sv-se'] = "Skydda";
 $text['label-secure']['uk-ua'] = "Захищено";
+$text['label-secure']['vi'] = "Bảo mật";
 
 $text['label-refresh_pause']['en-us'] = "Pause Refresh";
 $text['label-refresh_pause']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-refresh_pause']['ro-ro'] = "";
 $text['label-refresh_pause']['ru-ru'] = "Приостановить обновление";
 $text['label-refresh_pause']['sv-se'] = "Paus Uppdatera";
 $text['label-refresh_pause']['uk-ua'] = "пауза Оновити";
+$text['label-refresh_pause']['vi'] = "Tạm ngừng và làm mới";
 
 $text['label-refresh_enable']['en-us'] = "Enable Refresh";
 $text['label-refresh_enable']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-refresh_enable']['ro-ro'] = "";
 $text['label-refresh_enable']['ru-ru'] = "Включить обновление";
 $text['label-refresh_enable']['sv-se'] = "Aktivera Uppdatering";
 $text['label-refresh_enable']['uk-ua'] = "включити Оновити";
+$text['label-refresh_enable']['vi'] = "Bật làm mới";
 
 $text['label-profile']['en-us'] = "Profile";
 $text['label-profile']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-profile']['ro-ro'] = "";
 $text['label-profile']['ru-ru'] = "Профиль";
 $text['label-profile']['sv-se'] = "Profil";
 $text['label-profile']['uk-ua'] = "Профіль";
+$text['label-profile']['vi'] = "Profile";
 
 $text['label-park-extension']['en-us'] = "Park";
 $text['label-park-extension']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-park-extension']['ro-ro'] = "";
 $text['label-park-extension']['ru-ru'] = "Парковка";
 $text['label-park-extension']['sv-se'] = "Parkera";
 $text['label-park-extension']['uk-ua'] = "Паркувати";
+$text['label-park-extension']['vi'] = "Park";
 
 $text['label-park']['en-us'] = "park";
 $text['label-park']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-park']['ro-ro'] = "";
 $text['label-park']['ru-ru'] = "парковка";
 $text['label-park']['sv-se'] = "parkera";
 $text['label-park']['uk-ua'] = "паркувати";
+$text['label-park']['vi'] = "park";
 
 $text['label-opt']['en-us'] = "Options";
 $text['label-opt']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-opt']['ro-ro'] = "";
 $text['label-opt']['ru-ru'] = "Опции";
 $text['label-opt']['sv-se'] = "Alternativ";
 $text['label-opt']['uk-ua'] = "Опції";
+$text['label-opt']['vi'] = "Tùy chọn";
 
 $text['label-number']['en-us'] = "Number";
 $text['label-number']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-number']['ro-ro'] = "";
 $text['label-number']['ru-ru'] = "Номер";
 $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "Номер";
+$text['label-number']['vi'] = "Số điện thoại";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-hangup']['en-us'] = "Hangup";
 $text['label-hangup']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-hangup']['ro-ro'] = "";
 $text['label-hangup']['ru-ru'] = "Завершить";
 $text['label-hangup']['sv-se'] = "Avsluta";
 $text['label-hangup']['uk-ua'] = "Розірвати";
+$text['label-hangup']['vi'] = "Gác máy";
 
 $text['label-ext']['en-us'] = "Ext";
 $text['label-ext']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-ext']['ro-ro'] = "";
 $text['label-ext']['ru-ru'] = "Вн.";
 $text['label-ext']['sv-se'] = "Ank";
 $text['label-ext']['uk-ua'] = "Ext ";
+$text['label-ext']['vi'] = "Ext";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-domain']['ro-ro'] = "";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-destination']['en-us'] = "Dest";
 $text['label-destination']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-destination']['ro-ro'] = "";
 $text['label-destination']['ru-ru'] = "Назн.";
 $text['label-destination']['sv-se'] = "Dest";
 $text['label-destination']['uk-ua'] = "Номер";
+$text['label-destination']['vi'] = "Đích đến";
 
 $text['label-created']['en-us'] = "Created";
 $text['label-created']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-created']['ro-ro'] = "";
 $text['label-created']['ru-ru'] = "Создан";
 $text['label-created']['sv-se'] = "Skapad";
 $text['label-created']['uk-ua'] = "Створено";
+$text['label-created']['vi'] = "Được tạo";
 
 $text['label-codec']['en-us'] = "Read / Write Codec";
 $text['label-codec']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['label-codec']['ro-ro'] = "";
 $text['label-codec']['ru-ru'] = "Кодек Чтение / Запись";
 $text['label-codec']['sv-se'] = "Läs/Skriv Codec";
 $text['label-codec']['uk-ua'] = "Кодеки читання/запису";
+$text['label-codec']['vi'] = "Đọc / Viết Codec";
 
 $text['label-cid-number']['en-us'] = "CID Number";
 $text['label-cid-number']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['label-cid-number']['ro-ro'] = "";
 $text['label-cid-number']['ru-ru'] = "CID Номер";
 $text['label-cid-number']['sv-se'] = "CID, nummerspresentation";
 $text['label-cid-number']['uk-ua'] = "CID Номер";
+$text['label-cid-number']['vi'] = "Số CID";
 
 $text['label-cid-name']['en-us'] = "CID Name";
 $text['label-cid-name']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-cid-name']['ro-ro'] = "";
 $text['label-cid-name']['ru-ru'] = "CID Имя";
 $text['label-cid-name']['sv-se'] = "CID namnpresentation";
 $text['label-cid-name']['uk-ua'] = "CID Ім’я";
+$text['label-cid-name']['vi'] = "Tên CID";
 
 $text['label-app']['en-us'] = "Application";
 $text['label-app']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-app']['ro-ro'] = "";
 $text['label-app']['ru-ru'] = "Приложение";
 $text['label-app']['sv-se'] = "Ansökan";
 $text['label-app']['uk-ua'] = "Додаток";
+$text['label-app']['vi'] = "Ứng dụng";
 
 $text['description-2']['en-us'] = "Use this to view all extensions and monitor and interact with active calls.";
 $text['description-2']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['description-2']['ro-ro'] = "";
 $text['description-2']['ru-ru'] = "Используйте для просмотра всех внутренних номеров и мониторинга и взаимодействия с активными вызовами.";
 $text['description-2']['sv-se'] = "Använd detta för att se alla anknytningar och monitorera och hantera aktiva samtal.";
 $text['description-2']['uk-ua'] = "Використовуйте це, щоб переглянути всі розширення, контролювати і взаємодіяти з активними викликами.";
+$text['description-2']['vi'] = "Sử dụng công cụ này để xem tất cả các máy nhánh và theo dõi và tương tác với các cuộc gọi hoạt động.";
 
 $text['description']['en-us'] = "Use this to monitor and interact with the active calls.";
 $text['description']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['description']['ro-ro'] = "";
 $text['description']['ru-ru'] = "Используйте для отслеживания и взаимодействия с активными вызовами.";
 $text['description']['sv-se'] = "Använd detta för att monitorera och hantera aktiva samtal.";
 $text['description']['uk-ua'] = "Використовуйте це, щоб контролювати і взаємодіяти з активними викликами.";
+$text['description']['vi'] = "Sử dụng công cụ này để theo dõi và tương tác với các cuộc gọi hoạt động.";
 
 $text['confirm-socket']['en-us'] = "Connection to Event Socket failed.";
 $text['confirm-socket']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['confirm-socket']['ro-ro'] = "";
 $text['confirm-socket']['ru-ru'] = "Не удалось подключиться к сокету событий.";
 $text['confirm-socket']['sv-se'] = "Anslutning till 'Event Socket' misslyckades";
 $text['confirm-socket']['uk-ua'] = "Помилка підключення до сокета подій";
+$text['confirm-socket']['vi'] = "Kết nối tới Event Socket thất bại.";
 
 $text['confirm-hangup']['en-us'] = "Do you really want to hangup this call?";
 $text['confirm-hangup']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['confirm-hangup']['ro-ro'] = "";
 $text['confirm-hangup']['ru-ru'] = "Вы действительно хотите завершить вызов?";
 $text['confirm-hangup']['sv-se'] = "Vill du verkligen avsluta detta samtal";
 $text['confirm-hangup']['uk-ua'] = "Ви дійсно бажаєте розірвати дзвінок?";
+$text['confirm-hangup']['vi'] = "Bạn có thực sự muốn gác máy cuộc gọi này không?";
 
 $text['check-onbreak-status']['en-us'] = "On Break";
 $text['check-onbreak-status']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['check-onbreak-status']['ro-ro'] = "";
 $text['check-onbreak-status']['ru-ru'] = "Перерыв";
 $text['check-onbreak-status']['sv-se'] = "På Rast";
 $text['check-onbreak-status']['uk-ua'] = "На перерві";
+$text['check-onbreak-status']['vi'] = "Nghỉ";
 
 $text['check-loggedout-status']['en-us'] = "Logged Out";
 $text['check-loggedout-status']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['check-loggedout-status']['ro-ro'] = "";
 $text['check-loggedout-status']['ru-ru'] = "Не в сети";
 $text['check-loggedout-status']['sv-se'] = "Utloggad";
 $text['check-loggedout-status']['uk-ua'] = "Вийшов";
+$text['check-loggedout-status']['vi'] = "Đã đăng xuất";
 
 $text['check-do-not-disturb-status']['en-us'] = "Do Not Disturb";
 $text['check-do-not-disturb-status']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['check-do-not-disturb-status']['ro-ro'] = "";
 $text['check-do-not-disturb-status']['ru-ru'] = "Не беспокоить (DND)";
 $text['check-do-not-disturb-status']['sv-se'] = "Stör Ej";
 $text['check-do-not-disturb-status']['uk-ua'] = "Не турбувати";
+$text['check-do-not-disturb-status']['vi'] = "Không làm phiền";
 
 $text['check-available-status']['en-us'] = "Available";
 $text['check-available-status']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['check-available-status']['ro-ro'] = "";
 $text['check-available-status']['ru-ru'] = "Доступен";
 $text['check-available-status']['sv-se'] = "Anträffbar";
 $text['check-available-status']['uk-ua'] = "Доступний";
+$text['check-available-status']['vi'] = "Có sẵn";
 
 $text['check-available-on-demand-status']['en-us'] = "Available (On Demand)";
 $text['check-available-on-demand-status']['ar-eg'] = "";
@@ -660,6 +692,7 @@ $text['check-available-on-demand-status']['ro-ro'] = "";
 $text['check-available-on-demand-status']['ru-ru'] = "Доступен (по требованию)";
 $text['check-available-on-demand-status']['sv-se'] = "Anträffbar (På Begäran)";
 $text['check-available-on-demand-status']['uk-ua'] = "Доступний (на вимогу)";
+$text['check-available-on-demand-status']['vi'] = "Có sẵn (Theo yêu cầu)";
 
 $text['button-show_all']['en-us'] = "Show All";
 $text['button-show_all']['ar-eg'] = "";
@@ -680,5 +713,5 @@ $text['button-show_all']['ro-ro'] = "";
 $text['button-show_all']['ru-ru'] = "Показать все";
 $text['button-show_all']['sv-se'] = "Visa Allt";
 $text['button-show_all']['uk-ua'] = "Показати всі";
-
+$text['button-show_all']['vi'] = "Xem tất cả";
 ?>

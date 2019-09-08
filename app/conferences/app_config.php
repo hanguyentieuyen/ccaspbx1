@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Hội nghị được sử dụng để thiết lập phòng hội thảo với tên, mô tả và số pin tùy chọn.";
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";
@@ -82,9 +82,6 @@
 		$apps[$x]['permissions'][$y]['name'] = "conference_user_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${domain_name}";
 
 	//schema details
 		$y=0;

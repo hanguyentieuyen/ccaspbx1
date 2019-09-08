@@ -10,6 +10,7 @@ $apps[$x]['menu'][0]['title']['sv-se'] = '';
 $apps[$x]['menu'][0]['title']['uk'] = '';
 $apps[$x]['menu'][0]['title']['de-de'] = 'Datenbank Transaktionen';
 $apps[$x]['menu'][0]['title']['de-at'] = 'Datenbank Transaktionen';
+$apps[$x]['menu'][0]['title']['vi'] = 'Giao dịch';
 $apps[$x]['menu'][0]['uuid'] = 'ffc57bea-df1d-4099-b7e5-835d68f09006';
 $apps[$x]['menu'][0]['parent_uuid'] = '594d99c5-6128-9c88-ca35-4b33392cec0f';
 $apps[$x]['menu'][0]['category'] = 'internal';

@@ -27,25 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
-	//destination details
-		$y = 0;
-		$apps[$x]['destinations'][$y]['type'] = "sql";
-		$apps[$x]['destinations'][$y]['label'] = "dialplans";
-		$apps[$x]['destinations'][$y]['name'] = "dialplans";
-		$apps[$x]['destinations'][$y]['sql'] = "select d.domain_name, e.dialplan_name, e.dialplan_number as destination, e.dialplan_description as description from v_dialplans as e, v_domains as d ";
-		$apps[$x]['destinations'][$y]['where'] = "where e.domain_uuid = '\${domain_uuid}' and e.domain_uuid = d.domain_uuid and e.dialplan_destination = 'true' and e.dialplan_number <> '' and e.dialplan_enabled = 'true' ";
-		$apps[$x]['destinations'][$y]['order_by'] = "dialplan_order asc";
-		$apps[$x]['destinations'][$y]['field']['domain_name'] = "domain_name";
-		$apps[$x]['destinations'][$y]['field']['dialplan_name'] = "dialplan_name";
-		$apps[$x]['destinations'][$y]['field']['destination'] = "destination";
-		$apps[$x]['destinations'][$y]['field']['description'] = "description";
-		//$apps[$x]['destinations'][$y]['select_value']['user_contact'] = "sofia/internal/sip:\$1\${regex(\${sofia_contact(\${destination}@\${domain_name})}|^[^@]+(.*)|%1)}";
-		$apps[$x]['destinations'][$y]['select_value']['dialplan'] = "transfer:\${destination} XML \${domain_name}";
-		$apps[$x]['destinations'][$y]['select_value']['ivr'] = "menu-exec-app:transfer \${destination} XML \${domain_name}";
-		$apps[$x]['destinations'][$y]['select_label'] = "\${dialplan_name} \${description}";
-		$y++;
-
+		$apps[$x]['description']['vi'] = "Quay số được sử dụng để thiết lập các điểm đến cuộc gọi dựa trên các điều kiện và bối cảnh. Bạn có thể sử dụng quay số để gửi các cuộc gọi đến cổng, tiếp viên tự động, số bên ngoài, tới tập lệnh hoặc bất kỳ đích nào.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "dialplan_view";
@@ -65,9 +48,6 @@
 		$apps[$x]['permissions'][$y]['name'] = "dialplan_xml";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "dialplan_context";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "dialplan_detail_view";
 		$apps[$x]['permissions'][$y]['menu']['uuid'] = "b94e8bd9-9eb5-e427-9c26-ff7a6c21552a";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
@@ -84,12 +64,6 @@
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "dialplan_domain";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "dialplan_all";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${dialplan_context}";
 
 	//schema details
 		$y=0;
@@ -131,10 +105,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "dialplan_number";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "dialplan_destination";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
 		$z++;

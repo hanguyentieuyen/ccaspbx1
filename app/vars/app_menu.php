@@ -18,6 +18,7 @@
 	$apps[$x]['menu'][$y]['title']['ro-ro'] = "";
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Параметры FreeSwitch";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Variabler";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Biến";
 	$apps[$x]['menu'][$y]['uuid'] = "7a4e9ec5-24b9-7200-89b8-d70bf8afdd8f";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

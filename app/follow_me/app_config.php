@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Xác định xử lý cuộc gọi trong nước thay thế cho các tiện ích mở rộng.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_view";
@@ -35,55 +36,46 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_add";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_edit";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_destination_view";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_destination_add";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_destination_edit";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_destination_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_ignore_busy";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_cid_name_prefix";
 		//$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
@@ -97,7 +89,6 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "follow_me_caller_id";
 

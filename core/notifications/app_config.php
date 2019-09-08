@@ -26,6 +26,7 @@
 		$apps[$x]['description']['ru-ru'] = "Настройка параметров уведомлений";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cấu hình tùy chọn thông báo.";
 
 	//schema details
 		$y=0;

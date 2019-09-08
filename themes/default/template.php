@@ -508,13 +508,13 @@ if (!$default_login) {
 						$menu_brand_link = '/';
 					}
 				//define menu brand mark
-					$menu_brand_text = ($_SESSION['theme']['menu_brand_text']['text'] != '') ? escape($_SESSION['theme']['menu_brand_text']['text']) : "FusionPBX";
+					$menu_brand_text = ($_SESSION['theme']['menu_brand_text']['text'] != '') ? escape($_SESSION['theme']['menu_brand_text']['text']) : "CCASPBX";
 					switch ($_SESSION['theme']['menu_brand_type']['text']) {
 						case 'text':
 							echo "			<a class='navbar-brand-text'  href=\"".$menu_brand_link."\">".$menu_brand_text."</a>\n";
 							break;
 						case 'image_text':
-							$menu_brand_image = ($_SESSION['theme']['menu_brand_image']['text'] != '') ? escape($_SESSION['theme']['menu_brand_image']['text']) : PROJECT_PATH."/themes/default/images/logo.png";
+							$menu_brand_image = ($_SESSION['theme']['menu_brand_image']['text'] != '') ? escape($_SESSION['theme']['menu_brand_image']['text']) : PROJECT_PATH."/themes/default/images/logoccas.png";
 							echo "			<a href='".$menu_brand_link."'>";
 							echo "				<img id='menu_brand_image' class='navbar-logo' src='".$menu_brand_image."' title=\"".escape($menu_brand_text)."\">";
 							if ($_SESSION['theme']['menu_brand_image_hover']['text'] != '') {
@@ -527,7 +527,7 @@ if (!$default_login) {
 							break;
 						case 'image':
 						default:
-							$menu_brand_image = ($_SESSION['theme']['menu_brand_image']['text'] != '') ? escape($_SESSION['theme']['menu_brand_image']['text']) : PROJECT_PATH."/themes/default/images/logo.png";
+							$menu_brand_image = ($_SESSION['theme']['menu_brand_image']['text'] != '') ? escape($_SESSION['theme']['menu_brand_image']['text']) : PROJECT_PATH."/themes/default/images/logoccas.png";
 							echo "			<a href='".$menu_brand_link."'>";
 							echo "				<img id='menu_brand_image' class='navbar-logo' src='".$menu_brand_image."' title=\"".escape($menu_brand_text)."\">";
 							if ($_SESSION['theme']['menu_brand_image_hover']['text'] != '') {
@@ -608,7 +608,8 @@ if (!$default_login) {
 
 			echo "			</ul>\n";
 
-			echo "			<ul class='navbar-nav ml-auto'>\n";
+			echo "			<ul class='navbar-nav ml-auto'>
+\n";
 			//domain name/selector
 				if ($_SESSION["username"] != '' && permission_exists("domain_select") && count($_SESSION['domains']) > 1 && $_SESSION['theme']['domain_visible']['text'] == 'true') {
 					echo "		<li class='nav-item'>\n";
@@ -647,7 +648,7 @@ if (!$default_login) {
 				$logo_style = ($_SESSION['theme']['logo_style']['text'] != '') ? $_SESSION['theme']['logo_style']['text'] : null;
 				echo "<div class='container-fluid' style='padding: 0;' align='".$logo_align."'>\n";
 				if ($_SERVER['PHP_SELF'] != PROJECT_PATH."/core/install/install.php") {
-					$logo = ($_SESSION['theme']['logo']['text'] != '') ? $_SESSION['theme']['logo']['text'] : PROJECT_PATH."/themes/default/images/logo.png";
+					$logo = ($_SESSION['theme']['logo']['text'] != '') ? $_SESSION['theme']['logo']['text'] : PROJECT_PATH."/themes/default/images/logoccas.png";
 					echo "<a href='".((PROJECT_PATH != '') ? PROJECT_PATH : '/')."'><img src='".$logo."' style='padding: 15px 20px; ".$logo_style."'></a>";
 				}
 
@@ -779,7 +780,7 @@ else {
 		$logo = $_SESSION['theme']['logo']['text'];
 	}
 	else {
-		$logo = PROJECT_PATH."/themes/default/images/logo_login.png";
+		$logo = PROJECT_PATH."/themes/default/images/logoccas.png";
 	}
 
 	echo "<div id='default_login'>\n";
@@ -787,7 +788,7 @@ else {
 	echo "	<!--{body}-->\n";
 	echo "</div>\n";
 	echo "<div id='footer_login'>\n";
-	echo "	<span class='footer'>".($_SESSION['theme']['footer']['text'] != '' ? $_SESSION['theme']['footer']['text'] : "&copy; ".$text['theme-label-copyright']." 2008 - ".date("Y")." <a href='http://www.fusionpbx.com' class='footer' target='_blank'>fusionpbx.com</a> ".$text['theme-label-all_rights_reserved'])."</span>\n";
+	echo "	<span class='footer'>".($_SESSION['theme']['footer']['text'] != '' ? $_SESSION['theme']['footer']['text'] : "&copy; ".$text['theme-label-copyright']." 2008 - ".date("Y")." <a href='http://www.ccas.vn' class='footer' target='_blank'>ccas.vn</a> ".$text['theme-label-all_rights_reserved'])."</span>\n";
 	echo "</div>\n";
 
 	unset($_SESSION['background_image']);

@@ -61,11 +61,19 @@ else {
 	echo "</table>\n";
 
 	//prepare to page the results
-		$sql = "select count(*) from v_databases ";
-		$sql .= order_by($order_by, $order);
-		$database = new database;
-		$num_rows = $database->select($sql, null, 'column');
-		unset($sql);
+		$sql = " select count(*) as num_rows from v_databases ";
+		if (strlen($order_by)> 0) { $sql .= "order by $order_by $order "; }
+		$prep_statement = $db->prepare($sql);
+		if ($prep_statement) {
+		$prep_statement->execute();
+			$row = $prep_statement->fetch(PDO::FETCH_ASSOC);
+			if ($row['num_rows'] > 0) {
+				$num_rows = $row['num_rows'];
+			}
+			else {
+				$num_rows = '0';
+			}
+		}
 
 	//prepare to page the results
 		$rows_per_page = ($_SESSION['domain']['paging']['numeric'] != '') ? $_SESSION['domain']['paging']['numeric'] : 50;
@@ -77,11 +85,13 @@ else {
 
 	//get the  list
 		$sql = "select * from v_databases ";
-		$sql .= order_by($order_by, $order);
-		$sql .= limit_offset($rows_per_page, $offset);
-		$database = new database;
-		$result = $database->select($sql, null, 'all');
-		unset($sql);
+		if (strlen($order_by)> 0) { $sql .= "order by $order_by $order "; }
+		$sql .= "limit $rows_per_page offset $offset ";
+		$prep_statement = $db->prepare(check_sql($sql));
+		$prep_statement->execute();
+		$result = $prep_statement->fetchAll(PDO::FETCH_NAMED);
+		$result_count = count($result);
+		unset ($prep_statement, $sql);
 
 	$c = 0;
 	$row_style["0"] = "row_style0";
@@ -103,7 +113,7 @@ else {
 	echo "</td>\n";
 	echo "</tr>\n";
 
-	if (is_array($result) && sizeof($result) != 0) {
+	if ($result_count > 0) {
 		foreach($result as $row) {
 			$tr_link = "href='database_edit.php?id=".$row['database_uuid']."'";
 			echo "<tr ".$tr_link.">\n";
@@ -122,7 +132,7 @@ else {
 			echo "</tr>\n";
 			if ($c==0) { $c=1; } else { $c=0; }
 		} //end foreach
-		unset($result);
+		unset($sql, $result, $row_count);
 	} //end if results
 
 	echo "<tr>\n";

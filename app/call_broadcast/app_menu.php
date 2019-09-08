@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Массовые вызовы";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Samtalsdistribution";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Трансляція дзвінка";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Gọi Broadcast";
 	$apps[$x]['menu'][$y]['uuid'] = "50153bbf-78c5-b49e-7bd9-4b3e4b1134e6";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

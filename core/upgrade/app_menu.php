@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Обновление";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Uppgardera";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Оновлення";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Nâng cấp";
 	$apps[$x]['menu'][$y]['uuid'] = "8c826e92-be3c-0944-669a-24e5b915d562";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Базы данных";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Databaser";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Бази даних";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Cơ sở dữ liệu";
 	$apps[$x]['menu'][$y]['uuid'] = "ebbd754d-ca74-d5b1-a77e-9206ba3ecc3f";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

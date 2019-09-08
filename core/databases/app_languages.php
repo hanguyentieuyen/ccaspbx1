@@ -20,6 +20,7 @@ $text['title-databases']['ro-ro'] = "";
 $text['title-databases']['ru-ru'] = "Базы данных";
 $text['title-databases']['sv-se'] = "Databaser";
 $text['title-databases']['uk-ua'] = "Бази даних";
+$text['title-databases']['en-us'] = "Cơ sở dữ liệu";
 
 $text['title-database-edit']['en-us'] = "Database Edit";
 $text['title-database-edit']['ar-eg'] = "تعديل قاعدة البيانات";
@@ -40,6 +41,7 @@ $text['title-database-edit']['ro-ro'] = "";
 $text['title-database-edit']['ru-ru'] = "Изменение базы данных";
 $text['title-database-edit']['sv-se'] = "Ändra Databas";
 $text['title-database-edit']['uk-ua'] = "Редагування бази даних";
+$text['title-database-edit']['vi'] = "Chỉnh sửa cơ sở dữ liệu";
 
 $text['title-database-add']['en-us'] = "Database Add";
 $text['title-database-add']['ar-eg'] = "إضافة قاعدة بيانات";
@@ -60,6 +62,7 @@ $text['title-database-add']['ro-ro'] = "";
 $text['title-database-add']['ru-ru'] = "Добавить базу данных";
 $text['title-database-add']['sv-se'] = "Lägg Till Databas";
 $text['title-database-add']['uk-ua'] = "Додавання бази даних";
+$text['title-database-add']['vi'] = "Thêm cơ sở dữ liệu";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "اسم المستخدم";
@@ -80,6 +83,7 @@ $text['label-username']['ro-ro'] = "";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Tên người dùng";
 
 $text['label-port']['en-us'] = "Port";
 $text['label-port']['ar-eg'] = "منفذ";
@@ -100,6 +104,7 @@ $text['label-port']['ro-ro'] = "";
 $text['label-port']['ru-ru'] = "Порт";
 $text['label-port']['sv-se'] = "Port";
 $text['label-port']['uk-ua'] = "Порт";
+$text['label-port']['vi'] = "Cổng";
 
 $text['label-path']['en-us'] = "Path";
 $text['label-path']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-path']['ro-ro'] = "";
 $text['label-path']['ru-ru'] = "Путь";
 $text['label-path']['sv-se'] = "Sökväg";
 $text['label-path']['uk-ua'] = "Шлях";
+$text['label-path']['vi'] = "Đường dẫn";
 
 $text['label-host']['en-us'] = "Host";
 $text['label-host']['ar-eg'] = "مضيف";
@@ -140,6 +146,7 @@ $text['label-host']['ro-ro'] = "";
 $text['label-host']['ru-ru'] = "Хост";
 $text['label-host']['sv-se'] = "Värd";
 $text['label-host']['uk-ua'] = "Хост";
+$text['label-host']['vi'] = "máy chủ";
 
 $text['label-driver']['en-us'] = "Driver";
 $text['label-driver']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-driver']['ro-ro'] = "";
 $text['label-driver']['ru-ru'] = "Драйвер";
 $text['label-driver']['sv-se'] = "Drivrutin";
 $text['label-driver']['uk-ua'] = "Драйвер";
+$text['label-driver']['vi'] = "Driver";
 
 $text['header-databases']['en-us'] = "Databases";
 $text['header-databases']['ar-eg'] = "قواعد البيانات";
@@ -180,6 +188,7 @@ $text['header-databases']['ro-ro'] = "";
 $text['header-databases']['ru-ru'] = "Базы данных";
 $text['header-databases']['sv-se'] = "Databaser";
 $text['header-databases']['uk-ua'] = "Бази даних";
+$text['header-databases']['vi'] = "Cơ sở dữ liệu";
 
 $text['header-database-edit']['en-us'] = "Database Edit";
 $text['header-database-edit']['ar-eg'] = "تعديل قاعدة البيانات";
@@ -200,6 +209,7 @@ $text['header-database-edit']['ro-ro'] = "";
 $text['header-database-edit']['ru-ru'] = "Изменение базы данных";
 $text['header-database-edit']['sv-se'] = "Ändra Databas";
 $text['header-database-edit']['uk-ua'] = "Редагування бази даних";
+$text['header-database-edit']['vi'] = "Chỉnh sửa cơ sở dữ liệu";
 
 $text['header-database-add']['en-us'] = "Database Add";
 $text['header-database-add']['ar-eg'] = "إضافة قاعدة بيانات";
@@ -220,6 +230,7 @@ $text['header-database-add']['ro-ro'] = "";
 $text['header-database-add']['ru-ru'] = "Добавить базу данных";
 $text['header-database-add']['sv-se'] = "Lägg Till Databas";
 $text['header-database-add']['uk-ua'] = "Додавання бази даних";
+$text['header-database-add']['vi'] = "Thêm cơ sở dữ liệu";
 
 $text['description-username']['en-us'] = "Enter the database username.";
 $text['description-username']['ar-eg'] = "أدخل اسم المستخدم هنا";
@@ -240,6 +251,7 @@ $text['description-username']['ro-ro'] = "";
 $text['description-username']['ru-ru'] = "Введите имя пользователя базы данных.";
 $text['description-username']['sv-se'] = "Ange databasen användarnamn här.";
 $text['description-username']['uk-ua'] = "Введіть ім’я користувача бази даних";
+$text['description-username']['vi'] = "Nhập tên người dùng cơ sở dữ liệu.";
 
 $text['description-type']['en-us'] = "Select the database type.";
 $text['description-type']['ar-eg'] = "إختر نوع قاعدة البيانات";
@@ -260,6 +272,7 @@ $text['description-type']['ro-ro'] = "";
 $text['description-type']['ru-ru'] = "Выберите тип базы данных.";
 $text['description-type']['sv-se'] = "Välj databastyp";
 $text['description-type']['uk-ua'] = "Виберіть тип бази даних";
+$text['description-type']['vi'] = "Chọn loại cơ sở dữ liệu.";
 
 $text['description-port']['en-us'] = "Enter the port number.";
 $text['description-port']['ar-eg'] = "أدخل رقم المنفذ";
@@ -280,6 +293,7 @@ $text['description-port']['ro-ro'] = "";
 $text['description-port']['ru-ru'] = "Введите номер порта.";
 $text['description-port']['sv-se'] = "Ange portnummer";
 $text['description-port']['uk-ua'] = "Введіть номер порта";
+$text['description-port']['vi'] = "Nhập số cổng.";
 
 $text['description-path']['en-us'] = "Enter the database file path (SQLite only).";
 $text['description-path']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['description-path']['ro-ro'] = "";
 $text['description-path']['ru-ru'] = "Введите путь к файлу базы данных (только для SQLite).";
 $text['description-path']['sv-se'] = "Ange databasens sökväg (gäller endast SQLite).";
 $text['description-path']['uk-ua'] = "Вкажіть шлях до файлу бази даних (тільки SQLite).";
+$text['description-path']['vi'] = "Nhập đường dẫn tệp cơ sở dữ liệu (chỉ SQLite).";
 
 $text['description-password']['en-us'] = "Enter the database password.";
 $text['description-password']['ar-eg'] = "أدخل الرقم السري الخاص بقاعدة البيانات";
@@ -320,6 +335,7 @@ $text['description-password']['ro-ro'] = "";
 $text['description-password']['ru-ru'] = "Введите пароль базы данных.";
 $text['description-password']['sv-se'] = "Ange databasens lösenord.";
 $text['description-password']['uk-ua'] = "Введіть пароль бази даних.";
+$text['description-password']['vi'] = "Nhập mật khẩu cơ sở dữ liệu.";
 
 $text['description-name']['en-us'] = "Enter the database name.";
 $text['description-name']['ar-eg'] = "أدخل إسم قاعدة البيانات";
@@ -340,6 +356,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя базы данных.";
 $text['description-name']['sv-se'] = "Ange databasens namn.";
 $text['description-name']['uk-ua'] = "Введіть ім'я бази даних.";
+$text['description-name']['vi'] = "Nhập tên cơ sở dữ liệu.";
 
 $text['description-host']['en-us'] = "Enter the host name.";
 $text['description-host']['ar-eg'] = "أدخل إسم المضيف";
@@ -360,6 +377,7 @@ $text['description-host']['ro-ro'] = "";
 $text['description-host']['ru-ru'] = "Введите имя хоста.";
 $text['description-host']['sv-se'] = "Ange värdnamnet";
 $text['description-host']['uk-ua'] = "Введіть ім'я хоста.";
+$text['description-host']['vi'] = "Nhập tên máy chủ.";
 
 $text['description-driver']['en-us'] = "Select the database driver.";
 $text['description-driver']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['description-driver']['ro-ro'] = "";
 $text['description-driver']['ru-ru'] = "Выберите драйвер базы данных.";
 $text['description-driver']['sv-se'] = "Välj databas drivrutin.";
 $text['description-driver']['uk-ua'] = "Виберіть драйвер бази даних.";
+$text['description-driver']['vi'] = "Chọn driver cơ sở dữ liệu.";
 
 $text['description-databases']['en-us'] = "Database information.";
 $text['description-databases']['ar-eg'] = "بيانات قاعدة البيانات";
@@ -400,6 +419,7 @@ $text['description-databases']['ro-ro'] = "";
 $text['description-databases']['ru-ru'] = "Информация о базе данных.";
 $text['description-databases']['sv-se'] = "Databasinformation.";
 $text['description-databases']['uk-ua'] = "Інформація про базу даних.";
+$text['description-databases']['vi'] = "Thông tin cơ sở dữ liệu.";
 
 $text['description-database-edit']['en-us'] = "Database connection information.";
 $text['description-database-edit']['ar-eg'] = "بيانات الإتصال الخاص بقاعدة البيانات";
@@ -420,6 +440,7 @@ $text['description-database-edit']['ro-ro'] = "";
 $text['description-database-edit']['ru-ru'] = "Информация о соединении с базой данных.";
 $text['description-database-edit']['sv-se'] = "Information om Databasanslutning";
 $text['description-database-edit']['uk-ua'] = "інформація про підключення до бази даних.";
+$text['description-database-edit']['vi'] = "Thông tin kết nối cơ sở dữ liệu.";
 
 $text['description-database-add']['en-us'] = "Database connection information.";
 $text['description-database-add']['ar-eg'] = "بيانات الإتصال الخاص بقاعدة البيانات";
@@ -440,5 +461,6 @@ $text['description-database-add']['ro-ro'] = "";
 $text['description-database-add']['ru-ru'] = "Информация о соединении с базой данных.";
 $text['description-database-add']['sv-se'] = "Information om Databasanslutning";
 $text['description-database-add']['uk-ua'] = "інформація про підключення до бази даних.";
+$text['description-database-add']['vi'] = "Thông tin kết nối cơ sở dữ liệu.";
 
 ?>

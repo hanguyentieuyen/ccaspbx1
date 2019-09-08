@@ -20,6 +20,7 @@ $text['title-install']['ro-ro'] = "";
 $text['title-install']['ru-ru'] = "Установка";
 $text['title-install']['sv-se'] = "Installera";
 $text['title-install']['uk-ua'] = "Перший раз Встановіть";
+$text['title-install']['vi'] = "Cài đặt";
 
 $text['title-detected_configuration']['en-us'] = "Detected Configuration";
 $text['title-detected_configuration']['ar-eg'] = "تكوين الكشف عن";
@@ -40,6 +41,7 @@ $text['title-detected_configuration']['ro-ro'] = "";
 $text['title-detected_configuration']['ru-ru'] = "Обнаруженная конфигурация";
 $text['title-detected_configuration']['sv-se'] = "Detekterad Konfiguration";
 $text['title-detected_configuration']['uk-ua'] = "виявлено Конфігурація";
+$text['title-detected_configuration']['vi'] = "Cấu hình được phát hiện";
 
 $text['title-assumed_configuration']['en-us'] = "Assumed Configuration";
 $text['title-assumed_configuration']['ar-eg'] = "تكوين المفترضة";
@@ -60,6 +62,7 @@ $text['title-assumed_configuration']['ro-ro'] = "";
 $text['title-assumed_configuration']['ru-ru'] = "Предполагаемая конфигурация";
 $text['title-assumed_configuration']['sv-se'] = "Antagen Konfiguration";
 $text['title-assumed_configuration']['uk-ua'] = "передбачуваний Конфігурація";
+$text['title-assumed_configuration']['vi'] = "Cấu hình giả định";
 
 $text['label-ft-install']['en-us'] = "First Time Install";
 $text['label-ft-install']['ar-eg'] = "للمرة الأولى قم بتثبيت";
@@ -80,6 +83,7 @@ $text['label-ft-install']['ro-ro'] = "";
 $text['label-ft-install']['ru-ru'] = "Первая установка";
 $text['label-ft-install']['sv-se'] = "Första gången Installera";
 $text['label-ft-install']['uk-ua'] = "Перший раз Встановіть";
+$text['label-ft-install']['vi'] = "Cài đặt lần đầu";
 
 $text['description-ft-install']['en-us'] = "Perform all actions for a First Time Install";
 $text['description-ft-install']['ar-eg'] = "تنفيذ كافة الإجراءات لأول مرة التثبيت";
@@ -100,6 +104,7 @@ $text['description-ft-install']['ro-ro'] = "";
 $text['description-ft-install']['ru-ru'] = "Выполнять все действия для первой установки";
 $text['description-ft-install']['sv-se'] = "Utföra alla åtgärder för första gången Installera";
 $text['description-ft-install']['uk-ua'] = "Виконайте всі дії для першого разу Встановіть";
+$text['description-ft-install']['vi'] = "Thực hiện tất cả các hoạt động cho lần cài đặt đầu tiên";
 
 $text['label-add-switch']['en-us'] = "Add a new switch";
 $text['label-add-switch']['ar-eg'] = "إضافة مفتاح جديد";
@@ -120,6 +125,7 @@ $text['label-add-switch']['ro-ro'] = "";
 $text['label-add-switch']['ru-ru'] = "Добавить новый коммутатор";
 $text['label-add-switch']['sv-se'] = "Lägg till en ny switch";
 $text['label-add-switch']['uk-ua'] = "Додати новий перемикач";
+$text['label-add-switch']['vi'] = "Thêm nút chuyển";
 
 $text['label-select_language']['en-us'] = "Language";
 $text['label-select_language']['ar-eg'] = "لغة";
@@ -140,6 +146,7 @@ $text['label-select_language']['ro-ro'] = "";
 $text['label-select_language']['ru-ru'] = "Язык";
 $text['label-select_language']['sv-se'] = "Språk";
 $text['label-select_language']['uk-ua'] = "Мова";
+$text['label-select_language']['vi'] = "Ngôn ngữ";
 
 $text['label-event_host']['en-us'] = "Host address";
 $text['label-event_host']['ar-eg'] = "عنوان المضيف";
@@ -160,6 +167,7 @@ $text['label-event_host']['ro-ro'] = "";
 $text['label-event_host']['ru-ru'] = "Адрес хоста";
 $text['label-event_host']['sv-se'] = "Host adress";
 $text['label-event_host']['uk-ua'] = "адреса хоста";
+$text['label-event_host']['vi'] = "Địa chỉ máy chủ";
 
 $text['label-event_port']['en-us'] = "Port";
 $text['label-event_port']['ar-eg'] = "منفذ";
@@ -180,6 +188,7 @@ $text['label-event_port']['ro-ro'] = "";
 $text['label-event_port']['ru-ru'] = "Порт";
 $text['label-event_port']['sv-se'] = "Port";
 $text['label-event_port']['uk-ua'] = "Порт";
+$text['label-event_port']['vi'] = "Cổng";
 
 $text['label-event_password']['en-us'] = "Password";
 $text['label-event_password']['ar-eg'] = "كلمة السر";
@@ -200,6 +209,7 @@ $text['label-event_password']['ro-ro'] = "";
 $text['label-event_password']['ru-ru'] = "Пароль";
 $text['label-event_password']['sv-se'] = "Lösenord";
 $text['label-event_password']['uk-ua'] = "Пароль";
+$text['label-event_password']['vi'] = "Mật khẩu";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "اسم المستخدم";
@@ -220,6 +230,7 @@ $text['label-username']['ro-ro'] = "";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Người dùng";
 
 $text['label-port']['en-us'] = "Port";
 $text['label-port']['ar-eg'] = "منفذ";
@@ -240,6 +251,7 @@ $text['label-port']['ro-ro'] = "";
 $text['label-port']['ru-ru'] = "Порт";
 $text['label-port']['sv-se'] = "Port";
 $text['label-port']['uk-ua'] = "Порт";
+$text['label-port']['vi'] = "Cổng";
 
 $text['label-path']['en-us'] = "Path";
 $text['label-path']['ar-eg'] = "مسار";
@@ -260,6 +272,7 @@ $text['label-path']['ro-ro'] = "";
 $text['label-path']['ru-ru'] = "Путь";
 $text['label-path']['sv-se'] = "Sökväg";
 $text['label-path']['uk-ua'] = "Шлях";
+$text['label-path']['vi'] = "Đường dẫn";
 
 $text['label-host']['en-us'] = "Host";
 $text['label-host']['ar-eg'] = "مضيف";
@@ -280,6 +293,7 @@ $text['label-host']['ro-ro'] = "";
 $text['label-host']['ru-ru'] = "Хост";
 $text['label-host']['sv-se'] = "Värd";
 $text['label-host']['uk-ua'] = "Хост";
+$text['label-host']['vi'] = "Máy chủ";
 
 $text['label-driver']['en-us'] = "Driver";
 $text['label-driver']['ar-eg'] = "سائق";
@@ -320,6 +334,7 @@ $text['header-install']['ro-ro'] = "";
 $text['header-install']['ru-ru'] = "Установка";
 $text['header-install']['sv-se'] = "Installera";
 $text['header-install']['uk-ua'] = "встановлювати";
+$text['header-install']['vi'] = "Cài đặt";
 
 $text['header-select_language']['en-us'] = "Select Language";
 $text['header-select_language']['ar-eg'] = "اختار اللغة";
@@ -340,6 +355,7 @@ $text['header-select_language']['ro-ro'] = "";
 $text['header-select_language']['ru-ru'] = "Выберите язык";
 $text['header-select_language']['sv-se'] = "Välj språk";
 $text['header-select_language']['uk-ua'] = "вибір мови";
+$text['header-select_language']['vi'] = "Chọn ngôn ngữ";
 
 $text['header-event_socket']['en-us'] = "Event Socket Configuration";
 $text['header-event_socket']['ar-eg'] = "تكوين المقبس الحدث";
@@ -380,6 +396,7 @@ $text['header-config_detail']['ro-ro'] = "";
 $text['header-config_detail']['ru-ru'] = "Конфигурация администратора";
 $text['header-config_detail']['sv-se'] = "Admin Konfiguration";
 $text['header-config_detail']['uk-ua'] = "конфігурація Адмін";
+$text['header-config_detail']['vi'] = "Cấu hình quản trị";
 
 $text['header-config_database']['en-us'] = "Database Configuration";
 $text['header-config_database']['ar-eg'] = "تكوين قاعدة بيانات";
@@ -400,6 +417,7 @@ $text['header-config_database']['ro-ro'] = "";
 $text['header-config_database']['ru-ru'] = "Конфигурация базы данных";
 $text['header-config_database']['sv-se'] = "Databaskonfiguration ";
 $text['header-config_database']['uk-ua'] = "конфігурація бази даних";
+$text['header-config_database']['vi'] = "Cấu hình cơ sở dữ liệu";
 
 $text['header-installing']['en-us'] = "Executing Install";
 $text['header-installing']['ar-eg'] = "تنفيذ التثبيت";
@@ -420,6 +438,7 @@ $text['header-installing']['ro-ro'] = "";
 $text['header-installing']['ru-ru'] = "Выполнение установки";
 $text['header-installing']['sv-se'] = "Exekvera Installera";
 $text['header-installing']['uk-ua'] = "виконання Встановіть";
+$text['header-installing']['vi'] = "Đang cài đặt";
 
 $text['description-event_host']['en-us'] = "Enter the event socket host name or IP address.";
 $text['description-event_host']['ar-eg'] = "أدخل اسم المضيف مأخذ الحدث.";

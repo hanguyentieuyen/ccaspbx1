@@ -20,6 +20,7 @@ $text['title-dialplan-inbound-add']['ro-ro'] = "";
 $text['title-dialplan-inbound-add']['ru-ru'] = "Маршрутизация входящих вызовов";
 $text['title-dialplan-inbound-add']['sv-se'] = "Inkommande Call Routing";
 $text['title-dialplan-inbound-add']['uk-ua'] = "Маршрутизація вхідних дзвінків";
+$text['title-dialplan-inbound-add']['vi'] = "Định tuyến cuộc gọi Inbound";
 
 $text['option-uuid']['en-us'] = "UUID";
 $text['option-uuid']['ar-eg'] = "";
@@ -60,6 +61,7 @@ $text['option-username']['ro-ro'] = "";
 $text['option-username']['ru-ru'] = "Имя Пользователя";
 $text['option-username']['sv-se'] = "Användarnamn";
 $text['option-username']['uk-ua'] = "Користувач";
+$text['option-username']['vi'] = "Tên người dùng";
 
 $text['option-source']['en-us'] = "Source";
 $text['option-source']['ar-eg'] = "";
@@ -80,6 +82,7 @@ $text['option-source']['ro-ro'] = "";
 $text['option-source']['ru-ru'] = "Источник";
 $text['option-source']['sv-se'] = "Källa";
 $text['option-source']['uk-ua'] = "Джерело";
+$text['option-source']['vi'] = "Nguồn";
 
 $text['option-rdnis']['en-us'] = "RDNIS";
 $text['option-rdnis']['ar-eg'] = "";
@@ -120,6 +123,7 @@ $text['option-public']['ro-ro'] = "";
 $text['option-public']['ru-ru'] = "Публичный";
 $text['option-public']['sv-se'] = "Publik";
 $text['option-public']['uk-ua'] = "Публічний";
+$text['option-public']['vi'] = "=Công khai";
 
 $text['option-network_addr']['en-us'] = "Network Address";
 $text['option-network_addr']['ar-eg'] = "";
@@ -140,6 +144,7 @@ $text['option-network_addr']['ro-ro'] = "";
 $text['option-network_addr']['ru-ru'] = "Сетевой адрес";
 $text['option-network_addr']['sv-se'] = "Nätverk Address";
 $text['option-network_addr']['uk-ua'] = "Адреси мережі";
+$text['option-network_addr']['vi'] = "Địa chỉ mạng";
 
 $text['option-destination_number']['en-us'] = "Destination Number";
 $text['option-destination_number']['ar-eg'] = "";
@@ -160,6 +165,7 @@ $text['option-destination_number']['ro-ro'] = "";
 $text['option-destination_number']['ru-ru'] = "Целевой номер";
 $text['option-destination_number']['sv-se'] = "Destination Nummer";
 $text['option-destination_number']['uk-ua'] = "Номер призначення";
+$text['option-destination_number']['vi'] = "Số điện thoại đích đến";
 
 $text['option-context']['en-us'] = "Context";
 $text['option-context']['ar-eg'] = "";
@@ -200,6 +206,7 @@ $text['option-chan_name']['ro-ro'] = "";
 $text['option-chan_name']['ru-ru'] = "Имя Канала";
 $text['option-chan_name']['sv-se'] = "Kanal Namn";
 $text['option-chan_name']['uk-ua'] = "Назва каналу";
+$text['option-chan_name']['vi'] = "Tên kênh";
 
 $text['option-caller_id_number']['en-us'] = "Caller ID Number";
 $text['option-caller_id_number']['ar-eg'] = "";
@@ -300,6 +307,7 @@ $text['label-select-inbound-destination-number']['ro-ro'] = "";
 $text['label-select-inbound-destination-number']['ru-ru'] = "Выберите номер входящего набора.";
 $text['label-select-inbound-destination-number']['sv-se'] = "Välj inkommande destinations nummer.";
 $text['label-select-inbound-destination-number']['uk-ua'] = "Виберіть вхідний номер";
+$text['label-select-inbound-destination-number']['vi'] = "Chọn số đích đến bên trong.";
 
 $text['label-required-domain_uuid']['en-us'] = "Please provide: domain_uuid";
 $text['label-required-domain_uuid']['ar-eg'] = "";
@@ -340,6 +348,7 @@ $text['label-required-dialplan_name']['ro-ro'] = "";
 $text['label-required-dialplan_name']['ru-ru'] = "Пожалуйста укажите: Имя Внутреннего Номера";
 $text['label-required-dialplan_name']['sv-se'] = "Var god ange: Anknytning Namn";
 $text['label-required-dialplan_name']['uk-ua'] = "Будь ласка, надайте назву розширення";
+$text['label-required-dialplan_name']['vi'] = "Vui lòng cung cấp: Tên máy nhánh";
 
 $text['label-required-condition_field_1']['en-us'] = "Please provide: Condition Field";
 $text['label-required-condition_field_1']['ar-eg'] = "";
@@ -360,6 +369,7 @@ $text['label-required-condition_field_1']['ro-ro'] = "";
 $text['label-required-condition_field_1']['ru-ru'] = "Пожалуйста укажите: Условия участия";
 $text['label-required-condition_field_1']['sv-se'] = "Var god ange:  Villkor Fält";
 $text['label-required-condition_field_1']['uk-ua'] = "Будь ласка, надайте поле умови";
+$text['label-required-condition_field_1']['vi'] = "Vui lòng cung cấp: Trường điều kiện";
 
 $text['label-required-condition_expression_1']['en-us'] = "Please provide: Condition Expression";
 $text['label-required-condition_expression_1']['ar-eg'] = "";
@@ -380,6 +390,7 @@ $text['label-required-condition_expression_1']['ro-ro'] = "";
 $text['label-required-condition_expression_1']['ru-ru'] = "Пожалуйста укажите: выражение условия";
 $text['label-required-condition_expression_1']['sv-se'] = "Var god ange: Villkor Uttryck";
 $text['label-required-condition_expression_1']['uk-ua'] = "Будь ласка, надайте  вираз умови";
+$text['label-required-condition_expression_1']['vi'] = "Vui lòng cung cấp: Biểu thức điều kiện";
 
 $text['label-required-action_application_1']['en-us'] = "Please provide: Action Application";
 $text['label-required-action_application_1']['ar-eg'] = "";
@@ -400,6 +411,7 @@ $text['label-required-action_application_1']['ro-ro'] = "";
 $text['label-required-action_application_1']['ru-ru'] = "Пожалуйста укажите: Применение приложения";
 $text['label-required-action_application_1']['sv-se'] = "Var god ange:  Action Applikation";
 $text['label-required-action_application_1']['uk-ua'] = "Будь ласка, надайте додаток для дії";
+$text['label-required-action_application_1']['vi'] = "Vui lòng cung cấp: Ứng dụng hoạt động";
 
 $text['label-caller-id-number-prefix']['en-us'] = "Caller ID Number Prefix";
 $text['label-caller-id-number-prefix']['ar-eg'] = "";
@@ -440,6 +452,7 @@ $text['label-limit']['ro-ro'] = "";
 $text['label-limit']['ru-ru'] = "Лимит";
 $text['label-limit']['sv-se'] = "Begränsning";
 $text['label-limit']['uk-ua'] = "Обмеження";
+$text['label-limit']['vi'] = "Giới hạn";
 
 $text['label-field']['en-us'] = "Field";
 $text['label-field']['ar-eg'] = "";
@@ -460,6 +473,7 @@ $text['label-field']['ro-ro'] = "";
 $text['label-field']['ru-ru'] = "Поле";
 $text['label-field']['sv-se'] = "Fält";
 $text['label-field']['uk-ua'] = "Поле";
+$text['label-field']['vi'] = "Trường";
 
 $text['label-expression']['en-us'] = "Expression";
 $text['label-expression']['ar-eg'] = "";
@@ -480,6 +494,7 @@ $text['label-expression']['ro-ro'] = "";
 $text['label-expression']['ru-ru'] = "Выражение";
 $text['label-expression']['sv-se'] = "Uttryck";
 $text['label-expression']['uk-ua'] = "Вираз";
+$text['label-expression']['vi'] = "Expression";
 
 $text['label-destination-number']['en-us'] = "Destination Number";
 $text['label-destination-number']['ar-eg'] = "";

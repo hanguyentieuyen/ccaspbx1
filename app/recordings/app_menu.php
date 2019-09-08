@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Записи";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Inspelningar";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Записи";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Ghi âm";
 	$apps[$x]['menu'][$y]['uuid'] = "e4290fd2-3ccc-a758-1714-660d38453104";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Quản lý hộp thư thư thoại";
+		
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";
@@ -56,27 +57,21 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "voicemail_import";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_message_view";
 		$apps[$x]['permissions'][$y]['menu']['uuid'] = "0347f82a-62a0-49d0-bacd-511d080c46d5";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_message_add";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_message_edit";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
@@ -86,7 +81,6 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_sms_edit";
 		$y++;
@@ -102,25 +96,21 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_option_edit";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_option_view";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "voicemail_option_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "user";
-		$apps[$x]['permissions'][$y]['groups'][] = "agent";
 
 	//default settings
 		$y=0;
@@ -156,22 +146,6 @@
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Maximum length of a voicemail (in seconds).";
 		$y++;
-		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "26879cf4-633f-41f0-a652-0c67acdc8fe2";
-		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
-		$apps[$x]['default_settings'][$y]['default_setting_subcategory'] = "message_silence_threshold";
-		$apps[$x]['default_settings'][$y]['default_setting_name'] = "numeric";
-		$apps[$x]['default_settings'][$y]['default_setting_value'] = "200";
-		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
-		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Energy level below this number is considered silence.";
-		$y++;
-		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "bb9efdd8-9d8e-422c-b8bd-6408a540e55c";
-		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
-		$apps[$x]['default_settings'][$y]['default_setting_subcategory'] = "message_silence_seconds";
-		$apps[$x]['default_settings'][$y]['default_setting_name'] = "numeric";
-		$apps[$x]['default_settings'][$y]['default_setting_value'] = "3";
-		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
-		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Seconds of silence to end the recording for the voicemail message.";
-		$y++;
 		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "bfe802b1-fcad-41a3-9da2-6b0efdb0c05f";
 		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
 		$apps[$x]['default_settings'][$y]['default_setting_subcategory'] = "password_length";
@@ -187,22 +161,6 @@
 		$apps[$x]['default_settings'][$y]['default_setting_value'] = "90";
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Maximum length of a voicemail greeting (in seconds).";
-		$y++;
-		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "ce5f4ff1-7371-425a-a914-028da69297a1";
-		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
-		$apps[$x]['default_settings'][$y]['default_setting_subcategory'] = "greeting_silence_threshold";
-		$apps[$x]['default_settings'][$y]['default_setting_name'] = "numeric";
-		$apps[$x]['default_settings'][$y]['default_setting_value'] = "200";
-		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
-		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Energy level below this number is considered silence.";
-		$y++;
-		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "a169bf8f-ea14-40a2-9fef-af18445b6770";
-		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
-		$apps[$x]['default_settings'][$y]['default_setting_subcategory'] = "greeting_silence_seconds";
-		$apps[$x]['default_settings'][$y]['default_setting_name'] = "numeric";
-		$apps[$x]['default_settings'][$y]['default_setting_value'] = "3";
-		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
-		$apps[$x]['default_settings'][$y]['default_setting_description'] = "Seconds of silence to end the recording for the voicemail greeting.";
 		$y++;
 		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "dd09f9d8-6662-4270-9dac-b87191b77012";
 		$apps[$x]['default_settings'][$y]['default_setting_category'] = "voicemail";
@@ -366,8 +324,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = "char(36)";
 		$apps[$x]['db'][$y]['fields'][$z]['key']['type'] = "foreign";
-		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['table'] = "v_voicemails";
-		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['field'] = "voicemail_uuid";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "created_epoch";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "numeric";

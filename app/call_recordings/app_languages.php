@@ -20,6 +20,7 @@ $text['title-call_recordings']['ro-ro'] = "";
 $text['title-call_recordings']['ru-ru'] = "Записи разговоров";
 $text['title-call_recordings']['sv-se'] = "";
 $text['title-call_recordings']['uk-ua'] = "";
+$text['title-call_recordings']['vi'] = "Ghi âm cuộc gọi";
 
 $text['title-call_recording']['en-us'] = "Call Recording";
 $text['title-call_recording']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-call_recording']['ro-ro'] = "";
 $text['title-call_recording']['ru-ru'] = "Запись разговора";
 $text['title-call_recording']['sv-se'] = "";
 $text['title-call_recording']['uk-ua'] = "";
+$text['title-call_recording']['vi'] = "Ghi âm cuộc gọi";
 
 $text['title_description-call_recording']['en-us'] = "Shows the call recordings with name, length, date and time, and call direction.";
 $text['title_description-call_recording']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title_description-call_recording']['ro-ro'] = "";
 $text['title_description-call_recording']['ru-ru'] = "Показывает доступные записи разговоров с именем, датой, временем и направлением вызова.";
 $text['title_description-call_recording']['sv-se'] = "";
 $text['title_description-call_recording']['uk-ua'] = "";
+$text['title_description-call_recording']['vi'] = "Hiển thị bản ghi cuộc gọi với tên, độ dài, ngày và giờ và hướng cuộc gọi.";
 
 $text['label-call_recording_name']['en-us'] = "Name";
 $text['label-call_recording_name']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-call_recording_name']['ro-ro'] = "";
 $text['label-call_recording_name']['ru-ru'] = "Имя";
 $text['label-call_recording_name']['sv-se'] = "";
 $text['label-call_recording_name']['uk-ua'] = "";
+$text['label-call_recording_name']['vi'] = "Tên";
 
 $text['description-call_recording_name']['en-us'] = "";
 $text['description-call_recording_name']['ar-eg'] = "";
@@ -120,6 +124,7 @@ $text['label-call_recording_path']['ro-ro'] = "";
 $text['label-call_recording_path']['ru-ru'] = "Путь";
 $text['label-call_recording_path']['sv-se'] = "";
 $text['label-call_recording_path']['uk-ua'] = "";
+$text['label-call_recording_path']['vi'] = "Đường dẫn";
 
 $text['description-call_recording_path']['en-us'] = "";
 $text['description-call_recording_path']['ar-eg'] = "";
@@ -160,6 +165,7 @@ $text['label-call_recording_length']['ro-ro'] = "";
 $text['label-call_recording_length']['ru-ru'] = "Длительность";
 $text['label-call_recording_length']['sv-se'] = "";
 $text['label-call_recording_length']['uk-ua'] = "";
+$text['label-call_recording_length']['vi'] = "Độ dài";
 
 $text['description-call_recording_length']['en-us'] = "";
 $text['description-call_recording_length']['ar-eg'] = "";
@@ -200,6 +206,7 @@ $text['label-call_recording_date']['ro-ro'] = "";
 $text['label-call_recording_date']['ru-ru'] = "Дата";
 $text['label-call_recording_date']['sv-se'] = "";
 $text['label-call_recording_date']['uk-ua'] = "";
+$text['label-call_recording_date']['vi'] = "Ngày";
 
 $text['description-call_recording_date']['en-us'] = "";
 $text['description-call_recording_date']['ar-eg'] = "";
@@ -240,6 +247,7 @@ $text['label-call_direction']['ro-ro'] = "";
 $text['label-call_direction']['ru-ru'] = "Направление";
 $text['label-call_direction']['sv-se'] = "";
 $text['label-call_direction']['uk-ua'] = "";
+$text['label-call_direction']['vi'] = "Địa chỉ";
 
 $text['description-call_direction']['en-us'] = "";
 $text['description-call_direction']['ar-eg'] = "";
@@ -280,6 +288,7 @@ $text['label-call_recording_description']['ro-ro'] = "";
 $text['label-call_recording_description']['ru-ru'] = "Описание";
 $text['label-call_recording_description']['sv-se'] = "";
 $text['label-call_recording_description']['uk-ua'] = "";
+$text['label-call_recording_description']['vi'] = "Mô tả";
 
 $text['description-call_recording_description']['en-us'] = "";
 $text['description-call_recording_description']['ar-eg'] = "";

@@ -20,6 +20,7 @@ $text['title-dialplan_manager']['ro-ro'] = "";
 $text['title-dialplan_manager']['ru-ru'] = "Управление Планом Нумерации";
 $text['title-dialplan_manager']['sv-se'] = "Nummerplan Inställningar";
 $text['title-dialplan_manager']['uk-ua'] = "Керування маршрутизацією";
+$text['title-dialplan_manager']['vi'] = "Quản lý quay số";
 
 $text['title-dialplan_edit']['en-us'] = "Dialplan";
 $text['title-dialplan_edit']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-dialplan_edit']['ro-ro'] = "";
 $text['title-dialplan_edit']['ru-ru'] = "План Нумерации";
 $text['title-dialplan_edit']['sv-se'] = "Nummerplan";
 $text['title-dialplan_edit']['uk-ua'] = "Маршрутизація";
+$text['title-dialplan_edit']['vi'] = "Quay số";
 
 $text['title-dialplan_detail']['en-us'] = "Dialplan Detail";
 $text['title-dialplan_detail']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-dialplan_detail']['ro-ro'] = "";
 $text['title-dialplan_detail']['ru-ru'] = "Подробная информация о Плане Нумерации";
 $text['title-dialplan_detail']['sv-se'] = "Nummerplan Detaljer";
 $text['title-dialplan_detail']['uk-ua'] = "Деталі маршрутизації";
+$text['title-dialplan_detail']['vi'] = "Chi tiết quay số";
 
 $text['title-dialplan_add']['en-us'] = "Dialplan";
 $text['title-dialplan_add']['ar-eg'] = "";
@@ -80,26 +83,7 @@ $text['title-dialplan_add']['ro-ro'] = "";
 $text['title-dialplan_add']['ru-ru'] = "План Нумерации";
 $text['title-dialplan_add']['sv-se'] = "Nummerplan";
 $text['title-dialplan_add']['uk-ua'] = "Маршрутизація";
-
-$text['title-dialplans']['en-us'] = "Dialplans";
-$text['title-dialplans']['ar-eg'] = "";
-$text['title-dialplans']['de-at'] = "Wählplan"; //copied from de-de
-$text['title-dialplans']['de-ch'] = "Wählplan"; //copied from de-de
-$text['title-dialplans']['de-de'] = "Wählplan";
-$text['title-dialplans']['es-cl'] = "Plan de Marcado";
-$text['title-dialplans']['es-mx'] = "Plan de Marcado"; //copied from es-cl
-$text['title-dialplans']['fr-ca'] = "Plan de num"; //copied from fr-fr
-$text['title-dialplans']['fr-fr'] = "Plan de num";
-$text['title-dialplans']['he-il'] = "תוכנית חיוג";
-$text['title-dialplans']['it-it'] = "";
-$text['title-dialplans']['nl-nl'] = "";
-$text['title-dialplans']['pl-pl'] = "Dialplan ";
-$text['title-dialplans']['pt-br'] = "Dialplan"; //copied from pt-pt
-$text['title-dialplans']['pt-pt'] = "Dialplan";
-$text['title-dialplans']['ro-ro'] = "";
-$text['title-dialplans']['ru-ru'] = "План Нумерации";
-$text['title-dialplans']['sv-se'] = "Nummerplan";
-$text['title-dialplans']['uk-ua'] = "Маршрутизація";
+$text['title-dialplan_add']['vi'] = "Quay số ";
 
 $text['title-default_dialplan']['en-us'] = "Default Dialplan";
 $text['title-default_dialplan']['ar-eg'] = "";
@@ -120,6 +104,7 @@ $text['title-default_dialplan']['ro-ro'] = "";
 $text['title-default_dialplan']['ru-ru'] = "План Нумерации по умолчанию";
 $text['title-default_dialplan']['sv-se'] = "Standard Nummerplan";
 $text['title-default_dialplan']['uk-ua'] = "Маршрутизація за замовчуванням";
+$text['title-default_dialplan']['vi'] = "Quay số mặc định";
 
 $text['title-time_conditions']['en-us'] = "Time Conditions";
 $text['title-time_conditions']['ar-eg'] = "";
@@ -140,6 +125,7 @@ $text['title-time_conditions']['ro-ro'] = "";
 $text['title-time_conditions']['ru-ru'] = "Временные условия";
 $text['title-time_conditions']['sv-se'] = "Tids Förhållande";
 $text['title-time_conditions']['uk-ua'] = "Часові умови";
+$text['title-time_conditions']['vi'] = "Điều kiện thời gian";
 
 $text['title-outbound_routes']['en-us'] = "Outbound Routes";
 $text['title-outbound_routes']['ar-eg'] = "";
@@ -160,6 +146,7 @@ $text['title-outbound_routes']['ro-ro'] = "";
 $text['title-outbound_routes']['ru-ru'] = "Исходящие маршруты";
 $text['title-outbound_routes']['sv-se'] = "Utgående Router";
 $text['title-outbound_routes']['uk-ua'] = "Маршрути вихідних дзвінків";
+$text['title-outbound_routes']['vi'] = "Định tuyến ra ngoài";
 
 $text['title-inbound_routes']['en-us'] = "Inbound Routes";
 $text['title-inbound_routes']['ar-eg'] = "";
@@ -180,6 +167,7 @@ $text['title-inbound_routes']['ro-ro'] = "";
 $text['title-inbound_routes']['ru-ru'] = "Входящие маршруты";
 $text['title-inbound_routes']['sv-se'] = "Inkommande Router";
 $text['title-inbound_routes']['uk-ua'] = "Маршрути вхідних дзвінків";
+$text['title-inbound_routes']['vi'] = "Định tuyến bên trong";
 
 $text['title-other']['en-us'] = "Other";
 $text['title-other']['ar-eg'] = "";
@@ -200,6 +188,7 @@ $text['title-other']['ro-ro'] = "";
 $text['title-other']['ru-ru'] = "Другие";
 $text['title-other']['sv-se'] = "Annat";
 $text['title-other']['uk-ua'] = "Інший";
+$text['title-other']['vi'] = "Khác";
 
 $text['option-check_voicemail']['en-us'] = "Check Voicemail";
 $text['option-check_voicemail']['ar-eg'] = "";
@@ -220,6 +209,7 @@ $text['option-check_voicemail']['ro-ro'] = "";
 $text['option-check_voicemail']['ru-ru'] = "Проверить Голосовую Почту";
 $text['option-check_voicemail']['sv-se'] = "Kontrollera röstbrevlådan";
 $text['option-check_voicemail']['uk-ua'] = "Перевірте голосову пошту";
+$text['option-check_voicemail']['vi'] = "Kiểm tra thư thoại";
 
 $text['option-company_directory']['en-us'] = "Company Directory";
 $text['option-company_directory']['ar-eg'] = "";
@@ -240,6 +230,7 @@ $text['option-company_directory']['ro-ro'] = "";
 $text['option-company_directory']['ru-ru'] = "Каталог компаний";
 $text['option-company_directory']['sv-se'] = "Företagskatalog";
 $text['option-company_directory']['uk-ua'] = "Каталог компаній";
+$text['option-company_directory']['vi'] = "Danh mục công ty";
 
 $text['option-hangup']['en-us'] = "Hangup";
 $text['option-hangup']['ar-eg'] = "";
@@ -260,6 +251,7 @@ $text['option-hangup']['ro-ro'] = "";
 $text['option-hangup']['ru-ru'] = "Отбой";
 $text['option-hangup']['sv-se'] = "Lägg på";
 $text['option-hangup']['uk-ua'] = "роз'єднання";
+$text['option-hangup']['vi'] = "Gác máy";
 
 $text['option-record']['en-us'] = "Record";
 $text['option-record']['ar-eg'] = "";
@@ -280,6 +272,7 @@ $text['option-record']['ro-ro'] = "";
 $text['option-record']['ru-ru'] = "Запись";
 $text['option-record']['sv-se'] = "Spela";
 $text['option-record']['uk-ua'] = "Запис";
+$text['option-record']['vi'] = "Ghi âm";
 
 $text['select-global']['en-us'] = "Global";
 $text['select-global']['ar-eg'] = "";
@@ -300,6 +293,7 @@ $text['select-global']['ro-ro'] = "";
 $text['select-global']['ru-ru'] = "Глобальный";
 $text['select-global']['sv-se'] = "Global";
 $text['select-global']['uk-ua'] = "Глобальний";
+$text['select-global']['vi'] = "Toàn cầu";
 
 $text['option-year']['en-us'] = "Year";
 $text['option-year']['ar-eg'] = "";
@@ -320,6 +314,8 @@ $text['option-year']['ro-ro'] = "";
 $text['option-year']['ru-ru'] = "Год";
 $text['option-year']['sv-se'] = "År";
 $text['option-year']['uk-ua'] = "Рік";
+$text['option-year']['vi'] = "Năm";
+
 
 $text['option-week_of_month']['en-us'] = "Week of Month";
 $text['option-week_of_month']['ar-eg'] = "";
@@ -340,6 +336,7 @@ $text['option-week_of_month']['ro-ro'] = "";
 $text['option-week_of_month']['ru-ru'] = "Неделя месяца";
 $text['option-week_of_month']['sv-se'] = "Vecka i Månad";
 $text['option-week_of_month']['uk-ua'] = "Тиждень місяця";
+$text['option-week_of_month']['vi'] = "Tuần của tháng";
 
 $text['option-week']['en-us'] = "Week";
 $text['option-week']['ar-eg'] = "";
@@ -360,6 +357,7 @@ $text['option-week']['ro-ro'] = "";
 $text['option-week']['ru-ru'] = "Неделя";
 $text['option-week']['sv-se'] = "Vecka";
 $text['option-week']['uk-ua'] = "Тиждень";
+$text['option-week']['vi'] = "Tuần";
 
 $text['option-uuid']['en-us'] = "UUID";
 $text['option-uuid']['ar-eg'] = "";
@@ -400,6 +398,7 @@ $text['option-username']['ro-ro'] = "";
 $text['option-username']['ru-ru'] = "Имя Пользователя";
 $text['option-username']['sv-se'] = "Användarnamn";
 $text['option-username']['uk-ua'] = "Користувач";
+$text['option-username']['vi'] = "Tên người dùng";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -420,6 +419,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-source']['en-us'] = "Source";
 $text['option-source']['ar-eg'] = "";
@@ -440,6 +440,7 @@ $text['option-source']['ro-ro'] = "";
 $text['option-source']['ru-ru'] = "Исходный";
 $text['option-source']['sv-se'] = "Källa";
 $text['option-source']['uk-ua'] = "Джерело";
+$text['option-source']['vi'] = "Nguồn";
 
 $text['option-regex']['en-us'] = "Regular Expression";
 $text['option-regex']['ar-eg'] = "";
@@ -1020,26 +1021,6 @@ $text['optgroup-applications']['ro-ro'] = "";
 $text['optgroup-applications']['ru-ru'] = "Приложения";
 $text['optgroup-applications']['sv-se'] = "Applikationer";
 $text['optgroup-applications']['uk-ua'] = "Додаток";
-
-$text['label-destination']['en-us'] = "Destination";
-$text['label-destination']['ar-eg'] = "جهه الأتصال";
-$text['label-destination']['de-at'] = "Ziel"; //copied from de-de
-$text['label-destination']['de-ch'] = "Ziel"; //copied from de-de
-$text['label-destination']['de-de'] = "Ziel";
-$text['label-destination']['es-cl'] = "Destino";
-$text['label-destination']['es-mx'] = "Destino"; //copied from es-cl
-$text['label-destination']['fr-ca'] = "la Destination"; //copied from fr-fr
-$text['label-destination']['fr-fr'] = "la Destination";
-$text['label-destination']['he-il'] = "יעד";
-$text['label-destination']['it-it'] = "Destinazione";
-$text['label-destination']['nl-nl'] = "";
-$text['label-destination']['pl-pl'] = "Destynacja";
-$text['label-destination']['pt-br'] = "destino";
-$text['label-destination']['pt-pt'] = "Desvio";
-$text['label-destination']['ro-ro'] = "Destinație";
-$text['label-destination']['ru-ru'] = "Направление";
-$text['label-destination']['sv-se'] = "Destination";
-$text['label-destination']['uk-ua'] = "Номер";
 
 $text['label-tag']['en-us'] = "Tag";
 $text['label-tag']['ar-eg'] = "";

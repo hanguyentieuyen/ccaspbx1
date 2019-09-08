@@ -20,6 +20,7 @@ $text['title-call_flows']['ro-ro'] = "";
 $text['title-call_flows']['ru-ru'] = "Переключатели вызовов";
 $text['title-call_flows']['sv-se'] = "Samtalsflöden";
 $text['title-call_flows']['uk-ua'] = "Потоки дзвінків";
+$text['title-call_flows']['vi'] = "Lưu lượng cuộc gọi";
 
 $text['title-call_flow']['en-us'] = "Call Flow";
 $text['title-call_flow']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-call_flow']['ro-ro'] = "";
 $text['title-call_flow']['ru-ru'] = "Переключатель вызовов";
 $text['title-call_flow']['sv-se'] = "Samtalsflöde";
 $text['title-call_flow']['uk-ua'] = "Потік дзвінків";
+$text['title-call_flow']['vi'] = "Lưu lượng cuộc gọi";
 
 $text['label-call_flow_name']['en-us'] = "Name";
 $text['label-call_flow_name']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-call_flow_name']['ro-ro'] = "";
 $text['label-call_flow_name']['ru-ru'] = "Имя";
 $text['label-call_flow_name']['sv-se'] = "Namn";
 $text['label-call_flow_name']['uk-ua'] = "Назва";
+$text['label-call_flow_name']['vi'] = "Tên";
 
 $text['label-call_flow_status']['en-us'] = "Status";
 $text['label-call_flow_status']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-call_flow_status']['ro-ro'] = "";
 $text['label-call_flow_status']['ru-ru'] = "Статус";
 $text['label-call_flow_status']['sv-se'] = "Status";
 $text['label-call_flow_status']['uk-ua'] = "Статус";
+$text['label-call_flow_status']['vi'] = "Trạng thái";
 
 $text['label-call_flow_pin_number']['en-us'] = "PIN Number";
 $text['label-call_flow_pin_number']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-call_flow_pin_number']['ro-ro'] = "";
 $text['label-call_flow_pin_number']['ru-ru'] = "PIN код";
 $text['label-call_flow_pin_number']['sv-se'] = "PIN Kod";
 $text['label-call_flow_pin_number']['uk-ua'] = "PIN-код";
+$text['label-call_flow_pin_number']['vi'] = "Mã PIN";
 
 $text['label-call_flow_feature_code']['en-us'] = "Feature Code";
 $text['label-call_flow_feature_code']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-call_flow_feature_code']['ro-ro'] = "";
 $text['label-call_flow_feature_code']['ru-ru'] = "Код функции";
 $text['label-call_flow_feature_code']['sv-se'] = "Funktionskod";
 $text['label-call_flow_feature_code']['uk-ua'] = "";
+$text['label-call_flow_feature_code']['vi'] = "Mã tính năng";
 
 $text['label-call_flow_extension']['en-us'] = "Extension";
 $text['label-call_flow_extension']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-call_flow_extension']['ro-ro'] = "";
 $text['label-call_flow_extension']['ru-ru'] = "Внутренний номер";
 $text['label-call_flow_extension']['sv-se'] = "Anknytning";
 $text['label-call_flow_extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-call_flow_extension']['vi'] = "Máy nhánh";
 
 $text['label-call_flow_label']['en-us'] = "Destination Label";
 $text['label-call_flow_label']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-call_flow_label']['ro-ro'] = "";
 $text['label-call_flow_label']['ru-ru'] = "Название направления";
 $text['label-call_flow_label']['sv-se'] = "Destination Etikett";
 $text['label-call_flow_label']['uk-ua'] = "призначення етикетки";
+$text['label-call_flow_label']['vi'] = "Nhãn đích đến";
 
 $text['label-call_flow_destination']['en-us'] = "Destination";
 $text['label-call_flow_destination']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-call_flow_destination']['ro-ro'] = "";
 $text['label-call_flow_destination']['ru-ru'] = "Направление";
 $text['label-call_flow_destination']['sv-se'] = "Destination";
 $text['label-call_flow_destination']['uk-ua'] = "Номер";
+$text['label-call_flow_destination']['vi'] = "Điểm đến";
 
 $text['label-call_flow_context']['en-us'] = "Context";
 $text['label-call_flow_context']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-call_flow_context']['ro-ro'] = "";
 $text['label-call_flow_context']['ru-ru'] = "Контекст";
 $text['label-call_flow_context']['sv-se'] = "Context";
 $text['label-call_flow_context']['uk-ua'] = "Контекст";
+$text['label-call_flow_context']['vi'] = "Context";
 
 $text['label-call_flow_alternate_label']['en-us'] = "Alternate Label";
 $text['label-call_flow_alternate_label']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-call_flow_alternate_label']['ro-ro'] = "";
 $text['label-call_flow_alternate_label']['ru-ru'] = "Название альтернативного направления";
 $text['label-call_flow_alternate_label']['sv-se'] = "Alternativ Etikett";
 $text['label-call_flow_alternate_label']['uk-ua'] = "альтернативні етикетки";
+$text['label-call_flow_alternate_label']['vi'] = "Nhãn thay thế";
 
 $text['label-call_flow_alternate_destination']['en-us'] = "Alternate Destination";
 $text['label-call_flow_alternate_destination']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-call_flow_alternate_destination']['ro-ro'] = "";
 $text['label-call_flow_alternate_destination']['ru-ru'] = "Альтернативное направление";
 $text['label-call_flow_alternate_destination']['sv-se'] = "Alternativ Destination";
 $text['label-call_flow_alternate_destination']['uk-ua'] = "альтернативні варіанти призначення";
+$text['label-call_flow_alternate_destination']['vi'] = "Điểm đến thay thế";
 
 $text['label-call_flow_sound']['en-us'] = "Sound";
 $text['label-call_flow_sound']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-call_flow_sound']['ro-ro'] = "";
 $text['label-call_flow_sound']['ru-ru'] = "Звук";
 $text['label-call_flow_sound']['sv-se'] = "Ljud";
 $text['label-call_flow_sound']['uk-ua'] = "звук";
+$text['label-call_flow_sound']['vi'] = "Âm thanh";
 
 $text['label-call_flow_alternate_sound']['en-us'] = "Alternate Sound";
 $text['label-call_flow_alternate_sound']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-call_flow_alternate_sound']['ro-ro'] = "";
 $text['label-call_flow_alternate_sound']['ru-ru'] = "Альтернативный звук";
 $text['label-call_flow_alternate_sound']['sv-se'] = "alternativt ljud";
 $text['label-call_flow_alternate_sound']['uk-ua'] = "альтернативний звук";
+$text['label-call_flow_alternate_sound']['vi'] = "Âm thanh thay thế";
 
 $text['label-call_flow_description']['en-us'] = "Description";
 $text['label-call_flow_description']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-call_flow_description']['ro-ro'] = "";
 $text['label-call_flow_description']['ru-ru'] = "Описание";
 $text['label-call_flow_description']['sv-se'] = "Beskrivning";
 $text['label-call_flow_description']['uk-ua'] = "Опис";
+$text['label-call_flow_description']['vi'] = "Mô tả";
 
 $text['header-call_flows']['en-us'] = "Call Flows";
 $text['header-call_flows']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['header-call_flows']['ro-ro'] = "";
 $text['header-call_flows']['ru-ru'] = "Переключатель вызовов";
 $text['header-call_flows']['sv-se'] = "Samtalsflöden";
 $text['header-call_flows']['uk-ua'] = "Потоки дзвінків";
+$text['header-call_flows']['vi'] = "Lưu lượng cuộc gọi";
 
 $text['header-call_flow']['en-us'] = "Call Flow";
 $text['header-call_flow']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['header-call_flow']['ro-ro'] = "";
 $text['header-call_flow']['ru-ru'] = "Переключатель вызовов";
 $text['header-call_flow']['sv-se'] = "Samtalsflöde";
 $text['header-call_flow']['uk-ua'] = "Потік дзвінка";
+$text['header-call_flow']['vi'] = "Lưu lượng  cuộc gọi";
 
 $text['description-call_flow_status']['en-us'] = "Select the status.";
 $text['description-call_flow_status']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['description-call_flow_status']['ro-ro'] = "";
 $text['description-call_flow_status']['ru-ru'] = "Виберите состояние.";
 $text['description-call_flow_status']['sv-se'] = "Välj Status";
 $text['description-call_flow_status']['uk-ua'] = "Виберіть статус користувача";
+$text['description-call_flow_status']['vi'] = "Chọn trạng thái.";
 
 $text['description-call_flow_pin_number']['en-us'] = "Enter the pin number.";
 $text['description-call_flow_pin_number']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['description-call_flow_pin_number']['ro-ro'] = "";
 $text['description-call_flow_pin_number']['ru-ru'] = "Введите пин-код.";
 $text['description-call_flow_pin_number']['sv-se'] = "Ange PIN Kod.";
 $text['description-call_flow_pin_number']['uk-ua'] = "Введіть пін - код.";
+$text['description-call_flow_pin_number']['vi'] = "Nhập số pin.";
 
 $text['description-call_flow_name']['en-us'] = "Enter the name.";
 $text['description-call_flow_name']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['description-call_flow_name']['ro-ro'] = "";
 $text['description-call_flow_name']['ru-ru'] = "Введите имя.";
 $text['description-call_flow_name']['sv-se'] = "Ange Namn.";
 $text['description-call_flow_name']['uk-ua'] = "Введіть назву меню";
+$text['description-call_flow_name']['vi'] = "Nhập tên.";
 
 $text['description-call_flow_feature_code']['en-us'] = "Enter the feature code.";
 $text['description-call_flow_feature_code']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['description-call_flow_feature_code']['ro-ro'] = "";
 $text['description-call_flow_feature_code']['ru-ru'] = "Введите код функции.";
 $text['description-call_flow_feature_code']['sv-se'] = "Ange Funktionskoden.";
 $text['description-call_flow_feature_code']['uk-ua'] = "Введіть код об'єкта.";
+$text['description-call_flow_feature_code']['vi'] = "Nhập mã tính năng.";
 
 $text['description-call_flow_extension']['en-us'] = "Enter the extension number.";
 $text['description-call_flow_extension']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['description-call_flow_extension']['ro-ro'] = "";
 $text['description-call_flow_extension']['ru-ru'] = "Введите внутренний номер.";
 $text['description-call_flow_extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-call_flow_extension']['uk-ua'] = "Введіть номер розширення.";
+$text['description-call_flow_extension']['vi'] = "Nhập số máy nhánh.";
 
 $text['description-call_flow_destination_label']['en-us'] = "Enter the destination label.";
 $text['description-call_flow_destination_label']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['description-call_flow_destination_label']['ro-ro'] = "";
 $text['description-call_flow_destination_label']['ru-ru'] = "Введите название направления.";
 $text['description-call_flow_destination_label']['sv-se'] = "Ange Destinations Etiketten.";
 $text['description-call_flow_destination_label']['uk-ua'] = "Введіть мітку призначення.";
+$text['description-call_flow_destination_label']['vi'] = "Nhập nhãn đích đến.";
 
 $text['description-call_flow_destination']['en-us'] = "Select the destination.";
 $text['description-call_flow_destination']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['description-call_flow_destination']['ro-ro'] = "";
 $text['description-call_flow_destination']['ru-ru'] = "Выберите назначение.";
 $text['description-call_flow_destination']['sv-se'] = "Välj destinationen.";
 $text['description-call_flow_destination']['uk-ua'] = "Відправити дзвінок на розширення, меню IVR, конференцію, або будь-який інший номер.";
+$text['description-call_flow_destination']['vi'] = "Chọn đích đến.";
 
 $text['description-call_flow_context']['en-us'] = "Enter the context.";
 $text['description-call_flow_context']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['description-call_flow_context']['ro-ro'] = "";
 $text['description-call_flow_context']['ru-ru'] = "Введите контекст.";
 $text['description-call_flow_context']['sv-se'] = "Ange Context.";
 $text['description-call_flow_context']['uk-ua'] = "Введіть контекст.";
+$text['description-call_flow_context']['vi'] = "Nhập ngữ cảnh.";
 
 $text['description-call_flows']['en-us'] = "Direct calls between two destinations by calling a feature code.";
 $text['description-call_flows']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['description-call_flows']['ro-ro'] = "";
 $text['description-call_flows']['ru-ru'] = "Переключите вызовы между двумя направлениями с помощью кода дополнительного вида обслуживания.";
 $text['description-call_flows']['sv-se'] = "Samtal mellan två destinationer genom att ringa en funktionskod.";
 $text['description-call_flows']['uk-ua'] = "Прямі виклики між двома пунктами шляхом виклику коду функції.";
+$text['description-call_flows']['vi'] = "Cuộc gọi trực tiếp giữa hai điểm đến bằng cách gọi mã tính năng.";
 
 $text['description-call_flow_alternate_label']['en-us'] = "Enter the alternate destination label.";
 $text['description-call_flow_alternate_label']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['description-call_flow_alternate_label']['ro-ro'] = "";
 $text['description-call_flow_alternate_label']['ru-ru'] = "Введите название альтернативного направления.";
 $text['description-call_flow_alternate_label']['sv-se'] = "Ange den alternativa destinations etiketten.";
 $text['description-call_flow_alternate_label']['uk-ua'] = "Введіть альтернативний ярлик призначення.";
+$text['description-call_flow_alternate_label']['vi'] = "Nhập nhãn đích đến thay thế.";
 
 $text['description-call_flow_alternate_destination']['en-us'] = "Select the alternate destination.";
 $text['description-call_flow_alternate_destination']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['description-call_flow_alternate_destination']['ro-ro'] = "";
 $text['description-call_flow_alternate_destination']['ru-ru'] = "Выберите альтернативное направление.";
 $text['description-call_flow_alternate_destination']['sv-se'] = "Välj den alternativa destinationen.";
 $text['description-call_flow_alternate_destination']['uk-ua'] = "Виберіть інше розташування.";
+$text['description-call_flow_alternate_destination']['vi'] = "Chọn điểm đến thay thế.";
 
 $text['description-call_flow_sound']['en-us'] = "Select the sound to play when the status is set to the destinations.";
 $text['description-call_flow_sound']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['description-call_flow_sound']['ro-ro'] = "";
 $text['description-call_flow_sound']['ru-ru'] = "Выберите звук для воспроизведения, когда состояние устанавливается в пункты назначения.";
 $text['description-call_flow_sound']['sv-se'] = "Välj ljud att spela när status är inställd på destinationen.";
 $text['description-call_flow_sound']['uk-ua'] = "Виберіть звук для відтворення , коли статус встановлений в пункти призначення.";
+$text['description-call_flow_sound']['vi'] = "Chọn âm thanh để phát khi trạng thái khi tới đích .";
 
 $text['description-call_flow_alternate_sound']['en-us'] = "Select the sound to play when status is set to the alternate destination.";
 $text['description-call_flow_alternate_sound']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['description-call_flow_alternate_sound']['ro-ro'] = "";
 $text['description-call_flow_alternate_sound']['ru-ru'] = "Выберите звук, который воспроизводится когда статус устанавливается в альтернативное направление.";
 $text['description-call_flow_alternate_sound']['sv-se'] = "Välj ljud att spela när status är inställd på den alternativa destinationen.";
 $text['description-call_flow_alternate_sound']['uk-ua'] = "Виберіть звук для відтворення , коли встановлено стан альтернативного призначення.";
+$text['description-call_flow_alternate_sound']['vi'] = "Chọn âm thanh để phát khi trạng thái được đặt đích đến thay thế.";
 
 $text['recordings']['en-us'] = "Recordings";
 $text['recordings']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['recordings']['ro-ro'] = "";
 $text['recordings']['ru-ru'] = "Записи";
 $text['recordings']['sv-se'] = "inspelningar";
 $text['recordings']['uk-ua'] = "записи";
+$text['recordings']['vi'] = "Bản ghi";
 
 $text['miscellaneous']['en-us'] = "Miscellaneous";
 $text['miscellaneous']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['miscellaneous']['ro-ro'] = "";
 $text['miscellaneous']['ru-ru'] = "Разное";
 $text['miscellaneous']['sv-se'] = "Diverse";
 $text['miscellaneous']['uk-ua'] = "Різне";
+$text['miscellaneous']['vi'] = "Hỗn hợp";
 
 $text['sounds']['en-us'] = "Sounds";
 $text['sounds']['ar-eg'] = "";
@@ -660,5 +692,5 @@ $text['sounds']['ro-ro'] = "";
 $text['sounds']['ru-ru'] = "Звуки";
 $text['sounds']['sv-se'] = "Ljud";
 $text['sounds']['uk-ua'] = "звуки";
-
+$text['sounds']['vi'] = "Âm thanh";
 ?>

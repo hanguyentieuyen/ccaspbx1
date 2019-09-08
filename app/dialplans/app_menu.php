@@ -20,10 +20,11 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "План нумерации";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Nummerplan";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Маршрутизація";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Quay số";
 	$apps[$x]['menu'][$y]['uuid'] = "b94e8bd9-9eb5-e427-9c26-ff7a6c21552a";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "";
 	$apps[$x]['menu'][$y]['category'] = "internal";
-	$apps[$x]['menu'][$y]['icon'] = "fa-exchange-alt";
+	$apps[$x]['menu'][$y]['icon'] = "glyphicon-transfer";
 	$apps[$x]['menu'][$y]['path'] = "";
 	$apps[$x]['menu'][$y]['order'] = "15";
 	$apps[$x]['menu'][$y]['groups'][] = "admin";
@@ -48,6 +49,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Управление планом нумерации";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Nummerplan Inställningar";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Керування маршрутизацією";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Quản lý quay số";
 	$apps[$x]['menu'][$y]['uuid'] = "52929fee-81d3-4d94-50b7-64842d9393c2";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "b94e8bd9-9eb5-e427-9c26-ff7a6c21552a";
 	$apps[$x]['menu'][$y]['category'] = "internal";

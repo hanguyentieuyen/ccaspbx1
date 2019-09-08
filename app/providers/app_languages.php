@@ -20,6 +20,7 @@ $text['title-providers']['ro-ro'] = "";
 $text['title-providers']['ru-ru'] = "";
 $text['title-providers']['sv-se'] = "";
 $text['title-providers']['uk-ua'] = "";
+$text['title-providers']['vi'] = "Nhà cung cấp";
 
 $text['description-providers']['en-us'] = "From this page you can easily configure one of the VoIP providers in the list. When you click on setup it will add entries to the Domains access control list,  create a gateway and add outbound routes for that carrier. These providers support the project.";
 $text['description-providers']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['description-providers']['ro-ro'] = "";
 $text['description-providers']['ru-ru'] = "";
 $text['description-providers']['sv-se'] = "";
 $text['description-providers']['uk-ua'] = "";
+$text['description-providers']['vi'] = "Từ trang này, bạn có thể dễ dàng cấu hình một trong những nhà cung cấp VoIP trong danh sách. Khi bạn nhấp vào thiết lập, nó sẽ thêm các mục vào danh sách kiểm soát truy cập Tên miền, tạo một cổng và thêm các tuyến đường đi cho nhà mạng đó. Các nhà cung cấp hỗ trợ dự án.";
 
 $text['button-website']['en-us'] = "Website";
 $text['button-website']['ar-eg'] = "";
@@ -80,6 +82,7 @@ $text['button-pricing']['ro-ro'] = "";
 $text['button-pricing']['ru-ru'] = "";
 $text['button-pricing']['sv-se'] = "";
 $text['button-pricing']['uk-ua'] = "";
+$text['button-pricing']['vi'] = "Giá";
 
 $text['button-signup']['en-us'] = "Signup";
 $text['button-signup']['ar-eg'] = "";
@@ -100,6 +103,7 @@ $text['button-signup']['ro-ro'] = "";
 $text['button-signup']['ru-ru'] = "";
 $text['button-signup']['sv-se'] = "";
 $text['button-signup']['uk-ua'] = "";
+$text['button-signup']['vi'] = "Đăng ký";
 
 $text['button-setup']['en-us'] = "Setup";
 $text['button-setup']['ar-eg'] = "";
@@ -120,6 +124,7 @@ $text['button-setup']['ro-ro'] = "";
 $text['button-setup']['ru-ru'] = "";
 $text['button-setup']['sv-se'] = "";
 $text['button-setup']['uk-ua'] = "";
+$text['button-setup']['vi'] = "Cài đặt";
 
 $text['button-remove']['en-us'] = "Remove";
 $text['button-remove']['ar-eg'] = "";
@@ -140,6 +145,7 @@ $text['button-remove']['ro-ro'] = "";
 $text['button-remove']['ru-ru'] = "";
 $text['button-remove']['sv-se'] = "";
 $text['button-remove']['uk-ua'] = "";
+$text['button-remove']['vi'] = "Xóa";
 
 $text['label-region']['en-us'] = "Region";
 $text['label-region']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['label-region']['ro-ro'] = "";
 $text['label-region']['ru-ru'] = "";
 $text['label-region']['sv-se'] = "";
 $text['label-region']['uk-ua'] = "";
+$text['label-region']['vi'] = "Vùng";
 
 $text['label-about']['en-us'] = "About";
 $text['label-about']['ar-eg'] = "";
@@ -180,6 +187,7 @@ $text['label-about']['ro-ro'] = "";
 $text['label-about']['ru-ru'] = "";
 $text['label-about']['sv-se'] = "";
 $text['label-about']['uk-ua'] = "";
+$text['label-about']['vi'] = "Giới thiệu";
 
 $text['label-features']['en-us'] = "Features";
 $text['label-features']['ar-eg'] = "";
@@ -200,6 +208,7 @@ $text['label-features']['ro-ro'] = "";
 $text['label-features']['ru-ru'] = "";
 $text['label-features']['sv-se'] = "";
 $text['label-features']['uk-ua'] = "";
+$text['label-features']['vi'] = "Tính năng";
 
 $text['label-region_skyetel']['en-us'] = "Providing service to the United States and Canada.";
 $text['label-region_skyetel']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['label-region_skyetel']['ro-ro'] = "";
 $text['label-region_skyetel']['ru-ru'] = "";
 $text['label-region_skyetel']['sv-se'] = "";
 $text['label-region_skyetel']['uk-ua'] = "";
+$text['label-region_skyetel']['vi'] = "Cung cấp dịch vụ cho Hoa Kỳ và Canada.";
 
 $text['label-about_skyetel']['en-us'] = "Based out of the Pacific Northwest, Skyetel offers triple redundancy, a beautiful UI, and aggressive pricing. Skyetel has been awarded multiple times for its commitment to customer service and maintains a full time support team who can help you get your systems up and running quickly.";
 $text['label-about_skyetel']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-about_skyetel']['ro-ro'] = "";
 $text['label-about_skyetel']['ru-ru'] = "";
 $text['label-about_skyetel']['sv-se'] = "";
 $text['label-about_skyetel']['uk-ua'] = "";
+$text['label-about_skyetel']['vi'] = "Dựa trên khu vực Tây Bắc Thái Bình Dương, Skyetel cung cấp dự phòng gấp ba, giao diện người dùng đẹp và giá cả tích cực. Skyetel đã được trao nhiều lần vì cam kết của mình đối với dịch vụ khách hàng và duy trì một nhóm hỗ trợ toàn thời gian, những người có thể giúp bạn khởi động hệ thống của mình một cách nhanh chóng.";
 
 $text['label-features_skyetel']['en-us'] = "Origination, Termination, Local Presence, Dialer support, Uptime and QOS monitoring, E911, CNAM, Restful API.";
 $text['label-features_skyetel']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['label-features_skyetel']['ro-ro'] = "";
 $text['label-features_skyetel']['ru-ru'] = "";
 $text['label-features_skyetel']['sv-se'] = "";
 $text['label-features_skyetel']['uk-ua'] = "";
+$text['label-features_skyetel']['vi'] = "Khởi tạo, chấm dứt, hiện diện cục bộ, hỗ trợ trình quay số, giám sát thời gian hoạt động và QOS, E911, CNAM, Restful API.";
 
 $text['label-region_voicetel']['en-us'] = "Providing service to the United States and Canada.";
 $text['label-region_voicetel']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['label-region_voicetel']['ro-ro'] = "";
 $text['label-region_voicetel']['ru-ru'] = "";
 $text['label-region_voicetel']['sv-se'] = "";
 $text['label-region_voicetel']['uk-ua'] = "";
+$text['label-region_voicetel']['vi'] = "Cung cấp dịch vụ cho Hoa Kỳ và Canada.";
 
 $text['label-about_voicetel']['en-us'] = "VoiceTel offers local inbound phone service at exceptionally low monthly and per minute rates. We provide businesses and individuals access to a nationwide footprint covering over 90% of the U.S. Population. Substantially lower your telecommunications costs and improve your quality of service with our IP enhanced outbound phone service.";
 $text['label-about_voicetel']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['label-about_voicetel']['ro-ro'] = "";
 $text['label-about_voicetel']['ru-ru'] = "";
 $text['label-about_voicetel']['sv-se'] = "";
 $text['label-about_voicetel']['uk-ua'] = "";
+$text['label-about_voicetel']['vi'] = "VoiceTel cung cấp dịch vụ điện thoại trong nước với mức giá cực thấp hàng tháng và mỗi phút. Chúng tôi cung cấp cho các doanh nghiệp và cá nhân quyền truy cập vào một dấu chân trên toàn quốc, chiếm hơn 90% dân số Hoa Kỳ. Giảm đáng kể chi phí viễn thông của bạn và cải thiện chất lượng dịch vụ của bạn với dịch vụ điện thoại gửi đi được tăng cường IP của chúng tôi.";
 
 $text['label-features_voicetel']['en-us'] = "Origination, Termination, Send and receive SMS Messages from your computer, tablet, or mobile device. Optionally automate or embed SMS transmission through the use of our RESTful API.";
 $text['label-features_voicetel']['ar-eg'] = "";
@@ -320,5 +334,6 @@ $text['label-features_voicetel']['ro-ro'] = "";
 $text['label-features_voicetel']['ru-ru'] = "";
 $text['label-features_voicetel']['sv-se'] = "";
 $text['label-features_voicetel']['uk-ua'] = "";
+$text['label-features_voicetel']['en-us'] = "Khởi tạo, chấm dứt, gửi và nhận tin nhắn SMS từ máy tính, máy tính bảng hoặc thiết bị di động của bạn. Tùy chọn tự động hóa hoặc nhúng truyền SMS thông qua việc sử dụng của chúng tôiRESTful API.";
 
 ?>

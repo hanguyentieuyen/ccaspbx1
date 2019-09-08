@@ -20,6 +20,7 @@ $text['title-database_transactions']['ro-ro'] = "";
 $text['title-database_transactions']['ru-ru'] = "Изменения в базе данных";
 $text['title-database_transactions']['sv-se'] = "Databas Transaktioner";
 $text['title-database_transactions']['uk-ua'] = "";
+$text['title-database_transactions']['vi'] = "Giao dịch cơ sở dữ liệu";
 
 $text['title-database_transaction']['en-us'] = "Database Transaction";
 $text['title-database_transaction']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-database_transaction']['ro-ro'] = "";
 $text['title-database_transaction']['ru-ru'] = "Изменение в базе данных";
 $text['title-database_transaction']['sv-se'] = "Transaktionsdatabas";
 $text['title-database_transaction']['uk-ua'] = "";
+$text['title-database_transaction']['vi'] = "Giao dịch cơ sở dữ liệu người dùng";
 
 $text['label-user_uuid']['en-us'] = "User";
 $text['label-user_uuid']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-user_uuid']['ro-ro'] = "";
 $text['label-user_uuid']['ru-ru'] = "Пользователь";
 $text['label-user_uuid']['sv-se'] = "Användare";
 $text['label-user_uuid']['uk-ua'] = "";
+$text['label-user_uuid']['vi'] = "Người dùng";
 
 $text['description-user_uuid']['en-us'] = "User transaction.";
 $text['description-user_uuid']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['description-user_uuid']['ro-ro'] = "";
 $text['description-user_uuid']['ru-ru'] = "Транзакции пользователя.";
 $text['description-user_uuid']['sv-se'] = "Användar transaktion";
 $text['description-user_uuid']['uk-ua'] = "";
+$text['description-user_uuid']['vi'] = "Giao dịch người dùng.";
 
 $text['label-app_name']['en-us'] = "Application";
 $text['label-app_name']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-app_name']['ro-ro'] = "";
 $text['label-app_name']['ru-ru'] = "Приложение";
 $text['label-app_name']['sv-se'] = "Applikation";
 $text['label-app_name']['uk-ua'] = "";
+$text['label-app_name']['vi'] = "Ứng dụng";
 
 $text['description-app_name']['en-us'] = "Application name.";
 $text['description-app_name']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['description-app_name']['ro-ro'] = "";
 $text['description-app_name']['ru-ru'] = "Имя приложения.";
 $text['description-app_name']['sv-se'] = "Applikation namn";
 $text['description-app_name']['uk-ua'] = "";
+$text['description-app_name']['vi'] = "Tên ứng dụng.";
 
 $text['label-app_uuid']['en-us'] = "Application Id";
 $text['label-app_uuid']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-app_uuid']['ro-ro'] = "";
 $text['label-app_uuid']['ru-ru'] = "Id приложения";
 $text['label-app_uuid']['sv-se'] = "Applikation Id.";
 $text['label-app_uuid']['uk-ua'] = "";
+$text['label-app_uuid']['vi'] = "Id Ứng dụng";
 
 $text['description-app_uuid']['en-us'] = "Application name.";
 $text['description-app_uuid']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['description-app_uuid']['ro-ro'] = "";
 $text['description-app_uuid']['ru-ru'] = "Имя приложения.";
 $text['description-app_uuid']['sv-se'] = "Applikation namn.";
 $text['description-app_uuid']['uk-ua'] = "";
+$text['description-app_uuid']['vi'] = "Tên ứng dụng.";
 
 $text['label-transaction_code']['en-us'] = "Code";
 $text['label-transaction_code']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-transaction_code']['ro-ro'] = "";
 $text['label-transaction_code']['ru-ru'] = "Код";
 $text['label-transaction_code']['sv-se'] = "Kod";
 $text['label-transaction_code']['uk-ua'] = "";
+$text['label-transaction_code']['vi'] = "Code";
 
 $text['description-transaction_code']['en-us'] = "Transaction code.";
 $text['description-transaction_code']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['description-transaction_code']['ro-ro'] = "";
 $text['description-transaction_code']['ru-ru'] = "Код транзакции.";
 $text['description-transaction_code']['sv-se'] = "Transaktion kod.";
 $text['description-transaction_code']['uk-ua'] = "";
+$text['description-transaction_code']['vi'] = "Mã giao dịch.";
 
 $text['label-transaction_address']['en-us'] = "IP Address";
 $text['label-transaction_address']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-transaction_address']['ro-ro'] = "";
 $text['label-transaction_address']['ru-ru'] = "IP Адреса";
 $text['label-transaction_address']['sv-se'] = "IP Address";
 $text['label-transaction_address']['uk-ua'] = "";
+$text['label-transaction_address']['vi'] = "Địa chỉ IP";
 
 $text['description-transaction_address']['en-us'] = "IP address of the user.";
 $text['description-transaction_address']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['description-transaction_address']['ro-ro'] = "";
 $text['description-transaction_address']['ru-ru'] = "IP адреса пользователя.";
 $text['description-transaction_address']['sv-se'] = "Användarens IP Address";
 $text['description-transaction_address']['uk-ua'] = "";
+$text['description-transaction_address']['vi'] = "Địa chỉ IP của người dùng.";
 
 $text['label-transaction_type']['en-us'] = "Type";
 $text['label-transaction_type']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-transaction_type']['ro-ro'] = "";
 $text['label-transaction_type']['ru-ru'] = "Тип";
 $text['label-transaction_type']['sv-se'] = "Typ";
 $text['label-transaction_type']['uk-ua'] = "";
+$text['label-transaction_type']['vi'] = "Loại";
 
 $text['description-transaction_type']['en-us'] = "Type: add, update, delete";
 $text['description-transaction_type']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['description-transaction_type']['ro-ro'] = "";
 $text['description-transaction_type']['ru-ru'] = "Тип: добавить, обновить, удалить";
 $text['description-transaction_type']['sv-se'] = "Typ: lägg till, ändra, ta bort, välj";
 $text['description-transaction_type']['uk-ua'] = "";
+$text['description-transaction_type']['vi'] = "Loại: thêm, cập nhật, xóa";
 
 $text['label-transaction_date']['en-us'] = "Date";
 $text['label-transaction_date']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-transaction_date']['ro-ro'] = "";
 $text['label-transaction_date']['ru-ru'] = "Дата";
 $text['label-transaction_date']['sv-se'] = "Datum";
 $text['label-transaction_date']['uk-ua'] = "";
+$text['label-transaction_date']['vi'] = "Ngày";
 
 $text['description-transaction_date']['en-us'] = "Transaction date.";
 $text['description-transaction_date']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['description-transaction_date']['ro-ro'] = "";
 $text['description-transaction_date']['ru-ru'] = "Дата транзакции.";
 $text['description-transaction_date']['sv-se'] = "Transaktions datum.";
 $text['description-transaction_date']['uk-ua'] = "";
+$text['description-transaction_date']['vi'] = "Ngày Giao dịch.";
 
 $text['label-transaction_old']['en-us'] = "Before";
 $text['label-transaction_old']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-transaction_old']['ro-ro'] = "";
 $text['label-transaction_old']['ru-ru'] = "До";
 $text['label-transaction_old']['sv-se'] = "Före";
 $text['label-transaction_old']['uk-ua'] = "";
+$text['label-transaction_old']['vi'] = "Trước";
 
 $text['description-transaction_old']['en-us'] = "Array before the transaction.";
 $text['description-transaction_old']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['description-transaction_old']['ro-ro'] = "";
 $text['description-transaction_old']['ru-ru'] = "Массив перед транзакцией.";
 $text['description-transaction_old']['sv-se'] = "Array före transaktionen.";
 $text['description-transaction_old']['uk-ua'] = "";
+$text['description-transaction_old']['vi'] = "Mảng trước khi giao dịch.";
 
 $text['label-transaction_new']['en-us'] = "After";
 $text['label-transaction_new']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-transaction_new']['ro-ro'] = "";
 $text['label-transaction_new']['ru-ru'] = "После";
 $text['label-transaction_new']['sv-se'] = "Efter";
 $text['label-transaction_new']['uk-ua'] = "";
+$text['label-transaction_new']['vi'] = "Sau";
 
 $text['description-transaction_new']['en-us'] = "Array after the transaction.";
 $text['description-transaction_new']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['description-transaction_new']['ro-ro'] = "";
 $text['description-transaction_new']['ru-ru'] = "Массив после транзакции.";
 $text['description-transaction_new']['sv-se'] = "Array efter transaktionen.";
 $text['description-transaction_new']['uk-ua'] = "";
+$text['description-transaction_new']['vi'] = "Mảng sau khi giao dịch.";
 
 $text['label-transaction_result']['en-us'] = "Result";
 $text['label-transaction_result']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['label-transaction_result']['ro-ro'] = "";
 $text['label-transaction_result']['ru-ru'] = "Результат.";
 $text['label-transaction_result']['sv-se'] = "Resultat";
 $text['label-transaction_result']['uk-ua'] = "";
+$text['label-transaction_result']['vi'] = "Kết quả";
 
 $text['description-transaction_result']['en-us'] = "Result of the transaction.";
 $text['description-transaction_result']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['description-transaction_result']['ro-ro'] = "";
 $text['description-transaction_result']['ru-ru'] = "Результат транзакции.";
 $text['description-transaction_result']['sv-se'] = "Resultat av transaktionen.";
 $text['description-transaction_result']['uk-ua'] = "";
+$text['description-transaction_result']['vi'] = "Kết quả giao dịch.";
 
 $text['label-true']['en-us'] = "true";
 $text['label-true']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-true']['ro-ro'] = "";
 $text['label-true']['ru-ru'] = "Да";
 $text['label-true']['sv-se'] = "sann";
 $text['label-true']['uk-ua'] = "";
+$text['label-true']['vi'] = "đúng";
 
 $text['label-false']['en-us'] = "false";
 $text['label-false']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-false']['ro-ro'] = "";
 $text['label-false']['ru-ru'] = "Нет";
 $text['label-false']['sv-se'] = "falsk";
 $text['label-false']['uk-ua'] = "";
+$text['label-false']['vi'] = "sai";
 
 $text['button-add']['en-us'] = "Add";
 $text['button-add']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['button-add']['ro-ro'] = "";
 $text['button-add']['ru-ru'] = "Добавить";
 $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "";
+$text['button-add']['vi'] = "Thêm";
 
 $text['button-edit']['en-us'] = "Edit";
 $text['button-edit']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['button-edit']['ro-ro'] = "";
 $text['button-edit']['ru-ru'] = "Редактировать";
 $text['button-edit']['sv-se'] = "Ändra";
 $text['button-edit']['uk-ua'] = "";
+$text['button-edit']['vi'] = "Chỉnh sửa";
 
 $text['button-delete']['en-us'] = "Delete";
 $text['button-delete']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['button-delete']['ro-ro'] = "";
 $text['button-delete']['ru-ru'] = "Удалить";
 $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "";
+$text['button-delete']['vi'] = "Xóa";
 
 $text['button-save']['en-us'] = "Save";
 $text['button-save']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['button-save']['ro-ro'] = "";
 $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "";
+$text['button-save']['vi'] = "Lưu";
 
 $text['button-view']['en-us'] = "View";
 $text['button-view']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['button-view']['ro-ro'] = "";
 $text['button-view']['ru-ru'] = "Просмотрт";
 $text['button-view']['sv-se'] = "Visa";
 $text['button-view']['uk-ua'] = "";
+$text['button-view']['vi'] = "Xem";
 
 $text['button-back']['en-us'] = "Back";
 $text['button-back']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['button-back']['ro-ro'] = "";
 $text['button-back']['ru-ru'] = "Назад";
 $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "";
+$text['button-back']['vi'] = "Trở lại";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['confirm-delete']['ro-ro'] = "";
 $text['confirm-delete']['ru-ru'] = "Вы действительно хотите удалить это?";
 $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "";
+$text['confirm-delete']['vi'] = "Bạn có thực sự muốn xóa điều này không?";
 
 $text['message-add']['en-us'] = "Add Completed";
 $text['message-add']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['message-add']['ro-ro'] = "";
 $text['message-add']['ru-ru'] = "Добавление выполнено";
 $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "";
+$text['message-add']['vi'] = "Thêm thành công";
 
 $text['message-update']['en-us'] = "Update Completed";
 $text['message-update']['ar-eg'] = "";
@@ -660,6 +692,7 @@ $text['message-update']['ro-ro'] = "";
 $text['message-update']['ru-ru'] = "Обновление выполнено";
 $text['message-update']['sv-se'] = "Ändring utförd";
 $text['message-update']['uk-ua'] = "";
+$text['message-update']['vi'] = "Cập nhật thành công";
 
 $text['message-delete']['en-us'] = "Delete Completed";
 $text['message-delete']['ar-eg'] = "";
@@ -680,6 +713,7 @@ $text['message-delete']['ro-ro'] = "";
 $text['message-delete']['ru-ru'] = "Удаление выполнено";
 $text['message-delete']['sv-se'] = "Borttagning utförd";
 $text['message-delete']['uk-ua'] = "";
+$text['message-delete']['vi'] = "Xóa thành công";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['ar-eg'] = "";
@@ -700,5 +734,5 @@ $text['message-required']['ro-ro'] = "";
 $text['message-required']['ru-ru'] = "Пожалуйста предоставьте:";
 $text['message-required']['sv-se'] = "Var god ange: ";
 $text['message-required']['uk-ua'] = "";
-
+$text['message-required']['vi'] = "Vui lòng cung cấp: ";
 ?>

@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Отображает на дисплее информацию о Процессоре, Пямяти, Дисковых накопителях и другоую.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Hiển thị thông tin cho CPU, HDD, RAM và hơn thế nữa.";
 
 	//permission details
 		$y=0;

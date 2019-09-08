@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Информация о подключении к базам данных";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Lưu trữ thông tin kết nối cơ sở dữ liệu.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "database_view";

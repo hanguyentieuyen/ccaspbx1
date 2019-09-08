@@ -20,6 +20,7 @@ $text['title-status']['ro-ro'] = "";
 $text['title-status']['ru-ru'] = "Статус";
 $text['title-status']['sv-se'] = "Status";
 $text['title-status']['uk-ua'] = "Стан";
+$text['title-status']['vi'] = "Trạng thái";
 
 $text['title-sofia-status-profile']['en-us'] = "sofia status profile";
 $text['title-sofia-status-profile']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-sofia-status-profile']['ro-ro'] = "";
 $text['title-sofia-status-profile']['ru-ru'] = "Профиль статуса sofia";
 $text['title-sofia-status-profile']['sv-se'] = "sofia status profil";
 $text['title-sofia-status-profile']['uk-ua'] = "sofia status profile ";
+$text['title-sofia-status-profile']['vi'] = "trạng thái sofia";
 
 $text['title-sofia-status']['en-us'] = "sofia status";
 $text['title-sofia-status']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-sofia-status']['ro-ro'] = "";
 $text['title-sofia-status']['ru-ru'] = "sofia статус";
 $text['title-sofia-status']['sv-se'] = "sofia status";
 $text['title-sofia-status']['uk-ua'] = "sofia status ";
+$text['title-sofia-status']['vi'] = "trạng thái";
 
 $text['title-sip-status']['en-us'] = "SIP Status";
 $text['title-sip-status']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-sip-status']['ro-ro'] = "";
 $text['title-sip-status']['ru-ru'] = "SIP Статус";
 $text['title-sip-status']['sv-se'] = "SIP Status";
 $text['title-sip-status']['uk-ua'] = "Стан SIP";
+$text['title-sip-status']['vi'] = "Trạng thái SIP";
 
 $text['label-action']['en-us'] = "Action";
 $text['label-action']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-action']['ro-ro'] = "";
 $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
+$text['label-action']['vi'] = "Hoạt động";
 
 $text['label-state']['en-us'] = "State";
 $text['label-state']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-state']['ro-ro'] = "";
 $text['label-state']['ru-ru'] = "Состояние";
 $text['label-state']['sv-se'] = "Status";
 $text['label-state']['uk-ua'] = "Стан";
+$text['label-state']['vi'] = "Vị trí";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-data']['en-us'] = "Data";
 $text['label-data']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-data']['ro-ro'] = "";
 $text['label-data']['ru-ru'] = "Дата";
 $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "Дані";
+$text['label-data']['vi'] = "Dữ liệu";
 
 $text['header-sip-status']['en-us'] = "SIP Status";
 $text['header-sip-status']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['header-sip-status']['ro-ro'] = "";
 $text['header-sip-status']['ru-ru'] = "Статус SIP";
 $text['header-sip-status']['sv-se'] = "SIP Status";
 $text['header-sip-status']['uk-ua'] = "Стан SIP";
+$text['header-sip-status']['vi'] = "Trạng thái SIP";
 
 $text['error-event-socket']['en-us'] = "Connection to Event Socket failed.";
 $text['error-event-socket']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['error-event-socket']['ro-ro'] = "";
 $text['error-event-socket']['ru-ru'] = "Не удалось подключиться к сокету событий.";
 $text['error-event-socket']['sv-se'] = "Kontakten till 'Event Socket' misslyckades.";
 $text['error-event-socket']['uk-ua'] = "Помилка підключення до сокета подій";
+$text['error-event-socket']['vi'] = "Không thể kết nối với Event Socket.";
 
 $text['button-rescan']['en-us'] = "Rescan";
 $text['button-rescan']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['button-rescan']['ro-ro'] = "";
 $text['button-rescan']['ru-ru'] = "Пересканировать";
 $text['button-rescan']['sv-se'] = "Sök Igen";
 $text['button-rescan']['uk-ua'] = "Пересканувати";
+$text['button-rescan']['vi'] = "Quét lại";
 
 $text['button-reload_xml']['en-us'] = "Reload XML";
 $text['button-reload_xml']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['button-reload_xml']['ro-ro'] = "";
 $text['button-reload_xml']['ru-ru'] = "перезагрузить XML";
 $text['button-reload_xml']['sv-se'] = "Ladda Om XML";
 $text['button-reload_xml']['uk-ua'] = "Перезагрузити XML";
+$text['button-reload_xml']['vi'] = "Tải lại XML";
 
 $text['button-reload_acl']['en-us'] = "Reload ACL";
 $text['button-reload_acl']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['button-reload_acl']['ro-ro'] = "";
 $text['button-reload_acl']['ru-ru'] = "Перезагрузить ACL ";
 $text['button-reload_acl']['sv-se'] = "Ladda Om ACL";
 $text['button-reload_acl']['uk-ua'] = "Перезагрузити ACL ";
+$text['button-reload_acl']['vi'] = "Tải lại ACL";
 
 $text['button-registrations']['en-us'] = "Registrations";
 $text['button-registrations']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['button-registrations']['ro-ro'] = "";
 $text['button-registrations']['ru-ru'] = "Регистрация";
 $text['button-registrations']['sv-se'] = "Registreringar";
 $text['button-registrations']['uk-ua'] = "Реєстрації";
+$text['button-registrations']['vi'] = "Đăng ký";
 
 $text['button-flush_registrations']['en-us'] = "Flush Registrations";
 $text['button-flush_registrations']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['button-flush_registrations']['ro-ro'] = "";
 $text['button-flush_registrations']['ru-ru'] = "Сбросить регистрацию";
 $text['button-flush_registrations']['sv-se'] = "'Flush' Registreringar";
 $text['button-flush_registrations']['uk-ua'] = "Скинути реєстрації";
+$text['button-flush_registrations']['vi'] = "Đăng ký";
 
 $text['button-flush_cache']['en-us'] = "Flush Cache";
 $text['button-flush_cache']['ar-eg'] = "";
@@ -320,5 +335,5 @@ $text['button-flush_cache']['ro-ro'] = "";
 $text['button-flush_cache']['ru-ru'] = "Сбросить кеш память";
 $text['button-flush_cache']['sv-se'] = "Flush Cache ";
 $text['button-flush_cache']['uk-ua'] = "Скинути кеш";
-
+$text['button-flush_cache']['vi'] = "Xóa Cache";
 ?>

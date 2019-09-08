@@ -36,24 +36,26 @@ class plugin_database {
 		//check the username and password if they don't match then redirect to the login
 			$sql = "select * from v_users ";
 			if (strlen($this->key) > 30) {
-				$sql .= "where api_key = :key ";
-				//$sql .= "where api_key = '".$this->key."' ";
+				$sql .= "where api_key=:key ";
+				//$sql .= "where api_key='".$this->key."' ";
 			}
 			else {
-				$sql .= "where lower(username) = lower(:username) ";
-				//$sql .= "where username = '".$this->username."' ";
+				$sql .= "where username=:username ";
+				//$sql .= "where username='".$this->username."' ";
 			}
-			if ($_SESSION["users"]["unique"]["text"] == "global") {
+			if ($_SESSION["user"]["unique"]["text"] == "global") {
 				//unique username - global (example: email address)
 			}
 			else {
 				//unique username - per domain
-				$sql .= "and domain_uuid = :domain_uuid ";
-				//$sql .= "and domain_uuid = '".$this->domain_uuid."' ";
+				$sql .= "and domain_uuid=:domain_uuid ";
+				//$sql .= "and domain_uuid='".$this->domain_uuid."' ";
 			}
 			$sql .= "and (user_enabled = 'true' or user_enabled is null) ";
-			$prep_statement = $db->prepare($sql);
-			if ($_SESSION["users"]["unique"]["text"] != "global") {
+			//echo $sql."<br />\n";
+			//echo "domain name: ".$this->domain_name;
+			$prep_statement = $db->prepare(check_sql($sql));
+			if ($_SESSION["user"]["unique"]["text"] != "global") {
 				$prep_statement->bindParam(':domain_uuid', $this->domain_uuid);
 			}
 			if (strlen($this->key) > 30) {
@@ -69,7 +71,7 @@ class plugin_database {
 				foreach ($result as &$row) {
 
 					//get the domain uuid when users are unique globally
-						if ($_SESSION["users"]["unique"]["text"] == "global" && $row["domain_uuid"] != $this->domain_uuid) {
+						if ($_SESSION["user"]["unique"]["text"] == "global" && $row["domain_uuid"] != $this->domain_uuid) {
 							//set the domain_uuid
 								$this->domain_uuid = $row["domain_uuid"];
 								$this->domain_name = $_SESSION['domains'][$this->domain_uuid]['domain_name'];
@@ -117,7 +119,6 @@ class plugin_database {
 			}
 			$result["user_uuid"] = $this->user_uuid;
 			$result["domain_uuid"] = $this->domain_uuid;
-			$result["contact_uuid"] = $this->contact_uuid;
 			$result["sql"] = $sql;
 			if ($user_authorized) {
 				$result["authorized"] = "true";

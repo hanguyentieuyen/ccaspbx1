@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Шлюзы";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Gateways";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Шлюзи";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Gateways";
 	$apps[$x]['menu'][$y]['uuid'] = "237a512a-f8fe-1ce4-b5d7-e71c401d7159";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "bc96d773-ee57-0cdd-c3ac-2d91aba61b55";
 	$apps[$x]['menu'][$y]['category'] = "internal";

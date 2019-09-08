@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Активные вызовы";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Aktiva samtal";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Активні дзвінки";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Cuộc gọi hoạt động";
 	$apps[$x]['menu'][$y]['uuid'] = "eba3d07f-dd5c-6b7b-6880-493b44113ade";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "0438b504-8613-7887-c420-c837ffb20cb1";
 	$apps[$x]['menu'][$y]['category'] = "internal";

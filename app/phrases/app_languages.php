@@ -20,6 +20,7 @@ $text['title-phrases']['ro-ro'] = "";
 $text['title-phrases']['ru-ru'] = "Фразы";
 $text['title-phrases']['sv-se'] = "Fraser";
 $text['title-phrases']['uk-ua'] = "Фрази";
+$text['title-phrases']['vi'] = "Ngữ pháp";
 
 $text['title-edit_phrase']['en-us'] = "Edit Phrase";
 $text['title-edit_phrase']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-edit_phrase']['ro-ro'] = "";
 $text['title-edit_phrase']['ru-ru'] = "Редактор Фраз";
 $text['title-edit_phrase']['sv-se'] = "Ändra Fras";
 $text['title-edit_phrase']['uk-ua'] = "Редагувати фразу";
+$text['title-edit_phrase']['vi'] = "Chỉnh sửa ngữ pháp";
 
 $text['title-add_phrase']['en-us'] = "Add Phrase";
 $text['title-add_phrase']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-add_phrase']['ro-ro'] = "";
 $text['title-add_phrase']['ru-ru'] = "Добавить Фразы";
 $text['title-add_phrase']['sv-se'] = "Lägg Till Fras";
 $text['title-add_phrase']['uk-ua'] = "Додати фразу";
+$text['title-add_phrase']['vi'] = "Thêm ngữ pháp";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Инструменты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-structure']['en-us'] = "Structure";
 $text['label-structure']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-structure']['ro-ro'] = "";
 $text['label-structure']['ru-ru'] = "Структура";
 $text['label-structure']['sv-se'] = "Struktur";
 $text['label-structure']['uk-ua'] = "Структура";
+$text['label-structure']['vi'] = "Cấu trúc";
 
 $text['label-sounds']['en-us'] = "Sounds";
 $text['label-sounds']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-sounds']['ro-ro'] = "";
 $text['label-sounds']['ru-ru'] = "Звуки";
 $text['label-sounds']['sv-se'] = "Ljud";
 $text['label-sounds']['uk-ua'] = "звуки";
+$text['label-sounds']['vi'] = "Âm thanh";
 
 $text['label-say']['en-us'] = "Say";
 $text['label-say']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-say']['ro-ro'] = "";
 $text['label-say']['ru-ru'] = "Скажите";
 $text['label-say']['sv-se'] = "Säg";
 $text['label-say']['uk-ua'] = "Вимовити";
+$text['label-say']['vi'] = "Nói";
 
 $text['label-recordings']['en-us'] = "Recordings";
 $text['label-recordings']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-recordings']['ro-ro'] = "";
 $text['label-recordings']['ru-ru'] = "Записи";
 $text['label-recordings']['sv-se'] = "Inspelningar";
 $text['label-recordings']['uk-ua'] = "записи";
+$text['label-recordings']['vi'] = "Bản ghi";
 
 $text['label-play']['en-us'] = "Play";
 $text['label-play']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-play']['ro-ro'] = "";
 $text['label-play']['ru-ru'] = "Проиграть";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
+$text['label-play']['vi'] = "Bật";
 
 $text['label-pause']['en-us'] = "Pause";
 $text['label-pause']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-pause']['ro-ro'] = "";
 $text['label-pause']['ru-ru'] = "Пауза";
 $text['label-pause']['sv-se'] = "Paus";
 $text['label-pause']['uk-ua'] = "Призупинити";
+$text['label-pause']['vi'] = "Tạm dừng";
 
 $text['label-language']['en-us'] = "Language";
 $text['label-language']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-language']['ro-ro'] = "";
 $text['label-language']['ru-ru'] = "Язык";
 $text['label-language']['sv-se'] = "Språk";
 $text['label-language']['uk-ua'] = "Мова";
+$text['label-language']['vi'] = "Ngôn ngữ";
 
 $text['label-function']['en-us'] = "Function";
 $text['label-function']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-function']['ro-ro'] = "";
 $text['label-function']['ru-ru'] = "Функционал";
 $text['label-function']['sv-se'] = "Funktion";
 $text['label-function']['uk-ua'] = "Функція";
+$text['label-function']['vi'] = "Chức năng";
 
 $text['label-execute']['en-us'] = "Execute";
 $text['label-execute']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-execute']['ro-ro'] = "";
 $text['label-execute']['ru-ru'] = "Выполнить";
 $text['label-execute']['sv-se'] = "Utför";
 $text['label-execute']['uk-ua'] = "Виконати";
+$text['label-execute']['vi'] = "Tiến hành";
 
 $text['label-action']['en-us'] = "Action";
 $text['label-action']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-action']['ro-ro'] = "";
 $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
+$text['label-action']['vi'] = "Hoạt động";
 
 $text['header_phrases']['en-us'] = "Phrases";
 $text['header_phrases']['ar-eg'] = "";
@@ -300,6 +314,8 @@ $text['header_phrases']['ro-ro'] = "";
 $text['header_phrases']['ru-ru'] = "Фразы";
 $text['header_phrases']['sv-se'] = "Fraser";
 $text['header_phrases']['uk-ua'] = "Фрази";
+$text['header_phrases']['en-us'] = "Phrases";
+$text['header_phrases']['vi'] = "Cụm từ";
 
 $text['header-edit_phrase']['en-us'] = "Edit Phrase";
 $text['header-edit_phrase']['ar-eg'] = "";
@@ -320,6 +336,7 @@ $text['header-edit_phrase']['ro-ro'] = "";
 $text['header-edit_phrase']['ru-ru'] = "Редактировать Фразу";
 $text['header-edit_phrase']['sv-se'] = "Ändra Fras";
 $text['header-edit_phrase']['uk-ua'] = "Редагувати фразу";
+$text['header-edit_phrase']['vi'] = "Chỉnh sửa cụm từ";
 
 $text['header-add_phrase']['en-us'] = "Add Phrase";
 $text['header-add_phrase']['ar-eg'] = "";
@@ -340,6 +357,7 @@ $text['header-add_phrase']['ro-ro'] = "";
 $text['header-add_phrase']['ru-ru'] = "Добавить Фразу";
 $text['header-add_phrase']['sv-se'] = "Lägg Till Fras";
 $text['header-add_phrase']['uk-ua'] = "Додати фразу";
+$text['header-add_phrase']['vi'] = "Thêm cụm từ";
 
 $text['description-structure']['en-us'] = "Define the various components that make up the phrase.";
 $text['description-structure']['ar-eg'] = "";
@@ -360,6 +378,7 @@ $text['description-structure']['ro-ro'] = "";
 $text['description-structure']['ru-ru'] = "Определите различные компоненты, составляющие фразу.";
 $text['description-structure']['sv-se'] = "Definera de olika komponenterna som utgör frasen.";
 $text['description-structure']['uk-ua'] = "Вкажіть компоненти з яких складається фраза";
+$text['description-structure']['vi'] = "Xác định các thành phần khác nhau tạo nên cụm từ.";
 
 $text['description-phrases']['en-us'] = "Create phrases of audio files to be played in sequence.";
 $text['description-phrases']['ar-eg'] = "";
@@ -380,6 +399,7 @@ $text['description-phrases']['ro-ro'] = "";
 $text['description-phrases']['ru-ru'] = "Создание фраз аудиофайлов, которые будут воспроизводиться последовательно.";
 $text['description-phrases']['sv-se'] = "Skapa fraser med ljudfiler som skall spelas upp i ordning.";
 $text['description-phrases']['uk-ua'] = "Створення фраз з аудіофайлів, які будуть відтворені у послідовності.";
+$text['description-phrases']['vi'] = "Tạo cụm từ của tệp âm thanh được phát theo trình tự.";
 
 $text['description-name']['en-us'] = "Name for the phrase (Example: 'xyz_audio')";
 $text['description-name']['ar-eg'] = "";
@@ -400,6 +420,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Название фразы (например: 'xyz_audio')";
 $text['description-name']['sv-se'] = "Namn på frasen (Exempel: 'xyz_audio')";
 $text['description-name']['uk-ua'] = "Назва фрази";
+$text['description-name']['vi'] = "Tên (Example: 'xyz_audio')";
 
 $text['description-language']['en-us'] = "Language used in the phrase.";
 $text['description-language']['ar-eg'] = "";
@@ -420,6 +441,7 @@ $text['description-language']['ro-ro'] = "";
 $text['description-language']['ru-ru'] = "Язык, используемый во фразе.";
 $text['description-language']['sv-se'] = "Språk som används i frasen.";
 $text['description-language']['uk-ua'] = "Мова фрази";
+$text['description-language']['vi'] = "Ngôn ngữ được sử dụng trong cụm từ.";
 
 $text['description-enabled']['en-us'] = "Set the status of the phrase.";
 $text['description-enabled']['ar-eg'] = "";
@@ -440,5 +462,6 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Установите статус фразы.";
 $text['description-enabled']['sv-se'] = "Välj status på frasen.";
 $text['description-enabled']['uk-ua'] = "Вкажіть статус для фрази";
+$text['description-enabled']['vi'] = "Đặt trạng thái của cụm từ.";
 
 ?>

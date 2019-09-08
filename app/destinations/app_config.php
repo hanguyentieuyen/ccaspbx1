@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Được sử dụng để xác định số điện thoại đến từ bên ngoài.";
 
 	//destination details
 		$y=0;
@@ -34,7 +35,7 @@
 		$apps[$x]['destinations'][$y]['label'] = "destinations";
 		$apps[$x]['destinations'][$y]['name'] = "destinations";
 		$apps[$x]['destinations'][$y]['sql'] = "select destination_number as destination, destination_context as context, destination_description as description from v_destinations ";
-		$apps[$x]['destinations'][$y]['where'] = "where (domain_uuid = '\${domain_uuid}' or domain_uuid is null) and (destination_type = 'outbound' or destination_type = 'local') and destination_enabled = 'true' ";
+		$apps[$x]['destinations'][$y]['where'] = "where (domain_uuid = '\${domain_uuid}' or domain_uuid is null) and destination_type = 'outbound' and destination_enabled = 'true' ";
 		$apps[$x]['destinations'][$y]['order_by'] = "destination_number asc";
 		$apps[$x]['destinations'][$y]['field']['uuid'] = "destination_uuid";
 		$apps[$x]['destinations'][$y]['field']['context'] = "destination_context";
@@ -67,9 +68,6 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "destination_import";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "destination_domain";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
@@ -77,12 +75,6 @@
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "destination_record";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "destination_context";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "destination_fax";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "destination_caller_id_name";
@@ -108,9 +100,6 @@
 		$apps[$x]['default_settings'][$y]['default_setting_value'] = "true";
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "true";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${destination_context}";
 
 	//schema details
 		$y=0;
@@ -159,10 +148,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the number.";
 		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_prefix";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the prefix.";
-		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_number_regex";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Regular Expression version of destination number";
@@ -191,18 +176,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the accountcode.";
 		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_type_voice";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "numeric";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Number is used for voice calls.";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_type_fax";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "numeric";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Number is used for fax calls.";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_type_text";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "numeric";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Number is used for text messages.";
-		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_app";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the application.";
@@ -210,14 +183,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_data";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the data.";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_alternate_app";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the alternate application.";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_alternate_data";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "Enter the alternate data.";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "destination_enabled";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";

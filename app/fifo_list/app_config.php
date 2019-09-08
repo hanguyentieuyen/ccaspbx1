@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Liệt kê tất cả các hàng đợi hiện đang hoạt động với một hoặc nhiều người gọi.";
 
 	//permission details
 		$y=0;

@@ -20,6 +20,7 @@ $text['title-edit']['ro-ro'] = "";
 $text['title-edit']['ru-ru'] = "Запись";
 $text['title-edit']['sv-se'] = "Inspelning";
 $text['title-edit']['uk-ua'] = "Запис";
+$text['title-edit']['vi'] = "Ghi âm";
 
 $text['title-add']['en-us'] = "Add Recording";
 $text['title-add']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-add']['ro-ro'] = "";
 $text['title-add']['ru-ru'] = "Добавить запись";
 $text['title-add']['sv-se'] = "Lägg Till Inspelning";
 $text['title-add']['uk-ua'] = "Додати запис";
+$text['title-add']['vi'] = "Thêm bản ghi";
 
 $text['title-recordings']['en-us'] = "Recordings";
 $text['title-recordings']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-recordings']['ro-ro'] = "";
 $text['title-recordings']['ru-ru'] = "Записи";
 $text['title-recordings']['sv-se'] = "Inspelningar";
 $text['title-recordings']['uk-ua'] = "Записи";
+$text['title-recordings']['vi '] = "Bản ghi";
 
 $text['message-uploaded']['en-us'] = "File Uploaded";
 $text['message-uploaded']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['message-uploaded']['ro-ro'] = "";
 $text['message-uploaded']['ru-ru'] = "Файл загружен";
 $text['message-uploaded']['sv-se'] = "File Uppladdade";
 $text['message-uploaded']['uk-ua'] = "файл Завантажено";
+$text['message-uploaded']['vi'] = "File được tải lên";
 
 $text['label-uploaded']['en-us'] = "Uploaded";
 $text['label-uploaded']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-uploaded']['ro-ro'] = "";
 $text['label-uploaded']['ru-ru'] = "Загружено";
 $text['label-uploaded']['sv-se'] = "Uppladdad";
 $text['label-uploaded']['uk-ua'] = "Завантажено";
+$text['label-uploaded']['vi'] = "Đã tải lên";
 
 $text['label-upload']['en-us'] = "File Path";
 $text['label-upload']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-upload']['ro-ro'] = "";
 $text['label-upload']['ru-ru'] = "Путь к файлу";
 $text['label-upload']['sv-se'] = "Sökväg";
 $text['label-upload']['uk-ua'] = "Шлях до файла";
+$text['label-upload']['vi'] = "Đường dẫn tệp tin";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Инструменты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-recording_name']['en-us'] = "Recording Name";
 $text['label-recording_name']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-recording_name']['ro-ro'] = "";
 $text['label-recording_name']['ru-ru'] = "Название записи";
 $text['label-recording_name']['sv-se'] = "Namn på inspelning";
 $text['label-recording_name']['uk-ua'] = "Назва запису";
+$text['label-recording_name']['vi'] = "Tên bản ghi";
 
 $text['label-play']['en-us'] = "Play";
 $text['label-play']['ar-eg'] = "";
@@ -180,7 +188,7 @@ $text['label-play']['ro-ro'] = "";
 $text['label-play']['ru-ru'] = "Проиграть";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
-
+$text['label-play']['vi'] = "Bật";
 $text['label-pause']['en-us'] = "Pause";
 $text['label-pause']['ar-eg'] = "";
 $text['label-pause']['de-at'] = "Pause"; //copied from de-de
@@ -200,6 +208,7 @@ $text['label-pause']['ro-ro'] = "";
 $text['label-pause']['ru-ru'] = "Пайза";
 $text['label-pause']['sv-se'] = "Paus";
 $text['label-pause']['uk-ua'] = "Призупинити";
+$text['label-pause']['vi'] = "Tạm dừng";
 
 $text['label-file_name']['en-us'] = "File Name";
 $text['label-file_name']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['label-file_name']['ro-ro'] = "";
 $text['label-file_name']['ru-ru'] = "Имя файла";
 $text['label-file_name']['sv-se'] = "Fil-namn";
 $text['label-file_name']['uk-ua'] = "Назва файлу";
+$text['label-file_name']['vi'] = "Tên File";
 
 $text['label-file-size']['en-us'] = "File Size";
 $text['label-file-size']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-file-size']['ro-ro'] = "";
 $text['label-file-size']['ru-ru'] = "Размер файла";
 $text['label-file-size']['sv-se'] = "Filstorlek";
 $text['label-file-size']['uk-ua'] = "Розмір файлу";
+$text['label-file-size']['vi'] = "Kích cỡ File";
 
 $text['label-file']['en-us'] = "Filename (Download)";
 $text['label-file']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['label-file']['ro-ro'] = "";
 $text['label-file']['ru-ru'] = "Имя файла (для загрузки)";
 $text['label-file']['sv-se'] = "Fil Ej Funnen";
 $text['label-file']['uk-ua'] = "";
+$text['label-file']['vi'] = "Tên file (Tải)";
 
 $text['label-edit-recording']['en-us'] = "Please provide: Recording Name (play)";
 $text['label-edit-recording']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['label-edit-recording']['ro-ro'] = "";
 $text['label-edit-recording']['ru-ru'] = "Укажите: название записи (для воспроизведения)";
 $text['label-edit-recording']['sv-se'] = "Ange: Namn på inspelning (spela upp)";
 $text['label-edit-recording']['uk-ua'] = "";
+$text['label-edit-recording']['vi'] = "Vui lòng cung cấp: Tên bản ghi (bật)";
 
 $text['label-edit-file']['en-us'] = "Please provide: Filename (download)";
 $text['label-edit-file']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['label-edit-file']['ro-ro'] = "";
 $text['label-edit-file']['ru-ru'] = "Укажите: имя файла (для загрузки)";
 $text['label-edit-file']['sv-se'] = "Ange: Filnamn (ladda ned)";
 $text['label-edit-file']['uk-ua'] = "";
+$text['label-edit-file']['vi'] = "Vui lòng cung cấp: Tên file (tải)";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -320,6 +334,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "Загрузить";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "Завантажини";
+$text['label-download']['vi'] = "Tải";
 
 $text['header']['en-us'] = "Upload Recording";
 $text['header']['ar-eg'] = "";
@@ -340,6 +355,7 @@ $text['header']['ro-ro'] = "";
 $text['header']['ru-ru'] = "Загрузить запись";
 $text['header']['sv-se'] = "Ladda Upp Inspelning";
 $text['header']['uk-ua'] = "Вивантажити запис";
+$text['header']['vi'] = "Tải lên bản ghi";
 
 $text['description-recording']['en-us'] = "A name for the recording (not parsed).";
 $text['description-recording']['ar-eg'] = "";
@@ -360,6 +376,7 @@ $text['description-recording']['ro-ro'] = "";
 $text['description-recording']['ru-ru'] = "Имя для записи (не анализируется).";
 $text['description-recording']['sv-se'] = "Namn på Inspelning.";
 $text['description-recording']['uk-ua'] = "Ім'я для запису (не розбирається).";
+$text['description-recording']['vi'] = "Tên cho bản ghi âm (không được phân tích cú pháp).";
 
 $text['description-file']['en-us'] = "Name of the file. example.wav";
 $text['description-file']['ar-eg'] = "";
@@ -380,6 +397,7 @@ $text['description-file']['ro-ro'] = "";
 $text['description-file']['ru-ru'] = "Имя файла. example.wav";
 $text['description-file']['sv-se'] = "Namn på filen. exempel: inspelning.wav";
 $text['description-file']['uk-ua'] = "";
+$text['description-file']['vi'] = "Tên của file. example.wav";
 
 $text['description']['en-us'] = "Dial *732 to create a recording, or (for best results) upload a 16bit 8khz/16khz mono WAV file.";
 $text['description']['ar-eg'] = "";
@@ -400,5 +418,6 @@ $text['description']['ro-ro'] = "";
 $text['description']['ru-ru'] = "Наберите *732 для создания записи, или (для получения наилучших результатов) загрузите 16bit 8khz/16khz mono WAV файл.";
 $text['description']['sv-se'] = "För att göra en inspelning ring * 732 eller så kan du göra en 16bit 8kHz/16kHz Mono WAV-fil och kopiera den till följande katalog uppdatera sedan sidan för att spela upp den.";
 $text['description']['uk-ua'] = "Редагування інформації облікового запису";
+$text['description']['vi'] = "Quay số *732 để tạo 1 bản ghi âm, hoặc (cho kết quả tốt nhất) tải lên file 16bit 8khz/16khz mono WAV.";
 
 ?>

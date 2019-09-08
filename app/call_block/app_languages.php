@@ -20,6 +20,7 @@ $text['title-call-block']['ro-ro'] = "Blocare apel";
 $text['title-call-block']['ru-ru'] = "Черный список";
 $text['title-call-block']['sv-se'] = "Blockera Samtal";
 $text['title-call-block']['uk-ua'] = "Блокування дзвінків";
+$text['title-call-block']['vi'] = "Cuộc gọi bị khóa";
 
 $text['prompt-block_recent_name']['en-us'] = "Block Recent Call - Edit the Name, if desired...";
 $text['prompt-block_recent_name']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['prompt-block_recent_name']['ro-ro'] = "Blocare apel recent - Editați  nu
 $text['prompt-block_recent_name']['ru-ru'] = "Блокировать недавний вызов. Отредактируйте название, если необходимо...";
 $text['prompt-block_recent_name']['sv-se'] = "Blockera Senaste Samtal, editera namnet om nödvändigt...";
 $text['prompt-block_recent_name']['uk-ua'] = "Блокувати недавній дзвінок. Відредагуйте назву за бажанням";
+$text['prompt-block_recent_name']['vi'] = "Chặn cuộc gọi gần đây - Chỉnh sửa tên, nếu muốn...";
 
 $text['label-update-complete']['en-us'] = "Update Complete";
 $text['label-update-complete']['ar-eg'] = "اكتمال التحديث";
@@ -60,6 +62,7 @@ $text['label-update-complete']['ro-ro'] = "Actualizare completă";
 $text['label-update-complete']['ru-ru'] = "Обновление завершено";
 $text['label-update-complete']['sv-se'] = "Uppdatering Klar";
 $text['label-update-complete']['uk-ua'] = "Оновлено";
+$text['label-update-complete']['vi'] = "Cập nhật thành công";
 
 $text['label-reject']['en-us'] = "Reject";
 $text['label-reject']['ar-eg'] = "رفض";
@@ -80,6 +83,7 @@ $text['label-reject']['ro-ro'] = "";
 $text['label-reject']['ru-ru'] = "Отклонить";
 $text['label-reject']['sv-se'] = "Neka";
 $text['label-reject']['uk-ua'] = "Відхилити";
+$text['label-reject']['vi'] = "Từ chối";
 
 $text['label-provide-number']['en-us'] = "Please provide: Number";
 $text['label-provide-number']['ar-eg'] = "من فضلك أدخل: الرقم";
@@ -100,6 +104,7 @@ $text['label-provide-number']['ro-ro'] = "";
 $text['label-provide-number']['ru-ru'] = "Введите номер";
 $text['label-provide-number']['sv-se'] = "Ange: Nummer";
 $text['label-provide-number']['uk-ua'] = "Введіть номер";
+$text['label-provide-number']['vi'] = "Vui lòng cung cấp: Số điện thoại";
 
 $text['label-provide-name']['en-us'] = "Please provide: Name";
 $text['label-provide-name']['ar-eg'] = "من فضلك أدخل: الأسم";
@@ -120,6 +125,7 @@ $text['label-provide-name']['ro-ro'] = "";
 $text['label-provide-name']['ru-ru'] = "Пожалуйста, введите: Имя";
 $text['label-provide-name']['sv-se'] = "Ange: Namn";
 $text['label-provide-name']['uk-ua'] = "Введіть назву";
+$text['label-provide-name']['vi'] = "Vui lòng cung cấp: Tên";
 
 $text['label-provide-enabled']['en-us'] = "Please provide: Enabled";
 $text['label-provide-enabled']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-provide-enabled']['ro-ro'] = "";
 $text['label-provide-enabled']['ru-ru'] = "Пожалуйста, введите: Включить";
 $text['label-provide-enabled']['sv-se'] = "Ange: Aktiverad";
 $text['label-provide-enabled']['uk-ua'] = "Включити/відключити";
+$text['label-provide-enabled']['vi'] = "Vui lòng cung cấp : Bật";
 
 $text['label-number']['en-us'] = "Number";
 $text['label-number']['ar-eg'] = "رقم";
@@ -160,6 +167,7 @@ $text['label-number']['ro-ro'] = "Număr";
 $text['label-number']['ru-ru'] = "Номер";
 $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "Номер";
+$text['label-number']['vi'] = "Số điện thoại";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "رسالة";
@@ -180,6 +188,7 @@ $text['label-message']['ro-ro'] = "Mesaj";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-local']['en-us'] = "Local";
 $text['label-local']['ar-eg'] = "محلي";
@@ -200,6 +209,7 @@ $text['label-local']['ro-ro'] = "Local";
 $text['label-local']['ru-ru'] = "Локальный";
 $text['label-local']['sv-se'] = "Lokal";
 $text['label-local']['uk-ua'] = "Місцевий";
+$text['label-local']['vi'] = "Nội bộ";
 
 $text['label-inbound']['en-us'] = "Inbound";
 $text['label-inbound']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-edit-note']['ro-ro'] = "Blocați apelurile de la un număr. Editaț
 $text['label-edit-note']['ru-ru'] = "Блокировать вызовы от номера. Отредактируйте имя и включено/выключено ниже.";
 $text['label-edit-note']['sv-se'] = "Blockera samtal från nummer. Editera namn och Aktiv/Inaktiv nedan.";
 $text['label-edit-note']['uk-ua'] = "Блокувати дзвінки з номера. Змініть ім'я і включіть/відключіть нижче.";
+$text['label-edit-note']['vi'] = "Chặn cuộc gọi từ một số. Chỉnh sửa tên và bật / tắt bên dưới.";
 
 $text['label-edit-edit']['en-us'] = "Call Block";
 $text['label-edit-edit']['ar-eg'] = "";
@@ -260,6 +271,8 @@ $text['label-edit-edit']['ro-ro'] = "Blocare apel";
 $text['label-edit-edit']['ru-ru'] = "Черный список";
 $text['label-edit-edit']['sv-se'] = "Blockera Samtal";
 $text['label-edit-edit']['uk-ua'] = "Блокування дзвінків";
+$text['label-edit-edit']['vi'] = "Cuộc gọi bị khóa";
+$text['label-edit-edit']['vi'] = "Chặn cuộc gọi";
 
 $text['label-edit-add-recent']['en-us'] = "Recent Calls";
 $text['label-edit-add-recent']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-edit-add-recent']['ro-ro'] = "Apeluri recente";
 $text['label-edit-add-recent']['ru-ru'] = "Недавние вызовы";
 $text['label-edit-add-recent']['sv-se'] = "Senaste Samtal";
 $text['label-edit-add-recent']['uk-ua'] = "Останні дзвінки";
+$text['label-edit-add-recent']['vi'] = "Cuôc gọi gần đây";
 
 $text['label-edit-add']['en-us'] = "Call Block";
 $text['label-edit-add']['ar-eg'] = "حظر المكالمات";
@@ -300,6 +314,7 @@ $text['label-edit-add']['ro-ro'] = "Blocare apel";
 $text['label-edit-add']['ru-ru'] = "Черный список";
 $text['label-edit-add']['sv-se'] = "Blockera Samtal";
 $text['label-edit-add']['uk-ua'] = "Блокування дзвінків";
+$text['label-edit-add']['vi'] = "Chặn cuộc gọi";
 
 $text['label-duration']['en-us'] = "Duration";
 $text['label-duration']['ar-eg'] = "المدة";
@@ -320,6 +335,7 @@ $text['label-duration']['ro-ro'] = "Durată";
 $text['label-duration']['ru-ru'] = "Длительность";
 $text['label-duration']['sv-se'] = "Samtalstid";
 $text['label-duration']['uk-ua'] = "Тривалість";
+$text['label-duration']['vi'] = "Thời lượng";
 
 $text['label-delete-complete']['en-us'] = "Delete Complete";
 $text['label-delete-complete']['ar-eg'] = "اكتمال المسح";
@@ -340,6 +356,7 @@ $text['label-delete-complete']['ro-ro'] = "Ștergere completă";
 $text['label-delete-complete']['ru-ru'] = "Удаление завершено";
 $text['label-delete-complete']['sv-se'] = "Borttagning Klar";
 $text['label-delete-complete']['uk-ua'] = "Видалено";
+$text['label-delete-complete']['vi'] = "Xóa thành công";
 
 $text['label-date-added']['en-us'] = "Date Added";
 $text['label-date-added']['ar-eg'] = "تم اضافة التاريخ";
@@ -360,6 +377,7 @@ $text['label-date-added']['ro-ro'] = "Data adăugării";
 $text['label-date-added']['ru-ru'] = "Дата добавления";
 $text['label-date-added']['sv-se'] = "Datum Tillagt";
 $text['label-date-added']['uk-ua'] = "Додано";
+$text['label-date-added']['vi'] = "Thêm ngày";
 
 $text['label-count']['en-us'] = "Count";
 $text['label-count']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-count']['ro-ro'] = "";
 $text['label-count']['ru-ru'] = "Количество";
 $text['label-count']['sv-se'] = "Räkna";
 $text['label-count']['uk-ua'] = "Кількість";
+$text['label-count']['vi'] = "Tổng số";
 
 $text['label-called-on']['en-us'] = "Called on";
 $text['label-called-on']['ar-eg'] = "تم الأتصال علي";
@@ -400,6 +419,7 @@ $text['label-called-on']['ro-ro'] = "Sunat pe";
 $text['label-called-on']['ru-ru'] = "Направление";
 $text['label-called-on']['sv-se'] = "Ringdes på";
 $text['label-called-on']['uk-ua'] = "Дзвінок здійснено";
+$text['label-called-on']['vi'] = "Đã gọi";
 
 $text['label-busy']['en-us'] = "Busy";
 $text['label-busy']['ar-eg'] = "مشغول";
@@ -420,6 +440,7 @@ $text['label-busy']['ro-ro'] = "Ocupat";
 $text['label-busy']['ru-ru'] = "Занято";
 $text['label-busy']['sv-se'] = "Upptagen";
 $text['label-busy']['uk-ua'] = "Зайнято";
+$text['label-busy']['vi'] = "Bận";
 
 $text['label-hold']['en-us'] = "Hold";
 $text['label-hold']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['label-hold']['ro-ro'] = "";
 $text['label-hold']['ru-ru'] = "Удержание";
 $text['label-hold']['sv-se'] = "Vänt";
 $text['label-hold']['uk-ua'] = "";
+$text['label-hold']['vi'] = "Giữ";
 
 $text['label-voicemail']['en-us'] = "Voicemail";
 $text['label-voicemail']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-voicemail']['ro-ro'] = "";
 $text['label-voicemail']['ru-ru'] = "Голосовая почта";
 $text['label-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-voicemail']['uk-ua'] = "Голосова пошта";
+$text['label-voicemail']['vi'] = "Thư thoại";
 
 $text['label-add-note']['en-us'] = "Block calls from a number. Either select a number from the list above or enter the number, name and enable below.";
 $text['label-add-note']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-add-note']['ro-ro'] = "";
 $text['label-add-note']['ru-ru'] = "Блокировка вызовов от номера. Выберите номер из списка выше либо введите его самостоятельно, имя и включите ниже.";
 $text['label-add-note']['sv-se'] = "Blockera samtal från ett nummer. Välj antingen ett nummer från listan ovan eller fyll i nummer, namn och aktivera nedan.";
 $text['label-add-note']['uk-ua'] = "Блокувати дзвінки з номера. Або вибрати номер зі списку вище або введіть номер, ім'я і включити нижче.";
+$text['label-add-note']['vi'] = "Chặn cuộc gọi từ một số. Chọn một số từ danh sách trên hoặc nhập số, tên và kích hoạt bên dưới.";
 
 $text['label-add-complete']['en-us'] = "Add Complete";
 $text['label-add-complete']['ar-eg'] = "تمت الأضافة";
@@ -500,6 +524,7 @@ $text['label-add-complete']['ro-ro'] = "Adăugare completă";
 $text['label-add-complete']['ru-ru'] = "Добавление завершено";
 $text['label-add-complete']['sv-se'] = "Tillagd";
 $text['label-add-complete']['uk-ua'] = "Додано";
+$text['label-add-complete']['vi'] = "Thêm thành công";
 
 $text['label-action']['en-us'] = "Action";
 $text['label-action']['ar-eg'] = "";
@@ -520,12 +545,13 @@ $text['label-action']['ro-ro'] = "Acțiune";
 $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
+$text['label-action']['vi'] = "Hoạt động";
 
-$text['description-number']['en-us'] = "Enter the number. This may be a regex expression or SQL match depending on the setting of the call_block_matching setting.";
+$text['description-number']['en-us'] = "Enter the exact number.";
 $text['description-number']['ar-eg'] = "";
-$text['description-number']['de-at'] = "Geben Sie die Nummer an. Es kann sich hierbei um eine regulären Ausdruck oder einen SQL Vergleich handeln, je nach Wert der call_block_matching Einstellung."; //copied from de-de
-$text['description-number']['de-ch'] = "Geben Sie die Nummer an. Es kann sich hierbei um eine regulären Ausdruck oder einen SQL Vergleich handeln, je nach Wert der call_block_matching Einstellung."; //copied from de-de
-$text['description-number']['de-de'] = "Geben Sie die Nummer an. Es kann sich hierbei um eine regulären Ausdruck oder einen SQL Vergleich handeln, je nach Wert der call_block_matching Einstellung.";
+$text['description-number']['de-at'] = "Geben Sie die genaue Nummer an."; //copied from de-de
+$text['description-number']['de-ch'] = "Geben Sie die genaue Nummer an."; //copied from de-de
+$text['description-number']['de-de'] = "Geben Sie die genaue Nummer an.";
 $text['description-number']['es-cl'] = "Ingrese el nú exacto.";
 $text['description-number']['es-mx'] = "Ingrese el nú exacto."; //copied from es-cl
 $text['description-number']['fr-ca'] = "Entrer le numéro exact."; //copied from fr-fr
@@ -540,6 +566,7 @@ $text['description-number']['ro-ro'] = "Introduceți numărul exact";
 $text['description-number']['ru-ru'] = "Введите точный номер.";
 $text['description-number']['sv-se'] = "Ange det exakta numret";
 $text['description-number']['uk-ua'] = "Введіть точний номер";
+$text['description-number']['vi'] = "Nhập số chính xác.";
 
 $text['description-name']['en-us'] = "Enter the name.";
 $text['description-name']['ar-eg'] = "أدخل الأسم";
@@ -560,6 +587,7 @@ $text['description-name']['ro-ro'] = "Introduceți numele";
 $text['description-name']['ru-ru'] = "Введите имя.";
 $text['description-name']['sv-se'] = "Skriv in namnet.";
 $text['description-name']['uk-ua'] = "Введіть назву меню";
+$text['description-name']['vi'] = "Nhập tên.";
 
 $text['description-enable']['en-us'] = "Set to true to enable call blocking for this number.";
 $text['description-enable']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['description-enable']['ro-ro'] = "";
 $text['description-enable']['ru-ru'] = "Выберите 'Да', чтобы блокировать вызовы с данного номера.";
 $text['description-enable']['sv-se'] = "Välj Sann för att blockera detta nummer.";
 $text['description-enable']['uk-ua'] = "Виберіть 'Так', щоб блокувати дзвінки з даного номера.";
+$text['description-enable']['vi'] = "Đặt thành true để bật chặn cuộc gọi cho số này.";
 
 $text['description-call-block']['en-us'] = "A list of numbers from which to block calls.";
 $text['description-call-block']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['description-call-block']['ro-ro'] = "";
 $text['description-call-block']['ru-ru'] = "Список номеров, с которых блокируются вызовы.";
 $text['description-call-block']['sv-se'] = "En lista med nummer för blockering av samtal.";
 $text['description-call-block']['uk-ua'] = "Список номерів, з яких блокуються дзвінки.";
+$text['description-call-block']['vi'] = "Danh sách các số để chặn cuộc gọi.";
 
 $text['description-action']['en-us'] = "Set an action for calls from this number.";
 $text['description-action']['ar-eg'] = "";
@@ -620,5 +650,6 @@ $text['description-action']['ro-ro'] = "";
 $text['description-action']['ru-ru'] = "Установите действие для вызовов с данного номера.";
 $text['description-action']['sv-se'] = "Välj en aktion för samtal från detta nummer.";
 $text['description-action']['uk-ua'] = "Встановіть дію для дзвінків з цього номера.";
+$text['description-action']['vi'] = "Đặt hành động cho các cuộc gọi từ số này.";
 
 ?>

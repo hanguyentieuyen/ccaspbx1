@@ -27,5 +27,6 @@
 		$apps[$x]['description']['ru-ru'] = "Предоставляет платформу проверки подлинности с плагинами для проверки авторизации пользователя.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cung cấp khung xác thực với các plugin để kiểm tra xem người dùng có được phép đăng nhập không.";
 
 ?>

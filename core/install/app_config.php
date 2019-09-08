@@ -26,6 +26,7 @@
 		$apps[$x]['description']['ru-ru'] = "Установка системы fuisionPBX или добавление новых коммутаторов";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cài đặt hệ thống fusionPBX hoặc thêm các công tắc mới";
 
 	//permission details
 		//$y=0;

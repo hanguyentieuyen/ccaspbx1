@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Gateways cung cấp quyền truy cập vào các mạng thoại khác. Đây có thể là nhà cung cấp giọng nói hoặc các hệ thống khác yêu cầu đăng ký SIP.";
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";
@@ -66,11 +66,8 @@
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "gateway_all";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "gateway_channels";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 
-	//default settings
+//default settings
 		$y = 0;
 		$apps[$x]['default_settings'][$y]['default_setting_uuid'] = "df031ab4-087d-4e0e-92ac-e96f5d0aa55d";
 		$apps[$x]['default_settings'][$y]['default_setting_category'] = "limit";
@@ -80,10 +77,7 @@
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "false";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "";
 
-	//cache details
-		$apps[$x]['cache']['key'] = "configuration.sofia.conf.\${hostname}";
-
-	//schema details
+//schema details
 		$y=0;
 		$apps[$x]['db'][$y]['table']['name'] = "v_gateways";
 		$apps[$x]['db'][$y]['table']['parent'] = "";

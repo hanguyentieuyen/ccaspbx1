@@ -20,6 +20,7 @@ $text['title-conference_profiles']['ro-ro'] = "";
 $text['title-conference_profiles']['ru-ru'] = "Профили Конференций";
 $text['title-conference_profiles']['sv-se'] = "Konferens Profiler";
 $text['title-conference_profiles']['uk-ua'] = "";
+$text['title-conference_profiles']['vi'] = "Thông tin hội nghị ";
 
 $text['title-conference_profile']['en-us'] = "Conference Profile";
 $text['title-conference_profile']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-conference_profile']['ro-ro'] = "";
 $text['title-conference_profile']['ru-ru'] = "Профиль Конференции";
 $text['title-conference_profile']['sv-se'] = "Konferens Profil";
 $text['title-conference_profile']['uk-ua'] = "";
+$text['title-conference_profile']['vi'] = "Thông tin hội nghị ";
 
 $text['title_description-conference_profile']['en-us'] = "A group of conference parameters saved together as a profile.";
 $text['title_description-conference_profile']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title_description-conference_profile']['ro-ro'] = "";
 $text['title_description-conference_profile']['ru-ru'] = "Группа параметров конференции, сохраненных вместе как профиль.";
 $text['title_description-conference_profile']['sv-se'] = "En grupp av konferens parametrar sammankopplade till en profil.";
 $text['title_description-conference_profile']['uk-ua'] = "";
+$text['title_description-conference_profile']['vi'] = "Một nhóm các tham số hội nghị được lưu cùng nhau dưới dạng profile.";
 
 $text['label-profile_name']['en-us'] = "Name";
 $text['label-profile_name']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-profile_name']['ro-ro'] = "";
 $text['label-profile_name']['ru-ru'] = "Имя";
 $text['label-profile_name']['sv-se'] = "Namn";
 $text['label-profile_name']['uk-ua'] = "";
+$text['label-profile_name']['vi'] = "Tên";
 
 $text['description-profile_name']['en-us'] = "Enter the profile name.";
 $text['description-profile_name']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['description-profile_name']['ro-ro'] = "";
 $text['description-profile_name']['ru-ru'] = "Введите имя профиля.";
 $text['description-profile_name']['sv-se'] = "Ang eprofilens namn.";
 $text['description-profile_name']['uk-ua'] = "";
+$text['description-profile_name']['vi'] = "Nhập tên profile.";
 
 $text['label-profile_enabled']['en-us'] = "Enabled";
 $text['label-profile_enabled']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-profile_enabled']['ro-ro'] = "";
 $text['label-profile_enabled']['ru-ru'] = "Включено";
 $text['label-profile_enabled']['sv-se'] = "Aktiverad";
 $text['label-profile_enabled']['uk-ua'] = "";
+$text['label-profile_enabled']['vi'] = "Bật";
 
 $text['description-profile_enabled']['en-us'] = "Set the status of the profile.";
 $text['description-profile_enabled']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['description-profile_enabled']['ro-ro'] = "";
 $text['description-profile_enabled']['ru-ru'] = "Установите статус профиля.";
 $text['description-profile_enabled']['sv-se'] = "Ange status för profilen.";
 $text['description-profile_enabled']['uk-ua'] = "";
+$text['description-profile_enabled']['vi'] = "Cài đặt trạng thái của profile.";
 
 $text['label-profile_description']['en-us'] = "Description";
 $text['label-profile_description']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-profile_description']['ro-ro'] = "";
 $text['label-profile_description']['ru-ru'] = "Описание";
 $text['label-profile_description']['sv-se'] = "Beskrivning";
 $text['label-profile_description']['uk-ua'] = "";
+$text['label-profile_description']['vi'] = "Mô tả";
 
 $text['description-profile_description']['en-us'] = "Enter the description.";
 $text['description-profile_description']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['description-profile_description']['ro-ro'] = "";
 $text['description-profile_description']['ru-ru'] = "Введите описание.";
 $text['description-profile_description']['sv-se'] = "Ange beskrivningen.";
 $text['description-profile_description']['uk-ua'] = "";
+$text['description-profile_description']['vi'] = "Nhập mô tả.";
 
 $text['title-conference_profile_params']['en-us'] = "Profile Parameters";
 $text['title-conference_profile_params']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['title-conference_profile_params']['ro-ro'] = "";
 $text['title-conference_profile_params']['ru-ru'] = "Параметры Профилей";
 $text['title-conference_profile_params']['sv-se'] = "Profil Parameters";
 $text['title-conference_profile_params']['uk-ua'] = "";
+$text['title-conference_profile_params']['vi'] = "Thông số Profile";
 
 $text['title-conference_profile_param']['en-us'] = "Profile Parameter";
 $text['title-conference_profile_param']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['title-conference_profile_param']['ro-ro'] = "";
 $text['title-conference_profile_param']['ru-ru'] = "Параметры Профиля";
 $text['title-conference_profile_param']['sv-se'] = "Profil Parameter";
 $text['title-conference_profile_param']['uk-ua'] = "";
+$text['title-conference_profile_param']['vi'] = "Thông số Profile";
 
 $text['title_description-conference_profile_param']['en-us'] = "Settings assigned to the conference profiles.";
 $text['title_description-conference_profile_param']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['title_description-conference_profile_param']['ro-ro'] = "";
 $text['title_description-conference_profile_param']['ru-ru'] = "Параметры, назначенные профилям конференции.";
 $text['title_description-conference_profile_param']['sv-se'] = "Inställningar kopplade till konferens profiler.";
 $text['title_description-conference_profile_param']['uk-ua'] = "";
+$text['title_description-conference_profile_param']['vi'] = "Cài đặt được gán cho profile hội nghị.";
 
 $text['label-profile_param_name']['en-us'] = "Name";
 $text['label-profile_param_name']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-profile_param_name']['ro-ro'] = "";
 $text['label-profile_param_name']['ru-ru'] = "Имя";
 $text['label-profile_param_name']['sv-se'] = "Namn";
 $text['label-profile_param_name']['uk-ua'] = "";
+$text['label-profile_param_name']['vi'] = "Tên";
 
 $text['description-profile_param_name']['en-us'] = "Enter the parameter name.";
 $text['description-profile_param_name']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['description-profile_param_name']['ro-ro'] = "";
 $text['description-profile_param_name']['ru-ru'] = "Введите имя параметра.";
 $text['description-profile_param_name']['sv-se'] = "Ange parameterns namn.";
 $text['description-profile_param_name']['uk-ua'] = "";
+$text['description-profile_param_name']['vi'] = "Nhập tên thông số.";
 
 $text['label-profile_param_value']['en-us'] = "Value";
 $text['label-profile_param_value']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-profile_param_value']['ro-ro'] = "";
 $text['label-profile_param_value']['ru-ru'] = "Значение";
 $text['label-profile_param_value']['sv-se'] = "Värde";
 $text['label-profile_param_value']['uk-ua'] = "";
+$text['label-profile_param_value']['vi'] = "Giá trị";
 
 $text['description-profile_param_value']['en-us'] = "Enter the value.";
 $text['description-profile_param_value']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['description-profile_param_value']['ro-ro'] = "";
 $text['description-profile_param_value']['ru-ru'] = "Введите Значение.";
 $text['description-profile_param_value']['sv-se'] = "Ange värdet.";
 $text['description-profile_param_value']['uk-ua'] = "";
+$text['description-profile_param_value']['vi'] = "Nhập giá trị.";
 
 $text['label-profile_param_enabled']['en-us'] = "Enabled";
 $text['label-profile_param_enabled']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-profile_param_enabled']['ro-ro'] = "";
 $text['label-profile_param_enabled']['ru-ru'] = "Включено";
 $text['label-profile_param_enabled']['sv-se'] = "";
 $text['label-profile_param_enabled']['uk-ua'] = "";
+$text['label-profile_param_enabled']['vi'] = "Cho phép";
 
 $text['description-profile_param_enabled']['en-us'] = "Set the status of the parameter.";
 $text['description-profile_param_enabled']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['description-profile_param_enabled']['ro-ro'] = "";
 $text['description-profile_param_enabled']['ru-ru'] = "Установите состояние параметра.";
 $text['description-profile_param_enabled']['sv-se'] = "Ange statusen för parametern.";
 $text['description-profile_param_enabled']['uk-ua'] = "";
+$text['description-profile_param_enabled']['vi'] = "Cài đặt trạng thái của thông số.";
 
 $text['label-profile_param_description']['en-us'] = "Description";
 $text['label-profile_param_description']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-profile_param_description']['ro-ro'] = "";
 $text['label-profile_param_description']['ru-ru'] = "Описание";
 $text['label-profile_param_description']['sv-se'] = "Beskrivning";
 $text['label-profile_param_description']['uk-ua'] = "";
+$text['label-profile_param_description']['vi'] = "Mô tả";
 
 $text['description-profile_param_description']['en-us'] = "Enter the description.";
 $text['description-profile_param_description']['ar-eg'] = "";
@@ -400,5 +419,5 @@ $text['description-profile_param_description']['ro-ro'] = "";
 $text['description-profile_param_description']['ru-ru'] = "Введите Описание.";
 $text['description-profile_param_description']['sv-se'] = "Ange beskrivningen.";
 $text['description-profile_param_description']['uk-ua'] = "";
-
+$text['description-profile_param_description']['vi'] = "Nhập mô tả.";
 ?>

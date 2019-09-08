@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Состояние cистемы";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "System Status";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Стан системи ";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Trạng thái hệ thống";
 
 	$apps[$x]['menu'][$y]['uuid'] = "5243e0d2-0e8b-277a-912e-9d8b5fcdb41d";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "0438b504-8613-7887-c420-c837ffb20cb1";

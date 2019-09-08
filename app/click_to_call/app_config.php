@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "Создание исходящих вызовов с помощью вызова URL";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Tạo cuộc gọi bằng một URL.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "click_to_call_view";

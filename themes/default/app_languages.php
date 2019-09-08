@@ -21,6 +21,7 @@ $text['theme-label-logout']['ru-ru'] = "Выйти";
 $text['theme-label-logout']['sv-se'] = "Logga Ut";
 $text['theme-label-logout']['uk-ua'] = "вийти";
 $text['theme-label-logout']['tr-tr'] = "Oturumu Kapat";
+$text['theme-label-logout']['vi'] = "Đăng xuất";
 
 $text['theme-confirm-logout']['en-us'] = "Do you really want to logout?";
 $text['theme-confirm-logout']['ar-eg'] = "";
@@ -42,6 +43,7 @@ $text['theme-confirm-logout']['ru-ru'] = "Вы действительно хот
 $text['theme-confirm-logout']['sv-se'] = "Vill du verkligen vill logga ut?";
 $text['theme-confirm-logout']['uk-ua'] = "Ви дійсно хочете вийти?";
 $text['theme-confirm-logout']['tr-tr'] = "Çıkmak istediğinize emin misiniz?";
+$text['theme-confirm-logout']['vi'] = "Bạn thực sự muốn đăng xuất?";
 
 $text['theme-label-open_selector']['en-us'] = "Domain Selector [ESC]";
 $text['theme-label-open_selector']['ar-eg'] = "";
@@ -84,6 +86,7 @@ $text['theme-title-domains']['ru-ru'] = "Домены";
 $text['theme-title-domains']['sv-se'] = "Domäner";
 $text['theme-title-domains']['uk-ua'] = "Домени";
 $text['theme-title-domains']['tr-tr'] = "Alan Adları";
+$text['theme-title-domains']['vi'] = "Tên miền";
 
 $text['theme-button-close']['en-us'] = "Close";
 $text['theme-button-close']['ar-eg'] = "";
@@ -105,6 +108,8 @@ $text['theme-button-close']['ru-ru'] = "Закрыть";
 $text['theme-button-close']['sv-se'] = "Stänga";
 $text['theme-button-close']['uk-ua'] = "Близько";
 $text['theme-button-close']['tr-tr'] = "Kapat";
+$text['theme-button-close']['vi'] = "Đóng";
+
 
 $text['theme-label-search']['en-us'] = "Search...";
 $text['theme-label-search']['ar-eg'] = "";
@@ -126,6 +131,7 @@ $text['theme-label-search']['ru-ru'] = "Поиск...";
 $text['theme-label-search']['sv-se'] = "Sök...";
 $text['theme-label-search']['uk-ua'] = "Пошук...";
 $text['theme-label-search']['tr-tr'] = "Arama...";
+$text['theme-label-search']['vi'] = "Tìm kiếm...";
 
 $text['theme-label-copyright']['en-us'] = "Copyright";
 $text['theme-label-copyright']['ar-eg'] = "";
@@ -168,47 +174,5 @@ $text['theme-label-all_rights_reserved']['ru-ru'] = "Все права защи�
 $text['theme-label-all_rights_reserved']['sv-se'] = "All rights reserved.";
 $text['theme-label-all_rights_reserved']['uk-ua'] = "";
 $text['theme-label-all_rights_reserved']['tr-tr'] = "Tüm hakları saklıdır.";
-
-$text['theme-label-user']['en-us'] = "User";
-$text['theme-label-user']['ar-eg'] = "";
-$text['theme-label-user']['de-at'] = "Benutzer"; //copied from de-de
-$text['theme-label-user']['de-ch'] = "Benutzer"; //copied from de-de
-$text['theme-label-user']['de-de'] = "Benutzer";
-$text['theme-label-user']['es-cl'] = "Usuario";
-$text['theme-label-user']['es-mx'] = "Usuario"; //copied from es-cl
-$text['theme-label-user']['fr-ca'] = "Utilisateur"; //copied from fr-fr
-$text['theme-label-user']['fr-fr'] = "Utilisateur";
-$text['theme-label-user']['he-il'] = "";
-$text['theme-label-user']['it-it'] = "Utente";
-$text['theme-label-user']['nl-nl'] = "";
-$text['theme-label-user']['pl-pl'] = "Użytkownicy";
-$text['theme-label-user']['pt-br'] = "Usuário";
-$text['theme-label-user']['pt-pt'] = "Utilizadore";
-$text['theme-label-user']['ro-ro'] = "";
-$text['theme-label-user']['ru-ru'] = "Пользователь";
-$text['theme-label-user']['sv-se'] = "Användare";
-$text['theme-label-user']['uk-ua'] = "Користувачі";
-$text['theme-label-user']['tr-tr'] = "Користувачі";
-
-$text['theme-label-domain']['en-us'] = "Domain";
-$text['theme-label-domain']['ar-eg'] = "النطاق";
-$text['theme-label-domain']['de-at'] = "Domäne"; //copied from de-de
-$text['theme-label-domain']['de-ch'] = "Domäne"; //copied from de-de
-$text['theme-label-domain']['de-de'] = "Domäne";
-$text['theme-label-domain']['es-cl'] = "Dominio";
-$text['theme-label-domain']['es-mx'] = "Dominio"; //copied from es-cl
-$text['theme-label-domain']['fr-ca'] = "Domaine"; //copied from fr-fr
-$text['theme-label-domain']['fr-fr'] = "Domaine";
-$text['theme-label-domain']['he-il'] = "דומיין";
-$text['theme-label-domain']['it-it'] = "Dominio";
-$text['theme-label-domain']['nl-nl'] = "";
-$text['theme-label-domain']['pl-pl'] = "Domena";
-$text['theme-label-domain']['pt-br'] = "Dominio";
-$text['theme-label-domain']['pt-pt'] = "Domínio";
-$text['theme-label-domain']['ro-ro'] = "Domeniu";
-$text['theme-label-domain']['ru-ru'] = "Домен";
-$text['theme-label-domain']['sv-se'] = "Domän";
-$text['theme-label-domain']['uk-ua'] = "Домен";
-$text['theme-label-domain']['tr-tr'] = "Alan Adı";
 
 ?>

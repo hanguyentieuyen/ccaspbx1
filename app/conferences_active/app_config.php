@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "AJAX утилита для просмотра и управления всеми активными участниками в конференции.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Công cụ AJAX để xem và quản lý tất cả những người gọi đang hoạt động trong phòng hội thảo.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "conference_active_view";

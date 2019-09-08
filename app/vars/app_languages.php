@@ -20,6 +20,7 @@ $text['title-variables_advanced']['ro-ro'] = "";
 $text['title-variables_advanced']['ru-ru'] = "Параметры FreeSwitch: Расширенные";
 $text['title-variables_advanced']['sv-se'] = "Switch Variabler: Avancerat";
 $text['title-variables_advanced']['uk-ua'] = "Задання змінних: Додатково";
+$text['title-variables_advanced']['vi'] = "Chuyển đổi biến: Nâng cao";
 
 $text['title-variables']['en-us'] = "Switch Variables";
 $text['title-variables']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-variables']['ro-ro'] = "";
 $text['title-variables']['ru-ru'] = "Параметры FreeSwitch";
 $text['title-variables']['sv-se'] = "Switch Variabler";
 $text['title-variables']['uk-ua'] = "Задання змінних ";
+$text['title-variables']['vi'] = "Chuyển đổi biến";
 
 $text['title-variable_edit']['en-us'] = "Variable";
 $text['title-variable_edit']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-variable_edit']['ro-ro'] = "";
 $text['title-variable_edit']['ru-ru'] = "Переменная";
 $text['title-variable_edit']['sv-se'] = "Variabel";
 $text['title-variable_edit']['uk-ua'] = "Змінна";
+$text['title-variable_edit']['vi'] = "Biến";
 
 $text['title-variable_add']['en-us'] = "Variable";
 $text['title-variable_add']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-variable_add']['ro-ro'] = "";
 $text['title-variable_add']['ru-ru'] = "Переменная";
 $text['title-variable_add']['sv-se'] = "Variabel";
 $text['title-variable_add']['uk-ua'] = "Змінна";
+$text['title-variable_add']['vi'] = "Biến";
 
 $text['label-command']['en-us'] = "Command";
 $text['label-command']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-command']['ro-ro'] = "";
 $text['label-command']['ru-ru'] = "";
 $text['label-command']['sv-se'] = "";
 $text['label-command']['uk-ua'] = "";
+$text['label-command']['vi'] = "Lệnh";
 
 $text['option-set']['en-us'] = "set";
 $text['option-set']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['option-set']['ro-ro'] = "";
 $text['option-set']['ru-ru'] = "";
 $text['option-set']['sv-se'] = "";
 $text['option-set']['uk-ua'] = "";
+$text['option-set']['vi'] = "cài đặt";
 
 $text['option-exec-set']['en-us'] = "exec-set";
 $text['option-exec-set']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['label-hostname']['ro-ro'] = "";
 $text['label-hostname']['ru-ru'] = "Имя хоста";
 $text['label-hostname']['sv-se'] = "Hostname";
 $text['label-hostname']['uk-ua'] = "Назва хоста";
+$text['label-hostname']['vi'] = "Tên máy chủ";
 
 $text['label-codec_information']['en-us'] = "Codec Information";
 $text['label-codec_information']['ar-eg'] = "";
@@ -180,6 +187,7 @@ $text['label-codec_information']['ro-ro'] = "";
 $text['label-codec_information']['ru-ru'] = "Информация о кодеке";
 $text['label-codec_information']['sv-se'] = "Codec Information";
 $text['label-codec_information']['uk-ua'] = "Інформація про кодек";
+$text['label-codec_information']['vi'] = "Thông tin Codec";
 
 $text['header-variables_advanced']['en-us'] = "Switch Variables: Advanced";
 $text['header-variables_advanced']['ar-eg'] = "";
@@ -200,6 +208,7 @@ $text['header-variables_advanced']['ro-ro'] = "";
 $text['header-variables_advanced']['ru-ru'] = "Параметры FreeSwitch: Расширенный";
 $text['header-variables_advanced']['sv-se'] = "Switch Variabler: Avancerat";
 $text['header-variables_advanced']['uk-ua'] = "Задання змінних: Додатково";
+$text['header-variables_advanced']['vi'] = "Chuyển đổi biến: Nâng cao";
 
 $text['header-variables']['en-us'] = "Switch Variables";
 $text['header-variables']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['header-variables']['ro-ro'] = "";
 $text['header-variables']['ru-ru'] = "Параметры FreeSwitch";
 $text['header-variables']['sv-se'] = "Switch Variabler";
 $text['header-variables']['uk-ua'] = "Задання змінних";
+$text['header-variables']['vi'] = "Chuyển đổi biến";
 
 $text['header-variable_edit']['en-us'] = "Variable";
 $text['header-variable_edit']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['header-variable_edit']['ro-ro'] = "";
 $text['header-variable_edit']['ru-ru'] = "Переменная";
 $text['header-variable_edit']['sv-se'] = "Variabel";
 $text['header-variable_edit']['uk-ua'] = "Змінна";
+$text['header-variable_edit']['vi'] = "Biến";
 
 $text['header-hostname']['en-us'] = "Hostname";
 $text['header-hostname']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['header-hostname']['ro-ro'] = "";
 $text['header-hostname']['ru-ru'] = "Имя хоста";
 $text['header-hostname']['sv-se'] = "Hostname";
 $text['header-hostname']['uk-ua'] = "Назва хоста";
+$text['header-hostname']['vi'] = "Tên máy chủ";
 
 $text['description-variables_advanced']['en-us'] = "Define preprocessor variables here. Can be accessed in the xml configuration with $.";
 $text['description-variables_advanced']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['description-variables_advanced']['ro-ro'] = "";
 $text['description-variables_advanced']['ru-ru'] = "Определите здесь параметры FreeSwitch. Доступ к файлу xml можно получить с помощью $.";
 $text['description-variables_advanced']['sv-se'] = "Definiera preprocessor variabler här. Kan nås i xml konfigurationen med $.";
 $text['description-variables_advanced']['uk-ua'] = "Задайте змінні препроцесора тут. Вони будуть доступними в конфігурації XML з символом $.";
+$text['description-variables_advanced']['vi'] = "Xác định các biến tiền xử lý ở đây. Có thể được truy cập trong cấu hình xml với $.";
 
 $text['description-variables']['en-us'] = "Define preprocessor variables here.";
 $text['description-variables']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['description-variables']['ro-ro'] = "";
 $text['description-variables']['ru-ru'] = "Определите здесь параметры FreeSwitch.";
 $text['description-variables']['sv-se'] = "Definiera preprocessor variabler här.";
 $text['description-variables']['uk-ua'] = "Задайте змінні препроцесора тут.";
+$text['description-variables']['vi'] = "Xác định các biến tiền xử lý ở đây.";
 
 $text['description-command']['en-us'] = "Set the command.";
 $text['description-command']['ar-eg'] = "";
@@ -320,6 +334,7 @@ $text['description-command']['ro-ro'] = "";
 $text['description-command']['ru-ru'] = "";
 $text['description-command']['sv-se'] = "";
 $text['description-command']['uk-ua'] = "";
+$text['description-command']['vi'] = "Đặt lệnh.";
 
 $text['description-name']['en-us'] = "Enter the variable name.";
 $text['description-name']['ar-eg'] = "";
@@ -340,6 +355,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя переменной.";
 $text['description-name']['sv-se'] = "Skriv in namnet på menyn.";
 $text['description-name']['uk-ua'] = "Введіть назву змінної";
+$text['description-name']['vi'] = "Nhập tên biến.";
 
 $text['description-hostname']['en-us'] = "Enter the hostname / switchname.";
 $text['description-hostname']['ar-eg'] = "";
@@ -360,6 +376,7 @@ $text['description-hostname']['ro-ro'] = "";
 $text['description-hostname']['ru-ru'] = "Введите имя хоста / имя_схемы.";
 $text['description-hostname']['sv-se'] = "Fyll i hostname / switchname.";
 $text['description-hostname']['uk-ua'] = "Введіть назву хоста / switchname.";
+$text['description-hostname']['vi'] = "Nhập tên máy chủ / Tên chuyển đổi.";
 
 $text['description-enabled']['en-us'] = "Enable or disable this variable.";
 $text['description-enabled']['ar-eg'] = "";
@@ -380,6 +397,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "";
 $text['description-enabled']['sv-se'] = "";
 $text['description-enabled']['uk-ua'] = "";
+$text['description-enabled']['vi'] = "Kích hoạt hoặc vô hiệu hóa biến này.";
 
 $text['description-order']['en-us'] = "Select the order.";
 $text['description-order']['ar-eg'] = "";
@@ -400,6 +418,7 @@ $text['description-order']['ro-ro'] = "";
 $text['description-order']['ru-ru'] = "";
 $text['description-order']['sv-se'] = "";
 $text['description-order']['uk-ua'] = "";
+$text['description-order']['vi'] = "Chọn thứ tự.";
 
 $text['description-description']['en-us'] = "Enter the description.";
 $text['description-description']['ar-eg'] = "";
@@ -420,5 +439,5 @@ $text['description-description']['ro-ro'] = "";
 $text['description-description']['ru-ru'] = "";
 $text['description-description']['sv-se'] = "";
 $text['description-description']['uk-ua'] = "";
-
+$text['description-description']['vi'] = "Nhập mô tả.";
 ?>

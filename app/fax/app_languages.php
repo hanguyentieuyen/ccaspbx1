@@ -20,6 +20,7 @@ $text['title-fax']['ro-ro'] = "";
 $text['title-fax']['ru-ru'] = "Fax Сервер";
 $text['title-fax']['sv-se'] = "Fax Server";
 $text['title-fax']['uk-ua'] = "";
+$text['title-fax']['vi'] = "Máy chủ Fax";
 
 $text['title-fax_logs']['en-us'] = "Fax Logs";
 $text['title-fax_logs']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-fax_logs']['ro-ro'] = "";
 $text['title-fax_logs']['ru-ru'] = "Fax Логи";
 $text['title-fax_logs']['sv-se'] = "Fax Loggar";
 $text['title-fax_logs']['uk-ua'] = "";
+$text['title-fax_logs']['vi'] = "Fax Logs";
 
 $text['title-fax_log']['en-us'] = "Fax Log";
 $text['title-fax_log']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-fax_log']['ro-ro'] = "";
 $text['title-fax_log']['ru-ru'] = "Fax Лог";
 $text['title-fax_log']['sv-se'] = "Fax Log";
 $text['title-fax_log']['uk-ua'] = "";
+$text['title-fax_log']['vi'] = "Fax Log";
 
 $text['title-fax_files']['en-us'] = "Fax Files";
 $text['title-fax_files']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-fax_files']['ro-ro'] = "";
 $text['title-fax_files']['ru-ru'] = "FAX Файлы";
 $text['title-fax_files']['sv-se'] = "Faxfiler";
 $text['title-fax_files']['uk-ua'] = "";
+$text['title-fax_files']['vi'] = "Tệp fax";
 
 $text['title-fax_file']['en-us'] = "Fax File";
 $text['title-fax_file']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-fax_file']['ro-ro'] = "";
 $text['title-fax_file']['ru-ru'] = "Fax Файл";
 $text['title-fax_file']['sv-se'] = "Faxfilen";
 $text['title-fax_file']['uk-ua'] = "";
+$text['title-fax_file']['vi'] = "Tệp fax";
 
 $text['table-view']['en-us'] = "View";
 $text['table-view']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['table-view']['ro-ro'] = "";
 $text['table-view']['ru-ru'] = "Просмотр";
 $text['table-view']['sv-se'] = "Granska";
 $text['table-view']['uk-ua'] = "";
+$text['table-view']['vi'] = "Xem";
 
 $text['table-size']['en-us'] = "Size";
 $text['table-size']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['table-size']['ro-ro'] = "";
 $text['table-size']['ru-ru'] = "Размер";
 $text['table-size']['sv-se'] = "Storlek";
 $text['table-size']['uk-ua'] = "";
+$text['table-size']['vi'] = "Kích cỡ";
 
 $text['table-modified']['en-us'] = "Last Modified";
 $text['table-modified']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['table-modified']['ro-ro'] = "";
 $text['table-modified']['ru-ru'] = "Последние изменения";
 $text['table-modified']['sv-se'] = "Senast Modifierad";
 $text['table-modified']['uk-ua'] = "";
+$text['table-modified']['vi'] = "Sửa đổi lần cuố";
 
 $text['table-file']['en-us'] = "File Name (Download)";
 $text['table-file']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['table-file']['ro-ro'] = "";
 $text['table-file']['ru-ru'] = "Имена файлов (Загрузить)";
 $text['table-file']['sv-se'] = "Fil Namn (Nedladdning)";
 $text['table-file']['uk-ua'] = "";
+$text['table-file']['vi'] = "Tên tệp (Tải xuống)";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Активно";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-fax-resolution-superfine']['en-us'] = "Superfine";
 $text['option-fax-resolution-superfine']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['option-fax-resolution-superfine']['ro-ro'] = "";
 $text['option-fax-resolution-superfine']['ru-ru'] = "Наилучшее";
 $text['option-fax-resolution-superfine']['sv-se'] = "Superfin";
 $text['option-fax-resolution-superfine']['uk-ua'] = "";
+$text['option-fax-resolution-superfine']['vi'] = "Superfine";
 
 $text['option-fax-resolution-normal']['en-us'] = "Normal";
 $text['option-fax-resolution-normal']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['option-fax-resolution-normal']['ro-ro'] = "";
 $text['option-fax-resolution-normal']['ru-ru'] = "Нормальное";
 $text['option-fax-resolution-normal']['sv-se'] = "Normal";
 $text['option-fax-resolution-normal']['uk-ua'] = "";
+$text['option-fax-resolution-normal']['vi'] = "Bình thường";
 
 $text['option-fax-resolution-fine']['en-us'] = "Fine";
 $text['option-fax-resolution-fine']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['option-fax-resolution-fine']['ro-ro'] = "";
 $text['option-fax-resolution-fine']['ru-ru'] = "Исходное";
 $text['option-fax-resolution-fine']['sv-se'] = "Fin";
 $text['option-fax-resolution-fine']['uk-ua'] = "";
+$text['option-fax-resolution-fine']['vi'] = "Tốt";
 
 $text['option-false']['en-us'] = "False";
 $text['option-false']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['option-false']['ro-ro'] = "";
 $text['option-false']['ru-ru'] = "Ошибка";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "";
+$text['option-false']['vi'] = "Sai";
 
 $text['message-no_faxes_found']['en-us'] = "No Faxes Found";
 $text['message-no_faxes_found']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['message-no_faxes_found']['ro-ro'] = "";
 $text['message-no_faxes_found']['ru-ru'] = "Факсы отсутствуют";
 $text['message-no_faxes_found']['sv-se'] = "Inga Fax Funna";
 $text['message-no_faxes_found']['uk-ua'] = "";
+$text['message-no_faxes_found']['vi'] = "Không tìm thấy Fax";
 
 $text['message-invalid-fax']['en-us'] = "Invalid Fax - Please enter a message or select a file to send.";
 $text['message-invalid-fax']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['message-invalid-fax']['ro-ro'] = "";
 $text['message-invalid-fax']['ru-ru'] = "Неверный FAX: введите сообщение или выберите файл для отправки.";
 $text['message-invalid-fax']['sv-se'] = "Ogiltigt Fax - Fyll i ett meddelande eller välj en fil att skicka iväg.";
 $text['message-invalid-fax']['uk-ua'] = "";
+$text['message-invalid-fax']['vi'] = "Fax không hợp lệ - Vui lòng nhập tin nhắn hoặc chọn tệp để gửi.";
 
 $text['message-cannot_connect']['en-us'] = "Connection Failed";
 $text['message-cannot_connect']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['message-cannot_connect']['ro-ro'] = "";
 $text['message-cannot_connect']['ru-ru'] = "Ошибка соединения";
 $text['message-cannot_connect']['sv-se'] = "Connection Misslyckades";
 $text['message-cannot_connect']['uk-ua'] = "";
+$text['message-cannot_connect']['vi'] = "Kết nối thất bại";
 
 $text['label-user-list']['en-us'] = "User List";
 $text['label-user-list']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-user-list']['ro-ro'] = "";
 $text['label-user-list']['ru-ru'] = "Список пользователей";
 $text['label-user-list']['sv-se'] = "Användarlista";
 $text['label-user-list']['uk-ua'] = "";
+$text['label-user-list']['vi'] = "Danh sách người dùng";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Инструменты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-sent']['en-us'] = "Sent";
 $text['label-sent']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-sent']['ro-ro'] = "";
 $text['label-sent']['ru-ru'] = "Переданные";
 $text['label-sent']['sv-se'] = "Skickat";
 $text['label-sent']['uk-ua'] = "";
+$text['label-sent']['vi'] = "Gửi";
 
 $text['label-selected']['en-us'] = "Selected";
 $text['label-selected']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['label-selected']['ro-ro'] = "";
 $text['label-selected']['ru-ru'] = "Выбор";
 $text['label-selected']['sv-se'] = "Valt";
 $text['label-selected']['uk-ua'] = "";
+$text['label-selected']['vi'] = "Được chọn";
 
 $text['label-pin']['en-us'] = "PIN Number";
 $text['label-pin']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['label-pin']['ro-ro'] = "";
 $text['label-pin']['ru-ru'] = "PIN-код";
 $text['label-pin']['sv-se'] = "PIN Kod";
 $text['label-pin']['uk-ua'] = "";
+$text['label-pin']['vi'] = "Mã PIN";
 
 $text['label-new']['en-us'] = "New";
 $text['label-new']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-new']['ro-ro'] = "";
 $text['label-new']['ru-ru'] = "Новый";
 $text['label-new']['sv-se'] = "Nytt";
 $text['label-new']['uk-ua'] = "";
+$text['label-new']['vi'] = "Mới";
 
 $text['label-log']['en-us'] = "Log";
 $text['label-log']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-log']['ro-ro'] = "";
 $text['label-log']['ru-ru'] = "Лог";
 $text['label-log']['sv-se'] = "Log";
 $text['label-log']['uk-ua'] = "";
+$text['label-log']['vi'] = "Log";
 
 $text['label-active']['en-us'] = "Active";
 $text['label-active']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['label-active']['ro-ro'] = "";
 $text['label-active']['ru-ru'] = "Активные";
 $text['label-active']['sv-se'] = "Aktiv";
 $text['label-active']['uk-ua'] = "";
+$text['label-active']['vi'] = "Hoạt động";
 
 $text['label-location']['en-us'] = "Location";
 $text['label-location']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['label-location']['ro-ro'] = "";
 $text['label-location']['ru-ru'] = "Расположение";
 $text['label-location']['sv-se'] = "Plats";
 $text['label-location']['uk-ua'] = "";
+$text['label-location']['vi'] = "Vị trí";
 
 $text['label-inbox']['en-us'] = "Inbox";
 $text['label-inbox']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['label-inbox']['ro-ro'] = "";
 $text['label-inbox']['ru-ru'] = "Входящие";
 $text['label-inbox']['sv-se'] = "Inbox";
 $text['label-inbox']['uk-ua'] = "";
+$text['label-inbox']['vi'] = "Hộp thư đến";
 
 $text['label-forward']['en-us'] = "Forward Number";
 $text['label-forward']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['label-forward']['ro-ro'] = "";
 $text['label-forward']['ru-ru'] = "Набираемый Номер";
 $text['label-forward']['sv-se'] = "Vidarekoppla";
 $text['label-forward']['uk-ua'] = "";
+$text['label-forward']['vi'] = "Chuyển tiếp số";
 
 $text['label-file']['en-us'] = "File not found.";
 $text['label-file']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['label-file']['ro-ro'] = "";
 $text['label-file']['ru-ru'] = "Файл отсутствует.";
 $text['label-file']['sv-se'] = "Fil Ej Funnen";
 $text['label-file']['uk-ua'] = "";
+$text['label-file']['vi'] = "Không tìm thấy tệp.";
 
 $text['label-fax_uuid']['en-us'] = "FAX UUID";
 $text['label-fax_uuid']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['label-fax_uuid']['ro-ro'] = "";
 $text['label-fax_uuid']['ru-ru'] = "FAX UUID";
 $text['label-fax_uuid']['sv-se'] = "Fax Detektering";
 $text['label-fax_uuid']['uk-ua'] = "";
+$text['label-fax_uuid']['vi'] = "FAX UUID";
 
 $text['label-fax_uri']['en-us'] = "URI";
 $text['label-fax_uri']['ar-eg'] = "";
@@ -640,6 +670,7 @@ $text['label-fax_transfer_rate']['ro-ro'] = "";
 $text['label-fax_transfer_rate']['ru-ru'] = "Скорость передачи";
 $text['label-fax_transfer_rate']['sv-se'] = "Transfer Rate";
 $text['label-fax_transfer_rate']['uk-ua'] = "";
+$text['label-fax_transfer_rate']['vi'] = "Tốc độ truyền tải";
 
 $text['label-fax_success']['en-us'] = "Success";
 $text['label-fax_success']['ar-eg'] = "";
@@ -660,6 +691,7 @@ $text['label-fax_success']['ro-ro'] = "";
 $text['label-fax_success']['ru-ru'] = "Успешно";
 $text['label-fax_success']['sv-se'] = "Lyckades";
 $text['label-fax_success']['uk-ua'] = "";
+$text['label-fax_success']['vi'] = "Thành công";
 
 $text['label-fax_retry_sleep']['en-us'] = "Retry Sleep";
 $text['label-fax_retry_sleep']['ar-eg'] = "";
@@ -680,6 +712,7 @@ $text['label-fax_retry_sleep']['ro-ro'] = "";
 $text['label-fax_retry_sleep']['ru-ru'] = "Повтор после паузы";
 $text['label-fax_retry_sleep']['sv-se'] = "Retry Sleep";
 $text['label-fax_retry_sleep']['uk-ua'] = "";
+$text['label-fax_retry_sleep']['vi'] = "Thử lại ngủ";
 
 $text['label-fax_retry_limit']['en-us'] = "Retry Limit";
 $text['label-fax_retry_limit']['ar-eg'] = "";
@@ -700,6 +733,7 @@ $text['label-fax_retry_limit']['ro-ro'] = "";
 $text['label-fax_retry_limit']['ru-ru'] = "Количество повторов";
 $text['label-fax_retry_limit']['sv-se'] = "Retry Limit";
 $text['label-fax_retry_limit']['uk-ua'] = "";
+$text['label-fax_retry_limit']['vi'] = "Thử lại giới hạn";
 
 $text['label-fax_retry_attempts']['en-us'] = "Retry";
 $text['label-fax_retry_attempts']['ar-eg'] = "";
@@ -720,6 +754,7 @@ $text['label-fax_retry_attempts']['ro-ro'] = "";
 $text['label-fax_retry_attempts']['ru-ru'] = "Повторить";
 $text['label-fax_retry_attempts']['sv-se'] = "Retry";
 $text['label-fax_retry_attempts']['uk-ua'] = "";
+$text['label-fax_retry_attempts']['vi'] = "Thử lại";
 
 $text['label-fax_result_text']['en-us'] = "Result";
 $text['label-fax_result_text']['ar-eg'] = "";
@@ -740,6 +775,7 @@ $text['label-fax_result_text']['ro-ro'] = "";
 $text['label-fax_result_text']['ru-ru'] = "Результат";
 $text['label-fax_result_text']['sv-se'] = "Resultat";
 $text['label-fax_result_text']['uk-ua'] = "";
+$text['label-fax_result_text']['vi'] = "Kết quả";
 
 $text['label-fax_result_code']['en-us'] = "Code";
 $text['label-fax_result_code']['ar-eg'] = "";
@@ -760,6 +796,7 @@ $text['label-fax_result_code']['ro-ro'] = "";
 $text['label-fax_result_code']['ru-ru'] = "Код";
 $text['label-fax_result_code']['sv-se'] = "Code";
 $text['label-fax_result_code']['uk-ua'] = "";
+$text['label-fax_result_code']['vi'] = "Code";
 
 $text['label-fax_prefix']['en-us'] = "Prefix";
 $text['label-fax_prefix']['ar-eg'] = "";
@@ -800,6 +837,7 @@ $text['label-fax_number']['ro-ro'] = "";
 $text['label-fax_number']['ru-ru'] = "FAX Номер";
 $text['label-fax_number']['sv-se'] = "Faxnummer";
 $text['label-fax_number']['uk-ua'] = "";
+$text['label-fax_number']['vi'] = "Số Fax";
 
 $text['label-fax_mode']['en-us'] = "Mode";
 $text['label-fax_mode']['ar-eg'] = "";
@@ -820,6 +858,7 @@ $text['label-fax_mode']['ro-ro'] = "";
 $text['label-fax_mode']['ru-ru'] = "Режим";
 $text['label-fax_mode']['sv-se'] = "Läge";
 $text['label-fax_mode']['uk-ua'] = "";
+$text['label-fax_mode']['vi'] = "Chế độ";
 
 $text['label-fax_local_station_id']['en-us'] = "Local Station ID";
 $text['label-fax_local_station_id']['ar-eg'] = "";
@@ -840,6 +879,7 @@ $text['label-fax_local_station_id']['ro-ro'] = "";
 $text['label-fax_local_station_id']['ru-ru'] = "ID локальной станции";
 $text['label-fax_local_station_id']['sv-se'] = "Local Station ID ";
 $text['label-fax_local_station_id']['uk-ua'] = "";
+$text['label-fax_local_station_id']['vi'] = "ID trạm nội bộ";
 
 $text['label-fax_image_size']['en-us'] = "Image Size";
 $text['label-fax_image_size']['ar-eg'] = "";
@@ -860,6 +900,7 @@ $text['label-fax_image_size']['ro-ro'] = "";
 $text['label-fax_image_size']['ru-ru'] = "Размер изображения";
 $text['label-fax_image_size']['sv-se'] = "Bild Storlek";
 $text['label-fax_image_size']['uk-ua'] = "";
+$text['label-fax_image_size']['vi'] = "Kích thước hình ảnh";
 
 $text['label-fax_image_resolution']['en-us'] = "Image Resolution";
 $text['label-fax_image_resolution']['ar-eg'] = "";
@@ -880,6 +921,7 @@ $text['label-fax_image_resolution']['ro-ro'] = "";
 $text['label-fax_image_resolution']['ru-ru'] = "Разрешение изображения";
 $text['label-fax_image_resolution']['sv-se'] = "Upplösning På Bild";
 $text['label-fax_image_resolution']['uk-ua'] = "";
+$text['label-fax_image_resolution']['vi'] = "Độ phân giải hình ảnh";
 
 $text['label-fax_files']['en-us'] = "Fax File(s)";
 $text['label-fax_files']['ar-eg'] = "";
@@ -900,6 +942,7 @@ $text['label-fax_files']['ro-ro'] = "";
 $text['label-fax_files']['ru-ru'] = "Fax Файл(ы)";
 $text['label-fax_files']['sv-se'] = "Fax fil(er)";
 $text['label-fax_files']['uk-ua'] = "";
+$text['label-fax_files']['vi'] = "Tệp Fax";
 
 $text['label-fax_file_type']['en-us'] = "File Type";
 $text['label-fax_file_type']['ar-eg'] = "";
@@ -920,6 +963,7 @@ $text['label-fax_file_type']['ro-ro'] = "";
 $text['label-fax_file_type']['ru-ru'] = "Типы Файлов";
 $text['label-fax_file_type']['sv-se'] = "Filtyp";
 $text['label-fax_file_type']['uk-ua'] = "";
+$text['label-fax_file_type']['vi'] = "Loại tệp";
 
 $text['label-fax_file_path']['en-us'] = "File Path";
 $text['label-fax_file_path']['ar-eg'] = "";
@@ -940,6 +984,7 @@ $text['label-fax_file_path']['ro-ro'] = "";
 $text['label-fax_file_path']['ru-ru'] = "Путь к Файлу";
 $text['label-fax_file_path']['sv-se'] = "Fil";
 $text['label-fax_file_path']['uk-ua'] = "";
+$text['label-fax_file_path']['vi'] = "Đường dẫn tệp";
 
 $text['label-fax_file']['en-us'] = "File";
 $text['label-fax_file']['ar-eg'] = "";
@@ -960,6 +1005,7 @@ $text['label-fax_file']['ro-ro'] = "";
 $text['label-fax_file']['ru-ru'] = "Файл";
 $text['label-fax_file']['sv-se'] = "Fil Bana";
 $text['label-fax_file']['uk-ua'] = "";
+$text['label-fax_file']['vi'] = "Tệp tin";
 
 $text['label-fax_epoch']['en-us'] = "Epoch";
 $text['label-fax_epoch']['ar-eg'] = "";
@@ -980,6 +1026,7 @@ $text['label-fax_epoch']['ro-ro'] = "";
 $text['label-fax_epoch']['ru-ru'] = "Эпоха";
 $text['label-fax_epoch']['sv-se'] = "Epoch";
 $text['label-fax_epoch']['uk-ua'] = "";
+$text['label-fax_epoch']['vi'] = "Thời kỳ";
 
 $text['label-fax_ecm_used']['en-us'] = "ECM";
 $text['label-fax_ecm_used']['ar-eg'] = "";
@@ -1020,6 +1067,7 @@ $text['label-fax_document_transferred_pages']['ro-ro'] = "";
 $text['label-fax_document_transferred_pages']['ru-ru'] = "Страниц документа отправлено";
 $text['label-fax_document_transferred_pages']['sv-se'] = "Dokument Skickade Sidor";
 $text['label-fax_document_transferred_pages']['uk-ua'] = "";
+$text['label-fax_document_transferred_pages']['vi'] = "Trang chuyển tài liệu";
 
 $text['label-fax_document_total_pages']['en-us'] = "Document Total Pages";
 $text['label-fax_document_total_pages']['ar-eg'] = "";
@@ -1040,6 +1088,7 @@ $text['label-fax_document_total_pages']['ro-ro'] = "";
 $text['label-fax_document_total_pages']['ru-ru'] = "Всего страниц в документе";
 $text['label-fax_document_total_pages']['sv-se'] = "Dokument Totalt Sidor";
 $text['label-fax_document_total_pages']['uk-ua'] = "";
+$text['label-fax_document_total_pages']['vi'] = "Tổng số tài liệu";
 
 $text['label-fax_destination']['en-us'] = "Destination";
 $text['label-fax_destination']['ar-eg'] = "";
@@ -1060,6 +1109,7 @@ $text['label-fax_destination']['ro-ro'] = "";
 $text['label-fax_destination']['ru-ru'] = "Отправитель";
 $text['label-fax_destination']['sv-se'] = "Destination";
 $text['label-fax_destination']['uk-ua'] = "";
+$text['label-fax_destination']['vi'] = "Đích đến";
 
 $text['label-fax_date']['en-us'] = "Date";
 $text['label-fax_date']['ar-eg'] = "";
@@ -1080,6 +1130,7 @@ $text['label-fax_date']['ro-ro'] = "";
 $text['label-fax_date']['ru-ru'] = "Дата";
 $text['label-fax_date']['sv-se'] = "Datum";
 $text['label-fax_date']['uk-ua'] = "";
+$text['label-fax_date']['vi'] = "Ngày";
 
 $text['label-fax_caller_id_number']['en-us'] = "Caller ID Number";
 $text['label-fax_caller_id_number']['ar-eg'] = "";
@@ -1100,6 +1151,7 @@ $text['label-fax_caller_id_number']['ro-ro'] = "";
 $text['label-fax_caller_id_number']['ru-ru'] = "Caller ID Номер";
 $text['label-fax_caller_id_number']['sv-se'] = "Nummerpresentation";
 $text['label-fax_caller_id_number']['uk-ua'] = "";
+$text['label-fax_caller_id_number']['vi'] = "Số ID người gọi";
 
 $text['label-fax_caller_id_name']['en-us'] = "Caller ID Name";
 $text['label-fax_caller_id_name']['ar-eg'] = "";
@@ -1120,6 +1172,7 @@ $text['label-fax_caller_id_name']['ro-ro'] = "";
 $text['label-fax_caller_id_name']['ru-ru'] = "Caller ID Имя";
 $text['label-fax_caller_id_name']['sv-se'] = "Namnpresentation";
 $text['label-fax_caller_id_name']['uk-ua'] = "";
+$text['label-fax_caller_id_name']['vi'] = "Tên người gọi";
 
 $text['label-fax_base64']['en-us'] = "Base64";
 $text['label-fax_base64']['ar-eg'] = "";
@@ -1160,6 +1213,7 @@ $text['label-fax_bad_rows']['ro-ro'] = "";
 $text['label-fax_bad_rows']['ru-ru'] = "Ошибочных строк";
 $text['label-fax_bad_rows']['sv-se'] = "Dåliga Rader";
 $text['label-fax_bad_rows']['uk-ua'] = "";
+$text['label-fax_bad_rows']['vi'] = "Bad Rows";
 
 $text['label-fax-subject']['en-us'] = "Subject";
 $text['label-fax-subject']['ar-eg'] = "";
@@ -1180,6 +1234,7 @@ $text['label-fax-subject']['ro-ro'] = "";
 $text['label-fax-subject']['ru-ru'] = "Тема";
 $text['label-fax-subject']['sv-se'] = "Ämne";
 $text['label-fax-subject']['uk-ua'] = "";
+$text['label-fax-subject']['vi'] = "Chủ đề";
 
 $text['label-fax-sender']['en-us'] = "From";
 $text['label-fax-sender']['ar-eg'] = "";
@@ -1200,6 +1255,7 @@ $text['label-fax-sender']['ro-ro'] = "";
 $text['label-fax-sender']['ru-ru'] = "От";
 $text['label-fax-sender']['sv-se'] = "Från";
 $text['label-fax-sender']['uk-ua'] = "";
+$text['label-fax-sender']['vi'] = "Từ";
 
 $text['label-fax-resolution']['en-us'] = "Resolution";
 $text['label-fax-resolution']['ar-eg'] = "";
@@ -1220,6 +1276,7 @@ $text['label-fax-resolution']['ro-ro'] = "";
 $text['label-fax-resolution']['ru-ru'] = "Разрешение";
 $text['label-fax-resolution']['sv-se'] = "Upplösning";
 $text['label-fax-resolution']['uk-ua'] = "";
+$text['label-fax-resolution']['vi'] = "Quyết định";
 
 $text['label-fax-recipient']['en-us'] = "To";
 $text['label-fax-recipient']['ar-eg'] = "";
@@ -1240,6 +1297,7 @@ $text['label-fax-recipient']['ro-ro'] = "";
 $text['label-fax-recipient']['ru-ru'] = "Кому";
 $text['label-fax-recipient']['sv-se'] = "Till";
 $text['label-fax-recipient']['uk-ua'] = "";
+$text['label-fax-recipient']['vi'] = "Đến";
 
 $text['label-fax-pages']['en-us'] = "Pages";
 $text['label-fax-pages']['ar-eg'] = "";
@@ -1260,6 +1318,7 @@ $text['label-fax-pages']['ro-ro'] = "";
 $text['label-fax-pages']['ru-ru'] = "Страниц";
 $text['label-fax-pages']['sv-se'] = "Sidor";
 $text['label-fax-pages']['uk-ua'] = "";
+$text['label-fax-pages']['vi'] = "Trang";
 
 $text['label-fax-page-size']['en-us'] = "Page Size";
 $text['label-fax-page-size']['ar-eg'] = "";
@@ -1280,6 +1339,7 @@ $text['label-fax-page-size']['ro-ro'] = "";
 $text['label-fax-page-size']['ru-ru'] = "Размер Страницы";
 $text['label-fax-page-size']['sv-se'] = "Storlek På Sida";
 $text['label-fax-page-size']['uk-ua'] = "";
+$text['label-fax-page-size']['vi'] = "Kích cỡ trang";
 
 $text['label-fax-page']['en-us'] = "Page";
 $text['label-fax-page']['ar-eg'] = "";
@@ -1300,6 +1360,7 @@ $text['label-fax-page']['ro-ro'] = "";
 $text['label-fax-page']['ru-ru'] = "Страница";
 $text['label-fax-page']['sv-se'] = "Sida";
 $text['label-fax-page']['uk-ua'] = "";
+$text['label-fax-page']['vi'] = "Trang";
 
 $text['label-fax-number']['en-us'] = "Fax Number";
 $text['label-fax-number']['ar-eg'] = "";
@@ -1320,6 +1381,7 @@ $text['label-fax-number']['ro-ro'] = "";
 $text['label-fax-number']['ru-ru'] = "Fax Номер";
 $text['label-fax-number']['sv-se'] = "Fax Nummer";
 $text['label-fax-number']['uk-ua'] = "";
+$text['label-fax-number']['vi'] = "Số Fax";
 
 $text['label-fax-message']['en-us'] = "Message";
 $text['label-fax-message']['ar-eg'] = "";
@@ -1340,6 +1402,7 @@ $text['label-fax-message']['ro-ro'] = "";
 $text['label-fax-message']['ru-ru'] = "Сообщение";
 $text['label-fax-message']['sv-se'] = "Meddelande";
 $text['label-fax-message']['uk-ua'] = "";
+$text['label-fax-message']['vi'] = "Tin nhắn";
 
 $text['label-fax-header']['en-us'] = "Header";
 $text['label-fax-header']['ar-eg'] = "";
@@ -1360,6 +1423,7 @@ $text['label-fax-header']['ro-ro'] = "";
 $text['label-fax-header']['ru-ru'] = "Заголовок";
 $text['label-fax-header']['sv-se'] = "Huvud";
 $text['label-fax-header']['uk-ua'] = "";
+$text['label-fax-header']['vi'] = "Tiêu đề";
 
 $text['label-fax-footer']['en-us'] = "Footer";
 $text['label-fax-footer']['ar-eg'] = "";
@@ -1380,6 +1444,7 @@ $text['label-fax-footer']['ro-ro'] = "";
 $text['label-fax-footer']['ru-ru'] = "Нижняя сноска";
 $text['label-fax-footer']['sv-se'] = "Fot";
 $text['label-fax-footer']['uk-ua'] = "";
+$text['label-fax-footer']['vi'] = "Cuối trang";
 
 $text['label-fax-fax']['en-us'] = "Fax";
 $text['label-fax-fax']['ar-eg'] = "";
@@ -1420,6 +1485,7 @@ $text['label-fax-cover-sheet']['ro-ro'] = "";
 $text['label-fax-cover-sheet']['ru-ru'] = "Титульный Лист";
 $text['label-fax-cover-sheet']['sv-se'] = "Försättsblad";
 $text['label-fax-cover-sheet']['uk-ua'] = "";
+$text['label-fax-cover-sheet']['vi'] = "TRANG BÌA";
 
 $text['label-fax-attached']['en-us'] = "Attached";
 $text['label-fax-attached']['ar-eg'] = "";
@@ -1440,6 +1506,7 @@ $text['label-fax-attached']['ro-ro'] = "";
 $text['label-fax-attached']['ru-ru'] = "Прикрепить";
 $text['label-fax-attached']['sv-se'] = "Bifogat";
 $text['label-fax-attached']['uk-ua'] = "";
+$text['label-fax-attached']['vi'] = "Được đính kèm";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
@@ -1460,6 +1527,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-email_size']['en-us'] = "Size";
 $text['label-email_size']['ar-eg'] = "";
@@ -1480,6 +1548,7 @@ $text['label-email_size']['ro-ro'] = "";
 $text['label-email_size']['ru-ru'] = "Размер";
 $text['label-email_size']['sv-se'] = "Strolek";
 $text['label-email_size']['uk-ua'] = "";
+$text['label-email_size']['vi'] = "Kích thước";
 
 $text['label-email_remote_inbox']['en-us'] = "Remote Inbox";
 $text['label-email_remote_inbox']['ar-eg'] = "";
@@ -1500,6 +1569,7 @@ $text['label-email_remote_inbox']['ro-ro'] = "";
 $text['label-email_remote_inbox']['ru-ru'] = "Почтовый ящик назначения";
 $text['label-email_remote_inbox']['sv-se'] = "Mottagar Inbox";
 $text['label-email_remote_inbox']['uk-ua'] = "";
+$text['label-email_remote_inbox']['vi'] = "Hộp thư đến từ xa";
 
 $text['label-email_received']['en-us'] = "Received";
 $text['label-email_received']['ar-eg'] = "";
@@ -1520,6 +1590,7 @@ $text['label-email_received']['ro-ro'] = "";
 $text['label-email_received']['ru-ru'] = "Принято";
 $text['label-email_received']['sv-se'] = "Mottagen";
 $text['label-email_received']['uk-ua'] = "";
+$text['label-email_received']['vi'] = "Nhận";
 
 $text['label-email_outbound_subject_tag']['en-us'] = "Subject Tag";
 $text['label-email_outbound_subject_tag']['ar-eg'] = "";
@@ -1540,6 +1611,7 @@ $text['label-email_outbound_subject_tag']['ro-ro'] = "";
 $text['label-email_outbound_subject_tag']['ru-ru'] = "Тема";
 $text['label-email_outbound_subject_tag']['sv-se'] = "Ämnes 'Tag'";
 $text['label-email_outbound_subject_tag']['uk-ua'] = "";
+$text['label-email_outbound_subject_tag']['vi'] = "Thẻ chủ đề";
 
 $text['label-email_outbound_authorized_senders']['en-us'] = "Authorized Senders";
 $text['label-email_outbound_authorized_senders']['ar-eg'] = "";
@@ -1560,6 +1632,7 @@ $text['label-email_outbound_authorized_senders']['ro-ro'] = "";
 $text['label-email_outbound_authorized_senders']['ru-ru'] = "Авторизованные отправители";
 $text['label-email_outbound_authorized_senders']['sv-se'] = "Godkända Sändare";
 $text['label-email_outbound_authorized_senders']['uk-ua'] = "";
+$text['label-email_outbound_authorized_senders']['vi'] = "Người gửi ủy quyền";
 
 $text['label-email_inbound_subject_tag']['en-us'] = "Subject Tag";
 $text['label-email_inbound_subject_tag']['ar-eg'] = "";
@@ -1580,6 +1653,7 @@ $text['label-email_inbound_subject_tag']['ro-ro'] = "";
 $text['label-email_inbound_subject_tag']['ru-ru'] = "Тема";
 $text['label-email_inbound_subject_tag']['sv-se'] = "Ämnes 'Tag'";
 $text['label-email_inbound_subject_tag']['uk-ua'] = "";
+$text['label-email_inbound_subject_tag']['vi'] = "Thẻ chủ đề";
 
 $text['label-email_email-to-fax']['en-us'] = "Email-to-Fax";
 $text['label-email_email-to-fax']['ar-eg'] = "";
@@ -1600,6 +1674,7 @@ $text['label-email_email-to-fax']['ro-ro'] = "";
 $text['label-email_email-to-fax']['ru-ru'] = "Email-на-Fax";
 $text['label-email_email-to-fax']['sv-se'] = "E-post-Till-Fax";
 $text['label-email_email-to-fax']['uk-ua'] = "";
+$text['label-email_email-to-fax']['vi'] = "Email-to-Fax";
 
 $text['label-email_connection_validate']['en-us'] = "Validate Certificate";
 $text['label-email_connection_validate']['ar-eg'] = "";
@@ -1620,6 +1695,7 @@ $text['label-email_connection_validate']['ro-ro'] = "";
 $text['label-email_connection_validate']['ru-ru'] = "Подтвердить сертификат";
 $text['label-email_connection_validate']['sv-se'] = "Validera Certifikat";
 $text['label-email_connection_validate']['uk-ua'] = "";
+$text['label-email_connection_validate']['vi'] = "Xác nhận chứng chỉ";
 
 $text['label-email_connection_username']['en-us'] = "Username";
 $text['label-email_connection_username']['ar-eg'] = "";
@@ -1640,6 +1716,7 @@ $text['label-email_connection_username']['ro-ro'] = "";
 $text['label-email_connection_username']['ru-ru'] = "Имя пользователя";
 $text['label-email_connection_username']['sv-se'] = "Användarnamn";
 $text['label-email_connection_username']['uk-ua'] = "";
+$text['label-email_connection_username']['vi'] = "Tên người dùng";
 
 $text['label-email_connection_type']['en-us'] = "Type";
 $text['label-email_connection_type']['ar-eg'] = "";
@@ -1660,6 +1737,7 @@ $text['label-email_connection_type']['ro-ro'] = "";
 $text['label-email_connection_type']['ru-ru'] = "Тип";
 $text['label-email_connection_type']['sv-se'] = "Typ";
 $text['label-email_connection_type']['uk-ua'] = "";
+$text['label-email_connection_type']['vi'] = "Loại";
 
 $text['label-email_connection_server']['en-us'] = "Server";
 $text['label-email_connection_server']['ar-eg'] = "";
@@ -1680,6 +1758,7 @@ $text['label-email_connection_server']['ro-ro'] = "";
 $text['label-email_connection_server']['ru-ru'] = "Сервер";
 $text['label-email_connection_server']['sv-se'] = "Server";
 $text['label-email_connection_server']['uk-ua'] = "";
+$text['label-email_connection_server']['vi'] = "Máy chủ";
 
 $text['label-email_connection_security']['en-us'] = "Security";
 $text['label-email_connection_security']['ar-eg'] = "";
@@ -1700,6 +1779,7 @@ $text['label-email_connection_security']['ro-ro'] = "";
 $text['label-email_connection_security']['ru-ru'] = "Безопасность";
 $text['label-email_connection_security']['sv-se'] = "Säkerhet";
 $text['label-email_connection_security']['uk-ua'] = "";
+$text['label-email_connection_security']['vi'] = "Bảo mật";
 
 $text['label-email_connection_password']['en-us'] = "Password";
 $text['label-email_connection_password']['ar-eg'] = "";
@@ -1720,6 +1800,7 @@ $text['label-email_connection_password']['ro-ro'] = "";
 $text['label-email_connection_password']['ru-ru'] = "Пароль";
 $text['label-email_connection_password']['sv-se'] = "Lösenord";
 $text['label-email_connection_password']['uk-ua'] = "";
+$text['label-email_connection_password']['vi'] = "Mật khẩu";
 
 $text['label-email_connection_mailbox']['en-us'] = "Mailbox Folder";
 $text['label-email_connection_mailbox']['ar-eg'] = "";
@@ -1740,6 +1821,7 @@ $text['label-email_connection_mailbox']['ro-ro'] = "";
 $text['label-email_connection_mailbox']['ru-ru'] = "Папка почтового ящика";
 $text['label-email_connection_mailbox']['sv-se'] = "Brevlåde Mapp";
 $text['label-email_connection_mailbox']['uk-ua'] = "";
+$text['label-email_connection_mailbox']['vi'] = "Thư mục hộp thư";
 
 $text['label-email_account_connection']['en-us'] = "Account Connection";
 $text['label-email_account_connection']['ar-eg'] = "";
@@ -1760,6 +1842,7 @@ $text['label-email_account_connection']['ro-ro'] = "";
 $text['label-email_account_connection']['ru-ru'] = "Подключение к Учетной Записи";
 $text['label-email_account_connection']['sv-se'] = "Account Connection ";
 $text['label-email_account_connection']['uk-ua'] = "";
+$text['label-email_account_connection']['vi'] = "Account Connection";
 
 $text['label-email-fax']['en-us'] = "Fax";
 $text['label-email-fax']['ar-eg'] = "";
@@ -1820,6 +1903,7 @@ $text['label-destination-number']['ro-ro'] = "";
 $text['label-destination-number']['ru-ru'] = "Номер Адресата";
 $text['label-destination-number']['sv-se'] = "Destination Nummer";
 $text['label-destination-number']['uk-ua'] = "";
+$text['label-destination-number']['vi'] = "Số đích đến";
 
 $text['label-caller-id-number']['en-us'] = "Caller ID Number";
 $text['label-caller-id-number']['ar-eg'] = "";
@@ -1840,6 +1924,7 @@ $text['label-caller-id-number']['ro-ro'] = "";
 $text['label-caller-id-number']['ru-ru'] = "Caller ID Номер";
 $text['label-caller-id-number']['sv-se'] = "Nummerpresentation";
 $text['label-caller-id-number']['uk-ua'] = "";
+$text['label-caller-id-number']['vi'] = "Số ID người gọi";
 
 $text['label-caller-id-name']['en-us'] = "Caller ID Name";
 $text['label-caller-id-name']['ar-eg'] = "";
@@ -1860,6 +1945,7 @@ $text['label-caller-id-name']['ro-ro'] = "";
 $text['label-caller-id-name']['ru-ru'] = "Caller ID Имя";
 $text['label-caller-id-name']['sv-se'] = "Namnpresentation";
 $text['label-caller-id-name']['uk-ua'] = "";
+$text['label-caller-id-name']['vi'] = "Tên ID người gọi";
 
 $text['label-advanced_settings']['en-us'] = "Advanced Settings";
 $text['label-advanced_settings']['ar-eg'] = "";
@@ -1880,6 +1966,7 @@ $text['label-advanced_settings']['ro-ro'] = "";
 $text['label-advanced_settings']['ru-ru'] = "Раширенные Настройки";
 $text['label-advanced_settings']['sv-se'] = "Avancerade Inställningar";
 $text['label-advanced_settings']['uk-ua'] = "";
+$text['label-advanced_settings']['vi'] = "Cài đặt nâng cao";
 
 $text['label-accountcode']['en-us'] = "Account Code";
 $text['label-accountcode']['ar-eg'] = "";
@@ -1900,6 +1987,7 @@ $text['label-accountcode']['ro-ro'] = "";
 $text['label-accountcode']['ru-ru'] = "Код Учетной Записи";
 $text['label-accountcode']['sv-se'] = "Kontokod";
 $text['label-accountcode']['uk-ua'] = "";
+$text['label-accountcode']['vi'] = "Mã tài khoản";
 
 $text['label-fax_send_greeting']['en-us'] = "Greeting";
 $text['label-fax_send_greeting']['ar-eg'] = "";
@@ -1920,6 +2008,7 @@ $text['label-fax_send_greeting']['ro-ro'] = "";
 $text['label-fax_send_greeting']['ru-ru'] = "Приветствие";
 $text['label-fax_send_greeting']['sv-se'] = "Hälsning";
 $text['label-fax_send_greeting']['uk-ua'] = "";
+$text['label-fax_send_greeting']['vi'] = "Lời chào";
 
 $text['label-fax_send_channels']['en-us'] = "Number of channels";
 $text['label-fax_send_channels']['ar-eg'] = "";
@@ -1940,26 +2029,7 @@ $text['label-fax_send_channels']['ro-ro'] = "";
 $text['label-fax_send_channels']['ru-ru'] = "Количество каналов";
 $text['label-fax_send_channels']['sv-se'] = "";
 $text['label-fax_send_channels']['uk-ua'] = "";
-
-$text['label-copy']['en-us'] = "Copy";
-$text['label-copy']['ar-eg'] = "Copy";
-$text['label-copy']['de-at'] = "Copy";
-$text['label-copy']['de-ch'] = "Copy";
-$text['label-copy']['de-de'] = "Copy";
-$text['label-copy']['es-cl'] = "Copy";
-$text['label-copy']['es-mx'] = "Copy";
-$text['label-copy']['fr-ca'] = "Copy";
-$text['label-copy']['fr-fr'] = "Copy";
-$text['label-copy']['he-il'] = "Copy";
-$text['label-copy']['it-it'] = "Copy";
-$text['label-copy']['nl-nl'] = "Copy";
-$text['label-copy']['pl-pl'] = "Copy";
-$text['label-copy']['pt-br'] = "Copy";
-$text['label-copy']['pt-pt'] = "Copy";
-$text['label-copy']['ro-ro'] = "Copy";
-$text['label-copy']['ru-ru'] = "Copy";
-$text['label-copy']['sv-se'] = "Copy";
-$text['label-copy']['uk-ua'] = "Copy";
+$text['label-fax_send_channels']['vi'] = "Số lượng kênh";
 
 $text['header-sent']['en-us'] = "Sent Faxes";
 $text['header-sent']['ar-eg'] = "";
@@ -1980,6 +2050,7 @@ $text['header-sent']['ro-ro'] = "";
 $text['header-sent']['ru-ru'] = "Передача Fax";
 $text['header-sent']['sv-se'] = "Skickade Fax";
 $text['header-sent']['uk-ua'] = "";
+$text['header-sent']['vi'] = "Fax đã gửi";
 
 $text['header-send']['en-us'] = "New Fax";
 $text['header-send']['ar-eg'] = "";
@@ -2000,6 +2071,7 @@ $text['header-send']['ro-ro'] = "";
 $text['header-send']['ru-ru'] = "Новый Fax";
 $text['header-send']['sv-se'] = "Nytt Fax";
 $text['header-send']['uk-ua'] = "";
+$text['header-send']['vi'] = "Fax mới";
 
 $text['header-inbox']['en-us'] = "Inbox";
 $text['header-inbox']['ar-eg'] = "";
@@ -2020,6 +2092,7 @@ $text['header-inbox']['ro-ro'] = "";
 $text['header-inbox']['ru-ru'] = "Входящий";
 $text['header-inbox']['sv-se'] = "Inbox";
 $text['header-inbox']['uk-ua'] = "";
+$text['header-inbox']['vi'] = "Hộp thư đến";
 
 $text['header-fax_server_settings']['en-us'] = "Fax Server Settings";
 $text['header-fax_server_settings']['ar-eg'] = "";
@@ -2040,6 +2113,7 @@ $text['header-fax_server_settings']['ro-ro'] = "";
 $text['header-fax_server_settings']['ru-ru'] = "Настройки Fax Сервера";
 $text['header-fax_server_settings']['sv-se'] = "Fax Server Inställningar";
 $text['header-fax_server_settings']['uk-ua'] = "";
+$text['header-fax_server_settings']['vi'] = "Cài đặt máy chủ Fax";
 
 $text['description-user-add']['en-us'] = "Assign the users that can manage this fax extension.";
 $text['description-user-add']['ar-eg'] = "";
@@ -2060,6 +2134,7 @@ $text['description-user-add']['ro-ro'] = "";
 $text['description-user-add']['ru-ru'] = "Назначьте пользователей, которые могут управлять этим номером факса.";
 $text['description-user-add']['sv-se'] = "Tilldela de användare som kan managera denna fax anknytning.";
 $text['description-user-add']['uk-ua'] = "";
+$text['description-user-add']['vi'] = "Chỉ định người dùng có thể quản lý máy nhánh fax này.";
 
 $text['description-pin']['en-us'] = "Enter the PIN number here.";
 $text['description-pin']['ar-eg'] = "";
@@ -2080,6 +2155,7 @@ $text['description-pin']['ro-ro'] = "";
 $text['description-pin']['ru-ru'] = "Введите здесь PIN-код.";
 $text['description-pin']['sv-se'] = "Ange PIN kod här.";
 $text['description-pin']['uk-ua'] = "";
+$text['description-pin']['vi'] = "Nhập số PIN tại đây.";
 
 $text['description-name']['en-us'] = "Enter the name here.";
 $text['description-name']['ar-eg'] = "";
@@ -2100,6 +2176,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите здесь название.";
 $text['description-name']['sv-se'] = "Ange Namn här.";
 $text['description-name']['uk-ua'] = "";
+$text['description-name']['vi'] = "Nhập tên ở đây.";
 
 $text['description-info']['en-us'] = "Enter the description here.";
 $text['description-info']['ar-eg'] = "";
@@ -2120,6 +2197,7 @@ $text['description-info']['ro-ro'] = "";
 $text['description-info']['ru-ru'] = "Введите описание здесь.";
 $text['description-info']['sv-se'] = "Ange beskrivning här.";
 $text['description-info']['uk-ua'] = "";
+$text['description-info']['vi'] = "Nhập mô tả ở đây.";
 
 $text['description-forward-number']['en-us'] = "Enter the forward number here. Used to forward the fax to a registered extension or external number.";
 $text['description-forward-number']['ar-eg'] = "";
@@ -2140,6 +2218,7 @@ $text['description-forward-number']['ro-ro'] = "";
 $text['description-forward-number']['ru-ru'] = "Введите здесь номер пересылки. Используется для пересылки факса на зарегистрированный внутренний или внешний номер.";
 $text['description-forward-number']['sv-se'] = "Ange vidarekopplingsnumret här. Används för att vidarebefordra fax till en registrerad anknytning eller externt nummer.";
 $text['description-forward-number']['uk-ua'] = "";
+$text['description-forward-number']['vi'] = "Nhập số chuyển tiếp ở đây. Được sử dụng để chuyển tiếp fax đến máy nhánh đã đăng ký hoặc số bên ngoài.";
 
 $text['description-fax_uuid']['en-us'] = "Fax server primary key";
 $text['description-fax_uuid']['ar-eg'] = "";
@@ -2160,6 +2239,7 @@ $text['description-fax_uuid']['ro-ro'] = "";
 $text['description-fax_uuid']['ru-ru'] = "Первичный код FAX Сервера.";
 $text['description-fax_uuid']['sv-se'] = "Ange fax destination för att aktivera fax deteketering.";
 $text['description-fax_uuid']['uk-ua'] = "";
+$text['description-fax_uuid']['vi'] = "Khóa chính của máy chủ Fax";
 
 $text['description-fax_uri']['en-us'] = "Fax URI.";
 $text['description-fax_uri']['ar-eg'] = "";
@@ -2200,6 +2280,7 @@ $text['description-fax_transfer_rate']['ro-ro'] = "";
 $text['description-fax_transfer_rate']['ru-ru'] = "";
 $text['description-fax_transfer_rate']['sv-se'] = "";
 $text['description-fax_transfer_rate']['uk-ua'] = "";
+$text['description-fax_transfer_rate']['vi'] = "Tốc độ truyền cho giao tiếp.";
 
 $text['description-fax_success']['en-us'] = "Fax sent/received successfully.";
 $text['description-fax_success']['ar-eg'] = "";
@@ -2220,6 +2301,7 @@ $text['description-fax_success']['ro-ro'] = "";
 $text['description-fax_success']['ru-ru'] = "";
 $text['description-fax_success']['sv-se'] = "";
 $text['description-fax_success']['uk-ua'] = "";
+$text['description-fax_success']['vi'] = "Fax đã gửi / nhận thành công.";
 
 $text['description-fax_retry_sleep']['en-us'] = "Pause between retries.";
 $text['description-fax_retry_sleep']['ar-eg'] = "";
@@ -2240,6 +2322,7 @@ $text['description-fax_retry_sleep']['ro-ro'] = "";
 $text['description-fax_retry_sleep']['ru-ru'] = "";
 $text['description-fax_retry_sleep']['sv-se'] = "";
 $text['description-fax_retry_sleep']['uk-ua'] = "";
+$text['description-fax_retry_sleep']['vi'] = "Tạm dừng giữa các lần thử lạ.";
 
 $text['description-fax_retry_limit']['en-us'] = "Limit for the number of retries.";
 $text['description-fax_retry_limit']['ar-eg'] = "";
@@ -2260,6 +2343,7 @@ $text['description-fax_retry_limit']['ro-ro'] = "";
 $text['description-fax_retry_limit']['ru-ru'] = "";
 $text['description-fax_retry_limit']['sv-se'] = "";
 $text['description-fax_retry_limit']['uk-ua'] = "";
+$text['description-fax_retry_limit']['vi'] = "Giới hạn số lần thử lại.";
 
 $text['description-fax_retry_attempts']['en-us'] = "Retry attempts";
 $text['description-fax_retry_attempts']['ar-eg'] = "";
@@ -2280,6 +2364,7 @@ $text['description-fax_retry_attempts']['ro-ro'] = "";
 $text['description-fax_retry_attempts']['ru-ru'] = "";
 $text['description-fax_retry_attempts']['sv-se'] = "";
 $text['description-fax_retry_attempts']['uk-ua'] = "";
+$text['description-fax_retry_attempts']['vi'] = "Thử lại ";
 
 $text['description-fax_result_text']['en-us'] = "Fax result text.";
 $text['description-fax_result_text']['ar-eg'] = "";
@@ -2300,6 +2385,7 @@ $text['description-fax_result_text']['ro-ro'] = "";
 $text['description-fax_result_text']['ru-ru'] = "";
 $text['description-fax_result_text']['sv-se'] = "";
 $text['description-fax_result_text']['uk-ua'] = "";
+$text['description-fax_result_text']['vi'] = "Fax kết quả văn bản.";
 
 $text['description-fax_result_code']['en-us'] = "Fax result code.";
 $text['description-fax_result_code']['ar-eg'] = "";
@@ -2320,6 +2406,7 @@ $text['description-fax_result_code']['ro-ro'] = "";
 $text['description-fax_result_code']['ru-ru'] = "";
 $text['description-fax_result_code']['sv-se'] = "";
 $text['description-fax_result_code']['uk-ua'] = "";
+$text['description-fax_result_code']['vi'] = "Fax kết quả code.";
 
 $text['description-fax_prefix']['en-us'] = "Enter a prefix to be used when sending a fax.";
 $text['description-fax_prefix']['ar-eg'] = "";
@@ -2340,6 +2427,7 @@ $text['description-fax_prefix']['ro-ro'] = "";
 $text['description-fax_prefix']['ru-ru'] = "Введите префикс, который будет использоваться при отправке факса.";
 $text['description-fax_prefix']['sv-se'] = "Ange ett prefix som ska användas när du skickar ett fax.";
 $text['description-fax_prefix']['uk-ua'] = "";
+$text['description-fax_prefix']['vi'] = "Nhập tiền tố (prefix) được sử dụng khi gửi fax.";
 
 $text['description-fax_number']['en-us'] = "Fax destination number";
 $text['description-fax_number']['ar-eg'] = "";
@@ -2360,6 +2448,7 @@ $text['description-fax_number']['ro-ro'] = "";
 $text['description-fax_number']['ru-ru'] = "FAX номер адресата";
 $text['description-fax_number']['sv-se'] = "Fax destinationsnummer";
 $text['description-fax_number']['uk-ua'] = "";
+$text['description-fax_number']['vi'] = "Số fax đích đến";
 
 $text['description-fax_mode']['en-us'] = "RX means receive and TX means transmit.";
 $text['description-fax_mode']['ar-eg'] = "";
@@ -2380,6 +2469,7 @@ $text['description-fax_mode']['ro-ro'] = "";
 $text['description-fax_mode']['ru-ru'] = "RX означает прием, а TX означает передачу.";
 $text['description-fax_mode']['sv-se'] = "RX betyder mottagning och TX betyder sändning.";
 $text['description-fax_mode']['uk-ua'] = "";
+$text['description-fax_mode']['vi'] = "RX có nghĩa là nhận và TX có nghĩa là truyền.";
 
 $text['description-fax_log']['en-us'] = "The details for sending and receiving a fax included are whether fax was successful, ECM (Error Correction Mode), number of retries, destination number, date, etc.";
 $text['description-fax_log']['ar-eg'] = "";
@@ -2400,6 +2490,7 @@ $text['description-fax_log']['ro-ro'] = "";
 $text['description-fax_log']['ru-ru'] = "Детали отправки и получения включенного факса: успешность факсимильного сообщения, ECM (режим коррекции ошибок), количество повторных попыток, номер пункта назначения, дата и т.д.";
 $text['description-fax_log']['sv-se'] = "Detaljerna för att skicka och ta emot ett fax ingår huruvida fax lyckades, ECM ( Error Correction Mode ), antal försök, destinationsnummer, datum, etc.";
 $text['description-fax_log']['uk-ua'] = "";
+$text['description-fax_log']['vi'] = "Các chi tiết để gửi và nhận fax bao gồm liệu fax có thành công hay không, ECM (Chế độ sửa lỗi), số lần thử lại, số đích, ngày, v.v..";
 
 $text['description-fax_local_station_id']['en-us'] = "Local satation ID.";
 $text['description-fax_local_station_id']['ar-eg'] = "";
@@ -2420,6 +2511,7 @@ $text['description-fax_local_station_id']['ro-ro'] = "";
 $text['description-fax_local_station_id']['ru-ru'] = "";
 $text['description-fax_local_station_id']['sv-se'] = "";
 $text['description-fax_local_station_id']['uk-ua'] = "";
+$text['description-fax_local_station_id']['vi'] = "ID trạm nội bộ.";
 
 $text['description-fax_image_size']['en-us'] = "Fax page size.";
 $text['description-fax_image_size']['ar-eg'] = "";
@@ -2440,6 +2532,7 @@ $text['description-fax_image_size']['ro-ro'] = "";
 $text['description-fax_image_size']['ru-ru'] = "";
 $text['description-fax_image_size']['sv-se'] = "";
 $text['description-fax_image_size']['uk-ua'] = "";
+$text['description-fax_image_size']['vi'] = "Kích cỡ trang Fax.";
 
 $text['description-fax_image_resolution']['en-us'] = "Fax image resolution.";
 $text['description-fax_image_resolution']['ar-eg'] = "";
@@ -2460,6 +2553,7 @@ $text['description-fax_image_resolution']['ro-ro'] = "";
 $text['description-fax_image_resolution']['ru-ru'] = "";
 $text['description-fax_image_resolution']['sv-se'] = "";
 $text['description-fax_image_resolution']['uk-ua'] = "";
+$text['description-fax_image_resolution']['vi'] = "Fax độ phân giải hình ảnh.";
 
 $text['description-fax_files']['en-us'] = "Select the file(s) to upload and send.";
 $text['description-fax_files']['ar-eg'] = "";
@@ -2480,6 +2574,7 @@ $text['description-fax_files']['ro-ro'] = "";
 $text['description-fax_files']['ru-ru'] = "Выберите файл (файлы) для загрузки и отправки.";
 $text['description-fax_files']['sv-se'] = "Välj filerna som skall laddas upp och sedan faxas iväg.";
 $text['description-fax_files']['uk-ua'] = "";
+$text['description-fax_files']['vi'] = "Chọn (các) tệp để tải lên và gửi.";
 
 $text['description-fax_file_type']['en-us'] = "TIF / PDF";
 $text['description-fax_file_type']['ar-eg'] = "";
@@ -2520,6 +2615,7 @@ $text['description-fax_file_path']['ro-ro'] = "";
 $text['description-fax_file_path']['ru-ru'] = "";
 $text['description-fax_file_path']['sv-se'] = "";
 $text['description-fax_file_path']['uk-ua'] = "";
+$text['description-fax_file_path']['vi'] = "Đường dẫn tệp cho fax.";
 
 $text['description-fax_file']['en-us'] = "Fax Files";
 $text['description-fax_file']['ar-eg'] = "";
@@ -2540,6 +2636,7 @@ $text['description-fax_file']['ro-ro'] = "";
 $text['description-fax_file']['ru-ru'] = "FAX Файлы";
 $text['description-fax_file']['sv-se'] = "Faxfiler";
 $text['description-fax_file']['uk-ua'] = "";
+$text['description-fax_file']['vi'] = "Tệp Fax";
 
 $text['description-fax_epoch']['en-us'] = "Epoch.";
 $text['description-fax_epoch']['ar-eg'] = "";
@@ -2560,6 +2657,7 @@ $text['description-fax_epoch']['ro-ro'] = "";
 $text['description-fax_epoch']['ru-ru'] = "";
 $text['description-fax_epoch']['sv-se'] = "";
 $text['description-fax_epoch']['uk-ua'] = "";
+$text['description-fax_epoch']['vi'] = "Thời kỳ.";
 
 $text['description-fax_ecm_used']['en-us'] = "Error correction mode (ECM) used.";
 $text['description-fax_ecm_used']['ar-eg'] = "";
@@ -2580,6 +2678,7 @@ $text['description-fax_ecm_used']['ro-ro'] = "";
 $text['description-fax_ecm_used']['ru-ru'] = "";
 $text['description-fax_ecm_used']['sv-se'] = "";
 $text['description-fax_ecm_used']['uk-ua'] = "";
+$text['description-fax_ecm_used']['vi'] = "Chế độ sửa lỗi (ECM) được sử dụng.";
 
 $text['description-fax_document_transferred_pages']['en-us'] = "Number of pages transferred.";
 $text['description-fax_document_transferred_pages']['ar-eg'] = "";
@@ -2600,6 +2699,7 @@ $text['description-fax_document_transferred_pages']['ro-ro'] = "";
 $text['description-fax_document_transferred_pages']['ru-ru'] = "";
 $text['description-fax_document_transferred_pages']['sv-se'] = "";
 $text['description-fax_document_transferred_pages']['uk-ua'] = "";
+$text['description-fax_document_transferred_pages']['vi'] = "Số lượng trang được chuyển.";
 
 $text['description-fax_document_total_pages']['en-us'] = "Total number of pages.";
 $text['description-fax_document_total_pages']['ar-eg'] = "";
@@ -2620,6 +2720,7 @@ $text['description-fax_document_total_pages']['ro-ro'] = "";
 $text['description-fax_document_total_pages']['ru-ru'] = "";
 $text['description-fax_document_total_pages']['sv-se'] = "";
 $text['description-fax_document_total_pages']['uk-ua'] = "";
+$text['description-fax_document_total_pages']['vi'] = "Tổng số trang.";
 
 $text['description-fax_date']['en-us'] = "Fax date.";
 $text['description-fax_date']['ar-eg'] = "";
@@ -2640,6 +2741,7 @@ $text['description-fax_date']['ro-ro'] = "";
 $text['description-fax_date']['ru-ru'] = "";
 $text['description-fax_date']['sv-se'] = "";
 $text['description-fax_date']['uk-ua'] = "";
+$text['description-fax_date']['vi'] = "Ngày Fax.";
 
 $text['description-fax_caller_id_number']['en-us'] = "Caller ID number.";
 $text['description-fax_caller_id_number']['ar-eg'] = "";
@@ -2660,6 +2762,7 @@ $text['description-fax_caller_id_number']['ro-ro'] = "";
 $text['description-fax_caller_id_number']['ru-ru'] = "";
 $text['description-fax_caller_id_number']['sv-se'] = "";
 $text['description-fax_caller_id_number']['uk-ua'] = "";
+$text['description-fax_caller_id_number']['vi'] = "Số ID người gọi.";
 
 $text['description-fax_caller_id_name']['en-us'] = "Caller ID name.";
 $text['description-fax_caller_id_name']['ar-eg'] = "";
@@ -2680,6 +2783,7 @@ $text['description-fax_caller_id_name']['ro-ro'] = "";
 $text['description-fax_caller_id_name']['ru-ru'] = "";
 $text['description-fax_caller_id_name']['sv-se'] = "";
 $text['description-fax_caller_id_name']['uk-ua'] = "";
+$text['description-fax_caller_id_name']['vi'] = "Tên ID người gọi.";
 
 $text['description-fax_base64']['en-us'] = "Base64 encoding.";
 $text['description-fax_base64']['ar-eg'] = "";
@@ -2720,6 +2824,7 @@ $text['description-fax_bad_rows']['ro-ro'] = "";
 $text['description-fax_bad_rows']['ru-ru'] = "";
 $text['description-fax_bad_rows']['sv-se'] = "";
 $text['description-fax_bad_rows']['uk-ua'] = "";
+$text['description-fax_bad_rows']['vi'] = "Số hàng xấu.";
 
 $text['description-fax-subject']['en-us'] = "Enter a subject for the cover sheet (optional).";
 $text['description-fax-subject']['ar-eg'] = "";
@@ -2740,6 +2845,7 @@ $text['description-fax-subject']['ro-ro'] = "";
 $text['description-fax-subject']['ru-ru'] = "Введите тему титульного листа (опционально).";
 $text['description-fax-subject']['sv-se'] = "Ange ett ämne för försättsbladet (frivilligt).";
 $text['description-fax-subject']['uk-ua'] = "";
+$text['description-fax-subject']['vi'] = "Nhập một chủ đề cho trang bìa (tùy chọn).";
 
 $text['description-fax-sender']['en-us'] = "Enter the sender's name for the cover sheet (optional).";
 $text['description-fax-sender']['ar-eg'] = "";
@@ -2760,6 +2866,7 @@ $text['description-fax-sender']['ro-ro'] = "";
 $text['description-fax-sender']['ru-ru'] = "Введите имя отправителя для титульного листа (опционально).";
 $text['description-fax-sender']['sv-se'] = "Ange sändarens namn för försättsbladet (frivilligt).";
 $text['description-fax-sender']['uk-ua'] = "";
+$text['description-fax-sender']['vi'] = "Nhập tên người gửi cho trang bìa (tùy chọn).";
 
 $text['description-fax-resolution']['en-us'] = "Select the transmission quality.";
 $text['description-fax-resolution']['ar-eg'] = "";
@@ -2780,6 +2887,7 @@ $text['description-fax-resolution']['ro-ro'] = "";
 $text['description-fax-resolution']['ru-ru'] = "Выберите качество передачи.";
 $text['description-fax-resolution']['sv-se'] = "Välj transmission quality.";
 $text['description-fax-resolution']['uk-ua'] = "";
+$text['description-fax-resolution']['vi'] = "Chọn chất lượng đường truyền.";
 
 $text['description-fax-recipient']['en-us'] = "Enter the recipient's name for the cover sheet (optional).";
 $text['description-fax-recipient']['ar-eg'] = "";
@@ -2800,6 +2908,7 @@ $text['description-fax-recipient']['ro-ro'] = "";
 $text['description-fax-recipient']['ru-ru'] = "Введите имя получателя для титульного листа (опционально).";
 $text['description-fax-recipient']['sv-se'] = "Ange mottagarens namn för försättsbladet (frivilligt).";
 $text['description-fax-recipient']['uk-ua'] = "";
+$text['description-fax-recipient']['vi'] = "Nhập tên người nhận cho trang bìa (tùy chọn).";
 
 $text['description-fax-page-size']['en-us'] = "Select the page size to transmit.";
 $text['description-fax-page-size']['ar-eg'] = "";
@@ -2820,6 +2929,7 @@ $text['description-fax-page-size']['ro-ro'] = "";
 $text['description-fax-page-size']['ru-ru'] = "Выберите размер страницы для передачи.";
 $text['description-fax-page-size']['sv-se'] = "Välj sidornas storlek att skicka.";
 $text['description-fax-page-size']['uk-ua'] = "";
+$text['description-fax-page-size']['vi'] = "Chọn kích thước trang để truyền.";
 
 $text['description-fax-number']['en-us'] = "Enter the recipient fax number(s).";
 $text['description-fax-number']['ar-eg'] = "";
@@ -2840,6 +2950,7 @@ $text['description-fax-number']['ro-ro'] = "";
 $text['description-fax-number']['ru-ru'] = "Введите номер (номера) получателя факса.";
 $text['description-fax-number']['sv-se'] = "Ange mottagarens fax nummer.";
 $text['description-fax-number']['uk-ua'] = "";
+$text['description-fax-number']['vi'] = "Nhập số fax người nhận.";
 
 $text['description-fax-message']['en-us'] = "Enter a message for the cover sheet (optional).";
 $text['description-fax-message']['ar-eg'] = "";
@@ -2860,6 +2971,7 @@ $text['description-fax-message']['ro-ro'] = "";
 $text['description-fax-message']['ru-ru'] = "Введите сообщение для титульного листа (опционально).";
 $text['description-fax-message']['sv-se'] = "Ange ett meddelande för för försättsbladet (frivilligt).";
 $text['description-fax-message']['uk-ua'] = "";
+$text['description-fax-message']['vi'] = "Nhập tin nhắn cho trang bìa (tùy chọn).";
 
 $text['description-fax-header']['en-us'] = "Displayed beneath the logo in the header of the cover sheet (optional).";
 $text['description-fax-header']['ar-eg'] = "";
@@ -2880,6 +2992,7 @@ $text['description-fax-header']['ro-ro'] = "";
 $text['description-fax-header']['ru-ru'] = "Отображается под логотипом в заголовке титульного листа (опционально).";
 $text['description-fax-header']['sv-se'] = "Visas under loggan i Huvudet på försättsbladet (frivilligt).";
 $text['description-fax-header']['uk-ua'] = "";
+$text['description-fax-header']['vi'] = "Hiển thị bên dưới logo trong tiêu đề của trang bìa (tùy chọn).";
 
 $text['description-fax-footer']['en-us'] = "Displayed in the footer of the cover sheet (optional).";
 $text['description-fax-footer']['ar-eg'] = "";
@@ -2900,6 +3013,7 @@ $text['description-fax-footer']['ro-ro'] = "";
 $text['description-fax-footer']['ru-ru'] = "Отображается в нижнем колонтитуле титульного листа (опционально).";
 $text['description-fax-footer']['sv-se'] = "Visas i foten av försättsbladet (frivilligt).";
 $text['description-fax-footer']['uk-ua'] = "";
+$text['description-fax-footer']['vi'] = "Hiển thị ở cuối trang của trang bìa (tùy chọn).";
 
 $text['description-extension']['en-us'] = "Enter the fax extension here.";
 $text['description-extension']['ar-eg'] = "";
@@ -2920,6 +3034,7 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Введите здесь номер факса.";
 $text['description-extension']['sv-se'] = "Ange fax-anknytningen här.";
 $text['description-extension']['uk-ua'] = "";
+$text['description-extension']['vi'] = "Nhập máy nhánh fax tại đây.";
 
 $text['description-email_outbound_subject_tag']['en-us'] = "Set the email subject tag for outbound faxes.";
 $text['description-email_outbound_subject_tag']['ar-eg'] = "";
@@ -2940,6 +3055,7 @@ $text['description-email_outbound_subject_tag']['ro-ro'] = "";
 $text['description-email_outbound_subject_tag']['ru-ru'] = "Установите email темы сообщения для исходящих факсов.";
 $text['description-email_outbound_subject_tag']['sv-se'] = "Ange E-post ämne för utgående fax.";
 $text['description-email_outbound_subject_tag']['uk-ua'] = "";
+$text['description-email_outbound_subject_tag']['vi'] = "Đặt thẻ chủ đề email cho các bản fax đi.";
 
 $text['description-email_outbound_authorized_senders']['en-us'] = "Define the email address(es) allowed to send faxes through this server.";
 $text['description-email_outbound_authorized_senders']['ar-eg'] = "";
@@ -2960,6 +3076,7 @@ $text['description-email_outbound_authorized_senders']['ro-ro'] = "";
 $text['description-email_outbound_authorized_senders']['ru-ru'] = "Укажите адрес электронной почты, с помощью которого можно отправлять факсы через этот сервер.";
 $text['description-email_outbound_authorized_senders']['sv-se'] = "Definiera E-postadresser som får sända fax genom denna server.";
 $text['description-email_outbound_authorized_senders']['uk-ua'] = "";
+$text['description-email_outbound_authorized_senders']['vi'] = "Xác định địa chỉ email được phép gửi fax qua máy chủ này.";
 
 $text['description-email_inbound_subject_tag']['en-us'] = "Set the email subject tag for inbound faxes.";
 $text['description-email_inbound_subject_tag']['ar-eg'] = "";
@@ -2980,6 +3097,7 @@ $text['description-email_inbound_subject_tag']['ro-ro'] = "";
 $text['description-email_inbound_subject_tag']['ru-ru'] = "Установите email сообщения для входящих факсов.";
 $text['description-email_inbound_subject_tag']['sv-se'] = "Välj E-post ämne för inkommande fax.";
 $text['description-email_inbound_subject_tag']['uk-ua'] = "";
+$text['description-email_inbound_subject_tag']['vi'] = "Đặt thẻ chủ đề email cho các bản fax gửi đến.";
 
 $text['description-email_connection_validate']['en-us'] = "Enable server certificate validation.<br>(Select 'False' for self-signed certificates.)";
 $text['description-email_connection_validate']['ar-eg'] = "";
@@ -3000,6 +3118,7 @@ $text['description-email_connection_validate']['ro-ro'] = "";
 $text['description-email_connection_validate']['ru-ru'] = "Включить проверку сертификата сервера.<br>(Выберете 'False' для самоподписанных сертифткатов.)";
 $text['description-email_connection_validate']['sv-se'] = "Aktivera server certifikat validering (Select 'False' for self-signed certificates.) ";
 $text['description-email_connection_validate']['uk-ua'] = "";
+$text['description-email_connection_validate']['vi'] = "Cho phép xác thực chứng chỉ máy chủ. <br> (Chọn 'Sai' cho chứng chỉ tự ký.)";
 
 $text['description-email_connection_username']['en-us'] = "Enter the authentication username.";
 $text['description-email_connection_username']['ar-eg'] = "";
@@ -3020,6 +3139,7 @@ $text['description-email_connection_username']['ro-ro'] = "";
 $text['description-email_connection_username']['ru-ru'] = "Введите имя пользователя для аутентификации.";
 $text['description-email_connection_username']['sv-se'] = "Ange autentiserings användarnamn.";
 $text['description-email_connection_username']['uk-ua'] = "";
+$text['description-email_connection_username']['vi'] = "Nhập xác thực tên người dùng.";
 
 $text['description-email_connection_type']['en-us'] = "Select the type of connection.";
 $text['description-email_connection_type']['ar-eg'] = "";
@@ -3040,6 +3160,7 @@ $text['description-email_connection_type']['ro-ro'] = "";
 $text['description-email_connection_type']['ru-ru'] = "Выберите тип соединения.";
 $text['description-email_connection_type']['sv-se'] = "Välj typen av förbindelse.";
 $text['description-email_connection_type']['uk-ua'] = "";
+$text['description-email_connection_type']['vi'] = "Chọn loại kết nối.";
 
 $text['description-email_connection_server']['en-us'] = "Enter the host address and port.";
 $text['description-email_connection_server']['ar-eg'] = "";
@@ -3060,6 +3181,7 @@ $text['description-email_connection_server']['ro-ro'] = "";
 $text['description-email_connection_server']['ru-ru'] = "Введите адрес и порт хоста.";
 $text['description-email_connection_server']['sv-se'] = "Ange host adress och port";
 $text['description-email_connection_server']['uk-ua'] = "";
+$text['description-email_connection_server']['vi'] = "Nhập địa chỉ máy chủ và cổng.";
 
 $text['description-email_connection_security']['en-us'] = "Select the required security.";
 $text['description-email_connection_security']['ar-eg'] = "";
@@ -3080,6 +3202,7 @@ $text['description-email_connection_security']['ro-ro'] = "";
 $text['description-email_connection_security']['ru-ru'] = "Выберите требуемую безопасность.";
 $text['description-email_connection_security']['sv-se'] = "Välj önskad säkerhet.";
 $text['description-email_connection_security']['uk-ua'] = "";
+$text['description-email_connection_security']['vi'] = "Chọn bảo mật cần thiết.";
 
 $text['description-email_connection_password']['en-us'] = "Enter the authentication password.";
 $text['description-email_connection_password']['ar-eg'] = "";
@@ -3100,6 +3223,7 @@ $text['description-email_connection_password']['ro-ro'] = "";
 $text['description-email_connection_password']['ru-ru'] = "Введите пароль для аутентификации.";
 $text['description-email_connection_password']['sv-se'] = "Ange autentiserings-lösenordet.";
 $text['description-email_connection_password']['uk-ua'] = "";
+$text['description-email_connection_password']['vi'] = "Nhập mật khẩu xác thực.";
 
 $text['description-email_connection_mailbox']['en-us'] = "Enter the remote folder name to monitor.";
 $text['description-email_connection_mailbox']['ar-eg'] = "";
@@ -3120,6 +3244,7 @@ $text['description-email_connection_mailbox']['ro-ro'] = "";
 $text['description-email_connection_mailbox']['ru-ru'] = "Введите имя удаленной папки для контроля.";
 $text['description-email_connection_mailbox']['sv-se'] = "Ange fjärrmapp-namnet för att övervaka.";
 $text['description-email_connection_mailbox']['uk-ua'] = "";
+$text['description-email_connection_mailbox']['vi'] = "Nhập tên thư mục từ xa để theo dõi.";
 
 $text['description-email']['en-us'] = "Enter a delivery address for inbound faxes.";
 $text['description-email']['ar-eg'] = "";
@@ -3140,6 +3265,7 @@ $text['description-email']['ro-ro'] = "";
 $text['description-email']['ru-ru'] = "Введите адрес доставки входящих факсов.";
 $text['description-email']['sv-se'] = "Ange en adress för inkommande fax.";
 $text['description-email']['uk-ua'] = "";
+$text['description-email']['vi'] = "Nhập địa chỉ giao hàng cho các fax gửi đến.";
 
 $text['description-destination-number']['en-us'] = "Enter the fax destination number.";
 $text['description-destination-number']['ar-eg'] = "";
@@ -3160,6 +3286,7 @@ $text['description-destination-number']['ro-ro'] = "";
 $text['description-destination-number']['ru-ru'] = "Введите номер получателя факса.";
 $text['description-destination-number']['sv-se'] = "Ange fax destinations-nummer.";
 $text['description-destination-number']['uk-ua'] = "";
+$text['description-destination-number']['vi'] = "Nhập số đích đến fax.";
 
 $text['description-caller-id-number']['en-us'] = "Enter the Caller ID number here.";
 $text['description-caller-id-number']['ar-eg'] = "";
@@ -3180,6 +3307,7 @@ $text['description-caller-id-number']['ro-ro'] = "";
 $text['description-caller-id-number']['ru-ru'] = "Введите номер вызывающего абонента здесь.";
 $text['description-caller-id-number']['sv-se'] = "Ange nummerpresentationen här.";
 $text['description-caller-id-number']['uk-ua'] = "";
+$text['description-caller-id-number']['vi'] = "Nhập số ID người gọi ở đây.";
 
 $text['description-caller-id-name']['en-us'] = "Enter the Caller ID name here.";
 $text['description-caller-id-name']['ar-eg'] = "";
@@ -3200,6 +3328,7 @@ $text['description-caller-id-name']['ro-ro'] = "";
 $text['description-caller-id-name']['ru-ru'] = "Введите здесь имя вызывающего абонента.";
 $text['description-caller-id-name']['sv-se'] = "Ange namnpresentationen här.";
 $text['description-caller-id-name']['uk-ua'] = "";
+$text['description-caller-id-name']['vi'] = "Nhập tên ID người gọi ở đây.";
 
 $text['description-advanced_settings']['en-us'] = "Configure the settings below to enable Remote Inbox and Email-to-Fax functionality.";
 $text['description-advanced_settings']['ar-eg'] = "";
@@ -3220,6 +3349,7 @@ $text['description-advanced_settings']['ro-ro'] = "";
 $text['description-advanced_settings']['ru-ru'] = "Настройте параметры ниже, чтобы включить функцию Email-на-Fax.";
 $text['description-advanced_settings']['sv-se'] = "Konfigurera inställningarna nedan för att aktivera Remote Inbox och E-post-Till-Fax funktionalitet.";
 $text['description-advanced_settings']['uk-ua'] = "";
+$text['description-advanced_settings']['vi'] = "Định cấu hình các cài đặt bên dưới để bật chức năng Hộp thư đến từ xa và Email-to-Fax.";
 
 $text['description-3']['en-us'] = "Install LibreOffice for additional file format support (DOC, DOCX, XLS, XLSX, ODT, OTT, RTF, etc).  View the status of a fax transmission on the Active Calls page, in the Log Viewer, or by watching the results in the switch console.";
 $text['description-3']['ar-eg'] = "";
@@ -3240,6 +3370,7 @@ $text['description-3']['ro-ro'] = "";
 $text['description-3']['ru-ru'] = "Установите LibreOffice для дополнительной поддержки форматов файлов (DOC, DOCX, XLS, XLSX, ODT, OTT, RTF, и т.д.). Вы можете посмотреть результаты во вкладке Логи.";
 $text['description-3']['sv-se'] = "Installera Libreoffice för ytterligare supporterade filformat (doc, docx, xls, xlsx, ODT, OTT, RTF, etc.). Visa status för en faxöverföring på sidan Aktiva samtal, i Log Viewer, eller genom att titta på resultaten i switch console.";
 $text['description-3']['uk-ua'] = "";
+$text['description-3']['vi'] = "Cài đặt LibreScript để hỗ trợ định dạng tệp bổ sung (DOC, DOCX, XLS, XLSX, ODT, OTT, RTF, v.v.). Xem trạng thái truyền fax trên trang Cuộc gọi hoạt động, trong Trình xem nhật ký hoặc bằng cách xem kết quả trong bảng điều khiển chuyển đổi.";
 
 $text['description-2']['en-us'] = "To send a fax, upload a <strong>PDF</strong> or <strong>TIF</strong> file.  To generate a cover sheet, enter a Subject and/or Message below.";
 $text['description-2']['ar-eg'] = "";
@@ -3260,6 +3391,7 @@ $text['description-2']['ro-ro'] = "";
 $text['description-2']['ru-ru'] = "Чтобы послать факс, загрузите <strong>PDF</strong> или <strong>TIF</strong> файл. Чтобы изготовить титульный лист, введите тему и/или сообщение ниже.";
 $text['description-2']['sv-se'] = "Om du vill skicka ett fax, ladda upp en PDF eller TIF -fil. För att generera ett försättsblad, ange ett Ämne och / eller meddelande nedan.";
 $text['description-2']['uk-ua'] = "";
+$text['description-2']['vi'] = "Để gửi fax, hãy tải lên tệp <strong> PDF </ strong> hoặc <strong> TIF </ strong>. Để tạo trang bìa, hãy nhập Chủ đề và / hoặc Tin nhắn bên dưới.";
 
 $text['description']['en-us'] = "To receive a FAX setup a fax extension and then direct the incoming to it.";
 $text['description']['ar-eg'] = "";
@@ -3280,6 +3412,7 @@ $text['description']['ro-ro'] = "";
 $text['description']['ru-ru'] = "Чтобы получить факс, настройте номер факса и затем направьте входящие на него.";
 $text['description']['sv-se'] = "För att ta emot fax, gör en fax anknytning och vidarebefordra sedan inkommande till den.";
 $text['description']['uk-ua'] = "";
+$text['description']['vi'] = "Để nhận cài đặt FAX, fax máy nhánh và sau đó chuyển hướng đến nó.";
 
 $text['confirm-update']['en-us'] = "Update Complete";
 $text['confirm-update']['ar-eg'] = "";
@@ -3300,6 +3433,7 @@ $text['confirm-update']['ro-ro'] = "";
 $text['confirm-update']['ru-ru'] = "Обновление завершено";
 $text['confirm-update']['sv-se'] = "Uppdatering Klar";
 $text['confirm-update']['uk-ua'] = "";
+$text['confirm-update']['vi'] = "Cập nhật thành công";
 
 $text['confirm-fax']['en-us'] = "Please provide: A file to Fax";
 $text['confirm-fax']['ar-eg'] = "";
@@ -3320,6 +3454,7 @@ $text['confirm-fax']['ro-ro'] = "";
 $text['confirm-fax']['ru-ru'] = "Предоставьте: файл для факса";
 $text['confirm-fax']['sv-se'] = "Ange: En fil att fax:a";
 $text['confirm-fax']['uk-ua'] = "";
+$text['confirm-fax']['vi'] = "Vui lòng cung cấp: Một tập tin để Fax";
 
 $text['confirm-ext']['en-us'] = "Por favor indique: Extensión";
 $text['confirm-ext']['ar-eg'] = "";
@@ -3340,6 +3475,7 @@ $text['confirm-ext']['ro-ro'] = "";
 $text['confirm-ext']['ru-ru'] = "Пожалуйста, укажите: Номер";
 $text['confirm-ext']['sv-se'] = "Por favor indique: Extensión ";
 $text['confirm-ext']['uk-ua'] = "";
+$text['confirm-ext']['vi'] = "Vui lòng cho biết: Gia hạn";
 
 $text['confirm-copy-info']['en-us'] = "Do you really want to copy this?";
 $text['confirm-copy-info']['ar-eg'] = "";
@@ -3360,6 +3496,7 @@ $text['confirm-copy-info']['ro-ro'] = "";
 $text['confirm-copy-info']['ru-ru'] = "Вы действительно хотите скопировать это?";
 $text['confirm-copy-info']['sv-se'] = "Vill du verkligen kopiera detta?";
 $text['confirm-copy-info']['uk-ua'] = "";
+$text['confirm-copy-info']['vi'] = "Bạn có thực sự muốn sao chép này?";
 
 $text['confirm-copy']['en-us'] = "Copy complete";
 $text['confirm-copy']['ar-eg'] = "";
@@ -3380,6 +3517,7 @@ $text['confirm-copy']['ro-ro'] = "";
 $text['confirm-copy']['ru-ru'] = "Копирование завершено";
 $text['confirm-copy']['sv-se'] = "Kopiering Slutförd";
 $text['confirm-copy']['uk-ua'] = "";
+$text['confirm-copy']['vi'] = "Sao chép thành công";
 
 $text['confirm-add']['en-us'] = "Add complete";
 $text['confirm-add']['ar-eg'] = "";
@@ -3400,6 +3538,7 @@ $text['confirm-add']['ro-ro'] = "";
 $text['confirm-add']['ru-ru'] = "Добавление выполнено";
 $text['confirm-add']['sv-se'] = "Tillagd";
 $text['confirm-add']['uk-ua'] = "";
+$text['confirm-add']['vi'] = "Thêm thành công";
 
 $text['button-settings']['en-us'] = "Settings";
 $text['button-settings']['ar-eg'] = "";
@@ -3420,6 +3559,7 @@ $text['button-settings']['ro-ro'] = "";
 $text['button-settings']['ru-ru'] = "Настройка";
 $text['button-settings']['sv-se'] = "Inställningar";
 $text['button-settings']['uk-ua'] = "";
+$text['button-settings']['vi'] = "Cài đặt";
 
 $text['button-send']['en-us'] = "Send";
 $text['button-send']['ar-eg'] = "";
@@ -3440,6 +3580,7 @@ $text['button-send']['ro-ro'] = "";
 $text['button-send']['ru-ru'] = "Передача";
 $text['button-send']['sv-se'] = "Skicka Samtalsdistribution";
 $text['button-send']['uk-ua'] = "";
+$text['button-send']['vi'] = "Gửi";
 
 $text['button-preview']['en-us'] = "Preview";
 $text['button-preview']['ar-eg'] = "";
@@ -3460,6 +3601,7 @@ $text['button-preview']['ro-ro'] = "";
 $text['button-preview']['ru-ru'] = "Предпросмотр";
 $text['button-preview']['sv-se'] = "Förhandsgranska";
 $text['button-preview']['uk-ua'] = "";
+$text['button-preview']['vi'] = "Xem trước";
 
 $text['button-show_all']['en-us'] = "Show all";
 $text['button-show_all']['ar-eg'] = "";
@@ -3480,6 +3622,7 @@ $text['button-show_all']['ro-ro'] = "";
 $text['button-show_all']['ru-ru'] = "Посмотреть все";
 $text['button-show_all']['sv-se'] = "";
 $text['button-show_all']['uk-ua'] = "Показати всі";
+$text['button-show_all']['vi'] = "Xem tất cả";
 
 $text['fax-active_title']['en-us'] = "Fax queue";
 $text['fax-active_title']['ar-eg'] = "";
@@ -3500,6 +3643,7 @@ $text['fax-active_title']['ro-ro'] = "";
 $text['fax-active_title']['ru-ru'] = "Fax очередь";
 $text['fax-active_title']['sv-se'] = "Fax kö";
 $text['fax-active_title']['uk-ua'] = "";
+$text['fax-active_title']['vi'] = "Hàng chờ Fax";
 
 $text['fax-active_description']['en-us'] = "Current status of fax queue";
 $text['fax-active_description']['ar-eg'] = "";
@@ -3520,6 +3664,7 @@ $text['fax-active_description']['ro-ro'] = "";
 $text['fax-active_description']['ru-ru'] = "Текущий статус fax очереди";
 $text['fax-active_description']['sv-se'] = "Nuvarande status för fax kö:n";
 $text['fax-active_description']['uk-ua'] = "";
+$text['fax-active_description']['vi'] = "Tình trạng hiện tại của hàng chờ fax";
 
 $text['fax-active_title_fax_server']['en-us'] = "Fax";
 $text['fax-active_title_fax_server']['ar-eg'] = "";
@@ -3540,6 +3685,7 @@ $text['fax-active_title_fax_server']['ro-ro'] = "";
 $text['fax-active_title_fax_server']['ru-ru'] = "Fax";
 $text['fax-active_title_fax_server']['sv-se'] = "Fax";
 $text['fax-active_title_fax_server']['uk-ua'] = "";
+$text['fax-active_title_fax_server']['vi'] = "Fax";
 
 $text['fax-active_title_enabled']['en-us'] = "Enabled";
 $text['fax-active_title_enabled']['ar-eg'] = "";
@@ -3560,6 +3706,7 @@ $text['fax-active_title_enabled']['ro-ro'] = "";
 $text['fax-active_title_enabled']['ru-ru'] = "Включено";
 $text['fax-active_title_enabled']['sv-se'] = "Aktiverad";
 $text['fax-active_title_enabled']['uk-ua'] = "";
+$text['fax-active_title_enabled']['vi'] = "Cho phép";
 
 $text['fax-active_title_status']['en-us'] = "Status";
 $text['fax-active_title_status']['ar-eg'] = "";
@@ -3580,6 +3727,7 @@ $text['fax-active_title_status']['ro-ro'] = "";
 $text['fax-active_title_status']['ru-ru'] = "Статус";
 $text['fax-active_title_status']['sv-se'] = "";
 $text['fax-active_title_status']['uk-ua'] = "";
+$text['fax-active_title_status']['vi'] = "Trạng thái";
 
 $text['fax-active_title_next_time']['en-us'] = "Next time";
 $text['fax-active_title_next_time']['ar-eg'] = "";
@@ -3600,6 +3748,7 @@ $text['fax-active_title_next_time']['ro-ro'] = "";
 $text['fax-active_title_next_time']['ru-ru'] = "Следующее время";
 $text['fax-active_title_next_time']['sv-se'] = "Nästa gång";
 $text['fax-active_title_next_time']['uk-ua'] = "";
+$text['fax-active_title_next_time']['vi'] = "Lần tiếp theo";
 
 $text['fax-active_title_files']['en-us'] = "Files";
 $text['fax-active_title_files']['ar-eg'] = "";
@@ -3620,6 +3769,7 @@ $text['fax-active_title_files']['ro-ro'] = "";
 $text['fax-active_title_files']['ru-ru'] = "Файлы";
 $text['fax-active_title_files']['sv-se'] = "Filer";
 $text['fax-active_title_files']['uk-ua'] = "";
+$text['fax-active_title_files']['vi'] = "Tệp tin";
 
 $text['fax-active_title_uri']['en-us'] = "URI";
 $text['fax-active_title_uri']['ar-eg'] = "";
@@ -3660,6 +3810,7 @@ $text['fax-active_status_wait']['ro-ro'] = "";
 $text['fax-active_status_wait']['ru-ru'] = "Ожидайте";
 $text['fax-active_status_wait']['sv-se'] = "Vänta";
 $text['fax-active_status_wait']['uk-ua'] = "";
+$text['fax-active_status_wait']['vi'] = "Chờ";
 
 $text['fax-active_status_execute']['en-us'] = "Execute";
 $text['fax-active_status_execute']['ar-eg'] = "";
@@ -3680,6 +3831,7 @@ $text['fax-active_status_execute']['ro-ro'] = "";
 $text['fax-active_status_execute']['ru-ru'] = "Выполнить";
 $text['fax-active_status_execute']['sv-se'] = "Utför";
 $text['fax-active_status_execute']['uk-ua'] = "";
+$text['fax-active_status_execute']['vi'] = "Thực thi";
 
 $text['fax-active_status_success']['en-us'] = "Success";
 $text['fax-active_status_success']['ar-eg'] = "";
@@ -3700,6 +3852,7 @@ $text['fax-active_status_success']['ro-ro'] = "";
 $text['fax-active_status_success']['ru-ru'] = "Успешно";
 $text['fax-active_status_success']['sv-se'] = "Lyckat";
 $text['fax-active_status_success']['uk-ua'] = "";
+$text['fax-active_status_success']['vi'] = "Thành công";
 
 $text['fax-active_status_fail']['en-us'] = "Fail";
 $text['fax-active_status_fail']['ar-eg'] = "";
@@ -3720,5 +3873,5 @@ $text['fax-active_status_fail']['ro-ro'] = "";
 $text['fax-active_status_fail']['ru-ru'] = "Ошибка";
 $text['fax-active_status_fail']['sv-se'] = "Misslyckad";
 $text['fax-active_status_fail']['uk-ua'] = "";
-
+$text['fax-active_status_fail']['vi'] = "Thất bại";
 ?>

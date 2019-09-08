@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Các module mở rộng các tính năng của hệ thống. Sử dụng trang này để bật hoặc tắt các mô-đun.";
 
 	//permission details
 		$y=0;

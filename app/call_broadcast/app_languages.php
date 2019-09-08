@@ -20,6 +20,7 @@ $text['title']['ro-ro'] = "";
 $text['title']['ru-ru'] = "Массовые вызовы";
 $text['title']['sv-se'] = "Samtalsdistributioner";
 $text['title']['uk-ua'] = "Трансляція дзвінків";
+$text['title']['vi'] = "Gọi Broadcasts";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-false']['en-us'] = "False";
 $text['option-false']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['option-false']['ro-ro'] = "";
 $text['option-false']['ru-ru'] = "Нет";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
+$text['option-false']['vi'] = "Sai";
 
 $text['label-view-calls']['en-us'] = "View Calls";
 $text['label-view-calls']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-view-calls']['ro-ro'] = "";
 $text['label-view-calls']['ru-ru'] = "Показать вызовы";
 $text['label-view-calls']['sv-se'] = "Granska Samtal";
 $text['label-view-calls']['uk-ua'] = "Перегляд дзвінків";
+$text['label-view-calls']['vi'] = "Xem cuộc gọi";
 
 $text['label-timeout']['en-us'] = "Timeout";
 $text['label-timeout']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-timeout']['ro-ro'] = "";
 $text['label-timeout']['ru-ru'] = "Тайм-аут";
 $text['label-timeout']['sv-se'] = "Tidsgräns";
 $text['label-timeout']['uk-ua'] = "Таймаут";
+$text['label-timeout']['vi'] = "Hết giờ";
 
 $text['label-phone']['en-us'] = "Phone Number List";
 $text['label-phone']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-phone']['ro-ro'] = "";
 $text['label-phone']['ru-ru'] = "Список телефонних номеров";
 $text['label-phone']['sv-se'] = "Lista Med Telefonnummer";
 $text['label-phone']['uk-ua'] = "Список телефонних номерів";
+$text['label-phone']['vi'] = "Danh sách số điện thoại";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-has-been']['en-us'] = "has been started";
 $text['label-has-been']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-has-been']['ro-ro'] = "";
 $text['label-has-been']['ru-ru'] = "было запущено";
 $text['label-has-been']['sv-se'] = "har startat";
 $text['label-has-been']['uk-ua'] = "було запущено";
+$text['label-has-been']['vi'] = "đã bắt đầu";
 
 $text['label-destination']['en-us'] = "Destination Number";
 $text['label-destination']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-destination']['ro-ro'] = "";
 $text['label-destination']['ru-ru'] = "Номер назначения";
 $text['label-destination']['sv-se'] = "Destinationsnummer";
 $text['label-destination']['uk-ua'] = "Номер";
+$text['label-destination']['vi'] = "Số đích đến";
 
 $text['label-concurrent-limit']['en-us'] = "Concurrent Limit";
 $text['label-concurrent-limit']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-concurrent-limit']['ro-ro'] = "";
 $text['label-concurrent-limit']['ru-ru'] = "Ограничение параллельных вызовов";
 $text['label-concurrent-limit']['sv-se'] = "Samtidig Gräns";
 $text['label-concurrent-limit']['uk-ua'] = "Обмеження одночасної кількості";
+$text['label-concurrent-limit']['vi'] = "Giới hạn đồng thời";
 
 $text['label-callerid-number']['en-us'] = "Caller ID Number";
 $text['label-callerid-number']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-callerid-number']['ro-ro'] = "";
 $text['label-callerid-number']['ru-ru'] = "Caller ID Номер";
 $text['label-callerid-number']['sv-se'] = "Caller ID Nummer";
 $text['label-callerid-number']['uk-ua'] = "Caller ID Номер";
+$text['label-callerid-number']['vi'] = "Số ID người gọi";
 
 $text['label-caller-id-name']['en-us'] = "Caller ID Name";
 $text['label-caller-id-name']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-caller-id-name']['ro-ro'] = "";
 $text['label-caller-id-name']['ru-ru'] = "Caller ID Имя";
 $text['label-caller-id-name']['sv-se'] = "Caller ID Namn";
 $text['label-caller-id-name']['uk-ua'] = "Caller ID Ім’я";
+$text['label-caller-id-name']['vi'] = "Tên ID người gọi";
 
 $text['label-call-broadcasts']['en-us'] = "Call Broadcasts";
 $text['label-call-broadcasts']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-call-broadcasts']['ro-ro'] = "";
 $text['label-call-broadcasts']['ru-ru'] = "Массовые вызовы";
 $text['label-call-broadcasts']['sv-se'] = "Samtalsdistributioner";
 $text['label-call-broadcasts']['uk-ua'] = "Трансляція дзвінків";
+$text['label-call-broadcasts']['vi'] = "Gọil Broadcasts";
 
 $text['label-call-broadcast']['en-us'] = "Call Broadcast";
 $text['label-call-broadcast']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-call-broadcast']['ro-ro'] = "";
 $text['label-call-broadcast']['ru-ru'] = "Массовый вызов";
 $text['label-call-broadcast']['sv-se'] = "Samtalsdistribution";
 $text['label-call-broadcast']['uk-ua'] = "Трансляція дзвінка";
+$text['label-call-broadcast']['vi'] = "Gọi Broadcast";
 
 $text['label-avmd']['en-us'] = "Voicemail Detection";
 $text['label-avmd']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-avmd']['ro-ro'] = "";
 $text['label-avmd']['ru-ru'] = "Определение голосовой почты";
 $text['label-avmd']['sv-se'] = "Känn Av Röstbrevlåda";
 $text['label-avmd']['uk-ua'] = "Виявлення голосової пошти";
+$text['label-avmd']['vi'] = "Phát hiện thư thoại";
 
 $text['label-accountcode']['en-us'] = "Accountcode";
 $text['label-accountcode']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-accountcode']['ro-ro'] = "";
 $text['label-accountcode']['ru-ru'] = "Код Авторизации";
 $text['label-accountcode']['sv-se'] = "Accountcode";
 $text['label-accountcode']['uk-ua'] = "Код облікового запису";
+$text['label-accountcode']['vi'] = "Mã tài khoản";
 
 $text['description-timeout']['en-us'] = "Specify the absolute timeout in seconds.";
 $text['description-timeout']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['description-timeout']['ro-ro'] = "";
 $text['description-timeout']['ru-ru'] = "Время ожидания (в миллисекундах) после воспроизведения записи или подтверждения макроса.";
 $text['description-timeout']['sv-se'] = "Specificera den absoluta timeout:en i sekunder.";
 $text['description-timeout']['uk-ua'] = "";
+$text['description-timeout']['vi'] = "Chỉ định thời gian chờ tuyệt đối tính bằng giây.";
 
 $text['description-phone']['en-us'] = "Optional, set a list of phone numbers one per row in the following format: 123-123-1234|Last Name, First Name";
 $text['description-phone']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['description-phone']['ro-ro'] = "";
 $text['description-phone']['ru-ru'] = "Дополнительно, задайте список телефонных номеров, по одному в ряд, в формате: 123-123-1234 | Фамилия, Имя";
 $text['description-phone']['sv-se'] = "Frivillig, fyll i en lista med nummer (ett per rad) i följande format: 123-123-1234|Efternamn, Förnamn";
 $text['description-phone']['uk-ua'] = "Додатково, задайте список телефонних номерів по одному на рядок в наступному форматі: 123-123-1234 | Прізвище, ім'я";
+$text['description-phone']['vi'] = "Tùy chọn, đặt danh sách các số điện thoại mỗi hàng theo định dạng sau: 123-123-1234 | Họ, Tên, Tên";
 
 $text['description-name']['en-us'] = "Enter the name here.";
 $text['description-name']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя";
 $text['description-name']['sv-se'] = "Skriv in namnet här.";
 $text['description-name']['uk-ua'] = "Введіть назву";
+$text['description-name']['vi'] = "Nhập tên tại đây.";
 
 $text['description-info']['en-us'] = "Enter the description here.";
 $text['description-info']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['description-info']['ro-ro'] = "";
 $text['description-info']['ru-ru'] = "Введите описание";
 $text['description-info']['sv-se'] = "Ange beskrivning här.";
 $text['description-info']['uk-ua'] = "Введіть опис";
+$text['description-info']['vi'] = "Nhập mô tả tại đây.";
 
 $text['description-destination']['en-us'] = "Send the call to the extension an IVR Menu, Conference Room, or any other number.";
 $text['description-destination']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['description-destination']['ro-ro'] = "";
 $text['description-destination']['ru-ru'] = "Отправить вызов на внутренний номер, IVR, конференцию или любой другой номер.";
 $text['description-destination']['sv-se'] = "Skicka samtalet till en anknytning, IVR Meny, Konferens Rum eller något annat nummer.";
 $text['description-destination']['uk-ua'] = "Відправити дзвінок на розширення, меню IVR, конференцію, або будь-який інший номер.";
+$text['description-destination']['vi'] = "Gửi cuộc gọi đến máy nhánh Menu IVR, Phòng hội thảo hoặc bất kỳ số nào khác.";
 
 $text['description-concurrent-limit']['en-us'] = "Limit the approximate number of concurrent calls. Leave this empty for no limit.";
 $text['description-concurrent-limit']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['description-concurrent-limit']['ro-ro'] = "";
 $text['description-concurrent-limit']['ru-ru'] = "Ограничение примерного количества параллельных вызовов. Оставьте пустым для его отсутствия.";
 $text['description-concurrent-limit']['sv-se'] = "Begränsa ungefärliga antalet samtidiga samtal. Lämna det här tomt för ingen gräns.";
 $text['description-concurrent-limit']['uk-ua'] = "Обмеження приблизної кількості одночасних дзвінків. Якщо пусто - без обмежень";
+$text['description-concurrent-limit']['vi'] = "Giới hạn số lượng cuộc gọi đồng thời gần đúng. Để trống này không giới hạn.";
 
 $text['description-caller-id-number']['en-us'] = "Applicable if the provider that allow the Caller ID number to be sent. default: 0000000000";
 $text['description-caller-id-number']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['description-caller-id-number']['ro-ro'] = "";
 $text['description-caller-id-number']['ru-ru'] = "Используется, если провайдер поддерживает передачу CallerID(number). По умолчанию: 0000000000";
 $text['description-caller-id-number']['sv-se'] = "Gäller om leverantör tillåter att Caller ID nummer skickas. Standard: 0000000000";
 $text['description-caller-id-number']['uk-ua'] = "Стосується, якщо постачальник, дозволяє надсилати номер абонента (Caller ID номер). За замовчуванням: 0000000000";
+$text['description-caller-id-number']['vi'] = "Áp dụng nếu nhà cung cấp cho phép số ID người gọi được gửi. mặc định: 0000000000";
 
 $text['description-caller-id-name']['en-us'] = "Applicable if the provider allow the Caller ID Name to be set. default: anonymous";
 $text['description-caller-id-name']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['description-caller-id-name']['ro-ro'] = "";
 $text['description-caller-id-name']['ru-ru'] = "Используется, если провайдер поддерживает передачу CallerID(name). По умолчанию: anonymous";
 $text['description-caller-id-name']['sv-se'] = "Gäller om leverantör tillåter att Caller ID namn skickas. Standard: anonymous";
 $text['description-caller-id-name']['uk-ua'] = "Стосується, якщо постачальник, дозволяє надсилати ім’я абонента (Caller ID Ім’я). За замовчуванням: anonymous";
+$text['description-caller-id-name']['vi'] = "Áp dụng nếu nhà cung cấp cho phép Tên ID người gọi được đặt. mặc định: ẩn danh";
 
 $text['description-avmd']['en-us'] = "Select whether to enable or disable the detection of voicemail messaging and answering machine systems.";
 $text['description-avmd']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['description-avmd']['ro-ro'] = "";
 $text['description-avmd']['ru-ru'] = "Выберите, стоит ли использовать систему определения голосовой почты или автоответчика.";
 $text['description-avmd']['sv-se'] = "Välj om deteketering av röstbrevlåda skall användas.";
 $text['description-avmd']['uk-ua'] = "Виберіть, чи слід включити або відключити виявлення повідомлень голосової пошти і систему автовідповідача.";
+$text['description-avmd']['vi'] = "Chọn bật hoặc tắt tính năng phát hiện hệ thống nhắn tin và trả lời thư thoại.";
 
 $text['confirm-update']['en-us'] = "Update Complete";
 $text['confirm-update']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['confirm-update']['ro-ro'] = "";
 $text['confirm-update']['ru-ru'] = "Обновление завершено";
 $text['confirm-update']['sv-se'] = "Uppdatering Klar";
 $text['confirm-update']['uk-ua'] = "Оновлення завершено";
+$text['confirm-update']['vi'] = "Cập nhật thành công";
 
 $text['confirm-name']['en-us'] = "Please provide: Name";
 $text['confirm-name']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['confirm-name']['ro-ro'] = "";
 $text['confirm-name']['ru-ru'] = "Пожалуйста, укажите: Имя";
 $text['confirm-name']['sv-se'] = "Ange: Namn";
 $text['confirm-name']['uk-ua'] = "Введіть назву";
+$text['confirm-name']['vi'] = "Vui lòng cung cấp: Tên";
 
 $text['confirm-delete-info']['en-us'] = "Do you really want to delete this?";
 $text['confirm-delete-info']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['confirm-delete-info']['ro-ro'] = "";
 $text['confirm-delete-info']['ru-ru'] = "Вы действительно хотите это удалить?";
 $text['confirm-delete-info']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete-info']['uk-ua'] = "Ви дійсно бажаєте це видалити?";
+$text['confirm-delete-info']['vi'] = "Bạn có thực sự muốn xóa cái này không?";
 
 $text['confirm-add']['en-us'] = "Add Complete";
 $text['confirm-add']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['confirm-add']['ro-ro'] = "";
 $text['confirm-add']['ru-ru'] = "Добавление завершено";
 $text['confirm-add']['sv-se'] = "Tillagd";
 $text['confirm-add']['uk-ua'] = "Додано";
+$text['confirm-add']['vi'] = "Thêm thành công";
 
 $text['button-stop']['en-us'] = "Stop Broadcast";
 $text['button-stop']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['button-stop']['ro-ro'] = "";
 $text['button-stop']['ru-ru'] = "Остановить";
 $text['button-stop']['sv-se'] = "Stoppa Samtalsdistribution";
 $text['button-stop']['uk-ua'] = "Зупинити трансляцію";
+$text['button-stop']['vi'] = "Dừng Broadcast";
 
 $text['button-send']['en-us'] = "Send Broadcast";
 $text['button-send']['ar-eg'] = "";
@@ -620,25 +650,5 @@ $text['button-send']['ro-ro'] = "";
 $text['button-send']['ru-ru'] = "Запустить";
 $text['button-send']['sv-se'] = "Skicka Samtalsdistribution";
 $text['button-send']['uk-ua'] = "Транслювати";
-
-$text['file-error']['en-us'] = "Sorry, File type not allowed";
-$text['file-error']['ar-eg'] = "";
-$text['file-error']['de-at'] = "Entschuldigung, Dateityp nicht erlaubt"; //copied from de-de
-$text['file-error']['de-ch'] = "Entschuldigung, Dateityp nicht erlaubt"; //copied from de-de
-$text['file-error']['de-de'] = "Entschuldigung, Dateityp nicht erlaubt";
-$text['file-error']['es-cl'] = "Lo sentimos, no se permite el tipo de archivo";
-$text['file-error']['es-mx'] = "Lo sentimos, no se permite el tipo de archivo"; //copied from es-cl
-$text['file-error']['fr-ca'] = "Désolé, le type de fichier n'est pas autorisé"; //copied from fr-fr
-$text['file-error']['fr-fr'] = "Désolé, le type de fichier n'est pas autorisé";
-$text['file-error']['he-il'] = "מצטערים, סוג הקובץ אינו מותר";
-$text['file-error']['it-it'] = "";
-$text['file-error']['nl-nl'] = "";
-$text['file-error']['pl-pl'] = "Niestety, Typ pliku jest niedozwolony";
-$text['file-error']['pt-br'] = "Desculpe, tipo de arquivo não permitido";
-$text['file-error']['pt-pt'] = "Desculpe, tipo de arquivo não permitido";
-$text['file-error']['ro-ro'] = "";
-$text['file-error']['ru-ru'] = "Обновление завершено";
-$text['file-error']['sv-se'] = "Uppdatering Klar";
-$text['file-error']['uk-ua'] = "Оновлення завершено";
-
+$text['button-send']['vi'] = "Gửi Broadcast";
 ?>

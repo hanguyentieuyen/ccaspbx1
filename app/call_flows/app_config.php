@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Cuộc gọi trực tiếp giữa hai điểm đến bằng cách gọi mã tính năng.";
+		
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";
@@ -63,9 +64,6 @@
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "call_flow_context";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${call_flow_context}";
 
 	//schema details
 		$y=0;

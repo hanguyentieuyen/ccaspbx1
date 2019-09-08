@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Определение переменной делает возможным управление FreeSwitch, его инициализации, и многое другое.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Xác định các biến được sử dụng bởi chuyển đổi, cung cấp và hơn thế nữa.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "var_view";

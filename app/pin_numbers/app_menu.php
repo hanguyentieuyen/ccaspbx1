@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = 'PIN коды';
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Mã PIN";
 	$apps[$x]['menu'][$y]['uuid'] = '2e3d8f49-5beb-44a8-9617-0bffc5b418c2';
 	$apps[$x]['menu'][$y]['parent_uuid'] = 'fd29e39c-c936-f5fc-8e2b-611681b266b5';
 	$apps[$x]['menu'][$y]['category'] = 'internal';

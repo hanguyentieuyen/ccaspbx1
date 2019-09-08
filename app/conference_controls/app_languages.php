@@ -20,6 +20,7 @@ $text['title-conference_controls']['ro-ro'] = "";
 $text['title-conference_controls']['ru-ru'] = "";
 $text['title-conference_controls']['sv-se'] = "Konferens Kontroller";
 $text['title-conference_controls']['uk-ua'] = "";
+$text['title-conference_controls']['vi'] = "Điều khiển hội nghị";
 
 $text['title-conference_control']['en-us'] = "Conference Control";
 $text['title-conference_control']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-conference_control']['ro-ro'] = "";
 $text['title-conference_control']['ru-ru'] = "";
 $text['title-conference_control']['sv-se'] = "Konferens Kontroll";
 $text['title-conference_control']['uk-ua'] = "";
+$text['title-conference_control']['vi'] = "Điều khiển hội nghị";
 
 $text['title_description-conference_control']['en-us'] = "Call controls enable ability to assign digits to actions. They can be used to mute, unmute, or other actions during the conference call.";
 $text['title_description-conference_control']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title_description-conference_control']['ro-ro'] = "";
 $text['title_description-conference_control']['ru-ru'] = "";
 $text['title_description-conference_control']['sv-se'] = "Samtalskontroller möjliggör tilldelning av siffror till handlingar. De kan användas för att stänga av, avaktivera eller andra åtgärder under konferenssamtalet.";
 $text['title_description-conference_control']['uk-ua'] = "";
+$text['title_description-conference_control']['vi'] = "Điều khiển cuộc gọi cho phép khả năng gán chữ số cho các hoạt động. Chúng có thể được sử dụng để tắt tiếng, bật tiếng hoặc các hoạt động khác trong cuộc gọi hội nghị.";
 
 $text['label-control_name']['en-us'] = "Name";
 $text['label-control_name']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-control_name']['ro-ro'] = "";
 $text['label-control_name']['ru-ru'] = "";
 $text['label-control_name']['sv-se'] = "Namn";
 $text['label-control_name']['uk-ua'] = "";
+$text['label-control_name']['vi'] = "Tên";
 
 $text['description-control_name']['en-us'] = "Enter the conference control name.";
 $text['description-control_name']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['description-control_name']['ro-ro'] = "";
 $text['description-control_name']['ru-ru'] = "";
 $text['description-control_name']['sv-se'] = "Ange konferens kontroll namnet.";
 $text['description-control_name']['uk-ua'] = "";
+$text['description-control_name']['vi'] = "Nhập tên điều khiển hội nghị.";
 
 $text['label-control_enabled']['en-us'] = "Enabled";
 $text['label-control_enabled']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-control_enabled']['ro-ro'] = "";
 $text['label-control_enabled']['ru-ru'] = "";
 $text['label-control_enabled']['sv-se'] = "Aktiverad";
 $text['label-control_enabled']['uk-ua'] = "";
+$text['label-control_enabled']['vi'] = "Cho phép";
 
 $text['description-control_enabled']['en-us'] = "Set the status of the control.";
 $text['description-control_enabled']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['description-control_enabled']['ro-ro'] = "";
 $text['description-control_enabled']['ru-ru'] = "";
 $text['description-control_enabled']['sv-se'] = "Ange statusen för kontrollen.";
 $text['description-control_enabled']['uk-ua'] = "";
+$text['description-control_enabled']['vi'] = "Đặt trạng thái của điều khiển.";
 
 $text['label-control_description']['en-us'] = "Description";
 $text['label-control_description']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-control_description']['ro-ro'] = "";
 $text['label-control_description']['ru-ru'] = "";
 $text['label-control_description']['sv-se'] = "Beskrivning";
 $text['label-control_description']['uk-ua'] = "";
+$text['label-control_description']['vi'] = "Mô tả";
 
 $text['description-control_description']['en-us'] = "Enter the description.";
 $text['description-control_description']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['description-control_description']['ro-ro'] = "";
 $text['description-control_description']['ru-ru'] = "";
 $text['description-control_description']['sv-se'] = "Ange beskrivningen.";
 $text['description-control_description']['uk-ua'] = "";
+$text['description-control_description']['vi'] = "Nhập mô tả.";
 
 $text['label-true']['en-us'] = "true";
 $text['label-true']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-true']['ro-ro'] = "";
 $text['label-true']['ru-ru'] = "";
 $text['label-true']['sv-se'] = "sann";
 $text['label-true']['uk-ua'] = "";
+$text['label-true']['vi'] = "đúng";
 
 $text['label-false']['en-us'] = "false";
 $text['label-false']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-false']['ro-ro'] = "";
 $text['label-false']['ru-ru'] = "";
 $text['label-false']['sv-se'] = "falsk";
 $text['label-false']['uk-ua'] = "";
+$text['label-false']['vi'] = "sai";
 
 $text['button-add']['en-us'] = "Add";
 $text['button-add']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['button-add']['ro-ro'] = "";
 $text['button-add']['ru-ru'] = "";
 $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "";
+$text['button-add']['vi'] = "Thêm";
 
 $text['button-edit']['en-us'] = "Edit";
 $text['button-edit']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['button-edit']['ro-ro'] = "";
 $text['button-edit']['ru-ru'] = "";
 $text['button-edit']['sv-se'] = "Ändra";
 $text['button-edit']['uk-ua'] = "";
+$text['button-edit']['vi'] = "Chỉnh sửa";
 
 $text['button-delete']['en-us'] = "Delete";
 $text['button-delete']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['button-delete']['ro-ro'] = "";
 $text['button-delete']['ru-ru'] = "";
 $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "";
+$text['button-delete']['vi'] = "Xóa";
 
 $text['button-save']['en-us'] = "Save";
 $text['button-save']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['button-save']['ro-ro'] = "";
 $text['button-save']['ru-ru'] = "";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "";
+$text['button-save']['vi'] = "Lưu";
 
 $text['button-view']['en-us'] = "View";
 $text['button-view']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['button-view']['ro-ro'] = "";
 $text['button-view']['ru-ru'] = "";
 $text['button-view']['sv-se'] = "Läs";
 $text['button-view']['uk-ua'] = "";
+$text['button-view']['vi'] = "Xem";
 
 $text['button-back']['en-us'] = "Back";
 $text['button-back']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['button-back']['ro-ro'] = "";
 $text['button-back']['ru-ru'] = "";
 $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "";
+$text['button-back']['vi'] = "Trở lại";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['confirm-delete']['ro-ro'] = "";
 $text['confirm-delete']['ru-ru'] = "";
 $text['confirm-delete']['sv-se'] = "Vill du verkligen t abort detta?";
 $text['confirm-delete']['uk-ua'] = "";
+$text['confirm-delete']['vi'] = "Bạn có thực sự muốn xóa cái này không?";
 
 $text['message-add']['en-us'] = "Add Completed";
 $text['message-add']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['message-add']['ro-ro'] = "";
 $text['message-add']['ru-ru'] = "";
 $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "";
+$text['message-add']['vi'] = "Thêm thành công";
 
 $text['message-update']['en-us'] = "Update Completed";
 $text['message-update']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['message-update']['ro-ro'] = "";
 $text['message-update']['ru-ru'] = "";
 $text['message-update']['sv-se'] = "Ändring Utförd";
 $text['message-update']['uk-ua'] = "";
+$text['message-update']['vi'] = "Cập nhật thành công";
 
 $text['message-delete']['en-us'] = "Delete Completed";
 $text['message-delete']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['message-delete']['ro-ro'] = "";
 $text['message-delete']['ru-ru'] = "";
 $text['message-delete']['sv-se'] = "Borttagen";
 $text['message-delete']['uk-ua'] = "";
+$text['message-delete']['vi'] = "Xóa thành công";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['message-required']['ro-ro'] = "";
 $text['message-required']['ru-ru'] = "";
 $text['message-required']['sv-se'] = "Var god ange: ";
 $text['message-required']['uk-ua'] = "";
+$text['message-required']['vi'] = "Vui lòng cung cấp: ";
 
 $text['title-conference_control_details']['en-us'] = "Controls";
 $text['title-conference_control_details']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['title-conference_control_details']['ro-ro'] = "";
 $text['title-conference_control_details']['ru-ru'] = "";
 $text['title-conference_control_details']['sv-se'] = "Kontroller";
 $text['title-conference_control_details']['uk-ua'] = "";
+$text['title-conference_control_details']['vi'] = "Điều khiển";
 
 $text['title-conference_control_detail']['en-us'] = "Control";
 $text['title-conference_control_detail']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['title-conference_control_detail']['ro-ro'] = "";
 $text['title-conference_control_detail']['ru-ru'] = "";
 $text['title-conference_control_detail']['sv-se'] = "Kontrol";
 $text['title-conference_control_detail']['uk-ua'] = "";
+$text['title-conference_control_detail']['vi'] = "Điều khiển";
 
 $text['title_description-conference_control_detail']['en-us'] = "Call controls enable ability to assign digits to actions. They can be used to mute, unmute, or other actions during the conference call.";
 $text['title_description-conference_control_detail']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['title_description-conference_control_detail']['ro-ro'] = "";
 $text['title_description-conference_control_detail']['ru-ru'] = "";
 $text['title_description-conference_control_detail']['sv-se'] = "";
 $text['title_description-conference_control_detail']['uk-ua'] = "";
+$text['title_description-conference_control_detail']['vi'] = "Điều khiển cuộc gọi cho phép khả năng gán chữ số cho các hoạt động. Chúng có thể được sử dụng để tắt tiếng, bật tiếng hoặc các hoạt động khác trong cuộc gọi hội nghị.";
 
 $text['label-control_digits']['en-us'] = "Digits";
 $text['label-control_digits']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['label-control_digits']['ro-ro'] = "";
 $text['label-control_digits']['ru-ru'] = "";
 $text['label-control_digits']['sv-se'] = "Siffror";
 $text['label-control_digits']['uk-ua'] = "";
+$text['label-control_digits']['vi'] = "Chữ số";
 
 $text['description-control_digits']['en-us'] = "Enter the digits.";
 $text['description-control_digits']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['description-control_digits']['ro-ro'] = "";
 $text['description-control_digits']['ru-ru'] = "";
 $text['description-control_digits']['sv-se'] = "Ange siffrorna.";
 $text['description-control_digits']['uk-ua'] = "";
+$text['description-control_digits']['vi'] = "Nhập số.";
 
 $text['label-control_action']['en-us'] = "Action";
 $text['label-control_action']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['label-control_action']['ro-ro'] = "";
 $text['label-control_action']['ru-ru'] = "";
 $text['label-control_action']['sv-se'] = "Handling";
 $text['label-control_action']['uk-ua'] = "";
+$text['label-control_action']['vi'] = "Hoạt động";
 
 $text['description-control_action']['en-us'] = "Enter the action.";
 $text['description-control_action']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['description-control_action']['ro-ro'] = "";
 $text['description-control_action']['ru-ru'] = "";
 $text['description-control_action']['sv-se'] = "Ange handlingen.";
 $text['description-control_action']['uk-ua'] = "";
+$text['description-control_action']['vi'] = "Nhập hoạt động.";
 
 $text['label-control_data']['en-us'] = "Data";
 $text['label-control_data']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['label-control_data']['ro-ro'] = "";
 $text['label-control_data']['ru-ru'] = "";
 $text['label-control_data']['sv-se'] = "Data";
 $text['label-control_data']['uk-ua'] = "";
+$text['label-control_data']['vi'] = "Dữ liệu";
 
 $text['description-control_data']['en-us'] = "Enter the data.";
 $text['description-control_data']['ar-eg'] = "";
@@ -620,5 +650,6 @@ $text['description-control_data']['ro-ro'] = "";
 $text['description-control_data']['ru-ru'] = "";
 $text['description-control_data']['sv-se'] = "Ange data.";
 $text['description-control_data']['uk-ua'] = "";
+$text['description-control_data']['vi'] = "Nhập dữ liệu.";
 
 ?>

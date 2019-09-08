@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Черный список";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Blockera Samtal";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Блокування дзвінків";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Chặn cuộc gọi";
 	$apps[$x]['menu'][$y]['uuid'] = "29295c90-b1b9-440b-9c7E-c8363c6e8975";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

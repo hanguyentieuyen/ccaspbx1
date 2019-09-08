@@ -26,6 +26,7 @@
 		$apps[$x]['description']['ru-ru'] = "Меню можно настроить с помощью этого инструмента";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Menu có thể được tùy chỉnh bằng công cụ này.";
 
 	//permission details
 		$y=0;

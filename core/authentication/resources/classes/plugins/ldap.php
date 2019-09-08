@@ -41,7 +41,7 @@ class plugin_ldap {
 			}
 			$host = $_SESSION["ldap"]["server_host"]["text"];
 			$port = $_SESSION["ldap"]["server_port"]["numeric"];
-			$connect = ldap_connect($host,$port)
+			$connect = ldap_connect($host)
 				or die("Could not connect to the LDAP server.");
 			//ldap_set_option($connect, LDAP_OPT_NETWORK_TIMEOUT, 10);
 			ldap_set_option($connect, LDAP_OPT_PROTOCOL_VERSION, 3);
@@ -84,15 +84,15 @@ class plugin_ldap {
 			 if ($user_authorized) {
 				$sql = "select * from v_users ";
 				$sql .= "where username=:username ";
-				if ($_SESSION["users"]["unique"]["text"] == "global") {
+				if ($_SESSION["user"]["unique"]["text"] == "global") {
 					//unique username - global (example: email address)
 				}
 				else {
 					//unique username - per domain
 					$sql .= "and domain_uuid=:domain_uuid ";
 				}
-				$prep_statement = $db->prepare($sql);
-				if ($_SESSION["users"]["unique"]["text"] != "global") {
+				$prep_statement = $db->prepare(check_sql($sql));
+				if ($_SESSION["user"]["unique"]["text"] != "global") {
 					$prep_statement->bindParam(':domain_uuid', $this->domain_uuid);
 				}
 				$prep_statement->bindParam(':username', $this->username);
@@ -100,7 +100,7 @@ class plugin_ldap {
 				$result = $prep_statement->fetchAll(PDO::FETCH_NAMED);
 				if (count($result) > 0) {
 					foreach ($result as &$row) {
-							if ($_SESSION["users"]["unique"]["text"] == "global" && $row["domain_uuid"] != $this->domain_uuid) {
+							if ($_SESSION["user"]["unique"]["text"] == "global" && $row["domain_uuid"] != $this->domain_uuid) {
 								//get the domain uuid
 									$this->domain_uuid = $row["domain_uuid"];
 									$this->domain_name = $_SESSION['domains'][$this->domain_uuid]['domain_name'];
@@ -157,9 +157,9 @@ class plugin_ldap {
 
 					//add the user to group user
 						$group_name = 'user';
-						$sql = "insert into v_user_groups ";
+						$sql = "insert into v_group_users ";
 						$sql .= "(";
-						$sql .= "user_group_uuid, ";
+						$sql .= "group_user_uuid, ";
 						$sql .= "domain_uuid, ";
 						$sql .= "group_name, ";
 						$sql .= "user_uuid ";

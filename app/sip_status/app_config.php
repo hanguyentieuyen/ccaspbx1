@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Отображает системную информацию о состоянии Памяти, Процессора и Дисковых накопителей.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Hiển thị thông tin hệ thống như thông tin về RAM, CPU và Ổ cứng.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "system_status_sofia_status";

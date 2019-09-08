@@ -27,8 +27,10 @@
 		$apps[$x]['description']['ru-ru'] = "Управление mod_translate";
 		$apps[$x]['description']['sv-se'] = "Hantera mod_translate";  //translation provided by Google Translate
 		$apps[$x]['description']['uk-ua'] = "управління mod_translate";  //translation provided by Google Translate
+		$apps[$x]['description']['vi'] = "Quản lý mod_translation";
+		
 		$apps[$x]['minimum_version'] = "4.3.2";
-
+	
 	//permission details
 		$y = 0;
 		$apps[$x]['permissions'][$y]['name'] = "number_translation_view";

@@ -20,6 +20,7 @@ $text['title-time_conditions']['ro-ro'] = "";
 $text['title-time_conditions']['ru-ru'] = "Временные условия";
 $text['title-time_conditions']['sv-se'] = "Tidsstyrning";
 $text['title-time_conditions']['uk-ua'] = "Часові умови";
+$text['title-time_conditions']['vi'] = "Điều kiện thời gian";
 
 $text['button-dialplan']['en-us'] = "Dialplan";
 $text['button-dialplan']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['button-dialplan']['ro-ro'] = "";
 $text['button-dialplan']['ru-ru'] = "Нумерационный План";
 $text['button-dialplan']['sv-se'] = "Nummerplan";
 $text['button-dialplan']['uk-ua'] = "";
+$text['button-dialplan']['vi'] = "Quay số";
 
 $text['message-alternate_destination_required']['en-us'] = "Alternate Destination Required";
 $text['message-alternate_destination_required']['ar-eg'] = "";
@@ -60,6 +62,8 @@ $text['message-alternate_destination_required']['ro-ro'] = "";
 $text['message-alternate_destination_required']['ru-ru'] = "Требуется альтернативное назначение";
 $text['message-alternate_destination_required']['sv-se'] = "Alternativ Destination Krävs";
 $text['message-alternate_destination_required']['uk-ua'] = "";
+$text['message-alternate_destination_required']['vi'] = "Điểm đến thay thế được yêu cầu";
+
 
 $text['label-year']['en-us'] = "Year";
 $text['label-year']['ar-eg'] = "";
@@ -80,6 +84,7 @@ $text['label-year']['ro-ro'] = "";
 $text['label-year']['ru-ru'] = "Год";
 $text['label-year']['sv-se'] = "År";
 $text['label-year']['uk-ua'] = "Рік";
+$text['label-year']['vi'] = "Năm";
 
 $text['label-week-of-year']['en-us'] = "Week of Year";
 $text['label-week-of-year']['ar-eg'] = "";
@@ -100,6 +105,7 @@ $text['label-week-of-year']['ro-ro'] = "";
 $text['label-week-of-year']['ru-ru'] = "Неделя года";
 $text['label-week-of-year']['sv-se'] = "Vecka på Året";
 $text['label-week-of-year']['uk-ua'] = "Тиждень року";
+$text['label-week-of-year']['vi'] = "Tuần trong nămr";
 
 $text['label-week-of-month']['en-us'] = "Week of Month";
 $text['label-week-of-month']['ar-eg'] = "";
@@ -120,6 +126,7 @@ $text['label-week-of-month']['ro-ro'] = "";
 $text['label-week-of-month']['ru-ru'] = "Неделя месяца";
 $text['label-week-of-month']['sv-se'] = "Vecka i Månad";
 $text['label-week-of-month']['uk-ua'] = "Тиждень місяця";
+$text['label-week-of-month']['vi'] = "Tuần trong tháng";
 
 $text['label-time-of-day_minute']['en-us'] = "Minute";
 $text['label-time-of-day_minute']['ar-eg'] = "";
@@ -140,6 +147,7 @@ $text['label-time-of-day_minute']['ro-ro'] = "";
 $text['label-time-of-day_minute']['ru-ru'] = "Минута";
 $text['label-time-of-day_minute']['sv-se'] = "Minut";
 $text['label-time-of-day_minute']['uk-ua'] = "Хвилина";
+$text['label-time-of-day_minute']['vi'] = "Phút";
 
 $text['label-time-of-day_hour']['en-us'] = "Hour";
 $text['label-time-of-day_hour']['ar-eg'] = "";
@@ -160,6 +168,7 @@ $text['label-time-of-day_hour']['ro-ro'] = "";
 $text['label-time-of-day_hour']['ru-ru'] = "Час";
 $text['label-time-of-day_hour']['sv-se'] = "Timma";
 $text['label-time-of-day_hour']['uk-ua'] = "Година";
+$text['label-time-of-day_hour']['vi'] = "Giờ";
 
 $text['label-time-of-day']['en-us'] = "Time of Day";
 $text['label-time-of-day']['ar-eg'] = "";
@@ -180,6 +189,7 @@ $text['label-time-of-day']['ro-ro'] = "";
 $text['label-time-of-day']['ru-ru'] = "Время суток";
 $text['label-time-of-day']['sv-se'] = "Tid på Dag";
 $text['label-time-of-day']['uk-ua'] = "Час дня";
+$text['label-time-of-day']['vi'] = "Thời gian trong ngày";
 
 $text['label-template']['en-us'] = "Template";
 $text['label-template']['ar-eg'] = "";
@@ -200,6 +210,7 @@ $text['label-template']['ro-ro'] = "";
 $text['label-template']['ru-ru'] = "Шаблон";
 $text['label-template']['sv-se'] = "Mall";
 $text['label-template']['uk-ua'] = "Шаблон";
+$text['label-template']['vi'] = "Mẫu";
 
 $text['label-settings']['en-us'] = "Settings";
 $text['label-settings']['ar-eg'] = "";
@@ -220,6 +231,7 @@ $text['label-settings']['ro-ro'] = "";
 $text['label-settings']['ru-ru'] = "Настройки";
 $text['label-settings']['sv-se'] = "Inställningar";
 $text['label-settings']['uk-ua'] = "Налаштування";
+$text['label-settings']['vi'] = "Cài đặt";
 
 $text['label-select_destination']['en-us'] = "Select Destination";
 $text['label-select_destination']['ar-eg'] = "";
@@ -240,6 +252,7 @@ $text['label-select_destination']['ro-ro'] = "";
 $text['label-select_destination']['ru-ru'] = "Выберите пункт назначения";
 $text['label-select_destination']['sv-se'] = "Välj Destination";
 $text['label-select_destination']['uk-ua'] = "";
+$text['label-select_destination']['vi'] = "Chọn điểm đến";
 
 $text['label-select_default_destination']['en-us'] = "Select Default Destination";
 $text['label-select_default_destination']['ar-eg'] = "";
@@ -260,6 +273,7 @@ $text['label-select_default_destination']['ro-ro'] = "";
 $text['label-select_default_destination']['ru-ru'] = "Выберите пункт назначения по умолчанию";
 $text['label-select_default_destination']['sv-se'] = "Välj Standard Destination";
 $text['label-select_default_destination']['uk-ua'] = "";
+$text['label-select_default_destination']['vi'] = "Chọn điểm đến mặc định";
 
 $text['label-required-dialplan_number']['en-us'] = "Please provide: Extension Number";
 $text['label-required-dialplan_number']['ar-eg'] = "";
@@ -280,6 +294,7 @@ $text['label-required-dialplan_number']['ro-ro'] = "";
 $text['label-required-dialplan_number']['ru-ru'] = "Пожалуйста укажите: дополнительный Номер";
 $text['label-required-dialplan_number']['sv-se'] = "Ange: Anknytningsnummer";
 $text['label-required-dialplan_number']['uk-ua'] = "";
+$text['label-required-dialplan_number']['vi'] = "Vui lòng cung cấp: Số máy nhánh";
 
 $text['label-required-dialplan_name']['en-us'] = "Please provide: Extension Name";
 $text['label-required-dialplan_name']['ar-eg'] = "";
@@ -300,6 +315,7 @@ $text['label-required-dialplan_name']['ro-ro'] = "";
 $text['label-required-dialplan_name']['ru-ru'] = "Пожалуйста, укажите: дополнительное Имя";
 $text['label-required-dialplan_name']['sv-se'] = "Ange: Anknytningsnamn";
 $text['label-required-dialplan_name']['uk-ua'] = "Будь ласка, надайте назву розширення";
+$text['label-required-dialplan_name']['vi'] = "Vui lòng cung cấp: Tên máy nhánh";
 
 $text['label-required-action']['en-us'] = "Please provide: Destination";
 $text['label-required-action']['ar-eg'] = "";
@@ -320,6 +336,7 @@ $text['label-required-action']['ro-ro'] = "";
 $text['label-required-action']['ru-ru'] = "Пожалуйста, укажите: Пункт назначения";
 $text['label-required-action']['sv-se'] = "Ange: Destination";
 $text['label-required-action']['uk-ua'] = "";
+$text['label-required-action']['vi'] = "Vui lòng cung cấp : Điểm đến";
 
 $text['label-presets']['en-us'] = "Presets";
 $text['label-presets']['ar-eg'] = "";
@@ -340,6 +357,7 @@ $text['label-presets']['ro-ro'] = "";
 $text['label-presets']['ru-ru'] = "Предустановки";
 $text['label-presets']['sv-se'] = "Förinställningar";
 $text['label-presets']['uk-ua'] = "";
+$text['label-presets']['vi'] = "Đặt trươc";
 
 $text['label-preset_veterans_day']['en-us'] = "Veteran's Day";
 $text['label-preset_veterans_day']['ar-eg'] = "";
@@ -360,6 +378,7 @@ $text['label-preset_veterans_day']['ro-ro'] = "";
 $text['label-preset_veterans_day']['ru-ru'] = "День ветеранов";
 $text['label-preset_veterans_day']['sv-se'] = "Veterandagen";
 $text['label-preset_veterans_day']['uk-ua'] = "";
+$text['label-preset_veterans_day']['vi'] = "Ngày cựu chiến binh";
 
 $text['label-preset_thanksgiving_day']['en-us'] = "Thanksgiving Day";
 $text['label-preset_thanksgiving_day']['ar-eg'] = "";
@@ -560,6 +579,7 @@ $text['label-number']['ro-ro'] = "";
 $text['label-number']['ru-ru'] = "Число";
 $text['label-number']['sv-se'] = "Nummer";
 $text['label-number']['uk-ua'] = "Номер";
+$text['label-number']['vi'] = "Số";
 
 $text['label-month']['en-us'] = "Month";
 $text['label-month']['ar-eg'] = "";
@@ -580,6 +600,7 @@ $text['label-month']['ro-ro'] = "";
 $text['label-month']['ru-ru'] = "Месяц";
 $text['label-month']['sv-se'] = "Månad";
 $text['label-month']['uk-ua'] = "Місяць";
+$text['label-month']['vi'] = "Tháng";
 
 $text['label-minute-of-hour']['en-us'] = "Minute of Hour";
 $text['label-minute-of-hour']['ar-eg'] = "";
@@ -600,6 +621,7 @@ $text['label-minute-of-hour']['ro-ro'] = "";
 $text['label-minute-of-hour']['ru-ru'] = "Минута часа";
 $text['label-minute-of-hour']['sv-se'] = "Minut i timma";
 $text['label-minute-of-hour']['uk-ua'] = "Хвилина години";
+$text['label-minute-of-hour']['vi'] = "Phút của giờ";
 
 $text['label-minute-of-day']['en-us'] = "Minute of Day";
 $text['label-minute-of-day']['ar-eg'] = "";
@@ -620,6 +642,7 @@ $text['label-minute-of-day']['ro-ro'] = "";
 $text['label-minute-of-day']['ru-ru'] = "Минута дня";
 $text['label-minute-of-day']['sv-se'] = "Minut på dag";
 $text['label-minute-of-day']['uk-ua'] = "Хвилина дня";
+$text['label-minute-of-day']['vi'] = "Phút của ngày";
 
 $text['label-label']['en-us'] = "Label";
 $text['label-label']['ar-eg'] = "";
@@ -640,6 +663,7 @@ $text['label-label']['ro-ro'] = "";
 $text['label-label']['ru-ru'] = "Метка";
 $text['label-label']['sv-se'] = "Etikett";
 $text['label-label']['uk-ua'] = "Назва";
+$text['label-label']['vi'] = "Nhãn hiệu";
 
 $text['label-hour-of-day']['en-us'] = "Hour of Day";
 $text['label-hour-of-day']['ar-eg'] = "";
@@ -660,6 +684,7 @@ $text['label-hour-of-day']['ro-ro'] = "";
 $text['label-hour-of-day']['ru-ru'] = "Час дня";
 $text['label-hour-of-day']['sv-se'] = "Timma på dag";
 $text['label-hour-of-day']['uk-ua'] = "Година дня";
+$text['label-hour-of-day']['vi'] = "Giờ của ngày";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
@@ -680,6 +705,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-day-of-year']['en-us'] = "Day of Year";
 $text['label-day-of-year']['ar-eg'] = "";
@@ -700,6 +726,7 @@ $text['label-day-of-year']['ro-ro'] = "";
 $text['label-day-of-year']['ru-ru'] = "День Года";
 $text['label-day-of-year']['sv-se'] = "Dag på År";
 $text['label-day-of-year']['uk-ua'] = "День року";
+$text['label-day-of-year']['vi'] = "Ngày trong năm";
 
 $text['label-day-of-week']['en-us'] = "Day of Week";
 $text['label-day-of-week']['ar-eg'] = "";
@@ -720,6 +747,7 @@ $text['label-day-of-week']['ro-ro'] = "";
 $text['label-day-of-week']['ru-ru'] = "День недели";
 $text['label-day-of-week']['sv-se'] = "Dag i Vecka";
 $text['label-day-of-week']['uk-ua'] = "День тижня";
+$text['label-day-of-week']['vi'] = "Ngày trong tuần";
 
 $text['label-day-of-month']['en-us'] = "Day of Month";
 $text['label-day-of-month']['ar-eg'] = "";
@@ -740,6 +768,7 @@ $text['label-day-of-month']['ro-ro'] = "";
 $text['label-day-of-month']['ru-ru'] = "День месяца";
 $text['label-day-of-month']['sv-se'] = "Dag i Månad";
 $text['label-day-of-month']['uk-ua'] = "День місяця";
+$text['label-day-of-month']['vi'] = "Ngày trong tháng";
 
 $text['label-date-and-time']['en-us'] = "Date & Time";
 $text['label-date-and-time']['ar-eg'] = "";
@@ -760,6 +789,7 @@ $text['label-date-and-time']['ro-ro'] = "";
 $text['label-date-and-time']['ru-ru'] = "Дата и Время";
 $text['label-date-and-time']['sv-se'] = "Datum & Tid";
 $text['label-date-and-time']['uk-ua'] = "Дата і час";
+$text['label-date-and-time']['vi'] = "Ngày & Thời gian";
 
 $text['label-context']['en-us'] = "Context";
 $text['label-context']['ar-eg'] = "";
@@ -780,6 +810,7 @@ $text['label-context']['ro-ro'] = "";
 $text['label-context']['ru-ru'] = "Контекст";
 $text['label-context']['sv-se'] = "Context";
 $text['label-context']['uk-ua'] = "Контекст";
+$text['label-context']['vi'] = "Context";
 
 $text['label-conditions']['en-us'] = "Conditions";
 $text['label-conditions']['ar-eg'] = "";
@@ -800,6 +831,7 @@ $text['label-conditions']['ro-ro'] = "";
 $text['label-conditions']['ru-ru'] = "Условия";
 $text['label-conditions']['sv-se'] = "Villkor";
 $text['label-conditions']['uk-ua'] = "Умови";
+$text['label-conditions']['vi'] = "Điều kiện";
 
 $text['label-condition_value']['en-us'] = "Value";
 $text['label-condition_value']['ar-eg'] = "";
@@ -820,6 +852,7 @@ $text['label-condition_value']['ro-ro'] = "";
 $text['label-condition_value']['ru-ru'] = "Значение От";
 $text['label-condition_value']['sv-se'] = "Värde";
 $text['label-condition_value']['uk-ua'] = "Значення";
+$text['label-condition_value']['vi'] = "Giá trị";
 
 $text['label-condition_range']['en-us'] = "Range";
 $text['label-condition_range']['ar-eg'] = "";
@@ -840,6 +873,7 @@ $text['label-condition_range']['ro-ro'] = "";
 $text['label-condition_range']['ru-ru'] = "Значение До";
 $text['label-condition_range']['sv-se'] = "Intervall";
 $text['label-condition_range']['uk-ua'] = "";
+$text['label-condition_range']['vi'] = "Phạm vi";
 
 $text['label-condition_parameter']['en-us'] = "Parameter";
 $text['label-condition_parameter']['ar-eg'] = "";
@@ -860,6 +894,7 @@ $text['label-condition_parameter']['ro-ro'] = "";
 $text['label-condition_parameter']['ru-ru'] = "Параметр";
 $text['label-condition_parameter']['sv-se'] = "Parameter";
 $text['label-condition_parameter']['uk-ua'] = "Параметр";
+$text['label-condition_parameter']['vi'] = "Tham số";
 
 $text['label-condition']['en-us'] = "Condition";
 $text['label-condition']['ar-eg'] = "";
@@ -880,6 +915,7 @@ $text['label-condition']['ro-ro'] = "";
 $text['label-condition']['ru-ru'] = "Условие";
 $text['label-condition']['sv-se'] = "Villkor";
 $text['label-condition']['uk-ua'] = "Умова";
+$text['label-condition']['vi'] = "Điều kiện";
 
 $text['label-alternate-destination']['en-us'] = "Alternate Destination";
 $text['label-alternate-destination']['ar-eg'] = "";
@@ -900,6 +936,7 @@ $text['label-alternate-destination']['ro-ro'] = "";
 $text['label-alternate-destination']['ru-ru'] = "Альтернативное место назначения";
 $text['label-alternate-destination']['sv-se'] = "Alternativ Destination";
 $text['label-alternate-destination']['uk-ua'] = "";
+$text['label-alternate-destination']['vi'] = "Điểm đến thay thế";
 
 $text['label-group']['en-us'] = "Group";
 $text['label-group']['ar-eg'] = "";
@@ -920,6 +957,7 @@ $text['label-group']['ro-ro'] = "";
 $text['label-group']['ru-ru'] = "Групповой";
 $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "";
+$text['label-group']['vi'] = "Nhóm";
 
 $text['header-time_conditions']['en-us'] = "Time Conditions";
 $text['header-time_conditions']['ar-eg'] = "";
@@ -940,6 +978,7 @@ $text['header-time_conditions']['ro-ro'] = "";
 $text['header-time_conditions']['ru-ru'] = "Временные условия";
 $text['header-time_conditions']['sv-se'] = "Tids Förhållande";
 $text['header-time_conditions']['uk-ua'] = "Часові умови";
+$text['header-time_conditions']['vi'] = "Điều kiện thời gian";
 
 $text['description-time_conditions']['en-us'] = "Dynamically route calls to an IVR menu, external numbers, scripts, or other destinations based on time conditions.";
 $text['description-time_conditions']['ar-eg'] = "";
@@ -960,6 +999,7 @@ $text['description-time_conditions']['ro-ro'] = "";
 $text['description-time_conditions']['ru-ru'] = "Динамически направлять вызовы в меню IVR, внешние номера, сценарии или другие пункты назначения в зависимости от временных условий.";
 $text['description-time_conditions']['sv-se'] = "Styr samtal dynamiskt till IVR Meny, externa nummer, script eller andra destinationer baserat på tidsvillkor.";
 $text['description-time_conditions']['uk-ua'] = "Маршрут дзвінків буде залежати від часу. Можна використовувати для переадресації на голосове меню (IVR), на зовнішні номери, сценарії, або інші напрямки.";
+$text['description-time_conditions']['vi'] = "Tự động định tuyến các cuộc gọi đến menu IVR, số bên ngoài, tập lệnh hoặc các đích khác dựa trên các điều kiện thời gian.";
 
 $text['description-template']['en-us'] = "The templates provides a list of preset time conditions.";
 $text['description-template']['ar-eg'] = "";
@@ -980,6 +1020,7 @@ $text['description-template']['ro-ro'] = "";
 $text['description-template']['ru-ru'] = "Шаблоны предоставляют список предустановленных временных условий.";
 $text['description-template']['sv-se'] = "Mallarna ger en lista med förinställda tidsförhållanden.";
 $text['description-template']['uk-ua'] = "";
+$text['description-template']['vi'] = "Các mẫu cung cấp một danh sách các điều kiện thời gian đặt trước.";
 
 $text['description-settings']['en-us'] = "Define custom conditions necessary to execute the destination selected above.";
 $text['description-settings']['ar-eg'] = "";
@@ -1000,6 +1041,7 @@ $text['description-settings']['ro-ro'] = "";
 $text['description-settings']['ru-ru'] = "Определите пользовательские условия, необходимые для выполнения назначения, выбранного выше.";
 $text['description-settings']['sv-se'] = "Definiera anpassade villkor som krävs för att genomföra den destination som valts ovan.";
 $text['description-settings']['uk-ua'] = "";
+$text['description-settings']['vi'] = "Xác định các điều kiện tùy chỉnh cần thiết để thực hiện điểm đến đã chọn ở trên.";
 
 $text['description-presets_advanced']['en-us'] = "Select a Default Destination above to be <i>applied</i> to each preset checked (without a destination already defined).";
 $text['description-presets_advanced']['ar-eg'] = "";
@@ -1020,6 +1062,7 @@ $text['description-presets_advanced']['ro-ro'] = "";
 $text['description-presets_advanced']['ru-ru'] = "Выберите пункт назначения по умолчанию, чтобы <i> применяться </i> к каждой проверенной предустановке (без уже определенного адресата).";
 $text['description-presets_advanced']['sv-se'] = "Välj ett standarddestination ovan som skall tillämpas på varje förinställd som markerats (utan en destination redan definierats).";
 $text['description-presets_advanced']['uk-ua'] = "";
+$text['description-presets_advanced']['vi'] = "Chọn đích đến mặc định ở trên để được <i> áp dụng </ i> cho mỗi cài đặt trước được chọn (chưa xác định đích đến).";
 
 $text['description-presets']['en-us'] = "Select from available presets. Click a preset name to further customize the conditions and/or destination of each.";
 $text['description-presets']['ar-eg'] = "";
@@ -1040,6 +1083,7 @@ $text['description-presets']['ro-ro'] = "";
 $text['description-presets']['ru-ru'] = "Выберите один из доступных пресетов. Щелкните имя предустановки, чтобы дополнительно настроить условия и (или) назначение каждого из них.";
 $text['description-presets']['sv-se'] = "Välj från de tillgängliga förinställningarna. Klicka på namn för en av förinställningarna för ytterligare inställning av villkor eller destinationer.";
 $text['description-presets']['uk-ua'] = "";
+$text['description-presets']['vi'] = "Chọn từ các cài đặt trước có sẵn. Nhấp vào tên đặt trước để tùy chỉnh thêm các điều kiện và / hoặc đích đến.";
 
 $text['description-name']['en-us'] = "Enter the name for the time condition.";
 $text['description-name']['ar-eg'] = "";
@@ -1060,6 +1104,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя для временых условий.";
 $text['description-name']['sv-se'] = "Skriv in namnet på tidsstyrningen.";
 $text['description-name']['uk-ua'] = "Введіть назву меню";
+$text['description-name']['vi'] = "Nhập tên cho điều kiện thời gian.";
 
 $text['description-extension']['en-us'] = "Enter the extension number.";
 $text['description-extension']['ar-eg'] = "";
@@ -1080,5 +1125,5 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Введите внутренний номер.";
 $text['description-extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-extension']['uk-ua'] = "";
-
+$text['description-extension']['vi'] = "Nhập số máy nhánh.";
 ?>

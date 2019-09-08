@@ -20,6 +20,7 @@ $text['title-number_translations']['ro-ro'] = '';
 $text['title-number_translations']['ru-ru'] = 'Преобразование номеров';
 $text['title-number_translations']['sv-se'] = '';
 $text['title-number_translations']['uk-ua'] = '';
+$text['title-number_translations']['vi'] = 'Dịch số';
 
 $text['title-number_translation']['en-us'] = 'Number Translation';
 $text['title-number_translation']['ar-eg'] = '';
@@ -40,6 +41,7 @@ $text['title-number_translation']['ro-ro'] = '';
 $text['title-number_translation']['ru-ru'] = 'Преобразование номера';
 $text['title-number_translation']['sv-se'] = '';
 $text['title-number_translation']['uk-ua'] = '';
+$text['title-number_translation']['vi'] = 'Dịch số';
 
 $text['title_description-number_translation']['en-us'] = 'Use this to translate numbers from the original number to a new number using regular expressions.';
 $text['title_description-number_translation']['ar-eg'] = '';
@@ -60,6 +62,7 @@ $text['title_description-number_translation']['ro-ro'] = '';
 $text['title_description-number_translation']['ru-ru'] = 'Используйте для преобразования номера из одного вида в другой используя регулярные выражения';
 $text['title_description-number_translation']['sv-se'] = '';
 $text['title_description-number_translation']['uk-ua'] = '';
+$text['title_description-number_translation']['vi'] = 'Sử dụng công cụ này để dịch các số từ số ban đầu sang số mới bằng các biểu thức thông thường.';
 
 $text['label-number_translation_detail_regex']['en-us'] = 'Regular Expression';
 $text['label-number_translation_detail_regex']['ar-eg'] = "تعبير عادي";
@@ -80,6 +83,7 @@ $text['label-number_translation_detail_regex']['ro-ro'] = "Expresie uzuala";
 $text['label-number_translation_detail_regex']['ru-ru'] = "Регулярное выражение";
 $text['label-number_translation_detail_regex']['sv-se'] = "Vanligt uttryck";
 $text['label-number_translation_detail_regex']['uk-ua'] = "Регулярний вираз";
+$text['label-number_translation_detail_regex']['vi'] = 'Biểu thức thông thường';
 
 $text['description-number_translation_detail_regex']['en-us'] = 'Enter the regular expression that identifies the number to replace.';
 $text['description-number_translation_detail_regex']['ar-eg'] = '';
@@ -100,6 +104,7 @@ $text['description-number_translation_detail_regex']['ro-ro'] = '';
 $text['description-number_translation_detail_regex']['ru-ru'] = 'Задайте регулярное выражение для преобразования номера';
 $text['description-number_translation_detail_regex']['sv-se'] = '';
 $text['description-number_translation_detail_regex']['uk-ua'] = '';
+$text['description-number_translation_detail_regex']['vi'] = 'Nhập biểu thức chính quy xác định số cần thay thế.';
 
 $text['label-number_translation_detail_replace']['en-us'] = "Replace";
 $text['label-number_translation_detail_replace']['ar-eg'] = "يحل محل";
@@ -120,6 +125,7 @@ $text['label-number_translation_detail_replace']['ro-ro'] = "A inlocui";
 $text['label-number_translation_detail_replace']['ru-ru'] = "Замена";
 $text['label-number_translation_detail_replace']['sv-se'] = "Byta ut";
 $text['label-number_translation_detail_replace']['uk-ua'] = "заміщати";
+$text['label-number_translation_detail_replace']['vi'] = "Thay thế";
 
 $text['description-number_translation_detail_replace']['en-us'] = 'Enter the number translation detail replace.';
 $text['description-number_translation_detail_replace']['ar-eg'] = '';
@@ -140,6 +146,7 @@ $text['description-number_translation_detail_replace']['ro-ro'] = '';
 $text['description-number_translation_detail_replace']['ru-ru'] = '';
 $text['description-number_translation_detail_replace']['sv-se'] = '';
 $text['description-number_translation_detail_replace']['uk-ua'] = '';
+$text['description-number_translation_detail_replace']['vi'] = 'Nhập chi tiết dịch số.';
 
 $text['label-number_translation_detail_order']['en-us'] = 'Order';
 $text['label-number_translation_detail_order']['ar-eg'] = '';
@@ -160,6 +167,7 @@ $text['label-number_translation_detail_order']['ro-ro'] = '';
 $text['label-number_translation_detail_order']['ru-ru'] = 'Приоритет';
 $text['label-number_translation_detail_order']['sv-se'] = '';
 $text['label-number_translation_detail_order']['uk-ua'] = '';
+$text['label-number_translation_detail_order']['vi'] = 'Thứ tự';
 
 $text['description-number_translation_detail_order']['en-us'] = 'Select the rule order.';
 $text['description-number_translation_detail_order']['ar-eg'] = '';
@@ -180,6 +188,7 @@ $text['description-number_translation_detail_order']['ro-ro'] = '';
 $text['description-number_translation_detail_order']['ru-ru'] = 'Задайте порядок обработки регулярных выражений в поле приоритета';
 $text['description-number_translation_detail_order']['sv-se'] = '';
 $text['description-number_translation_detail_order']['uk-ua'] = '';
+$text['description-number_translation_detail_order']['vi'] = 'Chọn thứ tự quy tắc.';
 
 $text['label-number_translation_name']['en-us'] = 'Name';
 $text['label-number_translation_name']['ar-eg'] = '';
@@ -200,6 +209,7 @@ $text['label-number_translation_name']['ro-ro'] = '';
 $text['label-number_translation_name']['ru-ru'] = 'Имя';
 $text['label-number_translation_name']['sv-se'] = '';
 $text['label-number_translation_name']['uk-ua'] = '';
+$text['label-number_translation_name']['vi'] = 'Tên';
 
 $text['description-number_translation_name']['en-us'] = 'Enter the number translation name.';
 $text['description-number_translation_name']['ar-eg'] = '';
@@ -220,6 +230,7 @@ $text['description-number_translation_name']['ro-ro'] = '';
 $text['description-number_translation_name']['ru-ru'] = 'Задайте имя для правила преобразования номера';
 $text['description-number_translation_name']['sv-se'] = '';
 $text['description-number_translation_name']['uk-ua'] = '';
+$text['description-number_translation_name']['vi'] = 'Nhập tên dịch sốe.';
 
 $text['label-number_translation_details']['en-us'] = 'Details';
 $text['label-number_translation_details']['ar-eg'] = '';
@@ -240,6 +251,7 @@ $text['label-number_translation_details']['ro-ro'] = '';
 $text['label-number_translation_details']['ru-ru'] = 'Действия по преобразованию номера';
 $text['label-number_translation_details']['sv-se'] = '';
 $text['label-number_translation_details']['uk-ua'] = '';
+$text['label-number_translation_details']['vi'] = 'Chi tiết';
 
 $text['description-number_translation_details']['en-us'] = '';
 $text['description-number_translation_details']['ar-eg'] = '';
@@ -280,6 +292,7 @@ $text['label-number_translation_enabled']['ro-ro'] = '';
 $text['label-number_translation_enabled']['ru-ru'] = 'Включено';
 $text['label-number_translation_enabled']['sv-se'] = '';
 $text['label-number_translation_enabled']['uk-ua'] = '';
+$text['label-number_translation_enabled']['vi'] = 'Kích hoạt';
 
 $text['description-number_translation_enabled']['en-us'] = 'Enter the number translation enabled.';
 $text['description-number_translation_enabled']['ar-eg'] = '';
@@ -300,6 +313,7 @@ $text['description-number_translation_enabled']['ro-ro'] = '';
 $text['description-number_translation_enabled']['ru-ru'] = 'Включить/выключить обработку';
 $text['description-number_translation_enabled']['sv-se'] = '';
 $text['description-number_translation_enabled']['uk-ua'] = '';
+$text['description-number_translation_enabled']['vi'] = 'Nhập số dịch được kích hoạt.';
 
 $text['label-number_translation_description']['en-us'] = 'Description';
 $text['label-number_translation_description']['ar-eg'] = '';
@@ -320,6 +334,7 @@ $text['label-number_translation_description']['ro-ro'] = '';
 $text['label-number_translation_description']['ru-ru'] = 'Описание';
 $text['label-number_translation_description']['sv-se'] = '';
 $text['label-number_translation_description']['uk-ua'] = '';
+$text['label-number_translation_description']['vi'] = 'Mô tả';
 
 $text['description-number_translation_description']['en-us'] = 'Enter the number translation description.';
 $text['description-number_translation_description']['ar-eg'] = '';
@@ -340,5 +355,6 @@ $text['description-number_translation_description']['ro-ro'] = '';
 $text['description-number_translation_description']['ru-ru'] = 'Введите описание для создаваемого правила';
 $text['description-number_translation_description']['sv-se'] = '';
 $text['description-number_translation_description']['uk-ua'] = '';
+$text['description-number_translation_description']['vi'] = 'Nhập mô tả dịch số.';
 
 ?>

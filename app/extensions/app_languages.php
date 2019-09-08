@@ -20,6 +20,7 @@ $text['title-extensions']['ro-ro'] = "";
 $text['title-extensions']['ru-ru'] = "";
 $text['title-extensions']['sv-se'] = "Anknytningar";
 $text['title-extensions']['uk-ua'] = "Розширення";
+$text['title-extensions']['vi'] = "Máy nhánh";
 
 $text['title-extension-edit']['en-us'] = "Extension";
 $text['title-extension-edit']['ar-eg'] = "رقم داخلي";
@@ -40,6 +41,7 @@ $text['title-extension-edit']['ro-ro'] = "";
 $text['title-extension-edit']['ru-ru'] = "Внутренний Номер";
 $text['title-extension-edit']['sv-se'] = "Anknytning";
 $text['title-extension-edit']['uk-ua'] = "Розширення";
+$text['title-extension-edit']['vi'] = "Máy nhánh";
 
 $text['title-extension-add']['en-us'] = "Extension Add";
 $text['title-extension-add']['ar-eg'] = "إضافة رقم داخلي";
@@ -60,6 +62,7 @@ $text['title-extension-add']['ro-ro'] = "";
 $text['title-extension-add']['ru-ru'] = "Добавить Внутренний Номер";
 $text['title-extension-add']['sv-se'] = "Lägg Till Anknytning";
 $text['title-extension-add']['uk-ua'] = "Додавання розширення";
+$text['title-extension-add']['vi'] = "Thêm máy nhánh";
 
 $text['title-call_groups']['en-us'] = "Call Groups";
 $text['title-call_groups']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-call_groups']['ro-ro'] = "";
 $text['title-call_groups']['ru-ru'] = "Группы Вызовов";
 $text['title-call_groups']['sv-se'] = "Ring Grupp";
 $text['title-call_groups']['uk-ua'] = "";
+$text['title-call_groups']['vi'] = "Nhóm cuộc gọi";
 
 $text['option-voicemail_file_listen']['en-us'] = "Listen Link (Login Required)";
 $text['option-voicemail_file_listen']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['option-voicemail_file_listen']['ro-ro'] = "";
 $text['option-voicemail_file_listen']['ru-ru'] = "Ссылка для прослушивания (требуется вход в систему)";
 $text['option-voicemail_file_listen']['sv-se'] = "Lyssna-länk (Måste Logga In)";
 $text['option-voicemail_file_listen']['uk-ua'] = "Посилання на прослуховування (Входити обов’язково)";
+$text['option-voicemail_file_listen']['vi'] = "Link (Yêu cầu đăng nhập)";
 
 $text['option-voicemail_file_link']['en-us'] = "Download Link (No Login Required)";
 $text['option-voicemail_file_link']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['option-voicemail_file_link']['ro-ro'] = "";
 $text['option-voicemail_file_link']['ru-ru'] = "Ссылка для скачивания (не требуется вход в систему)";
 $text['option-voicemail_file_link']['sv-se'] = "Nedladdnings-länk (Ingen Inloggning Krävs)";
 $text['option-voicemail_file_link']['uk-ua'] = "Посилання на завантаження (Входити не обов’язково)";
+$text['option-voicemail_file_link']['vi'] = "Tải Link xuống(Không yêu cầu đăng nhập)";
 
 $text['option-voicemail_file_attach']['en-us'] = "Audio File Attachment";
 $text['option-voicemail_file_attach']['ar-eg'] = "إرفاق ملف صوتي";
@@ -140,6 +146,7 @@ $text['option-voicemail_file_attach']['ro-ro'] = "";
 $text['option-voicemail_file_attach']['ru-ru'] = "Прикрепить Аудиофайл";
 $text['option-voicemail_file_attach']['sv-se'] = "Ljudfil Bifogad";
 $text['option-voicemail_file_attach']['uk-ua'] = "Приєднати аудіофайл";
+$text['option-voicemail_file_attach']['vi'] = "Đính kèm tệp âm thanh";
 
 $text['message-number_alias']['en-us'] = "Enter the new Number Alias...";
 $text['message-number_alias']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['message-number_alias']['ro-ro'] = "";
 $text['message-number_alias']['ru-ru'] = "Введите новый альтернативный номер ...";
 $text['message-number_alias']['sv-se'] = "Fyll i det nya Nummer Alias...";
 $text['message-number_alias']['uk-ua'] = "Введіть новий псевдонім номера...";
+$text['message-number_alias']['vi'] = "Nhập số bí danh mới...";
 
 $text['message-maximum_extensions']['en-us'] = "Maximum Extensions:";
 $text['message-maximum_extensions']['ar-eg'] = "الحد الأقصي للأرقام الداخلية :";
@@ -180,6 +188,7 @@ $text['message-maximum_extensions']['ro-ro'] = "";
 $text['message-maximum_extensions']['ru-ru'] = "Максимальное количество Внутренних Номеров";
 $text['message-maximum_extensions']['sv-se'] = "Maximum Antal Anknytningar:";
 $text['message-maximum_extensions']['uk-ua'] = "Максимальна кількість розширень";
+$text['message-maximum_extensions']['vi'] = "Tối đa máy nhánh:";
 
 $text['message-extension']['en-us'] = "Enter the new Extension...";
 $text['message-extension']['ar-eg'] = "أدخل الرقم الداخلي الجديد";
@@ -200,6 +209,7 @@ $text['message-extension']['ro-ro'] = "";
 $text['message-extension']['ru-ru'] = "Введите новый Внутренний Номер...";
 $text['message-extension']['sv-se'] = "Fyll i den nya Anknytningen...";
 $text['message-extension']['uk-ua'] = "Введіть нове розширення";
+$text['message-extension']['vi'] = "Nhập máy nhánh mới...";
 
 $text['label-voicemail_password']['en-us'] = "Voicemail Password";
 $text['label-voicemail_password']['ar-eg'] = "كلمة السر للبريد الصوتي";
@@ -220,6 +230,7 @@ $text['label-voicemail_password']['ro-ro'] = "";
 $text['label-voicemail_password']['ru-ru'] = "Пароль Голосовой Почты";
 $text['label-voicemail_password']['sv-se'] = "Röstbrevlåda Lösenord";
 $text['label-voicemail_password']['uk-ua'] = "Пароль на голосову пошту";
+$text['label-voicemail_password']['vi'] = "Mật khẩu thư thoại";
 
 $text['label-voicemail_mail_to']['en-us'] = "Voicemail Mail To";
 $text['label-voicemail_mail_to']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-voicemail_mail_to']['ro-ro'] = "";
 $text['label-voicemail_mail_to']['ru-ru'] = "Голосовая почта на адрес Электронной Почты";
 $text['label-voicemail_mail_to']['sv-se'] = "Röstbrevlåda E-post Till";
 $text['label-voicemail_mail_to']['uk-ua'] = "Надсилати голосову пошту на E-Mail";
+$text['label-voicemail_mail_to']['vi'] = "Mail thư thoại đến";
 
 $text['label-voicemail_local_after_email']['en-us'] = "Voicemail Keep Local";
 $text['label-voicemail_local_after_email']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-voicemail_local_after_email']['ro-ro'] = "";
 $text['label-voicemail_local_after_email']['ru-ru'] = "Сообщение хранится локально после отправки Электронной Почтой";
 $text['label-voicemail_local_after_email']['sv-se'] = "Röstbrevlåda Behåll Lokalt";
 $text['label-voicemail_local_after_email']['uk-ua'] = "Залишати голосову пошту локально";
+$text['label-voicemail_local_after_email']['vi'] = "Thư thoại giữ trong nội bộ";
 
 $text['label-voicemail_file']['en-us'] = "Voicemail File";
 $text['label-voicemail_file']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-voicemail_file']['ro-ro'] = "";
 $text['label-voicemail_file']['ru-ru'] = "Файл Голосовой Почты";
 $text['label-voicemail_file']['sv-se'] = "Röstbrevlåda Fil";
 $text['label-voicemail_file']['uk-ua'] = "Файл голосової пошти";
+$text['label-voicemail_file']['vi'] = "Tệp tin thư thoại";
 
 $text['label-voicemail_enabled']['en-us'] = "Voicemail Enabled";
 $text['label-voicemail_enabled']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-voicemail_enabled']['ro-ro'] = "";
 $text['label-voicemail_enabled']['ru-ru'] = "Голосовая Почта Включена";
 $text['label-voicemail_enabled']['sv-se'] = "Röstbrevlåda Aktiverad";
 $text['label-voicemail_enabled']['uk-ua'] = "Голосову пошту включено";
+$text['label-voicemail_enabled']['vi'] = "Thư thoại được cho phép";
 
 $text['label-user_record_outbound']['en-us'] = "Outbound";
 $text['label-user_record_outbound']['ar-eg'] = "صادر";
@@ -320,6 +335,7 @@ $text['label-user_record_outbound']['ro-ro'] = "";
 $text['label-user_record_outbound']['ru-ru'] = "Исходящая";
 $text['label-user_record_outbound']['sv-se'] = "Utgående";
 $text['label-user_record_outbound']['uk-ua'] = "Вихідний";
+$text['label-user_record_outbound']['vi'] = "Hướng ra ngoài";
 
 $text['label-user_record_none']['en-us'] = "Disabled";
 $text['label-user_record_none']['ar-eg'] = "معطل";
@@ -340,6 +356,7 @@ $text['label-user_record_none']['ro-ro'] = "";
 $text['label-user_record_none']['ru-ru'] = "Выключено";
 $text['label-user_record_none']['sv-se'] = "Inaktiverad";
 $text['label-user_record_none']['uk-ua'] = "Відключено";
+$text['label-user_record_none']['vi'] = "Không cho phép";
 
 $text['label-user_record_local']['en-us'] = "Local";
 $text['label-user_record_local']['ar-eg'] = "محلي";
@@ -360,6 +377,7 @@ $text['label-user_record_local']['ro-ro'] = "";
 $text['label-user_record_local']['ru-ru'] = "Локальный";
 $text['label-user_record_local']['sv-se'] = "Lokal";
 $text['label-user_record_local']['uk-ua'] = "Локальний";
+$text['label-user_record_local']['vi'] = "Nội bộ";
 
 $text['label-user_record_inbound']['en-us'] = "Inbound";
 $text['label-user_record_inbound']['ar-eg'] = "وارد";
@@ -380,6 +398,7 @@ $text['label-user_record_inbound']['ro-ro'] = "";
 $text['label-user_record_inbound']['ru-ru'] = "Входяший";
 $text['label-user_record_inbound']['sv-se'] = "Inkommande";
 $text['label-user_record_inbound']['uk-ua'] = "Вхідний";
+$text['label-user_record_inbound']['vi'] = "Hướng vào trong";
 
 $text['label-user_record_all']['en-us'] = "All";
 $text['label-user_record_all']['ar-eg'] = "الكل";
@@ -400,6 +419,7 @@ $text['label-user_record_all']['ro-ro'] = "";
 $text['label-user_record_all']['ru-ru'] = "Все";
 $text['label-user_record_all']['sv-se'] = "Allt";
 $text['label-user_record_all']['uk-ua'] = "Всі";
+$text['label-user_record_all']['vi'] = "Tất cả";
 
 $text['label-user_record']['en-us'] = "Record";
 $text['label-user_record']['ar-eg'] = "تسجيل";
@@ -420,6 +440,7 @@ $text['label-user_record']['ro-ro'] = "";
 $text['label-user_record']['ru-ru'] = "Запись разговора";
 $text['label-user_record']['sv-se'] = "Spela In";
 $text['label-user_record']['uk-ua'] = "Запис розмов";
+$text['label-user_record']['vi'] = "Ghi âm";
 
 $text['label-users']['en-us'] = "Users";
 $text['label-users']['ar-eg'] = "قائمة المستخدم";
@@ -440,6 +461,7 @@ $text['label-users']['ro-ro'] = "";
 $text['label-users']['ru-ru'] = "Пользователи";
 $text['label-users']['sv-se'] = "Användar-lista";
 $text['label-users']['uk-ua'] = "Список користувачів";
+$text['label-users']['vi'] = "Người dùng";
 
 $text['label-user_context']['en-us'] = "Context";
 $text['label-user_context']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-user_context']['ro-ro'] = "";
 $text['label-user_context']['ru-ru'] = "Контекст";
 $text['label-user_context']['sv-se'] = "Sammanhang";
 $text['label-user_context']['uk-ua'] = "Контекст";
+$text['label-user_context']['vi'] = "Tên miền hoặc IP";
 
 $text['label-url']['en-us'] = "URL";
 $text['label-url']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-url']['ro-ro'] = "";
 $text['label-url']['ru-ru'] = "URL-адрес";
 $text['label-url']['sv-se'] = "URL";
 $text['label-url']['uk-ua'] = "URL";
+$text['label-url']['vi'] = "URL";
 
 $text['label-toll_allow']['en-us'] = "Toll Allow";
 $text['label-toll_allow']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['label-toll_allow']['ro-ro'] = "";
 $text['label-toll_allow']['ru-ru'] = "Разрешить Платное Соединение";
 $text['label-toll_allow']['sv-se'] = "Toll Allow";
 $text['label-toll_allow']['uk-ua'] = "";
+$text['label-toll_allow']['vi'] = " Cho phép thu thuế";
 
 $text['label-text']['en-us'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
@@ -520,6 +545,7 @@ $text['label-text']['ro-ro'] = "";
 $text['label-text']['ru-ru'] = "Текст";
 $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
+$text['label-text']['vi'] = "Văn bản";
 
 $text['label-sip_force_expires']['en-us'] = "SIP Force Expires";
 $text['label-sip_force_expires']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['label-sip_force_expires']['ro-ro'] = "";
 $text['label-sip_force_expires']['ru-ru'] = "SIP Force Expires";
 $text['label-sip_force_expires']['sv-se'] = "SIP Force Expires";
 $text['label-sip_force_expires']['uk-ua'] = "";
+$text['label-sip_force_expires']['vi'] = "Hiệu lực SIP hết hạn";
 
 $text['label-sip_force_contact']['en-us'] = "SIP Force Contact";
 $text['label-sip_force_contact']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['label-sip_force_contact']['ro-ro'] = "";
 $text['label-sip_force_contact']['ru-ru'] = "SIP Force Contact";
 $text['label-sip_force_contact']['sv-se'] = "SIP Force Contact";
 $text['label-sip_force_contact']['uk-ua'] = "";
+$text['label-sip_force_contact']['vi'] = "Liên hệ SIP";
 
 $text['label-sip_bypass_media']['en-us'] = "SIP Bypass Media";
 $text['label-sip_bypass_media']['ar-eg'] = "";
@@ -600,6 +628,7 @@ $text['label-absolute_codec_string']['ro-ro'] = "";
 $text['label-absolute_codec_string']['ru-ru'] = "Absolute Codec String";
 $text['label-absolute_codec_string']['sv-se'] = "";
 $text['label-absolute_codec_string']['uk-ua'] = "";
+$text['label-absolute_codec_string']['vi'] = "Absolute Codec String";
 
 $text['label-force_ping']['en-us'] = "Force ping";
 $text['label-force_ping']['ar-eg'] = "";
@@ -620,6 +649,7 @@ $text['label-force_ping']['ro-ro'] = "";
 $text['label-force_ping']['ru-ru'] = "Force ping";
 $text['label-force_ping']['sv-se'] = "Force ping";
 $text['label-force_ping']['uk-ua'] = "";
+$text['label-force_ping']['vi'] = "Bắt buộc ping";
 
 $text['label-rewrite_tls_contact_port']['en-us'] = "Rewrite TLS Contact Port";
 $text['label-rewrite_tls_contact_port']['ar-eg'] = "";
@@ -640,6 +670,7 @@ $text['label-rewrite_tls_contact_port']['ro-ro'] = "";
 $text['label-rewrite_tls_contact_port']['ru-ru'] = "Переписать Порт контактов TLS";
 $text['label-rewrite_tls_contact_port']['sv-se'] = "Rewrite TLS Contact Port";
 $text['label-rewrite_tls_contact_port']['uk-ua'] = "";
+$text['label-rewrite_tls_contact_port']['vi'] = "Viết lại cổng liên hệ TLS";
 
 $text['label-rewrite_contact_ip_and_port_2']['en-us'] = "Rewrite Contact IP and Port 2.0";
 $text['label-rewrite_contact_ip_and_port_2']['ar-eg'] = "";
@@ -660,6 +691,7 @@ $text['label-rewrite_contact_ip_and_port_2']['ro-ro'] = "";
 $text['label-rewrite_contact_ip_and_port_2']['ru-ru'] = "Переписать IP-адрес и порт 2.0";
 $text['label-rewrite_contact_ip_and_port_2']['sv-se'] = "Rewrite Contact IP and Port 2.0";
 $text['label-rewrite_contact_ip_and_port_2']['uk-ua'] = "";
+$text['label-rewrite_contact_ip_and_port_2']['vi'] = "Viết lại IP liên hệ và cổng 2.0";
 
 $text['label-rewrite_contact_ip_and_port']['en-us'] = "Rewrite Contact IP and Port";
 $text['label-rewrite_contact_ip_and_port']['ar-eg'] = "";
@@ -680,6 +712,7 @@ $text['label-rewrite_contact_ip_and_port']['ro-ro'] = "";
 $text['label-rewrite_contact_ip_and_port']['ru-ru'] = "Переписать IP-адрес и порт";
 $text['label-rewrite_contact_ip_and_port']['sv-se'] = "Rewrite Contact IP and Port";
 $text['label-rewrite_contact_ip_and_port']['uk-ua'] = "";
+$text['label-rewrite_contact_ip_and_port']['vi'] = "Viết lại IP và cổng liên hệ";
 
 $text['label-range']['en-us'] = "Range";
 $text['label-range']['ar-eg'] = "";
@@ -700,6 +733,7 @@ $text['label-range']['ro-ro'] = "";
 $text['label-range']['ru-ru'] = "Диапазон";
 $text['label-range']['sv-se'] = "Intervall";
 $text['label-range']['uk-ua'] = "Діапазон";
+$text['label-range']['vi'] = "Dải";
 
 $text['label-proxy_media']['en-us'] = "Proxy Media";
 $text['label-proxy_media']['ar-eg'] = "";
@@ -720,6 +754,7 @@ $text['label-proxy_media']['ro-ro'] = "";
 $text['label-proxy_media']['ru-ru'] = "Proxy Media";
 $text['label-proxy_media']['sv-se'] = "Proxy Media";
 $text['label-proxy_media']['uk-ua'] = "";
+$text['label-proxy_media']['vi'] = "Proxy Media";
 
 $text['label-provisioning']['en-us'] = "Device Provisioning";
 $text['label-provisioning']['ar-eg'] = "";
@@ -740,6 +775,7 @@ $text['label-provisioning']['ro-ro'] = "";
 $text['label-provisioning']['ru-ru'] = "Автоконфигурация устройств";
 $text['label-provisioning']['sv-se'] = "Enhet Provisionering";
 $text['label-provisioning']['uk-ua'] = "";
+$text['label-provisioning']['vi'] = "Cung cấp thiết bị";
 
 $text['label-password']['en-us'] = "Password";
 $text['label-password']['ar-eg'] = "كلمة السر";
@@ -760,6 +796,7 @@ $text['label-password']['ro-ro'] = "";
 $text['label-password']['ru-ru'] = "Пароль";
 $text['label-password']['sv-se'] = "Lösenord";
 $text['label-password']['uk-ua'] = "Пароль";
+$text['label-password']['vi'] = "Mật khẩu";
 
 $text['label-caller_id']['en-us'] = "Caller ID";
 $text['label-caller_id']['ar-eg'] = "";
@@ -780,6 +817,7 @@ $text['label-caller_id']['ro-ro'] = "";
 $text['label-caller_id']['ru-ru'] = "";
 $text['label-caller_id']['sv-se'] = "Nummerpresentation";
 $text['label-caller_id']['uk-ua'] = "";
+$text['label-caller_id']['vi'] = "ID người gọi";
 
 $text['label-caller_id_number']['en-us'] = "Caller ID";
 $text['label-caller_id_number']['ar-eg'] = "";
@@ -800,6 +838,7 @@ $text['label-caller_id_number']['ro-ro'] = "";
 $text['label-caller_id_number']['ru-ru'] = "";
 $text['label-caller_id_number']['sv-se'] = "Nummerpresentation";
 $text['label-caller_id_number']['uk-ua'] = "";
+$text['label-caller_id_number']['en-us'] = "ID người gọi";
 
 $text['label-outbound_caller_id_number']['en-us'] = "Outbound Caller ID Number";
 $text['label-outbound_caller_id_number']['ar-eg'] = "";
@@ -820,6 +859,7 @@ $text['label-outbound_caller_id_number']['ro-ro'] = "";
 $text['label-outbound_caller_id_number']['ru-ru'] = "Идентификатор (Caller ID) номера вызывающего абонента";
 $text['label-outbound_caller_id_number']['sv-se'] = "Utgående Nummerpresentation";
 $text['label-outbound_caller_id_number']['uk-ua'] = "";
+$text['label-outbound_caller_id_number']['vi'] = "Số ID người gọi đi";
 
 $text['label-outbound_caller_id_name']['en-us'] = "Outbound Caller ID Name";
 $text['label-outbound_caller_id_name']['ar-eg'] = "";
@@ -840,6 +880,7 @@ $text['label-outbound_caller_id_name']['ro-ro'] = "";
 $text['label-outbound_caller_id_name']['ru-ru'] = "Идентификатор (Caller ID) имени вызывающего абонента";
 $text['label-outbound_caller_id_name']['sv-se'] = "Utgående Namnpresentation";
 $text['label-outbound_caller_id_name']['uk-ua'] = "";
+$text['label-outbound_caller_id_name']['vi'] = "Tên người gọi đi";
 
 $text['label-number_alias']['en-us'] = "Number Alias";
 $text['label-number_alias']['ar-eg'] = "";
@@ -860,6 +901,7 @@ $text['label-number_alias']['ro-ro'] = "";
 $text['label-number_alias']['ru-ru'] = "Псевдоним номера";
 $text['label-number_alias']['sv-se'] = "Nummer Alias";
 $text['label-number_alias']['uk-ua'] = "Псевдонім номера";
+$text['label-number_alias']['vi'] = "Số bí danh";
 
 $text['label-nibble_account']['en-us'] = "Nibble Account";
 $text['label-nibble_account']['ar-eg'] = "";
@@ -880,6 +922,7 @@ $text['label-nibble_account']['ro-ro'] = "";
 $text['label-nibble_account']['ru-ru'] = "Nibble Account";
 $text['label-nibble_account']['sv-se'] = "Nibble Konto";
 $text['label-nibble_account']['uk-ua'] = "";
+$text['label-nibble_account']['vi'] = "Tài khoản Nibble";
 
 $text['label-mwi_account']['en-us'] = "MWI Account";
 $text['label-mwi_account']['ar-eg'] = "";
@@ -900,6 +943,7 @@ $text['label-mwi_account']['ro-ro'] = "";
 $text['label-mwi_account']['ru-ru'] = "MWI Account";
 $text['label-mwi_account']['sv-se'] = "MWI Konto";
 $text['label-mwi_account']['uk-ua'] = "";
+$text['label-mwi_account']['vi'] = "Tài khoản MWI";
 
 $text['label-missed_call']['en-us'] = "Missed Call";
 $text['label-missed_call']['ar-eg'] = "";
@@ -920,6 +964,7 @@ $text['label-missed_call']['ro-ro'] = "";
 $text['label-missed_call']['ru-ru'] = "Пропущенный вызов";
 $text['label-missed_call']['sv-se'] = "Missat Samtal";
 $text['label-missed_call']['uk-ua'] = "пропущений Дзвінок";
+$text['label-missed_call']['vi'] = "Cuộc gọi nhỡ";
 
 $text['label-line']['en-us'] = "Line";
 $text['label-line']['ar-eg'] = "خط";
@@ -940,6 +985,7 @@ $text['label-line']['ro-ro'] = "";
 $text['label-line']['ru-ru'] = "Линия";
 $text['label-line']['sv-se'] = "Linje";
 $text['label-line']['uk-ua'] = "";
+$text['label-line']['vi'] = "Đường dây";
 
 $text['label-limit_max']['en-us'] = "Limit Max";
 $text['label-limit_max']['ar-eg'] = "";
@@ -960,6 +1006,7 @@ $text['label-limit_max']['ro-ro'] = "";
 $text['label-limit_max']['ru-ru'] = "Максимальное количество каналов";
 $text['label-limit_max']['sv-se'] = "Max Begränsning";
 $text['label-limit_max']['uk-ua'] = "";
+$text['label-limit_max']['vi'] = "Giới hạn tối đa";
 
 $text['label-limit_destination']['en-us'] = "Limit Destination";
 $text['label-limit_destination']['ar-eg'] = "";
@@ -980,6 +1027,7 @@ $text['label-limit_destination']['ro-ro'] = "";
 $text['label-limit_destination']['ru-ru'] = "Альтернативный номер назначения";
 $text['label-limit_destination']['sv-se'] = "Begränsad Destination";
 $text['label-limit_destination']['uk-ua'] = "";
+$text['label-limit_destination']['vi'] = "Giới hạn đích đến";
 
 $text['label-hold_music']['en-us'] = "Hold Music";
 $text['label-hold_music']['ar-eg'] = "";
@@ -1000,6 +1048,7 @@ $text['label-hold_music']['ro-ro'] = "";
 $text['label-hold_music']['ru-ru'] = "Музыка на Удержании";
 $text['label-hold_music']['sv-se'] = "Vänt-musik";
 $text['label-hold_music']['uk-ua'] = "";
+$text['label-hold_music']['vi'] = "Nhạc chờ";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
@@ -1020,6 +1069,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-emergency_caller_id_number']['en-us'] = "Emergency Caller ID Number";
 $text['label-emergency_caller_id_number']['ar-eg'] = "";
@@ -1040,6 +1090,7 @@ $text['label-emergency_caller_id_number']['ro-ro'] = "";
 $text['label-emergency_caller_id_number']['ru-ru'] = "Идентификатор (Caller ID) номера экстренного вызова";
 $text['label-emergency_caller_id_number']['sv-se'] = "Nöd Nummerpresentation";
 $text['label-emergency_caller_id_number']['uk-ua'] = "";
+$text['label-emergency_caller_id_number']['vi'] = "Số ID người gọi khẩn cấp";
 
 $text['label-emergency_caller_id_name']['en-us'] = "Emergency Caller ID Name";
 $text['label-emergency_caller_id_name']['ar-eg'] = "";
@@ -1060,6 +1111,7 @@ $text['label-emergency_caller_id_name']['ro-ro'] = "";
 $text['label-emergency_caller_id_name']['ru-ru'] = "Идентификатор (Caller ID) имени экстренного вызова";
 $text['label-emergency_caller_id_name']['sv-se'] = "Nöd Namnpresentation";
 $text['label-emergency_caller_id_name']['uk-ua'] = "";
+$text['label-emergency_caller_id_name']['vi'] = "Tên người gọi khẩn cấp";
 
 $text['label-email']['en-us'] = "Email";
 $text['label-email']['ar-eg'] = "البريد الإليكتروني";
@@ -1100,6 +1152,7 @@ $text['label-effective_caller_id_number']['ro-ro'] = "";
 $text['label-effective_caller_id_number']['ru-ru'] = "Эффективный идентификатор (Caller ID) номера вызывающего абонента";
 $text['label-effective_caller_id_number']['sv-se'] = "Effektiv Nummerpresentation";
 $text['label-effective_caller_id_number']['uk-ua'] = "";
+$text['label-effective_caller_id_number']['vi'] = "Số ID người gọi hiệu quả";
 
 $text['label-effective_caller_id_name']['en-us'] = "Effective Caller ID Name";
 $text['label-effective_caller_id_name']['ar-eg'] = "إسم المتصل الفعال";
@@ -1120,6 +1173,7 @@ $text['label-effective_caller_id_name']['ro-ro'] = "";
 $text['label-effective_caller_id_name']['ru-ru'] = "Эффективный идентификатор (Caller ID) имени вызывающего абонента";
 $text['label-effective_caller_id_name']['sv-se'] = "Effektiv Namnpresentation";
 $text['label-effective_caller_id_name']['uk-ua'] = "";
+$text['label-effective_caller_id_name']['vi'] = "Tên người gọi hiệu quả";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "النطاق";
@@ -1140,6 +1194,7 @@ $text['label-domain']['ro-ro'] = "";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-directory_visible']['en-us'] = "Directory Visible";
 $text['label-directory_visible']['ar-eg'] = "";
@@ -1160,6 +1215,7 @@ $text['label-directory_visible']['ro-ro'] = "";
 $text['label-directory_visible']['ru-ru'] = "Видимый каталог";
 $text['label-directory_visible']['sv-se'] = "Synlig I Katalog";
 $text['label-directory_visible']['uk-ua'] = "";
+$text['label-directory_visible']['vi'] = "Danh bạ hiển thị";
 
 $text['label-directory_full_name']['en-us'] = "Directory Full Name";
 $text['label-directory_full_name']['ar-eg'] = "";
@@ -1180,6 +1236,7 @@ $text['label-directory_full_name']['ro-ro'] = "";
 $text['label-directory_full_name']['ru-ru'] = "Полное имя каталога";
 $text['label-directory_full_name']['sv-se'] = "Hela Namnet I Katalog";
 $text['label-directory_full_name']['uk-ua'] = "";
+$text['label-directory_full_name']['vi'] = "Tên đầy đủ";
 
 $text['label-directory_exten_visible']['en-us'] = "Directory Extension Visible";
 $text['label-directory_exten_visible']['ar-eg'] = "";
@@ -1200,6 +1257,7 @@ $text['label-directory_exten_visible']['ro-ro'] = "";
 $text['label-directory_exten_visible']['ru-ru'] = "Расширение видимого каталога";
 $text['label-directory_exten_visible']['sv-se'] = "Fullständigt Namn I Katalogen";
 $text['label-directory_exten_visible']['uk-ua'] = "";
+$text['label-directory_exten_visible']['vi'] = "Danh bạ máy nhánh có thể nhìn thấy";
 
 $text['label-dial_string']['en-us'] = "Dial String";
 $text['label-dial_string']['ar-eg'] = "";
@@ -1220,6 +1278,7 @@ $text['label-dial_string']['ro-ro'] = "";
 $text['label-dial_string']['ru-ru'] = "Строка набора";
 $text['label-dial_string']['sv-se'] = "Dial String";
 $text['label-dial_string']['uk-ua'] = "";
+$text['label-dial_string']['vi'] = "Chuỗi quay số";
 
 $text['label-device_template']['en-us'] = "Template";
 $text['label-device_template']['ar-eg'] = "";
@@ -1240,6 +1299,7 @@ $text['label-device_template']['ro-ro'] = "";
 $text['label-device_template']['ru-ru'] = "Шаблон";
 $text['label-device_template']['sv-se'] = "Mall";
 $text['label-device_template']['uk-ua'] = "";
+$text['label-device_template']['vi'] = "Mẫu";
 
 $text['label-device_mac_address']['en-us'] = "MAC Address";
 $text['label-device_mac_address']['ar-eg'] = "";
@@ -1260,6 +1320,7 @@ $text['label-device_mac_address']['ro-ro'] = "";
 $text['label-device_mac_address']['ru-ru'] = "MAC Адреса";
 $text['label-device_mac_address']['sv-se'] = "MAC-adress";
 $text['label-device_mac_address']['uk-ua'] = "";
+$text['label-device_mac_address']['vi'] = "Địa chỉ MACs";
 
 $text['label-description']['en-us'] = "Description";
 $text['label-description']['ar-eg'] = "الوصف";
@@ -1280,6 +1341,7 @@ $text['label-description']['ro-ro'] = "";
 $text['label-description']['ru-ru'] = "Описание";
 $text['label-description']['sv-se'] = "Beskrivning";
 $text['label-description']['uk-ua'] = "Опис";
+$text['label-description']['vi'] = "Mô tả";
 
 $text['label-cidr']['en-us'] = "CIDR";
 $text['label-cidr']['ar-eg'] = "";
@@ -1320,6 +1382,7 @@ $text['label-call_timeout']['ro-ro'] = "";
 $text['label-call_timeout']['ru-ru'] = "Тайм-аут вызова";
 $text['label-call_timeout']['sv-se'] = "Call Timeout";
 $text['label-call_timeout']['uk-ua'] = "";
+$text['label-call_timeout']['vi'] = "Hết giờ gọi";
 
 $text['label-call_screen_enabled']['en-us'] = "Call Screen";
 $text['label-call_screen_enabled']['ar-eg'] = "";
@@ -1340,6 +1403,7 @@ $text['label-call_screen_enabled']['ro-ro'] = "";
 $text['label-call_screen_enabled']['ru-ru'] = "Экран вызова";
 $text['label-call_screen_enabled']['sv-se'] = "Call Screen";
 $text['label-call_screen_enabled']['uk-ua'] = "";
+$text['label-call_screen_enabled']['vi'] = "Màn hình cuộc gọi";
 
 $text['label-call_group']['en-us'] = "Call Group";
 $text['label-call_group']['ar-eg'] = "";
@@ -1360,6 +1424,7 @@ $text['label-call_group']['ro-ro'] = "";
 $text['label-call_group']['ru-ru'] = "Вызов Группы";
 $text['label-call_group']['sv-se'] = "Ring Grupp";
 $text['label-call_group']['uk-ua'] = "";
+$text['label-call_group']['vi'] = "Cuộc gọi nhóm";
 
 $text['label-bypass_media_after_bridge']['en-us'] = "Bypass Media After Bridge";
 $text['label-bypass_media_after_bridge']['ar-eg'] = "";
@@ -1400,6 +1465,7 @@ $text['label-bypass_media']['ro-ro'] = "";
 $text['label-bypass_media']['ru-ru'] = "Обходной носитель";
 $text['label-bypass_media']['sv-se'] = "Bypass Media";
 $text['label-bypass_media']['uk-ua'] = "";
+$text['label-bypass_media']['vi'] = "Bypass Media";
 
 $text['label-billing_warning']['en-us'] = "Billing is installed, please take note you need to have enough balance to create extensions.";
 $text['label-billing_warning']['ar-eg'] = "";
@@ -1420,6 +1486,7 @@ $text['label-billing_warning']['ro-ro'] = "";
 $text['label-billing_warning']['ru-ru'] = "Установлена оплата, обратите внимание, что вам нужно иметь достаточный баланс для создания Внутренних Номеров.";
 $text['label-billing_warning']['sv-se'] = "Fakturerings program är installerat, tänk på att du måste ha rätt balans för att kunna skapa anknytningar.";
 $text['label-billing_warning']['uk-ua'] = "";
+$text['label-billing_warning']['vi'] = "Thanh toán đã được cài đặt, xin lưu ý rằng bạn cần có đủ số dư để tạo tiện ích mở rộng.";
 
 $text['label-auth_acl']['en-us'] = "Auth ACL";
 $text['label-auth_acl']['ar-eg'] = "";
@@ -1440,6 +1507,7 @@ $text['label-auth_acl']['ro-ro'] = "";
 $text['label-auth_acl']['ru-ru'] = "Список контроля доступа ACL";
 $text['label-auth_acl']['sv-se'] = "Auth ACL";
 $text['label-auth_acl']['uk-ua'] = "";
+$text['label-auth_acl']['vi'] = "Xác thực ACL";
 
 $text['label-accountcode']['en-us'] = "Account Code";
 $text['label-accountcode']['ar-eg'] = "";
@@ -1460,6 +1528,7 @@ $text['label-accountcode']['ro-ro'] = "";
 $text['label-accountcode']['ru-ru'] = "Код Учетной Записи";
 $text['label-accountcode']['sv-se'] = "Kontokod";
 $text['label-accountcode']['uk-ua'] = "";
+$text['label-accountcode']['vi'] = "Mã tài khoản";
 
 $text['label-is_registered']['en-us'] = "Registered";
 $text['label-is_registered']['ar-eg'] = "";
@@ -1480,26 +1549,7 @@ $text['label-is_registered']['ro-ro'] = "";
 $text['label-is_registered']['ru-ru'] = "Зарегистрировано";
 $text['label-is_registered']['sv-se'] = "Registrerad";
 $text['label-is_registered']['uk-ua'] = "";
-
-$text['label-column_name']['en-us'] = "Column Name";
-$text['label-column_name']['ar-eg'] = "";
-$text['label-column_name']['de-at'] = "";
-$text['label-column_name']['de-ch'] = "";
-$text['label-column_name']['de-de'] = "";
-$text['label-column_name']['es-cl'] = "";
-$text['label-column_name']['es-mx'] = "";
-$text['label-column_name']['fr-ca'] = "";
-$text['label-column_name']['fr-fr'] = "";
-$text['label-column_name']['he-il'] = "";
-$text['label-column_name']['it-it'] = "";
-$text['label-column_name']['nl-nl'] = "";
-$text['label-column_name']['pl-pl'] = "";
-$text['label-column_name']['pt-br'] = "";
-$text['label-column_name']['pt-pt'] = "";
-$text['label-column_name']['ro-ro'] = "";
-$text['label-column_name']['ru-ru'] = "";
-$text['label-column_name']['sv-se'] = "";
-$text['label-column_name']['uk-ua'] = "";
+$text['label-is_registered']['vi'] = "Đã đăng ký";
 
 $text['header-extensions']['en-us'] = "Extensions";
 $text['header-extensions']['ar-eg'] = "الأرقام الداخلية";
@@ -1520,6 +1570,7 @@ $text['header-extensions']['ro-ro'] = "";
 $text['header-extensions']['ru-ru'] = "Внутренние Номера";
 $text['header-extensions']['sv-se'] = "Anknytningar";
 $text['header-extensions']['uk-ua'] = "Розширення";
+$text['header-extensions']['vi'] = "Máy nhánh";
 
 $text['header-extension-edit']['en-us'] = "Extension";
 $text['header-extension-edit']['ar-eg'] = "رقم داخلي";
@@ -1540,6 +1591,7 @@ $text['header-extension-edit']['ro-ro'] = "";
 $text['header-extension-edit']['ru-ru'] = "Внутренний Номер";
 $text['header-extension-edit']['sv-se'] = "Anknytning";
 $text['header-extension-edit']['uk-ua'] = "Розширення";
+$text['header-extension-edit']['vi'] = "Máy nhánh";
 
 $text['header-extension-add']['en-us'] = "Extension Add";
 $text['header-extension-add']['ar-eg'] = "إضافة رقم داخلي";
@@ -1560,6 +1612,7 @@ $text['header-extension-add']['ro-ro'] = "";
 $text['header-extension-add']['ru-ru'] = "Добавить Внутренний Номер";
 $text['header-extension-add']['sv-se'] = "Lägg Till Anknytning";
 $text['header-extension-add']['uk-ua'] = "Додавання розширення";
+$text['header-extension-add']['vi'] = "Thêm máy nhánh";
 
 $text['description-voicemail_password']['en-us'] = "Enter the numeric voicemail  password here.";
 $text['description-voicemail_password']['ar-eg'] = "";
@@ -1580,6 +1633,7 @@ $text['description-voicemail_password']['ro-ro'] = "";
 $text['description-voicemail_password']['ru-ru'] = "Введите номер Голосовой Почты и Пароль к ней.";
 $text['description-voicemail_password']['sv-se'] = "Ange det numeriska röstbrevlåde-lösenordet här.";
 $text['description-voicemail_password']['uk-ua'] = "";
+$text['description-voicemail_password']['vi'] = "Nhập mật khẩu thư thoại số ở đây.";
 
 $text['description-voicemail_mail_to']['en-us'] = "Enter the email address to send voicemail to (optional).";
 $text['description-voicemail_mail_to']['ar-eg'] = "";
@@ -1600,6 +1654,7 @@ $text['description-voicemail_mail_to']['ro-ro'] = "";
 $text['description-voicemail_mail_to']['ru-ru'] = "Введите адрес электронной почты, чтобы отправить голосовую почту (опционально).";
 $text['description-voicemail_mail_to']['sv-se'] = "Ange E-post adressen för röstbrevlådan (valfritt).";
 $text['description-voicemail_mail_to']['uk-ua'] = "";
+$text['description-voicemail_mail_to']['vi'] = "Nhập địa chỉ email để gửi thư thoại đến (tùy chọn).";
 
 $text['description-voicemail_local_after_email']['en-us'] = "Choose whether to keep the voicemail in the system after sending the email notification.";
 $text['description-voicemail_local_after_email']['ar-eg'] = "";
@@ -1620,6 +1675,7 @@ $text['description-voicemail_local_after_email']['ro-ro'] = "";
 $text['description-voicemail_local_after_email']['ru-ru'] = "Выберите, следует ли сохранять голосовую почту в системе, после отправки сообщения по электронной почте.";
 $text['description-voicemail_local_after_email']['sv-se'] = "Välj om du vill behålla röstmeddelande i systemet efter att e-postmeddelandet skickats.";
 $text['description-voicemail_local_after_email']['uk-ua'] = "";
+$text['description-voicemail_local_after_email']['vi'] = "Chọn có giữ thư thoại trong hệ thống hay không sau khi gửi thông báo email.";
 
 $text['description-voicemail_file']['en-us'] = "Select a listening option to include with the email notification.";
 $text['description-voicemail_file']['ar-eg'] = "";
@@ -1640,6 +1696,7 @@ $text['description-voicemail_file']['ro-ro'] = "";
 $text['description-voicemail_file']['ru-ru'] = "Выберите вариант прослушивания, который нужно включить в сообщение отправленное по электронной почте.";
 $text['description-voicemail_file']['sv-se'] = "Välj ett alternativ för avlyssning i e-postmeddelandet.";
 $text['description-voicemail_file']['uk-ua'] = "";
+$text['description-voicemail_file']['vi'] = "Chọn tùy chọn lắng nghe và để đính kèm theo thông báo email.";
 
 $text['description-voicemail_enabled']['en-us'] = "Enable/disable voicemail for this extension.";
 $text['description-voicemail_enabled']['ar-eg'] = "";
@@ -1660,6 +1717,7 @@ $text['description-voicemail_enabled']['ro-ro'] = "";
 $text['description-voicemail_enabled']['ru-ru'] = "Включиь / Выключить Голосовую Почту для Внутреннего Номера.";
 $text['description-voicemail_enabled']['sv-se'] = "Aktivera/Inaktivera röstbrevlåda för denna anknytning.";
 $text['description-voicemail_enabled']['uk-ua'] = "";
+$text['description-voicemail_enabled']['vi'] = "Bật / tắt thư thoại cho máy nhánh này.";
 
 $text['description-user_record']['en-us'] = "Choose whether to record local, inbound, outbound, or all.";
 $text['description-user_record']['ar-eg'] = "";
@@ -1680,6 +1738,7 @@ $text['description-user_record']['ro-ro'] = "";
 $text['description-user_record']['ru-ru'] = "Укажите, следует ли записывать локальные, входящие, исходящие или все.";
 $text['description-user_record']['sv-se'] = "Välj om lokala, inkommande, utgående eller alla samtal skall spelas in.";
 $text['description-user_record']['uk-ua'] = "";
+$text['description-user_record']['vi'] = "Chọn ghi lại nội bộ, hướng gọi vào, hướng gọi ra hoặc tất cả.";
 
 $text['description-user_list']['en-us'] = "Assign the users that are assigned to this extension. ";
 $text['description-user_list']['ar-eg'] = "";
@@ -1700,6 +1759,7 @@ $text['description-user_list']['ro-ro'] = "";
 $text['description-user_list']['ru-ru'] = "Назначьте пользователей, данному Внутреннему Номеру. ";
 $text['description-user_list']['sv-se'] = "Tilldela användare till denna anknytning.";
 $text['description-user_list']['uk-ua'] = "";
+$text['description-user_list']['vi'] = "Chỉ định người dùng được gán cho máy nhánh này. ";
 
 $text['description-user_context']['en-us'] = "Enter the user context here.";
 $text['description-user_context']['ar-eg'] = "";
@@ -1720,6 +1780,7 @@ $text['description-user_context']['ro-ro'] = "";
 $text['description-user_context']['ru-ru'] = "Введите контекст для данного Пользователя.";
 $text['description-user_context']['sv-se'] = "Ange 'user context' här.";
 $text['description-user_context']['uk-ua'] = "";
+$text['description-user_context']['vi'] = "Nhập tên miền người dùng ở đây.";
 
 $text['description-toll_allow']['en-us'] = "Enter the toll allow value here.  (Examples: domestic,international,local)";
 $text['description-toll_allow']['ar-eg'] = "";
@@ -1740,6 +1801,7 @@ $text['description-toll_allow']['ro-ro'] = "";
 $text['description-toll_allow']['ru-ru'] = "Введите здесь доступные значения. (Примеры: domestic,international,local)";
 $text['description-toll_allow']['sv-se'] = "Ange 'toll allow' värde här. (Exempel: domestic,international,local)";
 $text['description-toll_allow']['uk-ua'] = "";
+$text['description-toll_allow']['vi'] = "Nhập giá trị cho phép ở đây. (Ví dụ: trong nước, quốc tế, địa phương)";
 
 $text['description-sip_force_expires']['en-us'] = "To prevent stale registrations SIP Force expires can override the client expire.";
 $text['description-sip_force_expires']['ar-eg'] = "";
@@ -1760,6 +1822,7 @@ $text['description-sip_force_expires']['ro-ro'] = "";
 $text['description-sip_force_expires']['ru-ru'] = "Чтобы предотвратить частую регистрацию, срок действия SIP Force может отменять истечение срока действия клиента.";
 $text['description-sip_force_expires']['sv-se'] = "För att förhindra inaktuella registreringar ”SIP Force expires” kan åsidosätta ”klient expire”.";
 $text['description-sip_force_expires']['uk-ua'] = "";
+$text['description-sip_force_expires']['vi'] = "Để ngăn chặn đăng ký cũ, SIP Force hết hạn có thể ghi đè máy khách hết hạn.";
 
 $text['description-sip_force_contact']['en-us'] = "Choose whether to rewrite the contact port, or rewrite both the contact IP and port.";
 $text['description-sip_force_contact']['ar-eg'] = "";
@@ -1780,6 +1843,7 @@ $text['description-sip_force_contact']['ro-ro'] = "";
 $text['description-sip_force_contact']['ru-ru'] = "Выберите, следует ли перезаписывать контактный порт или переписать IP-адрес и порт для связи.";
 $text['description-sip_force_contact']['sv-se'] = "Välj om 'contact port' skall skrivas om eller om både 'contact IP och Port' skall skrivas om.";
 $text['description-sip_force_contact']['uk-ua'] = "";
+$text['description-sip_force_contact']['vi'] = "Chọn ghi lại cổng liên hệ hoặc viết lại cả IP liên hệ và cổng.";
 
 $text['description-sip_bypass_media']['en-us'] = "Choose whether to send the media stream point to point or in transparent proxy mode.";
 $text['description-sip_bypass_media']['ar-eg'] = "";
@@ -1800,6 +1864,7 @@ $text['description-sip_bypass_media']['ro-ro'] = "";
 $text['description-sip_bypass_media']['ru-ru'] = "Выберите режим передачи потока (точка-точка) или через прозрачный прокси-сервер.";
 $text['description-sip_bypass_media']['sv-se'] = "Välj om media strömmen skall skickas 'point to point' eller i 'ransparent proxy mode'.";
 $text['description-sip_bypass_media']['uk-ua'] = "";
+$text['description-sip_bypass_media']['vi'] = "Chọn gửi luồng phương tiện điểm tới điểm hoặc ở chế độ proxy transparent.";
 
 $text['description-range']['en-us'] = "Enter the number of extensions to create. Increments each extension by 1.";
 $text['description-range']['ar-eg'] = "";
@@ -1820,6 +1885,7 @@ $text['description-range']['ro-ro'] = "";
 $text['description-range']['ru-ru'] = "Введите число создаваемых Внутренних Номеров. Увеличивает каждый Внутренний Номер на 1.";
 $text['description-range']['sv-se'] = "Ange hur många anknytningar som skall skapas. Adderar 1 på varje anknytning.";
 $text['description-range']['uk-ua'] = "";
+$text['description-range']['vi'] = "Nhập số lượng máy nhánh để tạo. Tăng thêm 1 máy nhánh.";
 
 $text['description-provisioning']['en-us'] = "Select a device and line number to assign to this extension.";
 $text['description-provisioning']['ar-eg'] = "";
@@ -1840,6 +1906,7 @@ $text['description-provisioning']['ro-ro'] = "";
 $text['description-provisioning']['ru-ru'] = "Выберите устройство и номер линии, которые будут назначены этому Внутреннего Номера.";
 $text['description-provisioning']['sv-se'] = "Välj en enhet och linje nummer att tilldela till denna anknytning.";
 $text['description-provisioning']['uk-ua'] = "";
+$text['description-provisioning']['vi'] = "Chọn một thiết bị và số dòng để gán cho máy nhánh này.";
 
 $text['description-password']['en-us'] = "Enter the password here.";
 $text['description-password']['ar-eg'] = "";
@@ -1860,6 +1927,7 @@ $text['description-password']['ro-ro'] = "";
 $text['description-password']['ru-ru'] = "Введите Пароль.";
 $text['description-password']['sv-se'] = "Fyll i lösenord.";
 $text['description-password']['uk-ua'] = "";
+$text['description-password']['vi'] = "Nhập mật khẩu tạo đây.";
 
 $text['description-outbound_caller_id_number-select']['en-us'] = "Select the external (public) caller ID number.";
 $text['description-outbound_caller_id_number-select']['ar-eg'] = "";
@@ -1880,6 +1948,7 @@ $text['description-outbound_caller_id_number-select']['ro-ro'] = "";
 $text['description-outbound_caller_id_number-select']['ru-ru'] = "Выберите внешний (публичный) caller ID номер.";
 $text['description-outbound_caller_id_number-select']['sv-se'] = "Välj det externa (publikt) nummervisningen här.";
 $text['description-outbound_caller_id_number-select']['uk-ua'] = "";
+$text['description-outbound_caller_id_number-select']['vi'] = "Chọn số ID người gọi bên ngoài (công khai).";
 
 $text['description-outbound_caller_id_number-custom']['en-us'] = "Enter the external (public) caller ID number here.";
 $text['description-outbound_caller_id_number-custom']['ar-eg'] = "";
@@ -1900,6 +1969,7 @@ $text['description-outbound_caller_id_number-custom']['ro-ro'] = "";
 $text['description-outbound_caller_id_number-custom']['ru-ru'] = "Введите внешний (публичный) caller ID номер.";
 $text['description-outbound_caller_id_number-custom']['sv-se'] = "Ange det externa (publikt) nummervisningen här.";
 $text['description-outbound_caller_id_number-custom']['uk-ua'] = "";
+$text['description-outbound_caller_id_number-custom']['vi'] = "Nhập số ID người gọi bên ngoài (công khai) tại đây.";
 
 $text['description-outbound_caller_id_name-select']['en-us'] = "Select the external (public) caller ID name.";
 $text['description-outbound_caller_id_name-select']['ar-eg'] = "";
@@ -1920,6 +1990,7 @@ $text['description-outbound_caller_id_name-select']['ro-ro'] = "";
 $text['description-outbound_caller_id_name-select']['ru-ru'] = "Выберите внешнее (публичное) caller ID Имя.";
 $text['description-outbound_caller_id_name-select']['sv-se'] = "Välj det externa (publikt) namnvisningen här.";
 $text['description-outbound_caller_id_name-select']['uk-ua'] = "";
+$text['description-outbound_caller_id_name-select']['vi'] = "Chọn tên ID người gọi bên ngoài (công khai).";
 
 $text['description-outbound_caller_id_name-custom']['en-us'] = "Enter the external (public) caller ID name here.";
 $text['description-outbound_caller_id_name-custom']['ar-eg'] = "";
@@ -1940,6 +2011,7 @@ $text['description-outbound_caller_id_name-custom']['ro-ro'] = "";
 $text['description-outbound_caller_id_name-custom']['ru-ru'] = "Введите внешнее (публичное) caller ID Имя.";
 $text['description-outbound_caller_id_name-custom']['sv-se'] = "Ange det externa (publikt) namnvisningen här.";
 $text['description-outbound_caller_id_name-custom']['uk-ua'] = "";
+$text['description-outbound_caller_id_name-custom']['vi'] = "Nhập tên ID người gọi bên ngoài (công khai) tại đây.";
 
 $text['description-number_alias']['en-us'] = "If the extension is numeric then number alias is optional.";
 $text['description-number_alias']['ar-eg'] = "";
@@ -1960,6 +2032,7 @@ $text['description-number_alias']['ro-ro'] = "";
 $text['description-number_alias']['ru-ru'] = "Добавочный номер. Дополнительно, если абонент находится в цифровом формате.";
 $text['description-number_alias']['sv-se'] = "Om anknytningen är numerisk då är nummer alias valfritt.";
 $text['description-number_alias']['uk-ua'] = "";
+$text['description-number_alias']['vi'] = "Nếu máy nhánh là số thì bí danh số là tùy chọn.";
 
 $text['description-nibble_account']['en-us'] = "Enter the account number for nibblebill to use.";
 $text['description-nibble_account']['ar-eg'] = "";
@@ -1980,6 +2053,7 @@ $text['description-nibble_account']['ro-ro'] = "";
 $text['description-nibble_account']['ru-ru'] = "Введите номер учетной записи для использования nibblebill.";
 $text['description-nibble_account']['sv-se'] = "Ange konto nummer för 'nibblebill' som skall användas.";
 $text['description-nibble_account']['uk-ua'] = "";
+$text['description-nibble_account']['vi'] = "Nhập số tài khoản để sử dụng nibblebill.";
 
 $text['description-mwi_account']['en-us'] = "MWI Account with user@domain of the voicemail to monitor.";
 $text['description-mwi_account']['ar-eg'] = "";
@@ -2000,6 +2074,7 @@ $text['description-mwi_account']['ro-ro'] = "";
 $text['description-mwi_account']['ru-ru'] = "MWI Учетная Запись user@domain для мониторинга Голосовой Почты.";
 $text['description-mwi_account']['sv-se'] = "MWI konto med user@domain för den röstbrevlåda som skall monitoreras.";
 $text['description-mwi_account']['uk-ua'] = "";
+$text['description-mwi_account']['vi'] = "Tài khoản MWI với tên miền @ user của thư thoại để theo dõi.";
 
 $text['description-absolute_codec_string']['en-us'] = "Absolute Codec String for the extension";
 $text['description-absolute_codec_string']['ar-eg'] = "";
@@ -2020,6 +2095,7 @@ $text['description-absolute_codec_string']['ro-ro'] = "";
 $text['description-absolute_codec_string']['ru-ru'] = "Последовательность выбора кодеков для Внутреннего Номера";
 $text['description-absolute_codec_string']['sv-se'] = "Absolut Codec String för anknytningen";
 $text['description-absolute_codec_string']['uk-ua'] = "";
+$text['description-absolute_codec_string']['vi'] = "Chuỗi Codec tuyệt đối cho máy nhánh";
 
 $text['description-force_ping']['en-us'] = "Use OPTIONS to detect if extension is reacheable";
 $text['description-force_ping']['ar-eg'] = "";
@@ -2040,6 +2116,7 @@ $text['description-force_ping']['ro-ro'] = "";
 $text['description-force_ping']['ru-ru'] = "Использовать OPTIONS, чтобы определить доступность Внутреннего Номера";
 $text['description-force_ping']['sv-se'] = "Använd OPTIONS för att avgöra om anknytningen är nåbar";
 $text['description-force_ping']['uk-ua'] = "";
+$text['description-force_ping']['vi'] = "Sử dụng TÙY CHỌN để phát hiện nếu máy nhánh có thể truy cập";
 
 $text['description-missed_call']['en-us'] = "Select the notification type, and enter the appropriate destination.";
 $text['description-missed_call']['ar-eg'] = "";
@@ -2060,6 +2137,7 @@ $text['description-missed_call']['ro-ro'] = "";
 $text['description-missed_call']['ru-ru'] = "Выберите тип уведомления и введите соответствующий пункт назначения.";
 $text['description-missed_call']['sv-se'] = "Välj typ anmälan, och ange lämplig destination.";
 $text['description-missed_call']['uk-ua'] = "Виберіть тип повідомлення, і ввести відповідний пункт призначення.";
+$text['description-missed_call']['vi'] = "Chọn loại thông báo và nhập điểm đến thích hợp.";
 
 $text['description-limit_max']['en-us'] = "Enter the max number of outgoing calls for this user.";
 $text['description-limit_max']['ar-eg'] = "";
@@ -2080,6 +2158,7 @@ $text['description-limit_max']['ro-ro'] = "";
 $text['description-limit_max']['ru-ru'] = "Введите максимальное количество исходящих вызовов для этого пользователя.";
 $text['description-limit_max']['sv-se'] = "Ange max antal utgående samtal för denna anknytning.";
 $text['description-limit_max']['uk-ua'] = "";
+$text['description-limit_max']['vi'] = "Nhập số lượng cuộc gọi đi tối đa cho người dùng này.";
 
 $text['description-limit_destination']['en-us'] = "Enter the destination to send the calls when the max number of outgoing calls has been reached.";
 $text['description-limit_destination']['ar-eg'] = "";
@@ -2100,6 +2179,7 @@ $text['description-limit_destination']['ro-ro'] = "";
 $text['description-limit_destination']['ru-ru'] = "Введите получателя для отправки вызовов, когда достигнуто максимальное количество исходящих вызовов.";
 $text['description-limit_destination']['sv-se'] = "Ange destination dit samtal skickas när max antal utgående samtals gränsen har nåtts.";
 $text['description-limit_destination']['uk-ua'] = "";
+$text['description-limit_destination']['vi'] = "Nhập điểm đến để gửi các cuộc gọi khi đã đạt đến số lượng cuộc gọi đi tối đa.";
 
 $text['description-hold_music']['en-us'] = "Select the MOH Category here.";
 $text['description-hold_music']['ar-eg'] = "";
@@ -2120,6 +2200,7 @@ $text['description-hold_music']['ro-ro'] = "";
 $text['description-hold_music']['ru-ru'] = "Выберите мелодию Музыки на Ожидании (MOH).";
 $text['description-hold_music']['sv-se'] = "Välj MOH Kategori här.";
 $text['description-hold_music']['uk-ua'] = "";
+$text['description-hold_music']['vi'] = "Chọn danh mục MOH tại đây.";
 
 $text['description-extensions']['en-us'] = "Use this to configure your SIP extensions.";
 $text['description-extensions']['ar-eg'] = "";
@@ -2140,6 +2221,7 @@ $text['description-extensions']['ro-ro'] = "";
 $text['description-extensions']['ru-ru'] = "Используйте это для настройки Внутренних Номеров SIP.";
 $text['description-extensions']['sv-se'] = "Använd detta för att konfigurera dina SIP anknytningar.";
 $text['description-extensions']['uk-ua'] = "";
+$text['description-extensions']['vi'] = "Sử dụng công cụ này để cấu hình cho máy nhánh SIP của bạn.";
 
 $text['description-extension']['en-us'] = "Enter the alphanumeric extension. The default configuration allows 2 - 15 digit extensions.";
 $text['description-extension']['ar-eg'] = "";
@@ -2160,6 +2242,7 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Введите буквенно-цифровой Внутренний Номер. Конфигурация по умолчанию позволяет 2-15-значные Внутренние Номера.";
 $text['description-extension']['sv-se'] = "Tilldela anknytning och linje nummer till enheten.";
 $text['description-extension']['uk-ua'] = "";
+$text['description-extension']['vi'] = "Nhập phần mở rộng chữ và số. Cấu hình mặc định cho phép mở rộng 2 - 15 chữ số.";
 
 $text['description-enabled']['en-us'] = "Set the status of the extension.";
 $text['description-enabled']['ar-eg'] = "";
@@ -2180,6 +2263,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Установите статус Внутреннего Номера.";
 $text['description-enabled']['sv-se'] = "Välj status på denna standardinställning.";
 $text['description-enabled']['uk-ua'] = "";
+$text['description-enabled']['vi'] = "Đặt trạng thái của máy nhánh.";
 
 $text['description-emergency_caller_id_number']['en-us'] = "Enter the emergency caller ID number here.";
 $text['description-emergency_caller_id_number']['ar-eg'] = "";
@@ -2200,6 +2284,7 @@ $text['description-emergency_caller_id_number']['ro-ro'] = "";
 $text['description-emergency_caller_id_number']['ru-ru'] = "Введите идентификтор (caller ID) номера при экстренном вызове.";
 $text['description-emergency_caller_id_number']['sv-se'] = "Ange nummer som skall visas vid nödsamtal.";
 $text['description-emergency_caller_id_number']['uk-ua'] = "";
+$text['description-emergency_caller_id_number']['vi'] = "Nhập số ID người gọi khẩn cấp ở đây.";
 
 $text['description-emergency_caller_id_name']['en-us'] = "Enter the emergency caller ID name here.";
 $text['description-emergency_caller_id_name']['ar-eg'] = "";
@@ -2220,6 +2305,7 @@ $text['description-emergency_caller_id_name']['ro-ro'] = "";
 $text['description-emergency_caller_id_name']['ru-ru'] = "Введите идентификтор (caller ID) Имени при экстренном вызове.";
 $text['description-emergency_caller_id_name']['sv-se'] = "Ange namn som skall visas vid nödsamtal.";
 $text['description-emergency_caller_id_name']['uk-ua'] = "";
+$text['description-emergency_caller_id_name']['vi'] = "Nhập tên ID người gọi khẩn cấp tại đây.";
 
 $text['description-effective_caller_id_number']['en-us'] = "Enter the internal caller ID number here.";
 $text['description-effective_caller_id_number']['ar-eg'] = "";
@@ -2240,6 +2326,7 @@ $text['description-effective_caller_id_number']['ro-ro'] = "";
 $text['description-effective_caller_id_number']['ru-ru'] = "Введите внутренний идентификатор (caller ID) номера.";
 $text['description-effective_caller_id_number']['sv-se'] = "Ange numret som skall visas internt.";
 $text['description-effective_caller_id_number']['uk-ua'] = "";
+$text['description-effective_caller_id_number']['vi'] = "Nhập số ID người gọi nội bộ tại đây.";
 
 $text['description-effective_caller_id_name']['en-us'] = "Enter the internal caller ID name here.";
 $text['description-effective_caller_id_name']['ar-eg'] = "";
@@ -2260,6 +2347,7 @@ $text['description-effective_caller_id_name']['ro-ro'] = "";
 $text['description-effective_caller_id_name']['ru-ru'] = "Введите внутренний идентификатор (caller ID) Имени.";
 $text['description-effective_caller_id_name']['sv-se'] = "Ange namn som skall visas internt.";
 $text['description-effective_caller_id_name']['uk-ua'] = "";
+$text['description-effective_caller_id_name']['vi'] = "Nhập tên ID người gọi nội bộ tại đây.";
 
 $text['description-directory_visible']['en-us'] = "Select whether to hide the name from the directory.";
 $text['description-directory_visible']['ar-eg'] = "";
@@ -2280,6 +2368,7 @@ $text['description-directory_visible']['ro-ro'] = "";
 $text['description-directory_visible']['ru-ru'] = "Выберите, следует ли скрыть имя каталога.";
 $text['description-directory_visible']['sv-se'] = "Välj om namnet inte skall visas i katalogen.";
 $text['description-directory_visible']['uk-ua'] = "";
+$text['description-directory_visible']['vi'] = "Chọn xem ẩn tên khỏi thư mục.";
 
 $text['description-directory_full_name']['en-us'] = "Enter the first name followed by the last name.";
 $text['description-directory_full_name']['ar-eg'] = "";
@@ -2300,6 +2389,7 @@ $text['description-directory_full_name']['ro-ro'] = "";
 $text['description-directory_full_name']['ru-ru'] = "Введите имя и фамилию.";
 $text['description-directory_full_name']['sv-se'] = "Ange förnamn följt av efternamn.";
 $text['description-directory_full_name']['uk-ua'] = "";
+$text['description-directory_full_name']['vi'] = "Nhập họ theo sau tên.";
 
 $text['description-directory_exten_visible']['en-us'] = "Select whether announce the extension when calling the directory.";
 $text['description-directory_exten_visible']['ar-eg'] = "";
@@ -2320,6 +2410,7 @@ $text['description-directory_exten_visible']['ro-ro'] = "";
 $text['description-directory_exten_visible']['ru-ru'] = "Выберите, следует ли отображать Внутренний Номер в каталоге.";
 $text['description-directory_exten_visible']['sv-se'] = "Välj om anknytningen skall anges när katalogen rings upp.";
 $text['description-directory_exten_visible']['uk-ua'] = "";
+$text['description-directory_exten_visible']['vi'] = "Chọn xem có thông máy nhánh khi gọi thư mục không.";
 
 $text['description-dial_string']['en-us'] = "Location of the endpoint.";
 $text['description-dial_string']['ar-eg'] = "";
@@ -2340,6 +2431,7 @@ $text['description-dial_string']['ro-ro'] = "";
 $text['description-dial_string']['ru-ru'] = "Местоположение конечной точки.";
 $text['description-dial_string']['sv-se'] = "Plats för enheten.";
 $text['description-dial_string']['uk-ua'] = "";
+$text['description-dial_string']['vi'] = "Vị trí của điểm cuối.";
 
 $text['description-cidr']['en-us'] = "Enter the CIDR here.";
 $text['description-cidr']['ar-eg'] = "";
@@ -2360,6 +2452,7 @@ $text['description-cidr']['ro-ro'] = "";
 $text['description-cidr']['ru-ru'] = "Введите IP-адрес (например, 1.2.3.4/32).";
 $text['description-cidr']['sv-se'] = "Ange CIDR här.";
 $text['description-cidr']['uk-ua'] = "";
+$text['description-cidr']['vi'] = "Nhập CIDR ở đây.";
 
 $text['description-call_timeout']['en-us'] = "Enter the call timeout.";
 $text['description-call_timeout']['ar-eg'] = "";
@@ -2380,6 +2473,7 @@ $text['description-call_timeout']['ro-ro'] = "";
 $text['description-call_timeout']['ru-ru'] = "Введите время ожидания вызова";
 $text['description-call_timeout']['sv-se'] = "Ange 'call timeout'";
 $text['description-call_timeout']['uk-ua'] = "";
+$text['description-call_timeout']['vi'] = "Nhập thời gian chờ cuộc gọi.";
 
 $text['description-call_screen_enabled']['en-us'] = "Choose whether to enable or disable call screening.";
 $text['description-call_screen_enabled']['ar-eg'] = "";
@@ -2400,6 +2494,7 @@ $text['description-call_screen_enabled']['ro-ro'] = "";
 $text['description-call_screen_enabled']['ru-ru'] = "Укажите, следует ли включать или отключать проверку вызовов.";
 $text['description-call_screen_enabled']['sv-se'] = "Välj om du vill aktivera eller inaktivera call screening.";
 $text['description-call_screen_enabled']['uk-ua'] = "";
+$text['description-call_screen_enabled']['vi'] = "Chọn bật hoặc tắt sàng lọc cuộc gọi.";
 
 $text['description-call_group']['en-us'] = "Enter the user call group here. Groups available by default: sales, support, billing.";
 $text['description-call_group']['ar-eg'] = "";
@@ -2420,6 +2515,7 @@ $text['description-call_group']['ro-ro'] = "";
 $text['description-call_group']['ru-ru'] = "Войдите в группу пользователей. Группы доступные по умолчанию: sales, support, billing.";
 $text['description-call_group']['sv-se'] = "Ange användarens ring grupp här. Grupper som är tillgängliga från start: sales, support, billing.";
 $text['description-call_group']['uk-ua'] = "";
+$text['description-call_group']['vi'] = "Nhập nhóm gọi người dùng ở đây. Các nhóm có sẵn theo mặc định: bán hàng, hỗ trợ, thanh toán.";
 
 $text['description-auth_acl']['en-us'] = "Enter the Auth ACL here.";
 $text['description-auth_acl']['ar-eg'] = "";
@@ -2440,6 +2536,7 @@ $text['description-auth_acl']['ro-ro'] = "";
 $text['description-auth_acl']['ru-ru'] = "Введите ACL для проверки подлинности";
 $text['description-auth_acl']['sv-se'] = "Ange Auth ACL här.";
 $text['description-auth_acl']['uk-ua'] = "";
+$text['description-auth_acl']['vi'] = "Nhập xác thực ACL ở đây.";
 
 $text['description-accountcode']['en-us'] = "Enter the account code here.";
 $text['description-accountcode']['ar-eg'] = "";
@@ -2460,6 +2557,7 @@ $text['description-accountcode']['ro-ro'] = "";
 $text['description-accountcode']['ru-ru'] = "Введите здесь код счета.";
 $text['description-accountcode']['sv-se'] = "Ange 'account code' här.";
 $text['description-accountcode']['uk-ua'] = "";
+$text['description-accountcode']['vi'] = "Nhập mã tài khoản tại đây.";
 
 $text['checkbox-range']['en-us'] = "Auto-generate user with extension as login name";
 $text['checkbox-range']['ar-eg'] = "";
@@ -2480,6 +2578,7 @@ $text['checkbox-range']['ro-ro'] = "";
 $text['checkbox-range']['ru-ru'] = "Автоматическая генерация Пользователю Внутреннего Номера Логина и Имени";
 $text['checkbox-range']['sv-se'] = "Auto-generera användare med anknytning som inloggningsnamn.";
 $text['checkbox-range']['uk-ua'] = "";
+$text['checkbox-range']['vi'] = "Tự động tạo người dùng với phần mở rộng là tên đăng nhập";
 
 $text['button-call_routing']['en-us'] = "Call Routing";
 $text['button-call_routing']['ar-eg'] = "توجيه الدعوة";
@@ -2500,5 +2599,6 @@ $text['button-call_routing']['ro-ro'] = "";
 $text['button-call_routing']['ru-ru'] = "Маршрутизация Вызовов";
 $text['button-call_routing']['sv-se'] = "Call Routing";
 $text['button-call_routing']['uk-ua'] = "маршрутизація викликів";
+$text['button-call_routing']['vi'] = "Định tuyến cuộc gọi";
 
 ?>

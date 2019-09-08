@@ -20,6 +20,7 @@ $text['title-option_edit']['ro-ro'] = "";
 $text['title-option_edit']['ru-ru'] = "Редактор параметров Голосового Меню (IVR)";
 $text['title-option_edit']['sv-se'] = "Ändra IVR Meny Val";
 $text['title-option_edit']['uk-ua'] = "";
+$text['title-option_edit']['vi'] = "Tùy chọn chỉnh sửa menu IVR ";
 
 $text['title-option_add']['en-us'] = "IVR Menu Option Add";
 $text['title-option_add']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-option_add']['ro-ro'] = "";
 $text['title-option_add']['ru-ru'] = "Добавить опции Голосового Меню (IVR)";
 $text['title-option_add']['sv-se'] = "Lägg Till IVR Meny Val";
 $text['title-option_add']['uk-ua'] = "";
+$text['title-option_add']['vi'] = "Thêm tùy chọn chỉnh sửa IVR menu";
 
 $text['title-ivr_menus']['en-us'] = "IVR Menus";
 $text['title-ivr_menus']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-ivr_menus']['ro-ro'] = "";
 $text['title-ivr_menus']['ru-ru'] = "Голосовые Меню (IVR)";
 $text['title-ivr_menus']['sv-se'] = "IVR Menyer";
 $text['title-ivr_menus']['uk-ua'] = "";
+$text['title-ivr_menus']['vi'] = "IVR Menus";
 
 $text['title-ivr_menu']['en-us'] = "IVR Menu";
 $text['title-ivr_menu']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-ivr_menu']['ro-ro'] = "";
 $text['title-ivr_menu']['ru-ru'] = "Голосовое Меню (IVR)";
 $text['title-ivr_menu']['sv-se'] = "IVR Meny";
 $text['title-ivr_menu']['uk-ua'] = "";
+$text['title-ivr_menu']['vi'] = "IVR Menu";
 
 $text['title-ivr_menus_sub']['en-us'] = "IVR Menus - Sub";
 $text['title-ivr_menus_sub']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-ivr_menus_sub']['ro-ro'] = "";
 $text['title-ivr_menus_sub']['ru-ru'] = "Суб-опции Голосового Меню (IVR)";
 $text['title-ivr_menus_sub']['sv-se'] = "IVR Menyer - Sub";
 $text['title-ivr_menus_sub']['uk-ua'] = "";
+$text['title-ivr_menus_sub']['vi'] = "IVR Menus - Sub";
 
 $text['message-maximum_ivr_menus']['en-us'] = "Maximum IVR Menus:";
 $text['message-maximum_ivr_menus']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['message-maximum_ivr_menus']['ro-ro'] = "";
 $text['message-maximum_ivr_menus']['ru-ru'] = "Максимальное Голосовое Меню (IVR):";
 $text['message-maximum_ivr_menus']['sv-se'] = "Max Antal IVR Menyer: ";
 $text['message-maximum_ivr_menus']['uk-ua'] = "";
+$text['message-maximum_ivr_menus']['vi'] = "Tối đa IVR Menus:";
 
 $text['label-language']['en-us'] = "Language";
 $text['label-language']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-language']['ro-ro'] = "";
 $text['label-language']['ru-ru'] = "";
 $text['label-language']['sv-se'] = "Språk";
 $text['label-language']['uk-ua'] = "";
+$text['label-language']['vi'] = "Ngôn ngữ";
 
 $text['label-tts_voice']['en-us'] = "TTS Voice";
 $text['label-tts_voice']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-tts_voice']['ro-ro'] = "";
 $text['label-tts_voice']['ru-ru'] = "TTS Голосового Синтезатора";
 $text['label-tts_voice']['sv-se'] = "TTS Voice";
 $text['label-tts_voice']['uk-ua'] = "";
+$text['label-tts_voice']['vi'] = "TTS Voice";
 
 $text['label-tts_engine']['en-us'] = "TTS Engine";
 $text['label-tts_engine']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-tts_engine']['ro-ro'] = "";
 $text['label-tts_engine']['ru-ru'] = "TTS Движок Сиснтезатора";
 $text['label-tts_engine']['sv-se'] = "TTS Engine";
 $text['label-tts_engine']['uk-ua'] = "";
+$text['label-tts_engine']['vi'] = "TTS Engine";
 
 $text['label-timeout']['en-us'] = "Timeout";
 $text['label-timeout']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-timeout']['ro-ro'] = "";
 $text['label-timeout']['ru-ru'] = "Тайм-аут";
 $text['label-timeout']['sv-se'] = "Tidsgräns";
 $text['label-timeout']['uk-ua'] = "";
+$text['label-timeout']['vi'] = "Hết giờ";
 
 $text['label-ring_back']['en-us'] = "Ring Back";
 $text['label-ring_back']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-ring_back']['ro-ro'] = "";
 $text['label-ring_back']['ru-ru'] = "Контроль посылки вызова (КПВ)";
 $text['label-ring_back']['sv-se'] = "Ring Tillbaka";
 $text['label-ring_back']['uk-ua'] = "";
+$text['label-ring_back']['vi'] = "Gọi lại";
 
 $text['label-options']['en-us'] = "Options";
 $text['label-options']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-options']['ro-ro'] = "";
 $text['label-options']['ru-ru'] = "Опции";
 $text['label-options']['sv-se'] = "Val";
 $text['label-options']['uk-ua'] = "";
+$text['label-options']['vi'] = "Tùy chọn";
 
 $text['label-option']['en-us'] = "Option";
 $text['label-option']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-option']['ro-ro'] = "";
 $text['label-option']['ru-ru'] = "Опция";
 $text['label-option']['sv-se'] = "Val";
 $text['label-option']['uk-ua'] = "";
+$text['label-option']['vi'] = "Tùy chọn";
 
 $text['label-max_timeouts']['en-us'] = "Max Timeouts";
 $text['label-max_timeouts']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-max_timeouts']['ro-ro'] = "";
 $text['label-max_timeouts']['ru-ru'] = "Максимальное время ожидания";
 $text['label-max_timeouts']['sv-se'] = "Max Tidsgräns";
 $text['label-max_timeouts']['uk-ua'] = "";
+$text['label-max_timeouts']['vi'] = "Thời gian chờ tối đa";
 
 $text['label-max_failures']['en-us'] = "Max Failures";
 $text['label-max_failures']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-max_failures']['ro-ro'] = "";
 $text['label-max_failures']['ru-ru'] = "Максимальное количество неудач";
 $text['label-max_failures']['sv-se'] = "Max Fel";
 $text['label-max_failures']['uk-ua'] = "";
+$text['label-max_failures']['vi'] = "Lỗi tối đa";
 
 $text['label-invalid_sound']['en-us'] = "Invalid Sound";
 $text['label-invalid_sound']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-invalid_sound']['ro-ro'] = "";
 $text['label-invalid_sound']['ru-ru'] = "Недопустимые параметы звука";
 $text['label-invalid_sound']['sv-se'] = "Fel Ljud";
 $text['label-invalid_sound']['uk-ua'] = "";
+$text['label-invalid_sound']['vi'] = "Âm thanh không hợp lệ";
 
 $text['label-inter-digit_timeout']['en-us'] = "Inter-Digit Timeout";
 $text['label-inter-digit_timeout']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-inter-digit_timeout']['ro-ro'] = "";
 $text['label-inter-digit_timeout']['ru-ru'] = "Тайм-аут между набом цифр";
 $text['label-inter-digit_timeout']['sv-se'] = "Inter-Digit Tidsgräns";
 $text['label-inter-digit_timeout']['uk-ua'] = "";
+$text['label-inter-digit_timeout']['vi'] = "Hết thời gian";
 
 $text['label-greet_short']['en-us'] = "Greet Short";
 $text['label-greet_short']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-greet_short']['ro-ro'] = "";
 $text['label-greet_short']['ru-ru'] = "Короткое Приветствие";
 $text['label-greet_short']['sv-se'] = "Kort Hälsning";
 $text['label-greet_short']['uk-ua'] = "";
+$text['label-greet_short']['vi'] = "Greet Short";
 
 $text['label-greet_long']['en-us'] = "Greet Long";
 $text['label-greet_long']['ar-eg'] = "";
@@ -400,6 +418,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-exit_sound']['en-us'] = "Exit Sound";
 $text['label-exit_sound']['ar-eg'] = "";
@@ -420,6 +439,7 @@ $text['label-exit_sound']['ro-ro'] = "";
 $text['label-exit_sound']['ru-ru'] = "Выход звука";
 $text['label-exit_sound']['sv-se'] = "Avslutningsljud";
 $text['label-exit_sound']['uk-ua'] = "";
+$text['label-exit_sound']['vi'] = "Âm thanh tồn tại";
 
 $text['label-exit_action']['en-us'] = "Exit Action";
 $text['label-exit_action']['ar-eg'] = "";
@@ -440,6 +460,7 @@ $text['label-exit_action']['ro-ro'] = "";
 $text['label-exit_action']['ru-ru'] = "Активизация Выхода";
 $text['label-exit_action']['sv-se'] = "Avslutningsaktion";
 $text['label-exit_action']['uk-ua'] = "";
+$text['label-exit_action']['vi'] = "Hoạt động tồn tại";
 
 $text['label-direct_dial']['en-us'] = "Direct Dial";
 $text['label-direct_dial']['ar-eg'] = "";
@@ -460,6 +481,7 @@ $text['label-direct_dial']['ro-ro'] = "";
 $text['label-direct_dial']['ru-ru'] = "Прямой набор";
 $text['label-direct_dial']['sv-se'] = "Direkt Ringning";
 $text['label-direct_dial']['uk-ua'] = "";
+$text['label-direct_dial']['vi'] = "Quay số trực tiếp";
 
 $text['label-digit_length']['en-us'] = "Digit Length";
 $text['label-digit_length']['ar-eg'] = "";
@@ -480,6 +502,7 @@ $text['label-digit_length']['ro-ro'] = "";
 $text['label-digit_length']['ru-ru'] = "Количество цифр номера";
 $text['label-digit_length']['sv-se'] = "Nummerlängd";
 $text['label-digit_length']['uk-ua'] = "";
+$text['label-digit_length']['vi'] = "Độ dài chữ số";
 
 $text['label-destination']['en-us'] = "Destination";
 $text['label-destination']['ar-eg'] = "";
@@ -500,6 +523,7 @@ $text['label-destination']['ro-ro'] = "";
 $text['label-destination']['ru-ru'] = "Место назначения";
 $text['label-destination']['sv-se'] = "Destination";
 $text['label-destination']['uk-ua'] = "";
+$text['label-destination']['vi'] = "Đích đến";
 
 $text['label-comfirm_macro']['en-us'] = "Confirm Macro";
 $text['label-comfirm_macro']['ar-eg'] = "";
@@ -520,6 +544,7 @@ $text['label-comfirm_macro']['ro-ro'] = "";
 $text['label-comfirm_macro']['ru-ru'] = "Подтвердить макрос";
 $text['label-comfirm_macro']['sv-se'] = "Konfirmera Macro";
 $text['label-comfirm_macro']['uk-ua'] = "";
+$text['label-comfirm_macro']['vi'] = "Xác nhận Macro";
 
 $text['label-comfirm_key']['en-us'] = "Confirm Key";
 $text['label-comfirm_key']['ar-eg'] = "";
@@ -540,6 +565,7 @@ $text['label-comfirm_key']['ro-ro'] = "";
 $text['label-comfirm_key']['ru-ru'] = "Подтвердить ключ";
 $text['label-comfirm_key']['sv-se'] = "Konfirmera Knapp";
 $text['label-comfirm_key']['uk-ua'] = "";
+$text['label-comfirm_key']['vi'] = "Xác nhận Key";
 
 $text['label-comfirm_attempts']['en-us'] = "Confirm Attempts";
 $text['label-comfirm_attempts']['ar-eg'] = "";
@@ -560,6 +586,7 @@ $text['label-comfirm_attempts']['ro-ro'] = "";
 $text['label-comfirm_attempts']['ru-ru'] = "Подтвердить попытки";
 $text['label-comfirm_attempts']['sv-se'] = "Konfirmera Försök";
 $text['label-comfirm_attempts']['uk-ua'] = "";
+$text['label-comfirm_attempts']['vi'] = "Xác nhận thử";
 
 $text['label-caller_id_name_prefix']['en-us'] = "Caller ID Name Prefix";
 $text['label-caller_id_name_prefix']['ar-eg'] = "";
@@ -580,26 +607,7 @@ $text['label-caller_id_name_prefix']['ro-ro'] = "";
 $text['label-caller_id_name_prefix']['ru-ru'] = "Префикс имени (Caller ID) вызывающего абонента";
 $text['label-caller_id_name_prefix']['sv-se'] = "Caller ID Namn Prefix";
 $text['label-caller_id_name_prefix']['uk-ua'] = "";
-
-$text['label-copy']['en-us'] = "Copy";
-$text['label-copy']['ar-eg'] = "Copy";
-$text['label-copy']['de-at'] = "Copy";
-$text['label-copy']['de-ch'] = "Copy";
-$text['label-copy']['de-de'] = "Copy";
-$text['label-copy']['es-cl'] = "Copy";
-$text['label-copy']['es-mx'] = "Copy";
-$text['label-copy']['fr-ca'] = "Copy";
-$text['label-copy']['fr-fr'] = "Copy";
-$text['label-copy']['he-il'] = "Copy";
-$text['label-copy']['it-it'] = "Copy";
-$text['label-copy']['nl-nl'] = "Copy";
-$text['label-copy']['pl-pl'] = "Copy";
-$text['label-copy']['pt-br'] = "Copy";
-$text['label-copy']['pt-pt'] = "Copy";
-$text['label-copy']['ro-ro'] = "Copy";
-$text['label-copy']['ru-ru'] = "Copy";
-$text['label-copy']['sv-se'] = "Copy";
-$text['label-copy']['uk-ua'] = "Copy";
+$text['label-caller_id_name_prefix']['vi'] = "Tiền tố trên tên ID người gọi";
 
 $text['header-option_list']['en-us'] = "Option List";
 $text['header-option_list']['ar-eg'] = "";
@@ -620,6 +628,7 @@ $text['header-option_list']['ro-ro'] = "";
 $text['header-option_list']['ru-ru'] = "Список Опций";
 $text['header-option_list']['sv-se'] = "Val Lista";
 $text['header-option_list']['uk-ua'] = "";
+$text['header-option_list']['vi'] = "Danh sách tùy chọn";
 
 $text['header-option_edit']['en-us'] = "IVR Menu Option Edit";
 $text['header-option_edit']['ar-eg'] = "";
@@ -640,6 +649,7 @@ $text['header-option_edit']['ro-ro'] = "";
 $text['header-option_edit']['ru-ru'] = "Редактирование Опций Голосового Меню (IVR)";
 $text['header-option_edit']['sv-se'] = "Ändra IVR Meny Val";
 $text['header-option_edit']['uk-ua'] = "";
+$text['header-option_edit']['vi'] = "Tùy chọn Chỉnh sửa menu IVR ";
 
 $text['header-option_add']['en-us'] = "IVR Menu Option Add";
 $text['header-option_add']['ar-eg'] = "";
@@ -660,6 +670,7 @@ $text['header-option_add']['ro-ro'] = "";
 $text['header-option_add']['ru-ru'] = "Добавление Опций Голосового меню (IVR)";
 $text['header-option_add']['sv-se'] = "Lägg Till IVR Meny Val";
 $text['header-option_add']['uk-ua'] = "";
+$text['header-option_add']['vi'] = "Thêm Tùy chọn Chỉnh sửa menu IVR";
 
 $text['header-ivr_menus']['en-us'] = "IVR Menus";
 $text['header-ivr_menus']['ar-eg'] = "";
@@ -680,6 +691,7 @@ $text['header-ivr_menus']['ro-ro'] = "";
 $text['header-ivr_menus']['ru-ru'] = "Голосовых Меню (IVR)";
 $text['header-ivr_menus']['sv-se'] = "IVR Menyer";
 $text['header-ivr_menus']['uk-ua'] = "";
+$text['header-ivr_menus']['vi'] = "IVR Menus";
 
 $text['header-ivr_menu']['en-us'] = "IVR Menu";
 $text['header-ivr_menu']['ar-eg'] = "";
@@ -700,6 +712,7 @@ $text['header-ivr_menu']['ro-ro'] = "";
 $text['header-ivr_menu']['ru-ru'] = "Голосового Меню (IVR)";
 $text['header-ivr_menu']['sv-se'] = "IVR Meny";
 $text['header-ivr_menu']['uk-ua'] = "";
+$text['header-ivr_menu']['vi'] = "IVR Menu";
 
 $text['description-tts_voice']['en-us'] = "Text to speech voice.";
 $text['description-tts_voice']['ar-eg'] = "";
@@ -720,6 +733,7 @@ $text['description-tts_voice']['ro-ro'] = "";
 $text['description-tts_voice']['ru-ru'] = "Текст для речи голосом.";
 $text['description-tts_voice']['sv-se'] = "Text till tal röst.";
 $text['description-tts_voice']['uk-ua'] = "";
+$text['description-tts_voice']['vi'] = "Chuyển văn bản thành giọng nói.";
 
 $text['description-tts_engine']['en-us'] = "Text to speech engine.";
 $text['description-tts_engine']['ar-eg'] = "";
@@ -740,6 +754,7 @@ $text['description-tts_engine']['ro-ro'] = "";
 $text['description-tts_engine']['ru-ru'] = "Текст для синтезатора речи.";
 $text['description-tts_engine']['sv-se'] = "Text till tal 'engine'.";
 $text['description-tts_engine']['uk-ua'] = "";
+$text['description-tts_engine']['vi'] = "Chuyển văn bản thành giọng nói.";
 
 $text['description-timeout']['en-us'] = "The number of milliseconds to wait after playing the greeting or the confirm macro.";
 $text['description-timeout']['ar-eg'] = "";
@@ -760,6 +775,7 @@ $text['description-timeout']['ro-ro'] = "";
 $text['description-timeout']['ru-ru'] = "Количество миллисекунд ожидания после воспроизведения приветствия или максимальное время для подтверждения.";
 $text['description-timeout']['sv-se'] = "Antal millisekunder att vänta efter hälsning eller konfirmera macro.";
 $text['description-timeout']['uk-ua'] = "";
+$text['description-timeout']['vi'] = "Số mili giây chờ đợi sau khi phát lời chào hoặc xác nhận.";
 
 $text['description-ring_back']['en-us'] = "Defines what the caller will hear while the destination is being called.";
 $text['description-ring_back']['ar-eg'] = "";
@@ -780,6 +796,7 @@ $text['description-ring_back']['ro-ro'] = "";
 $text['description-ring_back']['ru-ru'] = "Определяет, что будет слышать собеседник во время вызова адресата.";
 $text['description-ring_back']['sv-se'] = "Definierar vad inringande kommer att höra under tiden som destinationen rings upp.";
 $text['description-ring_back']['uk-ua'] = "";
+$text['description-ring_back']['vi'] = "Xác định những gì người gọi sẽ nghe trong khi đích đến đang được gọi.";
 
 $text['description-order']['en-us'] = "Select the order.";
 $text['description-order']['ar-eg'] = "";
@@ -800,6 +817,7 @@ $text['description-order']['ro-ro'] = "";
 $text['description-order']['ru-ru'] = "Выбрать порядок.";
 $text['description-order']['sv-se'] = "Välj ordning.";
 $text['description-order']['uk-ua'] = "";
+$text['description-order']['vi'] = "Chọn thứ tự.";
 
 $text['description-options']['en-us'] = "Define caller options for the IVR menu.";
 $text['description-options']['ar-eg'] = "";
@@ -820,6 +838,7 @@ $text['description-options']['ro-ro'] = "";
 $text['description-options']['ru-ru'] = "Определите параметры вызывающего абонента для Голосового Меню (IVR).";
 $text['description-options']['sv-se'] = "Definiera inringandes val i IVR Meny.";
 $text['description-options']['uk-ua'] = "";
+$text['description-options']['vi'] = "Xác định các tùy chọn người gọi cho menu IVR.";
 
 $text['description-option_list']['en-us'] = "The recording presents options to the caller. Options match key presses (DTMF digits) from the caller which directs the call to the destinations.";
 $text['description-option_list']['ar-eg'] = "";
@@ -840,6 +859,7 @@ $text['description-option_list']['ro-ro'] = "";
 $text['description-option_list']['ru-ru'] = "Запись предоставляет параметры вызывающему абоненту. Опции сопоставляют нажатия клавиш (цифры DTMF) у вызывающего абонента, который направляет вызов адресатам.";
 $text['description-option_list']['sv-se'] = "Inspelningen presenterar val för inringande. Valen matchar knapptryckningar (DTMF) från inringande som sedan kopplar inringande till olika destinationer.";
 $text['description-option_list']['uk-ua'] = "";
+$text['description-option_list']['vi'] = "Ghi âm trình bày các tùy chọn cho người gọi. Tùy chọn khớp phím bấm (chữ số DTMF) từ người gọi để điều hướng cuộc gọi đến đích. ";
 
 $text['description-option_add_edit']['en-us'] = "The recording presents options to the caller. Options match key presses (DTMF digits) from the caller which directs the call to the destinations. ";
 $text['description-option_add_edit']['ar-eg'] = "";
@@ -860,6 +880,7 @@ $text['description-option_add_edit']['ro-ro'] = "";
 $text['description-option_add_edit']['ru-ru'] = "Запись предоставляет параметры вызывающему абоненту. Опции сопоставляют нажатия клавиш (цифры DTMF) у вызывающего абонента, который направляет вызов адресатам.";
 $text['description-option_add_edit']['sv-se'] = "Inspelningen presenterar val för inringande. Valen matchar knapptryckningar (DTMF) från inringande som sedan kopplar inringande till olika destinationer.";
 $text['description-option_add_edit']['uk-ua'] = "";
+$text['description-option_add_edit']['vi'] = "Ghi âm trình bày các tùy chọn cho người gọi. Tùy chọn khớp phím bấm (chữ số DTMF) từ người gọi để điều khiển cuộc gọi đến đích. ";
 
 $text['description-option']['en-us'] = "Any number between 1-5 digits or regular expressions.";
 $text['description-option']['ar-eg'] = "";
@@ -880,6 +901,7 @@ $text['description-option']['ro-ro'] = "";
 $text['description-option']['ru-ru'] = "Любое число от 1 до 5 цифр или регулярные выражения.";
 $text['description-option']['sv-se'] = "Ett nummer mellan 1-5 siffror eller ett reguljärt uttryck.";
 $text['description-option']['uk-ua'] = "";
+$text['description-option']['vi'] = "Bất kỳ số nào từ 1-5 chữ số hoặc biểu thức chính quy.";
 
 $text['description-name']['en-us'] = "Enter a name for the IVR menu.";
 $text['description-name']['ar-eg'] = "";
@@ -900,6 +922,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя для Голосового Меню (IVR).";
 $text['description-name']['sv-se'] = "Skriv in namnet på IVR Menyn.";
 $text['description-name']['uk-ua'] = "";
+$text['description-name']['vi'] = "Nhập tên cho menu IVR.";
 
 $text['description-max_timeouts']['en-us'] = "Maximum number of timeouts before exit.";
 $text['description-max_timeouts']['ar-eg'] = "";
@@ -920,6 +943,7 @@ $text['description-max_timeouts']['ro-ro'] = "";
 $text['description-max_timeouts']['ru-ru'] = "Максимальное количество тайм-аутов перед выходом.";
 $text['description-max_timeouts']['sv-se'] = "Max antal timeout innan slut.";
 $text['description-max_timeouts']['uk-ua'] = "";
+$text['description-max_timeouts']['vi'] = "Số lần hết giờ tối đa trước khi thoát.";
 
 $text['description-max_failures']['en-us'] = "Maximum number of retries before exit.";
 $text['description-max_failures']['ar-eg'] = "";
@@ -940,6 +964,7 @@ $text['description-max_failures']['ro-ro'] = "";
 $text['description-max_failures']['ru-ru'] = "Максимальное количество попыток до выхода.";
 $text['description-max_failures']['sv-se'] = "Max antal försök innan slut.";
 $text['description-max_failures']['uk-ua'] = "";
+$text['description-max_failures']['vi'] = "Số lần thử lại tối đa trước khi thoát.";
 
 $text['description-ivr_menus']['en-us'] = "The IVR Menu plays a recording or a pre-defined phrase that presents the caller with options to choose from. Each option has a corresponding destination. The destinations can be extensions, voicemail, other IVR menus, call groups, FAX extensions, and more.";
 $text['description-ivr_menus']['ar-eg'] = "";
@@ -960,6 +985,7 @@ $text['description-ivr_menus']['ro-ro'] = "";
 $text['description-ivr_menus']['ru-ru'] = "Голосовые Меню (IVR) воспроизводит запись или предопределенную фразу, предоставляющую абоненту варианты выбора. Каждая опция имеет соответствующий пункт назначения. Направления могут быть расширениями, Голосовой Почтой, другими Голосовыми Меню (IVR), Группами Вызовов, Сервером FAX и т.д.";
 $text['description-ivr_menus']['sv-se'] = "IVR Menyn spelar upp en inspelning eller en fördefinierad fras som ger uppringaren alternativ att välja mellan. Varje val har en motsvarande destination. Destinationerna kan vara anknytningar, röstbrevlåda, andra IVR menyer , samtalsgrupper, FAX anknytningar mm.";
 $text['description-ivr_menus']['uk-ua'] = "";
+$text['description-ivr_menus']['vi'] = "Menu IVR phát một bản ghi âm hoặc cụm từ được xác định trước trình bày cho người gọi các tùy chọn để chọn. Mỗi tùy chọn có một đích đến tương ứng.Đích đến có thể là máy nhánh, thư thoại, các menu IVR khác, nhóm gọi,FAX và hơn thế nữa.";
 
 $text['description-ivr_menu']['en-us'] = "The IVR Menu plays a recording or a pre-defined phrase that presents the caller with options to choose from. Each option has a corresponding destination. The destinations can be extensions, voicemail, other IVR menus, call groups, FAX extensions, and more.";
 $text['description-ivr_menu']['ar-eg'] = "";
@@ -980,6 +1006,7 @@ $text['description-ivr_menu']['ro-ro'] = "";
 $text['description-ivr_menu']['ru-ru'] = "Голосовое Меню (IVR) воспроизводит запись или предопределенную фразу, предоставляющую абоненту варианты выбора. Каждая опция имеет соответствующий пункт назначения. Направления могут быть расширениями, Голосовой Почтой, другими Голосовыми Меню (IVR), Группами Вызовов, Сервером FAX и т.д.";
 $text['description-ivr_menu']['sv-se'] = "IVR Menyn spelar upp en inspelning eller en fördefinierad fras som ger uppringaren alternativ att välja mellan. Varje val har en motsvarande destination. Destinationerna kan vara anknytningar, röstbrevlåda, andra IVR menyer , samtalsgrupper, FAX anknytningar mm.";
 $text['description-ivr_menu']['uk-ua'] = "";
+$text['description-ivr_menu']['vi'] = "Menu IVR phát một bản ghi âm hoặc cụm từ được xác định trước trình bày cho người gọi các tùy chọn để chọn. Mỗi tùy chọn có một đích đến tương ứng.Đích đến có thể là máy nhánh, thư thoại, các menu IVR khác, nhóm gọi,FAX và hơn thế nữa.";
 
 $text['description-invalid_sound']['en-us'] = "Played when and invalid option is chosen.";
 $text['description-invalid_sound']['ar-eg'] = "";
@@ -1000,6 +1027,7 @@ $text['description-invalid_sound']['ro-ro'] = "";
 $text['description-invalid_sound']['ru-ru'] = "Проиграется, когда выбрана несуществующая опция.";
 $text['description-invalid_sound']['sv-se'] = "Spelas upp när ett ogiltigt val använts.";
 $text['description-invalid_sound']['uk-ua'] = "";
+$text['description-invalid_sound']['vi'] = "Phát khi tùy chọn không hợp lệ.";
 
 $text['description-inter-digit_timeout']['en-us'] = "The number of milliseconds to wait between digits.";
 $text['description-inter-digit_timeout']['ar-eg'] = "";
@@ -1020,6 +1048,7 @@ $text['description-inter-digit_timeout']['ro-ro'] = "";
 $text['description-inter-digit_timeout']['ru-ru'] = "Число миллисекунд ожидания набора между цифрами.";
 $text['description-inter-digit_timeout']['sv-se'] = "Antal millisekunder att vänta mellan siffror.";
 $text['description-inter-digit_timeout']['uk-ua'] = "";
+$text['description-inter-digit_timeout']['vi'] = "Số mili giây chờ giữa các chữ số.";
 
 $text['description-greet_short']['en-us'] = "The short greeting is played when returning to the menu.";
 $text['description-greet_short']['ar-eg'] = "";
@@ -1040,6 +1069,7 @@ $text['description-greet_short']['ro-ro'] = "";
 $text['description-greet_short']['ru-ru'] = "Кратковременное приветствие воспроизводимое при возврате в меню.";
 $text['description-greet_short']['sv-se'] = "Den korta hälsningen spelas upp när man kommer tillbaka till IVR Menyn.";
 $text['description-greet_short']['uk-ua'] = "";
+$text['description-greet_short']['vi'] = "Lời chào ngắn được phát khi quay lại menu.";
 
 $text['description-greet_long']['en-us'] = "The long greeting is played when entering the menu.";
 $text['description-greet_long']['ar-eg'] = "";
@@ -1060,6 +1090,7 @@ $text['description-greet_long']['ro-ro'] = "";
 $text['description-greet_long']['ru-ru'] = "Длительное приветствие воспроизводимое при входе в меню.";
 $text['description-greet_long']['sv-se'] = "Den långa hälsningen spelas upp när man kommer till IVR Menyn.";
 $text['description-greet_long']['uk-ua'] = "";
+$text['description-greet_long']['vi'] = "Lời chào dài được phát khi vào menu.";
 
 $text['description-extension']['en-us'] = "Enter the extension number.";
 $text['description-extension']['ar-eg'] = "";
@@ -1080,6 +1111,7 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Введите внутреннего номера.";
 $text['description-extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-extension']['uk-ua'] = "";
+$text['description-extension']['vi'] = "Nhập số máy nhánh.";
 
 $text['description-exit_sound']['en-us'] = "Played when leaving the menu.";
 $text['description-exit_sound']['ar-eg'] = "";
@@ -1100,6 +1132,7 @@ $text['description-exit_sound']['ro-ro'] = "";
 $text['description-exit_sound']['ru-ru'] = "Проиграется при выходе из меню.";
 $text['description-exit_sound']['sv-se'] = "Spelas när man lämnar IVR Menyn.";
 $text['description-exit_sound']['uk-ua'] = "";
+$text['description-exit_sound']['vi'] = "Phát khi rời khỏi menu.";
 
 $text['description-exit_action']['en-us'] = "Select the exit action to be performed if the IVR exits.";
 $text['description-exit_action']['ar-eg'] = "";
@@ -1120,6 +1153,7 @@ $text['description-exit_action']['ro-ro'] = "";
 $text['description-exit_action']['ru-ru'] = "Выберите действие выхода, которое необходимо выполнить, если Голосовое Меню (IVR) завершает работу.";
 $text['description-exit_action']['sv-se'] = "Välj en aktion som skall utföras när IVR Menyn är 'slut'";
 $text['description-exit_action']['uk-ua'] = "";
+$text['description-exit_action']['vi'] = "Chọn hành động thoát sẽ được thực hiện nếu IVR thoát.";
 
 $text['description-enabled']['en-us'] = "Set the status of this IVR Menu.";
 $text['description-enabled']['ar-eg'] = "";
@@ -1140,6 +1174,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Установите статус этого Голосового Меню (IVR).";
 $text['description-enabled']['sv-se'] = "Välj status på denna IVR Meny.";
 $text['description-enabled']['uk-ua'] = "";
+$text['description-enabled']['vi'] = "Đặt trạng thái của Menu IVR này.";
 
 $text['description-direct_dial']['en-us'] = "Define whether callers can dial directly to registered extensions.";
 $text['description-direct_dial']['ar-eg'] = "";
@@ -1160,6 +1195,7 @@ $text['description-direct_dial']['ro-ro'] = "";
 $text['description-direct_dial']['ru-ru'] = "Определите, могут ли вызывающие абоненты напрямую набирать номера для зарегистрированных внутренних номеров.";
 $text['description-direct_dial']['sv-se'] = "Välj om inringande skall kunna ringa direkt till registrerade anknytningar.";
 $text['description-direct_dial']['uk-ua'] = "";
+$text['description-direct_dial']['vi'] = "Xác định xem người gọi có thể quay số trực tiếp đến máy nhánh đã đăng ký không.";
 
 $text['description-digit_length']['en-us'] = "Maximum number of digits allowed.";
 $text['description-digit_length']['ar-eg'] = "";
@@ -1180,6 +1216,7 @@ $text['description-digit_length']['ro-ro'] = "";
 $text['description-digit_length']['ru-ru'] = "Максимальное количество цифр.";
 $text['description-digit_length']['sv-se'] = "Max antal siffror som tillåts.";
 $text['description-digit_length']['uk-ua'] = "";
+$text['description-digit_length']['vi'] = "Số chữ số tối đa được phép.";
 
 $text['description-destination']['en-us'] = "Select the destination.";
 $text['description-destination']['ar-eg'] = "";
@@ -1200,6 +1237,7 @@ $text['description-destination']['ro-ro'] = "";
 $text['description-destination']['ru-ru'] = "Выберите пункт назначения.";
 $text['description-destination']['sv-se'] = "Välj destination.";
 $text['description-destination']['uk-ua'] = "";
+$text['description-destination']['vi'] = "Chọn đích đến.";
 
 $text['description-comfirm_macro']['en-us'] = "Enter the confirm macro.";
 $text['description-comfirm_macro']['ar-eg'] = "";
@@ -1220,6 +1258,7 @@ $text['description-comfirm_macro']['ro-ro'] = "";
 $text['description-comfirm_macro']['ru-ru'] = "Введите макрос подтверждения.";
 $text['description-comfirm_macro']['sv-se'] = "Ange bekräftelse makro.";
 $text['description-comfirm_macro']['uk-ua'] = "";
+$text['description-comfirm_macro']['vi'] = "Nhập xác nhận macro.";
 
 $text['description-comfirm_key']['en-us'] = "Enter the confirm key.";
 $text['description-comfirm_key']['ar-eg'] = "";
@@ -1240,6 +1279,7 @@ $text['description-comfirm_key']['ro-ro'] = "";
 $text['description-comfirm_key']['ru-ru'] = "Введите ключ подтверждения.";
 $text['description-comfirm_key']['sv-se'] = "Ange bekräftelse knappen.";
 $text['description-comfirm_key']['uk-ua'] = "";
+$text['description-comfirm_key']['vi'] = "Nhập key xác nhận.";
 
 $text['description-comfirm_attempts']['en-us'] = "The maximum number of confirm attempts allowed.";
 $text['description-comfirm_attempts']['ar-eg'] = "";
@@ -1260,6 +1300,7 @@ $text['description-comfirm_attempts']['ro-ro'] = "";
 $text['description-comfirm_attempts']['ru-ru'] = "Разрешенное максимальное количество попыток подтверждения.";
 $text['description-comfirm_attempts']['sv-se'] = "Max antal bekräftelse försök som tillåts.";
 $text['description-comfirm_attempts']['uk-ua'] = "";
+$text['description-comfirm_attempts']['vi'] = "Số lần thử xác nhận tối đa được phép.";
 
 $text['description-caller_id_name_prefix']['en-us'] = "Set a prefix on the caller ID name.";
 $text['description-caller_id_name_prefix']['ar-eg'] = "";
@@ -1280,5 +1321,6 @@ $text['description-caller_id_name_prefix']['ro-ro'] = "";
 $text['description-caller_id_name_prefix']['ru-ru'] = "Задайте префикс имени (ID) идентификатора вызывающего абонента.";
 $text['description-caller_id_name_prefix']['sv-se'] = "Ange ett prefix för Caller ID namn.";
 $text['description-caller_id_name_prefix']['uk-ua'] = "";
+$text['description-caller_id_name_prefix']['vi'] = "Đặt tiền tố trên tên ID người gọi.";
 
 ?>

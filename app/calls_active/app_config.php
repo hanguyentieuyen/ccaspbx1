@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "Активные каналы в системе";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Các kênh hoạt động trên hệ thống.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][0]['name'] = "call_active_view";

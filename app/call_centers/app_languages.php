@@ -20,6 +20,7 @@ $text['title-call_centers']['ro-ro'] = "";
 $text['title-call_centers']['ru-ru'] = "Колл-центр";
 $text['title-call_centers']['sv-se'] = "Call Center";
 $text['title-call_centers']['uk-ua'] = "Кол-центр";
+$text['title-call_centers']['vi'] = "Trung tâm của gọi";
 
 $text['title-call_center_tier_edit']['en-us'] = "Call Center Tier";
 $text['title-call_center_tier_edit']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-call_center_tier_edit']['ro-ro'] = "";
 $text['title-call_center_tier_edit']['ru-ru'] = "Компетенция Колл-центра";
 $text['title-call_center_tier_edit']['sv-se'] = "Call Center Kunskap";
 $text['title-call_center_tier_edit']['uk-ua'] = "Рівень кол-центра";
+$text['title-call_center_tier_edit']['vi'] = "Trung tâm cuộc gọi";
 
 $text['title-call_center_queues_edit']['en-us'] = "Edit Call Center Queue";
 $text['title-call_center_queues_edit']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-call_center_queues_edit']['ro-ro'] = "";
 $text['title-call_center_queues_edit']['ru-ru'] = "Редактировать очередь Колл-центра";
 $text['title-call_center_queues_edit']['sv-se'] = "Ändra Call Center Kö";
 $text['title-call_center_queues_edit']['uk-ua'] = "";
+$text['title-call_center_queues_edit']['vi'] = "Chỉnh sửa hàng chờ trung tâm cuộc gọi";
 
 $text['title-call_center_queues_add']['en-us'] = "Add Call Center Queue";
 $text['title-call_center_queues_add']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-call_center_queues_add']['ro-ro'] = "";
 $text['title-call_center_queues_add']['ru-ru'] = "Добавить очередь Колл-центра";
 $text['title-call_center_queues_add']['sv-se'] = "Lägg till Call Center Kö";
 $text['title-call_center_queues_add']['uk-ua'] = "";
+$text['title-call_center_queues_add']['vi'] = "Thêm hàng chờ trung tâm cuộc gọi";
 
 $text['title-call_center_queues']['en-us'] = "Call Center Queues";
 $text['title-call_center_queues']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-call_center_queues']['ro-ro'] = "";
 $text['title-call_center_queues']['ru-ru'] = "Очереди Колл-центра";
 $text['title-call_center_queues']['sv-se'] = "Call Center Kö:er";
 $text['title-call_center_queues']['uk-ua'] = "Черги кол-центра";
+$text['title-call_center_queues']['vu'] = "Hàng chờ của trung tâm cuộc gọi";
 
 $text['title-call_center_queue_edit']['en-us'] = "Call Center Queue";
 $text['title-call_center_queue_edit']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['title-call_center_queue_edit']['ro-ro'] = "";
 $text['title-call_center_queue_edit']['ru-ru'] = "Очередь Колл-центра";
 $text['title-call_center_queue_edit']['sv-se'] = "Call Center Kö";
 $text['title-call_center_queue_edit']['uk-ua'] = "Черга кол-центра";
+$text['title-call_center_queue_edit']['vi'] = "Hàng chờ của trung tâm cuộc gọi";
 
 $text['title-call_center_queue_add']['en-us'] = "Call Center Queue";
 $text['title-call_center_queue_add']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['title-call_center_queue_add']['ro-ro'] = "";
 $text['title-call_center_queue_add']['ru-ru'] = "Очередь Колл-центра";
 $text['title-call_center_queue_add']['sv-se'] = "Call Center Kö";
 $text['title-call_center_queue_add']['uk-ua'] = "Черга кол-центра";
+$text['title-call_center_queue_add']['vi'] = "Hàng chờ của trung tâm cuộc gọi";
 
 $text['title-call_center_agents']['en-us'] = "Call Center Agents";
 $text['title-call_center_agents']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['title-call_center_agents']['ro-ro'] = "";
 $text['title-call_center_agents']['ru-ru'] = "Операторы Колл-центра";
 $text['title-call_center_agents']['sv-se'] = "Call Center Agenter";
 $text['title-call_center_agents']['uk-ua'] = "Оператори кол-центра";
+$text['title-call_center_agents']['vi'] = "Agent của trung tâm của gọi";
 
 $text['title-call_center_agent_status']['en-us'] = "Call Center Agent Status";
 $text['title-call_center_agent_status']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['title-call_center_agent_status']['ro-ro'] = "";
 $text['title-call_center_agent_status']['ru-ru'] = "Статус оператора Колл-центра";
 $text['title-call_center_agent_status']['sv-se'] = "Call Center Agent Status";
 $text['title-call_center_agent_status']['uk-ua'] = "Статус оператора кол-центра";
+$text['title-call_center_agent_status']['vi'] = "Trạng thái Agent của trung tâm cuộc gọi";
 
 $text['title-call_center_agent_edit']['en-us'] = "Call Center Agent";
 $text['title-call_center_agent_edit']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['title-call_center_agent_edit']['ro-ro'] = "";
 $text['title-call_center_agent_edit']['ru-ru'] = "Оператор Колл-центра";
 $text['title-call_center_agent_edit']['sv-se'] = "Call Center Agent";
 $text['title-call_center_agent_edit']['uk-ua'] = "Оператор кол-центра";
+$text['title-call_center_agent_edit']['vi'] = "Agent của trung tâm của gọi ";
 
 $text['title-call_center_agent_add']['en-us'] = "Call Center Agent";
 $text['title-call_center_agent_add']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['title-call_center_agent_add']['ro-ro'] = "";
 $text['title-call_center_agent_add']['ru-ru'] = "Оператор Колл-центра";
 $text['title-call_center_agent_add']['sv-se'] = "Call Center Agent";
 $text['title-call_center_agent_add']['uk-ua'] = "Оператор кол-центра";
+$text['title-call_center_agent_add']['vi'] = " Agent của trung tâm của gọi";
 
 $text['title-call_center']['en-us'] = "Call Center";
 $text['title-call_center']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['title-call_center']['ro-ro'] = "";
 $text['title-call_center']['ru-ru'] = "Колл-центр";
 $text['title-call_center']['sv-se'] = "Call Center";
 $text['title-call_center']['uk-ua'] = "Кол-центр";
+$text['title-call_center']['vi'] = "Trung tâm cuộc gọi";
 
 $text['option-usring']['en-us'] = "us-ring";
 $text['option-usring']['ar-eg'] = "";
@@ -300,6 +312,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-top_down']['en-us'] = "Top Down";
 $text['option-top_down']['ar-eg'] = "";
@@ -320,6 +333,7 @@ $text['option-top_down']['ro-ro'] = "";
 $text['option-top_down']['ru-ru'] = "Выпадающий";
 $text['option-top_down']['sv-se'] = "Uppifrån Ned";
 $text['option-top_down']['uk-ua'] = "";
+$text['option-top_down']['vi'] = "Từ trên xuống";
 
 $text['option-system']['en-us'] = "System";
 $text['option-system']['ar-eg'] = "";
@@ -340,6 +354,7 @@ $text['option-system']['ro-ro'] = "";
 $text['option-system']['ru-ru'] = "Система";
 $text['option-system']['sv-se'] = "System";
 $text['option-system']['uk-ua'] = "Система";
+$text['option-system']['vi'] = "Hệ thống";
 
 $text['option-sequentially_by_next_agent_order']['en-us'] = "Sequentially By Next Agent Order";
 $text['option-sequentially_by_next_agent_order']['ar-eg'] = "";
@@ -360,6 +375,7 @@ $text['option-sequentially_by_next_agent_order']['ro-ro'] = "";
 $text['option-sequentially_by_next_agent_order']['ru-ru'] = "Последовательно, к следующему оператору по порядку";
 $text['option-sequentially_by_next_agent_order']['sv-se'] = "Sekventiellt genom nästa Agent ordning";
 $text['option-sequentially_by_next_agent_order']['uk-ua'] = "Послідовно до наступного оператора за порядком";
+$text['option-sequentially_by_next_agent_order']['vi'] = "Tuần tự theo thứ tự agent tiếp theo";
 
 $text['option-sequentially_by_agent_order']['en-us'] = "Sequentially By Agent Order";
 $text['option-sequentially_by_agent_order']['ar-eg'] = "";
@@ -380,6 +396,7 @@ $text['option-sequentially_by_agent_order']['ro-ro'] = "";
 $text['option-sequentially_by_agent_order']['ru-ru'] = "Последовательно, к следующему оператору";
 $text['option-sequentially_by_agent_order']['sv-se'] = "Sekventiellt genom Agent ordning";
 $text['option-sequentially_by_agent_order']['uk-ua'] = "";
+$text['option-sequentially_by_agent_order']['vi'] = "Tuần tự theo thứ tự agent";
 
 $text['option-rsring']['en-us'] = "rs-ring";
 $text['option-rsring']['ar-eg'] = "";
@@ -440,6 +457,7 @@ $text['option-ring_all']['ro-ro'] = "";
 $text['option-ring_all']['ru-ru'] = "Звонят все";
 $text['option-ring_all']['sv-se'] = "Ring på Alla";
 $text['option-ring_all']['uk-ua'] = "Дзвонити всім";
+$text['option-ring_all']['vi'] = "Rung chuông tất cả";
 
 $text['option-random']['en-us'] = "Random";
 $text['option-random']['ar-eg'] = "";
@@ -460,6 +478,7 @@ $text['option-random']['ro-ro'] = "";
 $text['option-random']['ru-ru'] = "Случайно";
 $text['option-random']['sv-se'] = "Slumpvis";
 $text['option-random']['uk-ua'] = "Випадково";
+$text['option-random']['vi'] = "Ngẫu nhiên";
 
 $text['option-queue']['en-us'] = "Queue";
 $text['option-queue']['ar-eg'] = "";
@@ -480,6 +499,7 @@ $text['option-queue']['ro-ro'] = "";
 $text['option-queue']['ru-ru'] = "Очередь";
 $text['option-queue']['sv-se'] = "Kö";
 $text['option-queue']['uk-ua'] = "Черга";
+$text['option-queue']['vi'] = "Hàng chờ";
 
 $text['option-ptring']['en-us'] = "pt-ring";
 $text['option-ptring']['ar-eg'] = "";
@@ -520,6 +540,7 @@ $text['option-on_break']['ro-ro'] = "";
 $text['option-on_break']['ru-ru'] = "Перерыв";
 $text['option-on_break']['sv-se'] = "På Rast";
 $text['option-on_break']['uk-ua'] = "На перерві";
+$text['option-on_break']['vi'] = "Đang hủy";
 
 $text['option-no_change']['en-us'] = "No Change";
 $text['option-no_change']['ar-eg'] = "";
@@ -540,6 +561,7 @@ $text['option-no_change']['ro-ro'] = "";
 $text['option-no_change']['ru-ru'] = "Без изменения";
 $text['option-no_change']['sv-se'] = "Ingen Förändring";
 $text['option-no_change']['uk-ua'] = "Без змін";
+$text['option-no_change']['vi'] = "Không thay đổi";
 
 $text['option-longest_idle_agent']['en-us'] = "Longest Idle Agent";
 $text['option-longest_idle_agent']['ar-eg'] = "";
@@ -560,6 +582,7 @@ $text['option-longest_idle_agent']['ro-ro'] = "";
 $text['option-longest_idle_agent']['ru-ru'] = "Максимально незанятый оператор";
 $text['option-longest_idle_agent']['sv-se'] = "Agent Längst Ledig";
 $text['option-longest_idle_agent']['uk-ua'] = "";
+$text['option-longest_idle_agent']['vi'] = "Agent rảnh nhất";
 
 $text['option-logged_out']['en-us'] = "Logged Out";
 $text['option-logged_out']['ar-eg'] = "";
@@ -580,6 +603,7 @@ $text['option-logged_out']['ro-ro'] = "";
 $text['option-logged_out']['ru-ru'] = "Выйти";
 $text['option-logged_out']['sv-se'] = "Utloggad";
 $text['option-logged_out']['uk-ua'] = "Вийшов";
+$text['option-logged_out']['vi'] = "Đăng xuất";
 
 $text['option-itring']['en-us'] = "it-ring";
 $text['option-itring']['ar-eg'] = "";
@@ -660,6 +684,7 @@ $text['option-false']['ro-ro'] = "";
 $text['option-false']['ru-ru'] = "Нет";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
+$text['option-false']['vi'] = "Sai";
 
 $text['option-do_not_disturb']['en-us'] = "Do Not Disturb";
 $text['option-do_not_disturb']['ar-eg'] = "";
@@ -680,6 +705,7 @@ $text['option-do_not_disturb']['ro-ro'] = "";
 $text['option-do_not_disturb']['ru-ru'] = "Не беспокоить";
 $text['option-do_not_disturb']['sv-se'] = "Stör Ej";
 $text['option-do_not_disturb']['uk-ua'] = "Не турбувати";
+$text['option-do_not_disturb']['vi'] = "Đừng làm phiền";
 
 $text['option-available_on_demand']['en-us'] = "Available (On Demand)";
 $text['option-available_on_demand']['ar-eg'] = "";
@@ -700,6 +726,7 @@ $text['option-available_on_demand']['ro-ro'] = "";
 $text['option-available_on_demand']['ru-ru'] = "Доступен (по требованию)";
 $text['option-available_on_demand']['sv-se'] = "Tillgänglig (På Begäran)";
 $text['option-available_on_demand']['uk-ua'] = "Доступний (на вимогу)";
+$text['option-available_on_demand']['vi'] = "Có sẵn (Theo yêu cầu)";
 
 $text['option-available']['en-us'] = "Available";
 $text['option-available']['ar-eg'] = "";
@@ -720,6 +747,7 @@ $text['option-available']['ro-ro'] = "";
 $text['option-available']['ru-ru'] = "Доступен";
 $text['option-available']['sv-se'] = "Tillgänglig";
 $text['option-available']['uk-ua'] = "Доступний";
+$text['option-available']['vi'] = "Có sẵn";
 
 $text['option-agent_with_least_talk_time']['en-us'] = "Agent With Least Talk Time";
 $text['option-agent_with_least_talk_time']['ar-eg'] = "";
@@ -740,6 +768,7 @@ $text['option-agent_with_least_talk_time']['ro-ro'] = "";
 $text['option-agent_with_least_talk_time']['ru-ru'] = "Оператор с наименьшим временем разговора";
 $text['option-agent_with_least_talk_time']['sv-se'] = "Agent med minst taltid";
 $text['option-agent_with_least_talk_time']['uk-ua'] = "Оператор з найменшим часом розмови";
+$text['option-agent_with_least_talk_time']['vi'] = "Agent Với thời gian nói chuyện ít nhất";
 
 $text['option-agent_with_fewest_calls']['en-us'] = "Agent With Fewest Calls";
 $text['option-agent_with_fewest_calls']['ar-eg'] = "";
@@ -760,6 +789,7 @@ $text['option-agent_with_fewest_calls']['ro-ro'] = "";
 $text['option-agent_with_fewest_calls']['ru-ru'] = "Оператор c наименьшим количеством вызовов";
 $text['option-agent_with_fewest_calls']['sv-se'] = "Agent med minst antal samtal";
 $text['option-agent_with_fewest_calls']['uk-ua'] = "Оператор з найменшою кількістю дзвінків";
+$text['option-agent_with_fewest_calls']['vi'] = "Agent với các cuộc gọi ít nhất";
 
 $text['message-maximum_queues']['en-us'] = "Maximum Queues:";
 $text['message-maximum_queues']['ar-eg'] = "";
@@ -780,6 +810,7 @@ $text['message-maximum_queues']['ro-ro'] = "";
 $text['message-maximum_queues']['ru-ru'] = "Максимальное количество очередей:";
 $text['message-maximum_queues']['sv-se'] = "Max Antal Kö:er:";
 $text['message-maximum_queues']['uk-ua'] = "Максимальна кількість черг:";
+$text['message-maximum_queues']['vi'] = "Hàng chờ tối đa:";
 
 $text['message-duplicate_agent_id']['en-us'] = "Duplicate Agent ID Detected";
 $text['message-duplicate_agent_id']['ar-eg'] = "";
@@ -800,6 +831,7 @@ $text['message-duplicate_agent_id']['ro-ro'] = "";
 $text['message-duplicate_agent_id']['ru-ru'] = "Выявлен дубликат идентификатора оператора";
 $text['message-duplicate_agent_id']['sv-se'] = "Duplicate Agent-ID Funnet";
 $text['message-duplicate_agent_id']['uk-ua'] = "Повторювані Ідентифікатор агента Виявлено";
+$text['message-duplicate_agent_id']['vi'] = "Đã phát hiện ID của agent trùng lặp";
 
 $text['label-wrap_up_time']['en-us'] = "Wrap Up Time";
 $text['label-wrap_up_time']['ar-eg'] = "";
@@ -820,6 +852,7 @@ $text['label-wrap_up_time']['ro-ro'] = "";
 $text['label-wrap_up_time']['ru-ru'] = "Время паузы между вызовами";
 $text['label-wrap_up_time']['sv-se'] = "'Wrap Up' Tid";
 $text['label-wrap_up_time']['uk-ua'] = "";
+$text['label-wrap_up_time']['vi'] = "Kết thúc thời gian";
 
 $text['label-type']['en-us'] = "Type";
 $text['label-type']['ar-eg'] = "";
@@ -840,6 +873,7 @@ $text['label-type']['ro-ro'] = "";
 $text['label-type']['ru-ru'] = "Тип";
 $text['label-type']['sv-se'] = "Typ";
 $text['label-type']['uk-ua'] = "Тип";
+$text['label-type']['vi'] = "Loại";
 
 $text['label-timeout_action']['en-us'] = "Timeout Action";
 $text['label-timeout_action']['ar-eg'] = "";
@@ -860,6 +894,7 @@ $text['label-timeout_action']['ro-ro'] = "";
 $text['label-timeout_action']['ru-ru'] = "Действие по тайм-ауту";
 $text['label-timeout_action']['sv-se'] = "Timeout Åtgärd";
 $text['label-timeout_action']['uk-ua'] = "";
+$text['label-timeout_action']['vi'] = "Hết thời gian hoạt động";
 
 $text['label-time_base_score']['en-us'] = "Time Base Score";
 $text['label-time_base_score']['ar-eg'] = "";
@@ -880,6 +915,7 @@ $text['label-time_base_score']['ro-ro'] = "";
 $text['label-time_base_score']['ru-ru'] = "Оценка по времени";
 $text['label-time_base_score']['sv-se'] = "Tidsbaserat Resultat";
 $text['label-time_base_score']['uk-ua'] = "";
+$text['label-time_base_score']['vi'] = "Điểm cơ sở thời gian";
 
 $text['label-tiers']['en-us'] = "Tiers";
 $text['label-tiers']['ar-eg'] = "";
@@ -1040,6 +1076,7 @@ $text['label-strategy']['ro-ro'] = "";
 $text['label-strategy']['ru-ru'] = "Стратегия";
 $text['label-strategy']['sv-se'] = "Strategi";
 $text['label-strategy']['uk-ua'] = "";
+$text['label-strategy']['vi'] = "Chiến lược";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -1060,6 +1097,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-reject_delay_time']['en-us'] = "Reject Delay Time";
 $text['label-reject_delay_time']['ar-eg'] = "";
@@ -1080,6 +1118,7 @@ $text['label-reject_delay_time']['ro-ro'] = "";
 $text['label-reject_delay_time']['ru-ru'] = "Время задержки по отказу";
 $text['label-reject_delay_time']['sv-se'] = "Fördröjning vid Neka";
 $text['label-reject_delay_time']['uk-ua'] = "";
+$text['label-reject_delay_time']['vi'] = "Từ chối thời gian trễ";
 
 $text['label-record_template']['en-us'] = "Record";
 $text['label-record_template']['ar-eg'] = "";
@@ -1100,6 +1139,7 @@ $text['label-record_template']['ro-ro'] = "";
 $text['label-record_template']['ru-ru'] = "Запись";
 $text['label-record_template']['sv-se'] = "Spela In";
 $text['label-record_template']['uk-ua'] = "Запис";
+$text['label-record_template']['vi'] = "Bản ghi";
 
 $text['label-queue_name']['en-us'] = "Queue Name";
 $text['label-queue_name']['ar-eg'] = "";
@@ -1120,6 +1160,7 @@ $text['label-queue_name']['ro-ro'] = "";
 $text['label-queue_name']['ru-ru'] = "Имя очереди";
 $text['label-queue_name']['sv-se'] = "Kö Namn";
 $text['label-queue_name']['uk-ua'] = "Назва черги";
+$text['label-queue_name']['vi'] = "Tên hàng chờ";
 
 $text['label-options']['en-us'] = "Options";
 $text['label-options']['ar-eg'] = "";
@@ -1140,6 +1181,7 @@ $text['label-options']['ro-ro'] = "";
 $text['label-options']['ru-ru'] = "Параметры";
 $text['label-options']['sv-se'] = "Val";
 $text['label-options']['uk-ua'] = "Параметри";
+$text['label-options']['vi'] = "Tùy chọn";
 
 $text['label-no_answer_delay_time']['en-us'] = "No Answer Delay Time";
 $text['label-no_answer_delay_time']['ar-eg'] = "";
@@ -1160,6 +1202,7 @@ $text['label-no_answer_delay_time']['ro-ro'] = "";
 $text['label-no_answer_delay_time']['ru-ru'] = "Время задержи по неответу";
 $text['label-no_answer_delay_time']['sv-se'] = "Fördröjning vid ej svar";
 $text['label-no_answer_delay_time']['uk-ua'] = "";
+$text['label-no_answer_delay_time']['vi'] = "Không trả lời thời gian trễ";
 
 $text['label-music_on_hold']['en-us'] = "Music on Hold";
 $text['label-music_on_hold']['ar-eg'] = "";
@@ -1180,6 +1223,7 @@ $text['label-music_on_hold']['ro-ro'] = "";
 $text['label-music_on_hold']['ru-ru'] = "Музыка на удержании";
 $text['label-music_on_hold']['sv-se'] = "Väntmusik";
 $text['label-music_on_hold']['uk-ua'] = "Мелодія на утримуванні";
+$text['label-music_on_hold']['vi'] = "Nhạc chờ";
 
 $text['label-max_wait_time_with_no_agent_time_reached']['en-us'] = "Max Wait Time with No Agent Time Reached";
 $text['label-max_wait_time_with_no_agent_time_reached']['ar-eg'] = "";
@@ -1200,6 +1244,7 @@ $text['label-max_wait_time_with_no_agent_time_reached']['ro-ro'] = "";
 $text['label-max_wait_time_with_no_agent_time_reached']['ru-ru'] = "Достигнуто максимальное время ожидания при отсутствии операторов";
 $text['label-max_wait_time_with_no_agent_time_reached']['sv-se'] = "Tidsgräns för 'Max Vänt Tid utan Agent' är nådd";
 $text['label-max_wait_time_with_no_agent_time_reached']['uk-ua'] = "";
+$text['label-max_wait_time_with_no_agent_time_reached']['vi'] = "Thời gian chờ tối đa mà không có thời gian agent đạt được";
 
 $text['label-max_wait_time_with_no_agent']['en-us'] = "Max Wait Time with No Agent";
 $text['label-max_wait_time_with_no_agent']['ar-eg'] = "";
@@ -1220,6 +1265,7 @@ $text['label-max_wait_time_with_no_agent']['ro-ro'] = "";
 $text['label-max_wait_time_with_no_agent']['ru-ru'] = "Максимальное время ожидания при отсутствии операторов";
 $text['label-max_wait_time_with_no_agent']['sv-se'] = "Max Vänt Tid utan Agent";
 $text['label-max_wait_time_with_no_agent']['uk-ua'] = "Максимальний час очікування без оператора";
+$text['label-max_wait_time_with_no_agent']['vi'] = "Thời gian chờ tối đa không có agent";
 
 $text['label-max_wait_time']['en-us'] = "Max Wait Time";
 $text['label-max_wait_time']['ar-eg'] = "";
@@ -1240,6 +1286,7 @@ $text['label-max_wait_time']['ro-ro'] = "";
 $text['label-max_wait_time']['ru-ru'] = "Максимальное время ожидания";
 $text['label-max_wait_time']['sv-se'] = "Max Vänt Tid";
 $text['label-max_wait_time']['uk-ua'] = "Максимальний час очікування";
+$text['label-max_wait_time']['vi'] = "THời gian chờ đợi tối đa";
 
 $text['label-max_no_answer']['en-us'] = "Max No Answer";
 $text['label-max_no_answer']['ar-eg'] = "";
@@ -1260,6 +1307,7 @@ $text['label-max_no_answer']['ro-ro'] = "";
 $text['label-max_no_answer']['ru-ru'] = "Максимальное время без ответа";
 $text['label-max_no_answer']['sv-se'] = "Max Inget Svar";
 $text['label-max_no_answer']['uk-ua'] = "Максимальний час без відповіді";
+$text['label-max_no_answer']['vi'] = "Thời gian không trả lời tối đa";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
@@ -1280,6 +1328,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-discard_abandoned_after']['en-us'] = "Discard Abandoned After";
 $text['label-discard_abandoned_after']['ar-eg'] = "";
@@ -1300,6 +1349,7 @@ $text['label-discard_abandoned_after']['ro-ro'] = "";
 $text['label-discard_abandoned_after']['ru-ru'] = "Сбросить вызов после покидания очереди";
 $text['label-discard_abandoned_after']['sv-se'] = "Uteslut Ej Besvarat Efter";
 $text['label-discard_abandoned_after']['uk-ua'] = "";
+$text['label-discard_abandoned_after']['vi'] = "Hủy bỏ sau khi";
 
 $text['label-default_status']['en-us'] = "Default Status";
 $text['label-default_status']['ar-eg'] = "";
@@ -1320,6 +1370,7 @@ $text['label-default_status']['ro-ro'] = "";
 $text['label-default_status']['ru-ru'] = "Статус по умолчанию";
 $text['label-default_status']['sv-se'] = "i förväg fastställda status";
 $text['label-default_status']['uk-ua'] = "Статус за замовчуванням";
+$text['label-default_status']['vi'] = "Trạng thái mặc định";
 
 $text['label-contact']['en-us'] = "Contact";
 $text['label-contact']['ar-eg'] = "";
@@ -1340,6 +1391,7 @@ $text['label-contact']['ro-ro'] = "";
 $text['label-contact']['ru-ru'] = "Контакт";
 $text['label-contact']['sv-se'] = "Kontakt";
 $text['label-contact']['uk-ua'] = "Контакт";
+$text['label-contact']['vi'] = "Liên hệ";
 
 $text['label-caller_id_name_prefix']['en-us'] = "Caller ID Name Prefix";
 $text['label-caller_id_name_prefix']['ar-eg'] = "";
@@ -1360,6 +1412,7 @@ $text['label-caller_id_name_prefix']['ro-ro'] = "";
 $text['label-caller_id_name_prefix']['ru-ru'] = "Префикс СallerID/Имя";
 $text['label-caller_id_name_prefix']['sv-se'] = "Caller ID Namn Prefix";
 $text['label-caller_id_name_prefix']['uk-ua'] = "";
+$text['label-caller_id_name_prefix']['vi'] = "Tiền tố tên người gọi ";
 
 $text['label-caller_announce_sound']['en-us'] = "Announce Sound";
 $text['label-caller_announce_sound']['ar-eg'] = "";
@@ -1380,6 +1433,7 @@ $text['label-caller_announce_sound']['ro-ro'] = "";
 $text['label-caller_announce_sound']['ru-ru'] = "Звук объявления";
 $text['label-caller_announce_sound']['sv-se'] = "Meddelande Ljud";
 $text['label-caller_announce_sound']['uk-ua'] = "";
+$text['label-caller_announce_sound']['vi'] = "Âm thanh thông báo";
 
 $text['label-caller_announce_frequency']['en-us'] = "Announce Frequency";
 $text['label-caller_announce_frequency']['ar-eg'] = "";
@@ -1400,6 +1454,7 @@ $text['label-caller_announce_frequency']['ro-ro'] = "";
 $text['label-caller_announce_frequency']['ru-ru'] = "Частота объявления";
 $text['label-caller_announce_frequency']['sv-se'] = "Meddelande Frekvens";
 $text['label-caller_announce_frequency']['uk-ua'] = "";
+$text['label-caller_announce_frequency']['vi'] = "Tần số thông báo";
 
 $text['label-exit_keys']['en-us'] = "Exit Key";
 $text['label-exit_keys']['ar-eg'] = "";
@@ -1420,6 +1475,7 @@ $text['label-exit_keys']['ro-ro'] = "";
 $text['label-exit_keys']['ru-ru'] = "";
 $text['label-exit_keys']['sv-se'] = "Knapp för att lämna";
 $text['label-exit_keys']['uk-ua'] = "";
+$text['label-exit_keys']['vi'] = "Phím Thoát";
 
 $text['description-exit_keys']['en-us'] = "Keys to quit the current queue waiting.";
 $text['description-exit_keys']['ar-eg'] = "";
@@ -1440,6 +1496,7 @@ $text['description-exit_keys']['ro-ro'] = "";
 $text['description-exit_keys']['ru-ru'] = "";
 $text['description-exit_keys']['sv-se'] = "Knapp för att lämna den nuvarande kö:n";
 $text['description-exit_keys']['uk-ua'] = "";
+$text['description-exit_keys']['vi'] = "Các phím để thoát khỏi hàng chờ hiện tại.";
 
 $text['label-call_timeout']['en-us'] = "Call Timeout";
 $text['label-call_timeout']['ar-eg'] = "";
@@ -1460,6 +1517,7 @@ $text['label-call_timeout']['ro-ro'] = "";
 $text['label-call_timeout']['ru-ru'] = "Тайм-аут вызова";
 $text['label-call_timeout']['sv-se'] = "Ring Tidsgräns";
 $text['label-call_timeout']['uk-ua'] = "Тайм-аут дзвінка";
+$text['label-call_timeout']['vi'] = "Hết thời gian gọi";
 
 $text['label-busy_delay_time']['en-us'] = "Busy Delay Time";
 $text['label-busy_delay_time']['ar-eg'] = "";
@@ -1480,6 +1538,7 @@ $text['label-busy_delay_time']['ro-ro'] = "";
 $text['label-busy_delay_time']['ru-ru'] = "Время задержки занятости";
 $text['label-busy_delay_time']['sv-se'] = "Fördröjning vid Upptaget";
 $text['label-busy_delay_time']['uk-ua'] = "";
+$text['label-busy_delay_time']['vi'] = "Thời gian trễ và bận";
 
 $text['label-agent_password']['en-us'] = "Agent Password";
 $text['label-agent_password']['ar-eg'] = "";
@@ -1500,6 +1559,7 @@ $text['label-agent_password']['ro-ro'] = "";
 $text['label-agent_password']['ru-ru'] = "Пароль оператора";
 $text['label-agent_password']['sv-se'] = "Agent Lösen";
 $text['label-agent_password']['uk-ua'] = "";
+$text['label-agent_password']['vi'] = "Mật khẩu Agent";
 
 $text['label-agent_name']['en-us'] = "Agent Name";
 $text['label-agent_name']['ar-eg'] = "";
@@ -1520,6 +1580,7 @@ $text['label-agent_name']['ro-ro'] = "";
 $text['label-agent_name']['ru-ru'] = "Имя оператора";
 $text['label-agent_name']['sv-se'] = "Agent Namn";
 $text['label-agent_name']['uk-ua'] = "Ім’я оператора";
+$text['label-agent_name']['vi'] = "Tên Agent";
 
 $text['label-agent_logout']['en-us'] = "Agent Logout";
 $text['label-agent_logout']['ar-eg'] = "";
@@ -1540,6 +1601,7 @@ $text['label-agent_logout']['ro-ro'] = "";
 $text['label-agent_logout']['ru-ru'] = "Выход оператора";
 $text['label-agent_logout']['sv-se'] = "Agent Logga Ut";
 $text['label-agent_logout']['uk-ua'] = "";
+$text['label-agent_logout']['vi'] = "Đăng xuất Agent";
 
 $text['label-agent_id']['en-us'] = "Agent ID";
 $text['label-agent_id']['ar-eg'] = "";
@@ -1600,6 +1662,7 @@ $text['label-agents']['ro-ro'] = "";
 $text['label-agents']['ru-ru'] = "Операторы";
 $text['label-agents']['sv-se'] = "Agenter";
 $text['label-agents']['uk-ua'] = "Оператори";
+$text['label-agents']['vi'] = "Agent";
 
 $text['label-abandoned_resume_allowed']['en-us'] = "Abandoned Resume Allowed";
 $text['label-abandoned_resume_allowed']['ar-eg'] = "";
@@ -1620,6 +1683,7 @@ $text['label-abandoned_resume_allowed']['ro-ro'] = "";
 $text['label-abandoned_resume_allowed']['ru-ru'] = "Разрешить восстанавливать покинутый вызов";
 $text['label-abandoned_resume_allowed']['sv-se'] = "Återuppta Ej Besvarade Tillåtet";
 $text['label-abandoned_resume_allowed']['uk-ua'] = "";
+$text['label-abandoned_resume_allowed']['vi'] = "Cho phép bỏ sơ Resume";
 
 $text['header-call_center_tier_edit']['en-us'] = "Call Center Tier";
 $text['header-call_center_tier_edit']['ar-eg'] = "";
@@ -1640,6 +1704,7 @@ $text['header-call_center_tier_edit']['ro-ro'] = "";
 $text['header-call_center_tier_edit']['ru-ru'] = "Компетенция Колл-центра";
 $text['header-call_center_tier_edit']['sv-se'] = "Call Center Kunskap";
 $text['header-call_center_tier_edit']['uk-ua'] = "";
+$text['header-call_center_tier_edit']['vi'] = "Trung tâm cuộc gọiTier";
 
 $text['header-call_center_queues']['en-us'] = "Call Center Queues";
 $text['header-call_center_queues']['ar-eg'] = "";
@@ -1660,6 +1725,7 @@ $text['header-call_center_queues']['ro-ro'] = "";
 $text['header-call_center_queues']['ru-ru'] = "Очереди Колл-центра";
 $text['header-call_center_queues']['sv-se'] = "Call Center Kö:er";
 $text['header-call_center_queues']['uk-ua'] = "";
+$text['header-call_center_queues']['vi'] = "Hàng chờ trung tâm cuộc gọi";
 
 $text['header-call_center_queue_edit']['en-us'] = "Call Center Queue";
 $text['header-call_center_queue_edit']['ar-eg'] = "";
@@ -1680,6 +1746,7 @@ $text['header-call_center_queue_edit']['ro-ro'] = "";
 $text['header-call_center_queue_edit']['ru-ru'] = "Очередь Колл-центра";
 $text['header-call_center_queue_edit']['sv-se'] = "Call Center Kö";
 $text['header-call_center_queue_edit']['uk-ua'] = "";
+$text['header-call_center_queue_edit']['vi'] = "Hàng chờ trung tâm cuộc gọi";
 
 $text['header-call_center_queue_add']['en-us'] = "Call Center Queue";
 $text['header-call_center_queue_add']['ar-eg'] = "";
@@ -1700,6 +1767,7 @@ $text['header-call_center_queue_add']['ro-ro'] = "";
 $text['header-call_center_queue_add']['ru-ru'] = "Очередь Колл-центра";
 $text['header-call_center_queue_add']['sv-se'] = "Call Center Kö";
 $text['header-call_center_queue_add']['uk-ua'] = "";
+$text['header-call_center_queue_add']['vi'] = "Hàng chờ trung tâm cuộc gọi";
 
 $text['header-call_center_agents']['en-us'] = "Call Center Agents";
 $text['header-call_center_agents']['ar-eg'] = "";
@@ -1720,6 +1788,7 @@ $text['header-call_center_agents']['ro-ro'] = "";
 $text['header-call_center_agents']['ru-ru'] = "Операторы Колл-центра";
 $text['header-call_center_agents']['sv-se'] = "Call Center Agenter";
 $text['header-call_center_agents']['uk-ua'] = "";
+$text['header-call_center_agents']['vi'] = "Trung tâm cuộc gọi agent";
 
 $text['header-call_center_agent_status']['en-us'] = "Call Center Agent Status";
 $text['header-call_center_agent_status']['ar-eg'] = "";
@@ -1740,6 +1809,7 @@ $text['header-call_center_agent_status']['ro-ro'] = "";
 $text['header-call_center_agent_status']['ru-ru'] = "Статус оператора Колл-центра";
 $text['header-call_center_agent_status']['sv-se'] = "Call Center Agent Status";
 $text['header-call_center_agent_status']['uk-ua'] = "";
+$text['header-call_center_agent_status']['vi'] = "Tình trạng agent trung tâm cuộc gọi";
 
 $text['header-call_center_agent_edit']['en-us'] = "Call Center Agent";
 $text['header-call_center_agent_edit']['ar-eg'] = "";
@@ -1760,6 +1830,7 @@ $text['header-call_center_agent_edit']['ro-ro'] = "";
 $text['header-call_center_agent_edit']['ru-ru'] = "Оператор Колл-центра";
 $text['header-call_center_agent_edit']['sv-se'] = "Call Center Agent";
 $text['header-call_center_agent_edit']['uk-ua'] = "";
+$text['header-call_center_agent_edit']['vi'] = "Trung tâm agent";
 
 $text['header-call_center_agent_add']['en-us'] = "Call Center Agents";
 $text['header-call_center_agent_add']['ar-eg'] = "";
@@ -1780,6 +1851,7 @@ $text['header-call_center_agent_add']['ro-ro'] = "";
 $text['header-call_center_agent_add']['ru-ru'] = "Операторы Колл-центра";
 $text['header-call_center_agent_add']['sv-se'] = "Call Center Agenter";
 $text['header-call_center_agent_add']['uk-ua'] = "";
+$text['header-call_center_agent_add']['vi'] = "Trung tâm cuộc gọi agent";
 
 $text['description-wrap_up_time']['en-us'] = "Enter the wrap up time.";
 $text['description-wrap_up_time']['ar-eg'] = "";
@@ -1800,6 +1872,7 @@ $text['description-wrap_up_time']['ro-ro'] = "";
 $text['description-wrap_up_time']['ru-ru'] = "Введите время паузы между вызовами";
 $text['description-wrap_up_time']['sv-se'] = "Ange 'Wrap Up' tid.";
 $text['description-wrap_up_time']['uk-ua'] = "";
+$text['description-wrap_up_time']['vi'] = "Nhập thời gian kết thúc.";
 
 $text['description-type']['en-us'] = "Enter the agent type.";
 $text['description-type']['ar-eg'] = "";
@@ -1820,6 +1893,7 @@ $text['description-type']['ro-ro'] = "";
 $text['description-type']['ru-ru'] = "Выберите тип оператора";
 $text['description-type']['sv-se'] = "Ange agent typen.";
 $text['description-type']['uk-ua'] = "";
+$text['description-type']['vi'] = "Nhập kiểu agent.";
 
 $text['description-timeout_action']['en-us'] = "Set the action to perform when the max wait time is reached.";
 $text['description-timeout_action']['ar-eg'] = "";
@@ -1840,6 +1914,7 @@ $text['description-timeout_action']['ro-ro'] = "";
 $text['description-timeout_action']['ru-ru'] = "Установите действие при достижении максимального времени ожидания";
 $text['description-timeout_action']['sv-se'] = "Ange vad som skall utföras när max vänttid är nådd.";
 $text['description-timeout_action']['uk-ua'] = "";
+$text['description-timeout_action']['vi'] = "Đặt hành động để thực hiện khi đạt đến thời gian chờ tối đa.";
 
 $text['description-time_base_score']['en-us'] = "Select the time base score.";
 $text['description-time_base_score']['ar-eg'] = "";
@@ -1860,6 +1935,7 @@ $text['description-time_base_score']['ro-ro'] = "";
 $text['description-time_base_score']['ru-ru'] = "Выберие оценку по времени";
 $text['description-time_base_score']['sv-se'] = "Ange tids-baserad poäng.";
 $text['description-time_base_score']['uk-ua'] = "";
+$text['description-time_base_score']['vi'] = "Chọn điểm thời gian cơ sở .";
 
 $text['description-tiers']['en-us'] = "Tiers assign agents to queues.";
 $text['description-tiers']['ar-eg'] = "";
@@ -1900,6 +1976,7 @@ $text['description-tier_rules_apply']['ro-ro'] = "";
 $text['description-tier_rules_apply']['ru-ru'] = "Выберите, применять ли правила компетенций";
 $text['description-tier_rules_apply']['sv-se'] = "Välj om Kunskap Regler Gäller skall vara sann/falsk.";
 $text['description-tier_rules_apply']['uk-ua'] = "";
+$text['description-tier_rules_apply']['vi'] = "Đặt quy tắc lớp áp dụng thành đúng hoặc sai.";
 
 $text['description-tier_rule_wait_second']['en-us'] = "Enter the tier rule wait seconds.";
 $text['description-tier_rule_wait_second']['ar-eg'] = "";
@@ -1940,6 +2017,7 @@ $text['description-tier_rule_wait_multiply_level']['ro-ro'] = "";
 $text['description-tier_rule_wait_multiply_level']['ru-ru'] = "Выберите, применять ли правило множителя ожидания для компетенции";
 $text['description-tier_rule_wait_multiply_level']['sv-se'] = "Välj om 'kunskaps-regel vänt-tid' multiply nivå skall vara sann eller ej.";
 $text['description-tier_rule_wait_multiply_level']['uk-ua'] = "";
+$text['description-tier_rule_wait_multiply_level']['vi'] = "Đặt quy tắc cấp độ chờ cấp bội số thành đúng hoặc sai.";
 
 $text['description-tier_rule_no_agent_no_wait']['en-us'] = "Enter the tier rule no agent no wait.";
 $text['description-tier_rule_no_agent_no_wait']['ar-eg'] = "";
@@ -1960,6 +2038,7 @@ $text['description-tier_rule_no_agent_no_wait']['ro-ro'] = "";
 $text['description-tier_rule_no_agent_no_wait']['ru-ru'] = "Введите правило для компетенции: нет оператора, нет ожидания";
 $text['description-tier_rule_no_agent_no_wait']['sv-se'] = "Välj kunskaps-regel Ingen Agent Vänta Ej.";
 $text['description-tier_rule_no_agent_no_wait']['uk-ua'] = "";
+$text['description-tier_rule_no_agent_no_wait']['vi'] = "Nhập quy tắc tier không có agent không chờ đợi.";
 
 $text['description-tier_position']['en-us'] = "Select the tier position.";
 $text['description-tier_position']['ar-eg'] = "";
@@ -1980,6 +2059,7 @@ $text['description-tier_position']['ro-ro'] = "";
 $text['description-tier_position']['ru-ru'] = "Выберите позицию компетенции.";
 $text['description-tier_position']['sv-se'] = "Välj Kunskaps position.";
 $text['description-tier_position']['uk-ua'] = "";
+$text['description-tier_position']['vi'] = "Chọn vị trí tier.";
 
 $text['description-tier_level']['en-us'] = "Select the tier level.";
 $text['description-tier_level']['ar-eg'] = "";
@@ -2000,6 +2080,7 @@ $text['description-tier_level']['ro-ro'] = "";
 $text['description-tier_level']['ru-ru'] = "Выберите уровень компетенции";
 $text['description-tier_level']['sv-se'] = "Välj Kunskaps-nivå";
 $text['description-tier_level']['uk-ua'] = "";
+$text['description-tier_level']['vi'] = "Chọn cấp bậc.";
 
 $text['description-strategy']['en-us'] = "Select the queue ring strategy.";
 $text['description-strategy']['ar-eg'] = "";
@@ -2021,6 +2102,7 @@ $text['description-strategy']['ru-ru'] = "Выберите стратегию о
 $text['description-strategy']['sv-se'] = "Välj strategi för ringflöde i kö:n.";
 $text['description-strategy']['uk-ua'] = "";
 
+
 $text['description-status']['en-us'] = "Select the default agent status.";
 $text['description-status']['ar-eg'] = "";
 $text['description-status']['de-at'] = "Standard Benutzerstatus auswählen."; //copied from de-de
@@ -2040,6 +2122,7 @@ $text['description-status']['ro-ro'] = "";
 $text['description-status']['ru-ru'] = "Выберите статус оператора по умолчанию";
 $text['description-status']['sv-se'] = "Välj agentens status";
 $text['description-status']['uk-ua'] = "Виберіть статус користувача";
+$text['description-status']['vi'] = "Chọn trạng thái agent mặc định.";
 
 $text['description-reject_delay_time']['en-us'] = "Enter the reject delay time.";
 $text['description-reject_delay_time']['ar-eg'] = "";
@@ -2060,6 +2143,7 @@ $text['description-reject_delay_time']['ro-ro'] = "";
 $text['description-reject_delay_time']['ru-ru'] = "Введите время задержки отбоя";
 $text['description-reject_delay_time']['sv-se'] = "Ange 'neka' tids-fördröjning.";
 $text['description-reject_delay_time']['uk-ua'] = "";
+$text['description-reject_delay_time']['vi'] = "Nhập thời gian từ chối trì hoãn .";
 
 $text['description-record_template']['en-us'] = "Save the recording.";
 $text['description-record_template']['ar-eg'] = "";
@@ -2080,6 +2164,7 @@ $text['description-record_template']['ro-ro'] = "";
 $text['description-record_template']['ru-ru'] = "Сохранить запись.";
 $text['description-record_template']['sv-se'] = "Spara inspelningen.";
 $text['description-record_template']['uk-ua'] = "";
+$text['description-record_template']['vi'] = "Lưu bản ghi âm.";
 
 $text['description-queue_name']['en-us'] = "Enter the queue name.";
 $text['description-queue_name']['ar-eg'] = "";
@@ -2100,6 +2185,7 @@ $text['description-queue_name']['ro-ro'] = "";
 $text['description-queue_name']['ru-ru'] = "Введите имя очереди";
 $text['description-queue_name']['sv-se'] = "Ange kö namn.";
 $text['description-queue_name']['uk-ua'] = "";
+$text['description-queue_name']['vi'] = "Nhập tên hàng đợi.";
 
 $text['description-options']['en-us'] = "Select the queue name.";
 $text['description-options']['ar-eg'] = "";
@@ -2120,6 +2206,7 @@ $text['description-options']['ro-ro'] = "";
 $text['description-options']['ru-ru'] = "Выберите имя очереди.";
 $text['description-options']['sv-se'] = "Välj kö namn.";
 $text['description-options']['uk-ua'] = "";
+$text['description-options']['vi'] = "Chọn tên hàng chờ .";
 
 $text['description-no_answer_delay_time']['en-us'] = "Enter the agent no answer delay time in seconds.";
 $text['description-no_answer_delay_time']['ar-eg'] = "";
@@ -2140,6 +2227,7 @@ $text['description-no_answer_delay_time']['ro-ro'] = "";
 $text['description-no_answer_delay_time']['ru-ru'] = "Введите время задержки ответа оператора в секундах.";
 $text['description-no_answer_delay_time']['sv-se'] = "Ange 'Inget svar Agent fördröjning' i sekunder.";
 $text['description-no_answer_delay_time']['uk-ua'] = "";
+$text['description-no_answer_delay_time']['vi'] = "Nhập agent không trả lời có thời gian trễ trong vài giây.";
 
 $text['description-music_on_hold']['en-us'] = "Select the desired hold music.";
 $text['description-music_on_hold']['ar-eg'] = "";
@@ -2160,6 +2248,7 @@ $text['description-music_on_hold']['ro-ro'] = "";
 $text['description-music_on_hold']['ru-ru'] = "Выберите желаемую музыку на удержании";
 $text['description-music_on_hold']['sv-se'] = "Välj önskad vänt-musik.";
 $text['description-music_on_hold']['uk-ua'] = "";
+$text['description-music_on_hold']['vi'] = "Chọn nhạc chờ mong muốn.";
 
 $text['description-max_wait_time_with_no_agent_time_reached']['en-us'] = "Enter the max wait time with no agent time reached.";
 $text['description-max_wait_time_with_no_agent_time_reached']['ar-eg'] = "";
@@ -2180,6 +2269,7 @@ $text['description-max_wait_time_with_no_agent_time_reached']['ro-ro'] = "";
 $text['description-max_wait_time_with_no_agent_time_reached']['ru-ru'] = "Введите максимальное время ожидания при достижении времени отсутствия операторов.";
 $text['description-max_wait_time_with_no_agent_time_reached']['sv-se'] = "Ange max vänt-tid när 'Utan Agent Tids-gräns' är nådd. ";
 $text['description-max_wait_time_with_no_agent_time_reached']['uk-ua'] = "";
+$text['description-max_wait_time_with_no_agent_time_reached']['vi'] = "Nhập thời gian chờ tối đa mà  không có agent .";
 
 $text['description-max_wait_time_with_no_agent']['en-us'] = "Enter the max wait time with no agent.";
 $text['description-max_wait_time_with_no_agent']['ar-eg'] = "";
@@ -2200,6 +2290,7 @@ $text['description-max_wait_time_with_no_agent']['ro-ro'] = "";
 $text['description-max_wait_time_with_no_agent']['ru-ru'] = "Введите максимальное время ожидания при отсутствии операторов.";
 $text['description-max_wait_time_with_no_agent']['sv-se'] = "Ange max vänt-tid utan agent.";
 $text['description-max_wait_time_with_no_agent']['uk-ua'] = "";
+$text['description-max_wait_time_with_no_agent']['vi'] = "Nhập thời gian chờ tối đa khi không có agent.";
 
 $text['description-max_wait_time']['en-us'] = "Enter the max wait time.";
 $text['description-max_wait_time']['ar-eg'] = "";
@@ -2220,6 +2311,7 @@ $text['description-max_wait_time']['ro-ro'] = "";
 $text['description-max_wait_time']['ru-ru'] = "Введите максимальное время ожидания";
 $text['description-max_wait_time']['sv-se'] = "Ange max vänt-tid.";
 $text['description-max_wait_time']['uk-ua'] = "";
+$text['description-max_wait_time']['vi'] = "Nhập vào thời gian chờ tối đa.";
 
 $text['description-max_no_answer']['en-us'] = "Enter max no answer.";
 $text['description-max_no_answer']['ar-eg'] = "";
@@ -2241,6 +2333,7 @@ $text['description-max_no_answer']['ru-ru'] = "Введите максималь
 $text['description-max_no_answer']['sv-se'] = "Ange max inget svar.";
 $text['description-max_no_answer']['uk-ua'] = "";
 
+
 $text['description-extension']['en-us'] = "Enter the extension number.";
 $text['description-extension']['ar-eg'] = "";
 $text['description-extension']['de-at'] = "Geben Sie die Nebenstelle an."; //copied from de-de
@@ -2260,6 +2353,7 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Введите внутренний номер";
 $text['description-extension']['sv-se'] = "Ange anknytningsnumret.";
 $text['description-extension']['uk-ua'] = "";
+$text['description-extension']['vi'] = "Nhập số điện thoại máy nhánh.";
 
 $text['description-discard_abandoned_after']['en-us'] = "Set the discard abandoned after seconds.";
 $text['description-discard_abandoned_after']['ar-eg'] = "";
@@ -2280,6 +2374,7 @@ $text['description-discard_abandoned_after']['ro-ro'] = "";
 $text['description-discard_abandoned_after']['ru-ru'] = "Введите время отбоя покинутого вызова.";
 $text['description-discard_abandoned_after']['sv-se'] = "Ange uteslut Ej Besvarade efter sekunder.";
 $text['description-discard_abandoned_after']['uk-ua'] = "";
+$text['description-discard_abandoned_after']['vi'] = "Đặt loại bỏ sau vài giây.";
 
 $text['description-contact']['en-us'] = "Select the contact number.";
 $text['description-contact']['ar-eg'] = "";
@@ -2300,6 +2395,7 @@ $text['description-contact']['ro-ro'] = "";
 $text['description-contact']['ru-ru'] = "Выберите номер контакта";
 $text['description-contact']['sv-se'] = "Välj kontakt numret.";
 $text['description-contact']['uk-ua'] = "Призначити контакт в цей обліковий запис користувача.";
+$text['description-contact']['vi'] = "Chọn số liên hệ.";
 
 $text['description-caller_id_name_prefix']['en-us'] = "Set a prefix on the caller ID name.";
 $text['description-caller_id_name_prefix']['ar-eg'] = "";
@@ -2320,6 +2416,7 @@ $text['description-caller_id_name_prefix']['ro-ro'] = "";
 $text['description-caller_id_name_prefix']['ru-ru'] = "Установите префикс для поля Имя CallerID";
 $text['description-caller_id_name_prefix']['sv-se'] = "Ange ett prefix för Caller ID namn.";
 $text['description-caller_id_name_prefix']['uk-ua'] = "";
+$text['description-caller_id_name_prefix']['vi'] = "Đặt tiền tố trên tên ID người gọi.";
 
 $text['description-caller_announce_sound']['en-us'] = "A sound to play to a caller every announce sound seconds. Needs the full path to the wav file.";
 $text['description-caller_announce_sound']['ar-eg'] = "";
@@ -2340,6 +2437,7 @@ $text['description-caller_announce_sound']['ro-ro'] = "";
 $text['description-caller_announce_sound']['ru-ru'] = "Сообщение, которое будет проигрыввться звонящему через установленные промежутки. Требует полного пути к wav файлу";
 $text['description-caller_announce_sound']['sv-se'] = "Ett ljud som spelas upp efter varje 'meddelande ljud sekunder'. Behöver hela sökvägen till WAV filen.";
 $text['description-caller_announce_sound']['uk-ua'] = "";
+$text['description-caller_announce_sound']['vi'] = "Một âm thanh để phát cho người gọi mỗi giây thông báo âm thanh. Cần đường dẫn đầy đủ đến tệp wav.";
 
 $text['description-caller_announce_frequency']['en-us'] = "How often should we play the announce sound. Enter a number in seconds";
 $text['description-caller_announce_frequency']['ar-eg'] = "";
@@ -2360,6 +2458,7 @@ $text['description-caller_announce_frequency']['ro-ro'] = "";
 $text['description-caller_announce_frequency']['ru-ru'] = "Как часто играть сообщение. Введите в секундах";
 $text['description-caller_announce_frequency']['sv-se'] = "Hur ofta skall meddelandet spelas upp. Ange ett värde i sekunder.";
 $text['description-caller_announce_frequency']['uk-ua'] = "";
+$text['description-caller_announce_frequency']['vi'] = "Làm thế nào chúng ta nên phát thông báo thường xuyên. Nhập một số trong vài giây";
 
 $text['description-call_timeout']['en-us'] = "Enter the call timeout.";
 $text['description-call_timeout']['ar-eg'] = "";
@@ -2380,6 +2479,7 @@ $text['description-call_timeout']['ro-ro'] = "";
 $text['description-call_timeout']['ru-ru'] = "Введите тайм-аут вызова";
 $text['description-call_timeout']['sv-se'] = "Ange 'call timeout'";
 $text['description-call_timeout']['uk-ua'] = "";
+$text['description-call_timeout']['vi'] = "Nhập thời gian chờ cuộc gọi.";
 
 $text['description-call_center_queues']['en-us'] = "List of queues for the call center.";
 $text['description-call_center_queues']['ar-eg'] = "";
@@ -2400,6 +2500,7 @@ $text['description-call_center_queues']['ro-ro'] = "";
 $text['description-call_center_queues']['ru-ru'] = "Список очередей в Колл-центре";
 $text['description-call_center_queues']['sv-se'] = "Lista med kö:er för Call Center";
 $text['description-call_center_queues']['uk-ua'] = "";
+$text['description-call_center_queues']['vi'] = "Danh sách hàng chờ cho tổng đài.";
 
 $text['description-call_center_agents']['en-us'] = "List of call center agents.";
 $text['description-call_center_agents']['ar-eg'] = "";
@@ -2420,6 +2521,7 @@ $text['description-call_center_agents']['ro-ro'] = "";
 $text['description-call_center_agents']['ru-ru'] = "Список операторов Колл-центра";
 $text['description-call_center_agents']['sv-se'] = "Lista med Call Center Agenter";
 $text['description-call_center_agents']['uk-ua'] = "";
+$text['description-call_center_agents']['vi'] = "Danh sách agent của trung tâm cuộc gọi.";
 
 $text['description-call_center_agent_status']['en-us'] = "List all the call center agents with the option to change the status of one or more agents.";
 $text['description-call_center_agent_status']['ar-eg'] = "";
@@ -2440,6 +2542,7 @@ $text['description-call_center_agent_status']['ro-ro'] = "";
 $text['description-call_center_agent_status']['ru-ru'] = "Полный список операторов Колл-центра с возможностью изменить статус одного или нескольких операторов.";
 $text['description-call_center_agent_status']['sv-se'] = "Lista med alla Call Center Agenter med möjlighet att ändra status på en eller flera agenter.";
 $text['description-call_center_agent_status']['uk-ua'] = "";
+$text['description-call_center_agent_status']['vi'] = "Liệt kê tất cả các agent của trung tâm cuộc gọi với tùy chọn thay đổi trạng thái của một hoặc nhiều agent.";
 
 $text['description-busy_delay_time']['en-us'] = "Enter the agent busy delay time.";
 $text['description-busy_delay_time']['ar-eg'] = "";
@@ -2460,6 +2563,7 @@ $text['description-busy_delay_time']['ro-ro'] = "";
 $text['description-busy_delay_time']['ru-ru'] = "Введите время задержки занятости оператора.";
 $text['description-busy_delay_time']['sv-se'] = "Ange Agent Upptagen Fördröjnings-tid.";
 $text['description-busy_delay_time']['uk-ua'] = "";
+$text['description-busy_delay_time']['vi'] = "Nhập thời gian trễ bận của agent.";
 
 $text['description-agent_password']['en-us'] = "Enter the agent password.";
 $text['description-agent_password']['ar-eg'] = "";
@@ -2480,6 +2584,7 @@ $text['description-agent_password']['ro-ro'] = "";
 $text['description-agent_password']['ru-ru'] = "Введите пароль оператора.";
 $text['description-agent_password']['sv-se'] = "Ange agenten lösenord.";
 $text['description-agent_password']['uk-ua'] = "";
+$text['description-agent_password']['vi'] = "Nhập mật khẩu agent.";
 
 $text['description-agent_name']['en-us'] = "Select the agent name.";
 $text['description-agent_name']['ar-eg'] = "";
@@ -2500,6 +2605,7 @@ $text['description-agent_name']['ro-ro'] = "";
 $text['description-agent_name']['ru-ru'] = "Выберите имя оператора.";
 $text['description-agent_name']['sv-se'] = "Välj Agent namn.";
 $text['description-agent_name']['uk-ua'] = "Виберіть ім’я оператора";
+$text['description-agent_name']['vi'] = "Chọn tên agent.";
 
 $text['description-agent_logout']['en-us'] = "Enter the auto agent logout time in 00:00 format. Requires a service to enforce the logout time.";
 $text['description-agent_logout']['ar-eg'] = "";
@@ -2520,6 +2626,7 @@ $text['description-agent_logout']['ro-ro'] = "";
 $text['description-agent_logout']['ru-ru'] = "Введите время автоматического выхода оператора в формате 00:00. Требует сервиса для автоматического выхода.";
 $text['description-agent_logout']['sv-se'] = "Ange Automatisk utläggning av Agent i 00:00 format. Kräver en tjänst för att genomföra utloggningen.";
 $text['description-agent_logout']['uk-ua'] = "";
+$text['description-agent_logout']['vi'] = "Nhập thời gian đăng xuất agent tự động ở định dạng 00:00. Yêu cầu một dịch vụ để thực thi thời gian đăng xuất.";
 
 $text['description-agent_id']['en-us'] = "Enter the agent ID.";
 $text['description-agent_id']['ar-eg'] = "";
@@ -2540,6 +2647,7 @@ $text['description-agent_id']['ro-ro'] = "";
 $text['description-agent_id']['ru-ru'] = "Введите идентификатор оператора.";
 $text['description-agent_id']['sv-se'] = "Ange agent-ID.";
 $text['description-agent_id']['uk-ua'] = "";
+$text['description-agent_id']['vi'] = "Nhập ID agent.";
 
 $text['description-agent']['en-us'] = "Select the agent name.";
 $text['description-agent']['ar-eg'] = "";
@@ -2560,6 +2668,7 @@ $text['description-agent']['ro-ro'] = "";
 $text['description-agent']['ru-ru'] = "Выберите имя оператора.";
 $text['description-agent']['sv-se'] = "Välj Agent namnet.";
 $text['description-agent']['uk-ua'] = "Виберіть ім’я оператора";
+$text['description-agent']['vi'] = "Chọn tên agent.";
 
 $text['description-abandoned_resume_allowed']['en-us'] = "Set the abandoned resume allowed to true or false.";
 $text['description-abandoned_resume_allowed']['ar-eg'] = "";
@@ -2580,6 +2689,7 @@ $text['description-abandoned_resume_allowed']['ro-ro'] = "";
 $text['description-abandoned_resume_allowed']['ru-ru'] = "Установите возможность восстанавливать вызов, покинувший очередь.";
 $text['description-abandoned_resume_allowed']['sv-se'] = "Välj 'Ej Besvarat Återtagning' till sann/falsk.";
 $text['description-abandoned_resume_allowed']['uk-ua'] = "";
+$text['description-abandoned_resume_allowed']['vi'] = "Đặt sơ yếu lý lịch bị bỏ rơi được phép thành đúng hoặc sai.";
 
 $text['confirm-copy']['en-us'] = "Do you really want to copy this?";
 $text['confirm-copy']['ar-eg'] = "";
@@ -2600,6 +2710,7 @@ $text['confirm-copy']['ro-ro'] = "";
 $text['confirm-copy']['ru-ru'] = "Вы действительно хотите это скопировать?";
 $text['confirm-copy']['sv-se'] = "Vill du verkligen kopiera detta?";
 $text['confirm-copy']['uk-ua'] = "Ви дійсно бажаєте це скопіювати?";
+$text['confirm-copy']['en-us'] = "Bạn có thực sự muốn sao chép này?";
 
 $text['button-update_status']['en-us'] = "Update Status";
 $text['button-update_status']['ar-eg'] = "";
@@ -2620,6 +2731,7 @@ $text['button-update_status']['ro-ro'] = "";
 $text['button-update_status']['ru-ru'] = "Обновить статус";
 $text['button-update_status']['sv-se'] = "Uppdatera Status";
 $text['button-update_status']['uk-ua'] = "Оновити статус";
+$text['button-update_status']['vi'] = "Cập nhật trạng thái";
 
 $text['button-tiers']['en-us'] = "Tiers";
 $text['button-tiers']['ar-eg'] = "";
@@ -2660,6 +2772,7 @@ $text['button-agents']['ro-ro'] = "";
 $text['button-agents']['ru-ru'] = "Операторы";
 $text['button-agents']['sv-se'] = "Agenter";
 $text['button-agents']['uk-ua'] = "Оператори";
+$text['button-agents']['vi'] = "Agent";
 
 $text['button-wallboard']['en-us'] = "Wallboard";
 $text['button-wallboard']['ar-eg'] = "";
@@ -2680,5 +2793,6 @@ $text['button-wallboard']['ro-ro'] = "";
 $text['button-wallboard']['ru-ru'] = "";
 $text['button-wallboard']['sv-se'] = "";
 $text['button-wallboard']['uk-ua'] = "";
+$text['button-wallboard']['vi'] = "Vách ngăn";
 
 ?>

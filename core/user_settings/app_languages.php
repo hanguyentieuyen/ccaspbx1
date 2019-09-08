@@ -20,6 +20,8 @@ $text['title-user_dashboard']['ro-ro'] = "Panou control utilizator";
 $text['title-user_dashboard']['ru-ru'] = "Панель пользователя";
 $text['title-user_dashboard']['sv-se'] = "Användarpanel";
 $text['title-user_dashboard']['uk-ua'] = "Панель користувача";
+$text['title-user_dashboard']['vi'] = "Bảng điều khiển";
+
 
 $text['title']['en-us'] = "Account Settings";
 $text['title']['ar-eg'] = "إعدادات الحساب";
@@ -40,6 +42,7 @@ $text['title']['ro-ro'] = "Setări cont";
 $text['title']['ru-ru'] = "Настройки учетной записи";
 $text['title']['sv-se'] = "Kontoinställningar";
 $text['title']['uk-ua'] = "Параметри облікового запису";
+$text['title']['vi'] = "Cài đặt tài khoản";
 
 $text['table2-title']['en-us'] = "Additional Info";
 $text['table2-title']['ar-eg'] = "معلومات اضافيه";
@@ -60,6 +63,7 @@ $text['table2-title']['ro-ro'] = "Informații adiționale";
 $text['table2-title']['ru-ru'] = "Дополнительная информация";
 $text['table2-title']['sv-se'] = "Ytterligare Information";
 $text['table2-title']['uk-ua'] = "Додаткова інформація";
+$text['table2-title']['vi'] = "Thông tin bổ sung";
 
 $text['table-tools']['en-us'] = "Tools";
 $text['table-tools']['ar-eg'] = "الادوات";
@@ -80,6 +84,7 @@ $text['table-tools']['ro-ro'] = "Utilitare";
 $text['table-tools']['ru-ru'] = "Инструменты";
 $text['table-tools']['sv-se'] = "Verktyg";
 $text['table-tools']['uk-ua'] = "Налаштування";
+$text['table-tools']['vi'] = "Công cụ";
 
 $text['table-title']['en-us'] = "User Info";
 $text['table-title']['ar-eg'] = "بيانات المستخدم";
@@ -100,6 +105,7 @@ $text['table-title']['ro-ro'] = "Informații Utilizator";
 $text['table-title']['ru-ru'] = "Информация о пользователе";
 $text['table-title']['sv-se'] = "Användarinformation";
 $text['table-title']['uk-ua'] = "Інформація про користувача";
+$text['table-title']['vi'] = "Thông tin người dùng";
 
 $text['table-extension']['en-us'] = "Extension";
 $text['table-extension']['ar-eg'] = "رقم داخلي";
@@ -120,6 +126,7 @@ $text['table-extension']['ro-ro'] = "Extensie";
 $text['table-extension']['ru-ru'] = "Внутренний номер";
 $text['table-extension']['sv-se'] = "Anknytning";
 $text['table-extension']['uk-ua'] = "Розширення (Extention)";
+$text['table-extension']['vi'] = "Máy nhánh";
 
 $text['table-description']['en-us'] = "Description";
 $text['table-description']['ar-eg'] = "الوصف";
@@ -140,6 +147,7 @@ $text['table-description']['ro-ro'] = "Descriere";
 $text['table-description']['ru-ru'] = "Описание";
 $text['table-description']['sv-se'] = "Beskrivning";
 $text['table-description']['uk-ua'] = "Опис";
+$text['table-description']['vi'] = "Mô tả";
 
 $text['message-reset_link_sent']['en-us'] = "Password Reset Link Sent";
 $text['message-reset_link_sent']['ar-eg'] = "تم ارسال رابط اعادة تعيين كلمة السر";
@@ -160,6 +168,8 @@ $text['message-reset_link_sent']['ro-ro'] = "Link pentru resetare parolă trimis
 $text['message-reset_link_sent']['ru-ru'] = "Ссылка для сброса пароля";
 $text['message-reset_link_sent']['sv-se'] = "Återställnings Länk för Lösenord Skickat";
 $text['message-reset_link_sent']['uk-ua'] = "Посилання на скидання пароля відправлено";
+$text['message-reset_link_sent']['vi'] = "Link đặt lại mật khẩu đã được gửi";
+
 
 $text['message-password_reset']['en-us'] = "Password Reset";
 $text['message-password_reset']['ar-eg'] = "اعادة تعيين كلمة السر";
@@ -180,6 +190,7 @@ $text['message-password_reset']['ro-ro'] = "Resetare parolă";
 $text['message-password_reset']['ru-ru'] = "Сбросить пароль";
 $text['message-password_reset']['sv-se'] = "Återställning Av Lösenord";
 $text['message-password_reset']['uk-ua'] = "Скинути пароль";
+$text['message-password_reset']['vi'] = "Đặt lại mật khẩu";
 
 $text['message-password_requirements']['en-us'] = "Password Requirements";
 $text['message-password_requirements']['ar-eg'] = "";
@@ -200,6 +211,7 @@ $text['message-password_requirements']['ro-ro'] = "Cerințe privind parola";
 $text['message-password_requirements']['ru-ru'] = "Требования к паролю";
 $text['message-password_requirements']['sv-se'] = "lösenordskrav ";
 $text['message-password_requirements']['uk-ua'] = "вимоги до паролю";
+$text['message-password_requirements']['vi'] = "Yêu cầu mật khẩu";
 
 $text['message-password_mismatch']['en-us'] = "Password Mismatch";
 $text['message-password_mismatch']['ar-eg'] = "";
@@ -340,6 +352,7 @@ $text['label-welcome']['ro-ro'] = "Bine ati venit:";
 $text['label-welcome']['ru-ru'] = "Добро пожаловать:";
 $text['label-welcome']['sv-se'] = "Välkommen:";
 $text['label-welcome']['uk-ua'] = "Ласкаво просимо:";
+$text['label-welcome']['vi'] = "Chào mừng:";
 
 $text['label-voicemail']['en-us'] = "Voicemail";
 $text['label-voicemail']['ar-eg'] = "";
@@ -360,6 +373,7 @@ $text['label-voicemail']['ro-ro'] = "";
 $text['label-voicemail']['ru-ru'] = "Голосовая почта";
 $text['label-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-voicemail']['uk-ua'] = "Голосова пошта";
+$text['label-voicemail']['vi'] = "Thư thoại";
 
 $text['label-view_all']['en-us'] = "View All";
 $text['label-view_all']['ar-eg'] = "";
@@ -420,6 +434,7 @@ $text['label-username']['ro-ro'] = "Utilizator";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Tên người dùng";
 
 $text['label-users']['en-us'] = "Users";
 $text['label-users']['ar-eg'] = "";
@@ -440,6 +455,7 @@ $text['label-users']['ro-ro'] = "";
 $text['label-users']['ru-ru'] = "Пользователи";
 $text['label-users']['sv-se'] = "Användare";
 $text['label-users']['uk-ua'] = "Користувачі";
+$text['label-users']['vi'] = "Người dùng";
 
 $text['label-user_language']['en-us'] = "Language";
 $text['label-user_language']['ar-eg'] = "اللغه";
@@ -460,6 +476,7 @@ $text['label-user_language']['ro-ro'] = "Limbă";
 $text['label-user_language']['ru-ru'] = "Язык";
 $text['label-user_language']['sv-se'] = "Språk";
 $text['label-user_language']['uk-ua'] = "Мова";
+$text['label-user_language']['vi'] = "Ngôn ngữ";
 
 $text['label-used']['en-us'] = "Used";
 $text['label-used']['ar-eg'] = "مستعمل";
@@ -480,6 +497,7 @@ $text['label-used']['ro-ro'] = "Folosit";
 $text['label-used']['ru-ru'] = "Используются";
 $text['label-used']['sv-se'] = "Används";
 $text['label-used']['uk-ua'] = "використовується";
+$text['label-used']['vi'] = "Đã sử dụng";
 
 $text['label-uppercase_letters']['en-us'] = "Uppercase Letters";
 $text['label-uppercase_letters']['ar-eg'] = "الأحرف الكبيرة";
@@ -620,6 +638,7 @@ $text['label-system_status']['ro-ro'] = "Stare sistem";
 $text['label-system_status']['ru-ru'] = "Статус системы";
 $text['label-system_status']['sv-se'] = "Systemstatus ";
 $text['label-system_status']['uk-ua'] = "стан системи";
+$text['label-system_status']['vi'] = "Trạng thái hệ thống";
 
 $text['label-system_counts']['en-us'] = "System Counts";
 $text['label-system_counts']['ar-eg'] = "التهم النظام";
@@ -640,6 +659,7 @@ $text['label-system_counts']['ro-ro'] = "Numără sistem";
 $text['label-system_counts']['ru-ru'] = "Системные показатели";
 $text['label-system_counts']['sv-se'] = "System Counts";
 $text['label-system_counts']['uk-ua'] = "система зараховує";
+$text['label-system_counts']['vi'] = "Số lượng hệ thống";
 
 $text['label-switch_uptime']['en-us'] = "Switch Uptime";
 $text['label-switch_uptime']['ar-eg'] = "";
@@ -740,6 +760,7 @@ $text['label-ring_groups']['ro-ro'] = "";
 $text['label-ring_groups']['ru-ru'] = "Группы вызовов";
 $text['label-ring_groups']['sv-se'] = "Ringgrupper";
 $text['label-ring_groups']['uk-ua'] = "Групи";
+$text['label-ring_groups']['vi'] = "Ring Groups";
 
 $text['label-reset_password']['en-us'] = "Reset Password";
 $text['label-reset_password']['ar-eg'] = "اعادة تعيين كلمة السر";
@@ -760,6 +781,26 @@ $text['label-reset_password']['ro-ro'] = "Resetare parolă";
 $text['label-reset_password']['ru-ru'] = "Сброс пароля";
 $text['label-reset_password']['sv-se'] = "Återställ Lösenord";
 $text['label-reset_password']['uk-ua'] = "Скинути пароль";
+
+$text['label-reset_link']['en-us'] = "Password Reset Link";
+$text['label-reset_link']['ar-eg'] = " رابط اعادة تعيين كلمة السر";
+$text['label-reset_link']['de-at'] = "Link zum Zurücksetzen des Passworts"; //copied from de-de
+$text['label-reset_link']['de-ch'] = "Link zum Zurücksetzen des Passworts"; //copied from de-de
+$text['label-reset_link']['de-de'] = "Link zum Zurücksetzen des Passworts";
+$text['label-reset_link']['es-cl'] = "Password Reset Enlace";
+$text['label-reset_link']['es-mx'] = "Password Reset Enlace"; //copied from es-cl
+$text['label-reset_link']['fr-ca'] = "Lien de réinitialisation du mot de passe"; //copied from fr-fr
+$text['label-reset_link']['fr-fr'] = "Lien de réinitialisation du mot de passe";
+$text['label-reset_link']['he-il'] = "קישור לאיפוס סיסמה";
+$text['label-reset_link']['it-it'] = "Link per il Reset della Password";
+$text['label-reset_link']['nl-nl'] = "";
+$text['label-reset_link']['pl-pl'] = "Link do resetowania hasla";
+$text['label-reset_link']['pt-br'] = "Link para redefinir senha";
+$text['label-reset_link']['pt-pt'] = "Password Reset Link";
+$text['label-reset_link']['ro-ro'] = "Link resetare parolă";
+$text['label-reset_link']['ru-ru'] = "Ссылка для сброса пароля";
+$text['label-reset_link']['sv-se'] = "Länk för Återställning av Lösenord";
+$text['label-reset_link']['uk-ua'] = "Посилання на скидання пароля";
 
 $text['label-repeat_password']['en-us'] = "Repeat Password";
 $text['label-repeat_password']['ar-eg'] = "تاكيد كلمة السر";
@@ -800,6 +841,7 @@ $text['label-registrations']['ro-ro'] = "";
 $text['label-registrations']['ru-ru'] = "Регистрации SIP";
 $text['label-registrations']['sv-se'] = "Registreringar";
 $text['label-registrations']['uk-ua'] = "Реєстрації";
+$text['label-registrations']['vi'] = "Đăng ký";
 
 $text['label-recent_calls']['en-us'] = "Recent Calls";
 $text['label-recent_calls']['ar-eg'] = "المكالمات الأخيرة";
@@ -920,6 +962,7 @@ $text['label-no_voicemail_assigned']['ro-ro'] = "Nr Mesagerie vocală alocate";
 $text['label-no_voicemail_assigned']['ru-ru'] = "Голосовая почта не назначена";
 $text['label-no_voicemail_assigned']['sv-se'] = "Ingen Röstbrevlåda Tilldelad";
 $text['label-no_voicemail_assigned']['uk-ua'] = "Ні Voicemail Assigned";
+$text['label-no_voicemail_assigned']['vi'] = "Không có thư thoại";
 
 $text['label-new_password']['en-us'] = "New Password";
 $text['label-new_password']['ar-eg'] = "كلمة سر جديدة";
@@ -960,6 +1003,7 @@ $text['label-new_messages']['ro-ro'] = "Mesaje noi";
 $text['label-new_messages']['ru-ru'] = "Новые сообщения";
 $text['label-new_messages']['sv-se'] = "Nya Meddelanden";
 $text['label-new_messages']['uk-ua'] = "нові повідомлення";
+$text['label-new_messages']['vi'] = "Tin nhắn mới";
 
 $text['label-new']['en-us'] = "New";
 $text['label-new']['ar-eg'] = "";
@@ -1040,6 +1084,7 @@ $text['label-messages']['ro-ro'] = "mesaje";
 $text['label-messages']['ru-ru'] = "Сообщения";
 $text['label-messages']['sv-se'] = "Meddelanden";
 $text['label-messages']['uk-ua'] = "повідомлення";
+$text['label-messages']['vi'] = "Tin nhắn";
 
 $text['label-memory_usage']['en-us'] = "Memory Usage";
 $text['label-memory_usage']['ar-eg'] = "استخدام الذاكرة";
@@ -1060,26 +1105,6 @@ $text['label-memory_usage']['ro-ro'] = "Folosirea memoriei";
 $text['label-memory_usage']['ru-ru'] = "Использование памяти";
 $text['label-memory_usage']['sv-se'] = "Minnesanvändning";
 $text['label-memory_usage']['uk-ua'] = "Використання пам'яті";
-
-$text['label-memory_available']['en-us'] = "Available Memory";
-$text['label-memory_available']['ar-eg'] = "Available Memory";
-$text['label-memory_available']['de-at'] = "Available Memory";
-$text['label-memory_available']['de-ch'] = "Available Memory";
-$text['label-memory_available']['de-de'] = "Available Memory";
-$text['label-memory_available']['es-cl'] = "Available Memory";
-$text['label-memory_available']['es-mx'] = "Available Memory";
-$text['label-memory_available']['fr-ca'] = "Available Memory";
-$text['label-memory_available']['fr-fr'] = "Available Memory";
-$text['label-memory_available']['he-il'] = "Available Memory";
-$text['label-memory_available']['it-it'] = "Available Memory";
-$text['label-memory_available']['nl-nl'] = "Available Memory";
-$text['label-memory_available']['pl-pl'] = "Available Memory";
-$text['label-memory_available']['pt-br'] = "Available Memory";
-$text['label-memory_available']['pt-pt'] = "Available Memory";
-$text['label-memory_available']['ro-ro'] = "Available Memory";
-$text['label-memory_available']['ru-ru'] = "Available Memory";
-$text['label-memory_available']['sv-se'] = "Available Memory";
-$text['label-memory_available']['uk-ua'] = "Available Memory";
 
 $text['label-lowercase_letters']['en-us'] = "Lowercase Letters";
 $text['label-lowercase_letters']['ar-eg'] = "أحرف صغيرة";
@@ -1241,6 +1266,7 @@ $text['label-followme']['ru-ru'] = "Следуй за мной";
 $text['label-followme']['sv-se'] = "Följ Mig";
 $text['label-followme']['uk-ua'] = "Follow Me";
 
+
 $text['label-feature']['en-us'] = "Feature";
 $text['label-feature']['ar-eg'] = "ميزة";
 $text['label-feature']['de-at'] = "Funktion"; //copied from de-de
@@ -1300,6 +1326,7 @@ $text['label-extensions']['ro-ro'] = "Extensii";
 $text['label-extensions']['ru-ru'] = "Внутренние номера";
 $text['label-extensions']['sv-se'] = "Anknytningar";
 $text['label-extensions']['uk-ua'] = "Розширення";
+$text['label-extensions']['vi'] = "Máy nhánh";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
@@ -1360,6 +1387,7 @@ $text['label-domains']['ro-ro'] = "";
 $text['label-domains']['ru-ru'] = "Домены";
 $text['label-domains']['sv-se'] = "Domäner";
 $text['label-domains']['uk-ua'] = "Домени";
+$text['label-domains']['vi'] = "Tên miền";
 
 $text['label-domain_limits']['en-us'] = "Domain Limits";
 $text['label-domain_limits']['ar-eg'] = "حدود نطاق";
@@ -1480,6 +1508,7 @@ $text['label-devices']['ro-ro'] = "Dispozitive";
 $text['label-devices']['ru-ru'] = "Устройства";
 $text['label-devices']['sv-se'] = "Enheter";
 $text['label-devices']['uk-ua'] = "Пристрої";
+$text['label-devices']['vi'] = "Thiết bị";
 
 $text['label-destinations']['en-us'] = "Destinations";
 $text['label-destinations']['ar-eg'] = "جهات الأتصال";
@@ -1500,6 +1529,7 @@ $text['label-destinations']['ro-ro'] = "Destinații";
 $text['label-destinations']['ru-ru'] = "Номера назначения";
 $text['label-destinations']['sv-se'] = "Destinationer";
 $text['label-destinations']['uk-ua'] = "Номери";
+$text['label-destinations']['vi'] = "Nơi đến";
 
 $text['label-date_time']['en-us'] = "Date/Time";
 $text['label-date_time']['ar-eg'] = "تاريخ / وقت";
@@ -1640,6 +1670,7 @@ $text['label-channels']['ro-ro'] = "Canale";
 $text['label-channels']['ru-ru'] = "Каналы";
 $text['label-channels']['sv-se'] = "Kanaler";
 $text['label-channels']['uk-ua'] = "Канали";
+$text['label-channels']['vi'] = "Kênh";
 
 $text['label-cancelled']['en-us'] = "Cancelled";
 $text['label-cancelled']['ar-eg'] = "ألغيت";
@@ -1700,6 +1731,7 @@ $text['label-callforward']['ro-ro'] = "Redirecționare apel";
 $text['label-callforward']['ru-ru'] = "Переадресация вызовов";
 $text['label-callforward']['sv-se'] = "Vidarekoppling";
 $text['label-callforward']['uk-ua'] = "Переадресація дзвінків";
+$text['label-callforward']['vi'] = "Cuộc gọi chuyển tiêp";
 
 $text['label-call_center_queues']['en-us'] = "CC Queues";
 $text['label-call_center_queues']['ar-eg'] = "";
@@ -1800,6 +1832,7 @@ $text['label-active_domains']['ro-ro'] = "Domenii active";
 $text['label-active_domains']['ru-ru'] = "Активные домены";
 $text['label-active_domains']['sv-se'] = "Aktiva Domäner";
 $text['label-active_domains']['uk-ua'] = "активні домени";
+$text['label-active_domains']['vi'] = "Tên miền hoạt động";
 
 $text['header-user_dashboard']['en-us'] = "Dashboard";
 $text['header-user_dashboard']['ar-eg'] = "الصفحه الرئيسيه للمستخدم";
@@ -1820,6 +1853,7 @@ $text['header-user_dashboard']['ro-ro'] = "Panou control utilizator";
 $text['header-user_dashboard']['ru-ru'] = "Панель пользователя";
 $text['header-user_dashboard']['sv-se'] = "Dashboard";
 $text['header-user_dashboard']['uk-ua'] = "Панель користувача";
+$text['header-user_dashboard']['vi'] = "Bảng điểu khiển";
 
 $text['description-user_language']['en-us'] = "Select the language.";
 $text['description-user_language']['ar-eg'] = "اختيار الغة";
@@ -1860,6 +1894,7 @@ $text['description-user_dashboard']['ro-ro'] = "Acces rapid la informații și u
 $text['description-user_dashboard']['ru-ru'] = "Быстрый доступ к информации и инструментам, связанным с вашей учетной записью.";
 $text['description-user_dashboard']['sv-se'] = "Snabb tillgång till kontoinformation och funktioner.";
 $text['description-user_dashboard']['uk-ua'] = "Швидкий доступ до інформації та інструментів  вашого облікового запису.";
+$text['description-user_dashboard']['vi'] = "Nhanh chóng truy cập thông tin và công cụ liên quan đến tài khoản của bạn.";
 
 $text['description-timezone']['en-us'] = "Select the default time zone.";
 $text['description-timezone']['ar-eg'] = "اختيار منطقة التوقيت";
@@ -2080,5 +2115,6 @@ $text['button-voicemail']['ro-ro'] = "";
 $text['button-voicemail']['ru-ru'] = "Голосовая почта";
 $text['button-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['button-voicemail']['uk-ua'] = "Голосова пошта";
+$text['button-voicemail']['vi'] = "Thư thoại";
 
 ?>

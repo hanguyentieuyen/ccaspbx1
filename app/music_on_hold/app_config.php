@@ -27,21 +27,25 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Thêm, Xóa, hoặc Phát file nhạc chờ.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_view";
 		$apps[$x]['permissions'][$y]['menu']['uuid'] = "1cd1d6cb-912d-db32-56c3-e0d5699feb9d";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
+		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_add";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
+		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_edit";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
+		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
+		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$y++;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_name";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";

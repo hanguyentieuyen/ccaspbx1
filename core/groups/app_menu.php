@@ -11,6 +11,7 @@ $apps[$x]['menu'][3]['title']['uk'] = "Групи";
 $apps[$x]['menu'][3]['title']['sv-se'] = "Grupp Inställningar";
 $apps[$x]['menu'][3]['title']['de-at'] = "Gruppenverwaltung";
 $apps[$x]['menu'][3]['title']['he'] = "מנהל קבוצה";
+$apps[$x]['menu'][3]['title']['vi'] = "Quản lý nhóm";
 $apps[$x]['menu'][3]['uuid'] = "3b4acc6d-827b-f537-bf21-0093d94ffec7";
 $apps[$x]['menu'][3]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 $apps[$x]['menu'][3]['category'] = "internal";

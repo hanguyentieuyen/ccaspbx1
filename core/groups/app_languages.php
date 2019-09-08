@@ -20,6 +20,7 @@ $text['title-user_setting-edit']['ro-ro'] = "";
 $text['title-user_setting-edit']['ru-ru'] = "Настройки пользователя";
 $text['title-user_setting-edit']['sv-se'] = "Användarinställningar";
 $text['title-user_setting-edit']['uk-ua'] = "";
+$text['title-user_setting-edit']['vi'] = "Cài đặt người dùng";
 
 $text['title-user_setting-add']['en-us'] = "User Setting Add";
 $text['title-user_setting-add']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-user_setting-add']['ro-ro'] = "";
 $text['title-user_setting-add']['ru-ru'] = "Добавить настройки пользователя";
 $text['title-user_setting-add']['sv-se'] = "Lägg Till Användarinställningar";
 $text['title-user_setting-add']['uk-ua'] = "";
+$text['title-user_setting-add']['vi'] = "Thêm cài đặt người dùng";
 
 $text['title-user_manager']['en-us'] = "User Manager";
 $text['title-user_manager']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-user_manager']['ro-ro'] = "";
 $text['title-user_manager']['ru-ru'] = "Управление пользователями";
 $text['title-user_manager']['sv-se'] = "Användar Inställningar";
 $text['title-user_manager']['uk-ua'] = "Користувачі";
+$text['title-user_manager']['vi'] = "Quản lý người dùng";
 
 $text['title-user_edit']['en-us'] = "User";
 $text['title-user_edit']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-user_edit']['ro-ro'] = "Utilizator";
 $text['title-user_edit']['ru-ru'] = "Пользователь";
 $text['title-user_edit']['sv-se'] = "Användare";
 $text['title-user_edit']['uk-ua'] = "Користувач";
+$text['title-user_edit']['vi'] = "Người dùng";
 
 $text['title-user_add']['en-us'] = "User";
 $text['title-user_add']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-user_add']['ro-ro'] = "Utilizator";
 $text['title-user_add']['ru-ru'] = "Пользователь";
 $text['title-user_add']['sv-se'] = "Användare";
 $text['title-user_add']['uk-ua'] = "Користувач";
+$text['title-user_add']['vi'] = "Người dùng";
 
 $text['title-group_permissions']['en-us'] = "Group Permissions";
 $text['title-group_permissions']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['title-group_permissions']['ro-ro'] = "Permisiuni grup";
 $text['title-group_permissions']['ru-ru'] = "Права группы";
 $text['title-group_permissions']['sv-se'] = "Grupp Rättigheter";
 $text['title-group_permissions']['uk-ua'] = "Привілеї групи";
+$text['title-group_permissions']['vi'] = "Quyền nhóm";
 
 $text['title-group_members']['en-us'] = "Group Members";
 $text['title-group_members']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['title-group_members']['ro-ro'] = "Membri grup";
 $text['title-group_members']['ru-ru'] = "Участники группы";
 $text['title-group_members']['sv-se'] = "Grupp Medlemmar";
 $text['title-group_members']['uk-ua'] = "Учасники групи";
+$text['title-group_members']['vi'] = "Thành viên nhóm";
 
 $text['title-group_manager']['en-us'] = "Group Manager";
 $text['title-group_manager']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['title-group_manager']['ro-ro'] = "";
 $text['title-group_manager']['ru-ru'] = "Управление группами";
 $text['title-group_manager']['sv-se'] = "Grupp Inställningar";
 $text['title-group_manager']['uk-ua'] = "Групи";
+$text['title-group_manager']['vi'] = "Quản lý nhóm";
 
 $text['title-group_edit']['en-us'] = "Edit Group";
 $text['title-group_edit']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['title-group_edit']['ro-ro'] = "Editare grup";
 $text['title-group_edit']['ru-ru'] = "Изменить группу";
 $text['title-group_edit']['sv-se'] = "Editera Grupp";
 $text['title-group_edit']['uk-ua'] = "Редагувати групу";
+$text['title-group_edit']['vi'] = "Chỉnh sửa nhóm";
 
 $text['title-group_add']['en-us'] = "Add Group";
 $text['title-group_add']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['title-group_add']['ro-ro'] = "Adăugare grup";
 $text['title-group_add']['ru-ru'] = "Добавить группу";
 $text['title-group_add']['sv-se'] = "Lägg Till Grupp";
 $text['title-group_add']['uk-ua'] = "Додати групу";
+$text['title-group_add']['vi'] = "Thêm nhóm";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-on_break']['en-us'] = "On Break";
 $text['option-on_break']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['option-on_break']['ro-ro'] = "În pauză";
 $text['option-on_break']['ru-ru'] = "На перерыве";
 $text['option-on_break']['sv-se'] = "På Rast";
 $text['option-on_break']['uk-ua'] = "На перерві";
+$text['option-on_break']['vi'] = "Đang  hủy";
 
 $text['option-logged_out']['en-us'] = "Logged Out";
 $text['option-logged_out']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['option-logged_out']['ro-ro'] = "";
 $text['option-logged_out']['ru-ru'] = "Выйти";
 $text['option-logged_out']['sv-se'] = "Utloggad";
 $text['option-logged_out']['uk-ua'] = "Вийшов";
+$text['option-logged_out']['vi'] = "Đăng xuất";
 
 $text['option-global']['en-us'] = "Global";
 $text['option-global']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['option-global']['ro-ro'] = "Global";
 $text['option-global']['ru-ru'] = "Глобальный";
 $text['option-global']['sv-se'] = "Global";
 $text['option-global']['uk-ua'] = "Глобально";
+$text['option-global']['vi'] = "Toàn cầu";
 
 $text['option-false']['en-us'] = "False";
 $text['option-false']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['option-false']['ro-ro'] = "";
 $text['option-false']['ru-ru'] = "Нет";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "Ні";
+$text['option-false']['vi'] = "Sai";
 
 $text['option-do_not_disturb']['en-us'] = "Do Not Disturb";
 $text['option-do_not_disturb']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['option-do_not_disturb']['ro-ro'] = "";
 $text['option-do_not_disturb']['ru-ru'] = "Не беспокоить (DND)";
 $text['option-do_not_disturb']['sv-se'] = "Stör Ej";
 $text['option-do_not_disturb']['uk-ua'] = "Не турбувати";
+$text['option-do_not_disturb']['vi'] = "Đừng làm phiền";
 
 $text['option-available_on_demand']['en-us'] = "Available (On Demand)";
 $text['option-available_on_demand']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['option-available_on_demand']['ro-ro'] = "";
 $text['option-available_on_demand']['ru-ru'] = "Доступен (по требованию)";
 $text['option-available_on_demand']['sv-se'] = "Tillgänglig (På Begäran)";
 $text['option-available_on_demand']['uk-ua'] = "Доступний (на вимогу)";
+$text['option-available_on_demand']['vi'] = "Có sẵn (Theo yêu cầu)";
 
 $text['option-available']['en-us'] = "Available";
 $text['option-available']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['option-available']['ro-ro'] = "";
 $text['option-available']['ru-ru'] = "Доступен";
 $text['option-available']['sv-se'] = "Tillgänglig";
 $text['option-available']['uk-ua'] = "Доступний";
+$text['option-available']['vi'] = "Có sẵn";
 
 $text['message-username_exists']['en-us'] = "Username Already Exists";
 $text['message-username_exists']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['message-username_exists']['ro-ro'] = "";
 $text['message-username_exists']['ru-ru'] = "Имя пользователя уже занято";
 $text['message-username_exists']['sv-se'] = "Användarnamnet Existerar Redan";
 $text['message-username_exists']['uk-ua'] = "Користувач вже існує";
+$text['message-username_exists']['vi'] = "Tên này đã có người dùng";
 
 $text['message-password_mismatch']['en-us'] = "Password Mismatch";
 $text['message-password_mismatch']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['message-password_mismatch']['ro-ro'] = "";
 $text['message-password_mismatch']['ru-ru'] = "Пароли не совпадают";
 $text['message-password_mismatch']['sv-se'] = "Lösenordet Stämmer Inte";
 $text['message-password_mismatch']['uk-ua'] = "Паролі не співпадають";
+$text['message-password_mismatch']['vi'] = "Mật khẩu không khớp";
 
 $text['message-password_blank']['en-us'] = "Invalid Password";
 $text['message-password_blank']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['message-password_blank']['ro-ro'] = "";
 $text['message-password_blank']['ru-ru'] = "Неверный пароль";
 $text['message-password_blank']['sv-se'] = "Ogiltigt Lösenord";
 $text['message-password_blank']['uk-ua'] = "Неправильний пароль";
+$text['message-password_blank']['vi'] = "Mật khẩu không hợp lệ";
 
 $text['message-password_requirements']['en-us'] = "Password Requirements";
 $text['message-password_requirements']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['message-password_requirements']['ro-ro'] = "Cerințe privind parola";
 $text['message-password_requirements']['ru-ru'] = "Требования к паролю";
 $text['message-password_requirements']['sv-se'] = "lösenordskrav ";
 $text['message-password_requirements']['uk-ua'] = "вимоги до паролю";
+$text['message-password_requirements']['vi'] = "Yêu cầu mật khẩu";
 
 $text['message-new_group_name']['en-us'] = "Enter a Name for the new Group...";
 $text['message-new_group_name']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['message-new_group_name']['ro-ro'] = "";
 $text['message-new_group_name']['ru-ru'] = "Введите имя для новой группы...";
 $text['message-new_group_name']['sv-se'] = "Ange ett Namn för den nya Gruppen...";
 $text['message-new_group_name']['uk-ua'] = "Введіть назву нової групи";
+$text['message-new_group_name']['vi'] = "Nhập tên cho nhóm mới...";
 
 $text['message-new_group_description']['en-us'] = "Enter a Description for the new Group...";
 $text['message-new_group_description']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['message-new_group_description']['ro-ro'] = "";
 $text['message-new_group_description']['ru-ru'] = "Введите описание для новой группы...";
 $text['message-new_group_description']['sv-se'] = "Ange en Beskrivning för den nya Gruppen...";
 $text['message-new_group_description']['uk-ua'] = "Введіть опис нової групи";
+$text['message-new_group_description']['vi'] = "Nhập mô tả cho nhóm mới...";
 
 $text['message-maximum_users']['en-us'] = "Maximum Users:";
 $text['message-maximum_users']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['message-maximum_users']['ro-ro'] = "";
 $text['message-maximum_users']['ru-ru'] = "Максимальное количество пользователей:";
 $text['message-maximum_users']['sv-se'] = "Max Antal Användare:";
 $text['message-maximum_users']['uk-ua'] = "Максимальна кількість користувачів";
+$text['message-maximum_users']['vi'] = "Người dùng tối đa:";
 
 $text['message-group_exists']['en-us'] = "Group Already Exists";
 $text['message-group_exists']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['message-group_exists']['ro-ro'] = "";
 $text['message-group_exists']['ru-ru'] = "Группа уже существует";
 $text['message-group_exists']['sv-se'] = "Gruppen Existerar Redan";
 $text['message-group_exists']['uk-ua'] = "Група вже існує";
+$text['message-group_exists']['vi'] = "Nhóm đã tồn tại";
 
 $text['message-default_system_group']['en-us'] = "Default system groups cannot be edited or deleted.";
 $text['message-default_system_group']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['message-default_system_group']['ro-ro'] = "";
 $text['message-default_system_group']['ru-ru'] = "Системные группы по умолчанию нельзя редактировать или удалять.";
 $text['message-default_system_group']['sv-se'] = "Standard system grupper kan inte redigeras eller tas bort.";
 $text['message-default_system_group']['uk-ua'] = "Системні групи за замовчуванням не можна редагувати або видаляти";
+$text['message-default_system_group']['vi'] = "Các nhóm hệ thống mặc định không thể được chỉnh sửa hoặc xóa.";
 
 $text['message-copy']['en-us'] = "Copy Completed";
 $text['message-copy']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['message-copy']['ro-ro'] = "Copiere completă";
 $text['message-copy']['ru-ru'] = "Копирование выполнено";
 $text['message-copy']['sv-se'] = "Kopiering Slutförd";
 $text['message-copy']['uk-ua'] = "Скопійовано";
+$text['message-copy']['vi'] = "Sao chép thành công";
 
 $text['message-cannot_delete_own_account']['en-us'] = "You cannot delete your own user account. Please login as a different user, then try again.";
 $text['message-cannot_delete_own_account']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['message-cannot_delete_own_account']['ro-ro'] = "";
 $text['message-cannot_delete_own_account']['ru-ru'] = "Вы не можете удалить свою учетную запись. Войдите как другой пользователь, а затем повторите попытку..";
 $text['message-cannot_delete_own_account']['sv-se'] = "Du kan inte ta bort ditt egna användarkonto. Logg ain som en annan användare och försök igen.";
 $text['message-cannot_delete_own_account']['uk-ua'] = "Ви не можете видалити власний обліковий запис. Будь ласка, увійдіть під іншим користувачем, потім повторіть спробу.";
+$text['message-cannot_delete_own_account']['vi'] = "Bạn không thể xóa tài khoản người dùng của riêng bạn. Vui lòng đăng nhập như một người dùng khác, sau đó thử lại.";
 
 $text['label-web_fonts']['en-us'] = "Web Fonts";
 $text['label-web_fonts']['ar-eg'] = "الخطوط على شبكة الإنترنت";
@@ -600,6 +629,7 @@ $text['label-web_fonts']['ro-ro'] = "Fonturi web";
 $text['label-web_fonts']['ru-ru'] = "Шрифты Web";
 $text['label-web_fonts']['sv-se'] = "web teckensnitt";
 $text['label-web_fonts']['uk-ua'] = "веб-шрифти";
+$text['label-web_fonts']['vi'] = "Phông chữ Web";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['label-username']['ro-ro'] = "Utilizator";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Tên người dùng";
 
 $text['label-user_language']['en-us'] = "Language";
 $text['label-user_language']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['label-user_language']['ro-ro'] = "Limbă";
 $text['label-user_language']['ru-ru'] = "Язык";
 $text['label-user_language']['sv-se'] = "Språk";
 $text['label-user_language']['uk-ua'] = "Мова";
+$text['label-user_language']['vi'] = "Ngôn ngữ";
 
 $text['label-user_info']['en-us'] = "User Info";
 $text['label-user_info']['ar-eg'] = "";
@@ -660,6 +692,7 @@ $text['label-user_info']['ro-ro'] = "";
 $text['label-user_info']['ru-ru'] = "Информация о пользователе";
 $text['label-user_info']['sv-se'] = "Användar Info";
 $text['label-user_info']['uk-ua'] = "Інформація про користувача";
+$text['label-user_info']['vi'] = "Thông tin người dùng";
 
 $text['label-uppercase_letters']['en-us'] = "Uppercase Letters";
 $text['label-uppercase_letters']['ar-eg'] = "الأحرف الكبيرة";
@@ -680,6 +713,7 @@ $text['label-uppercase_letters']['ro-ro'] = "Litere mari";
 $text['label-uppercase_letters']['ru-ru'] = "Заглавные буквы";
 $text['label-uppercase_letters']['sv-se'] = "Versala bokstäver";
 $text['label-uppercase_letters']['uk-ua'] = "Великі літери";
+$text['label-uppercase_letters']['vi'] = "Chữ in hoa";
 
 $text['label-top']['en-us'] = "Top";
 $text['label-top']['ar-eg'] = "أعلى";
@@ -720,6 +754,7 @@ $text['label-time_zone']['ro-ro'] = "";
 $text['label-time_zone']['ru-ru'] = "Часовой пояс";
 $text['label-time_zone']['sv-se'] = "Tidszon";
 $text['label-time_zone']['uk-ua'] = "Часовий пояс";
+$text['label-time_zone']['vi'] = "Múi giờ";
 
 $text['label-text']['en-us'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
@@ -760,6 +795,7 @@ $text['label-status']['ro-ro'] = "Stare";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-static']['en-us'] = "Static";
 $text['label-static']['ar-eg'] = "ساكن";
@@ -800,6 +836,7 @@ $text['label-special_characters']['ro-ro'] = "caractere speciale";
 $text['label-special_characters']['ru-ru'] = "Специальные символы";
 $text['label-special_characters']['sv-se'] = "Speciella karaktärer";
 $text['label-special_characters']['uk-ua'] = "спеціальні символи";
+$text['label-special_characters']['vi'] = "Kí tự đặc biệt";
 
 $text['label-right']['en-us'] = "Right";
 $text['label-right']['ar-eg'] = "حق";
@@ -820,6 +857,7 @@ $text['label-right']['ro-ro'] = "Dreapta";
 $text['label-right']['ru-ru'] = "Справа";
 $text['label-right']['sv-se'] = "Höger";
 $text['label-right']['uk-ua'] = "правий";
+$text['label-right']['vi'] = "Phải";
 
 $text['label-reference']['en-us'] = "See";
 $text['label-reference']['ar-eg'] = "مرجع";
@@ -860,6 +898,7 @@ $text['label-permission_permissions']['ro-ro'] = "";
 $text['label-permission_permissions']['ru-ru'] = "Права";
 $text['label-permission_permissions']['sv-se'] = "Rättigheter";
 $text['label-permission_permissions']['uk-ua'] = "Привілеї";
+$text['label-permission_permissions']['vi'] = "Quyền";
 
 $text['label-permission_description']['en-us'] = "Description";
 $text['label-permission_description']['ar-eg'] = "";
@@ -880,6 +919,7 @@ $text['label-permission_description']['ro-ro'] = "";
 $text['label-permission_description']['ru-ru'] = "Описание";
 $text['label-permission_description']['sv-se'] = "Beskrivning";
 $text['label-permission_description']['uk-ua'] = "Опис";
+$text['label-permission_description']['vi'] = "Mô tả";
 
 $text['label-password']['en-us'] = "Password";
 $text['label-password']['ar-eg'] = "";
@@ -900,6 +940,7 @@ $text['label-password']['ro-ro'] = "Parolă";
 $text['label-password']['ru-ru'] = "Пароль";
 $text['label-password']['sv-se'] = "Lösenord";
 $text['label-password']['uk-ua'] = "Пароль";
+$text['label-password']['vi'] = "Mật khẩu";
 
 $text['label-other']['en-us'] = "Other";
 $text['label-other']['ar-eg'] = "";
@@ -920,6 +961,7 @@ $text['label-other']['ro-ro'] = "";
 $text['label-other']['ru-ru'] = "Другие";
 $text['label-other']['sv-se'] = "Annat";
 $text['label-other']['uk-ua'] = "";
+$text['label-other']['vi'] = "Khác";
 
 $text['label-numbers']['en-us'] = "Numbers";
 $text['label-numbers']['ar-eg'] = "أرقام";
@@ -940,6 +982,7 @@ $text['label-numbers']['ro-ro'] = "numere";
 $text['label-numbers']['ru-ru'] = "Цифры";
 $text['label-numbers']['sv-se'] = "Tal";
 $text['label-numbers']['uk-ua'] = "чисел";
+$text['label-numbers']['vi'] = "Số điện thoại";
 
 $text['label-none']['en-us'] = "None";
 $text['label-none']['ar-eg'] = "لا شيء";
@@ -980,6 +1023,7 @@ $text['label-lowercase_letters']['ro-ro'] = "Litere mici";
 $text['label-lowercase_letters']['ru-ru'] = "Строчные буквы";
 $text['label-lowercase_letters']['sv-se'] = "Gemener";
 $text['label-lowercase_letters']['uk-ua'] = "Букви нижнього регістру";
+$text['label-lowercase_letters']['vi'] = "Chữ viết thường";
 
 $text['label-left']['en-us'] = "Left";
 $text['label-left']['ar-eg'] = "اليسار";
@@ -1000,6 +1044,7 @@ $text['label-left']['ro-ro'] = "Stânga";
 $text['label-left']['ru-ru'] = "Слева";
 $text['label-left']['sv-se'] = "Vänster";
 $text['label-left']['uk-ua'] = "лівий";
+$text['label-left']['vi'] = "Trái";
 
 $text['label-last_name']['en-us'] = "Last Name";
 $text['label-last_name']['ar-eg'] = "";
@@ -1020,6 +1065,7 @@ $text['label-last_name']['ro-ro'] = "";
 $text['label-last_name']['ru-ru'] = "Фамилия";
 $text['label-last_name']['sv-se'] = "Efternamn";
 $text['label-last_name']['uk-ua'] = "Прізвище";
+$text['label-last_name']['vi'] = "Họ";
 
 $text['label-inline']['en-us'] = "Inline";
 $text['label-inline']['ar-eg'] = "في النسق";
@@ -1060,6 +1106,7 @@ $text['label-image']['ro-ro'] = "Imagine";
 $text['label-image']['ru-ru'] = "Изображение";
 $text['label-image']['sv-se'] = "Bild";
 $text['label-image']['uk-ua'] = "зображення";
+$text['label-image']['vi'] = "Hình ảnh";
 
 $text['label-groups']['en-us'] = "Groups";
 $text['label-groups']['ar-eg'] = "";
@@ -1080,6 +1127,7 @@ $text['label-groups']['ro-ro'] = "";
 $text['label-groups']['ru-ru'] = "Группы";
 $text['label-groups']['sv-se'] = "Grupper";
 $text['label-groups']['uk-ua'] = "Групи";
+$text['label-groups']['vi'] = "Nhóm";
 
 $text['label-group_tools']['en-us'] = "Tools";
 $text['label-group_tools']['ar-eg'] = "";
@@ -1100,6 +1148,7 @@ $text['label-group_tools']['ro-ro'] = "";
 $text['label-group_tools']['ru-ru'] = "Инструменты";
 $text['label-group_tools']['sv-se'] = "Verktyg";
 $text['label-group_tools']['uk-ua'] = "Інструменти";
+$text['label-group_tools']['vi'] = "Công cụ";
 
 $text['label-group_protected']['en-us'] = "Protected";
 $text['label-group_protected']['ar-eg'] = "";
@@ -1120,6 +1169,7 @@ $text['label-group_protected']['ro-ro'] = "";
 $text['label-group_protected']['ru-ru'] = "Защищенный";
 $text['label-group_protected']['sv-se'] = "Skyddad";
 $text['label-group_protected']['uk-ua'] = "Захищено";
+$text['label-group_protected']['vi'] = "Được bảo vệ";
 
 $text['label-group_permissions']['en-us'] = "Permissions";
 $text['label-group_permissions']['ar-eg'] = "";
@@ -1140,6 +1190,7 @@ $text['label-group_permissions']['ro-ro'] = "";
 $text['label-group_permissions']['ru-ru'] = "Права";
 $text['label-group_permissions']['sv-se'] = "Rättigheter";
 $text['label-group_permissions']['uk-ua'] = "Дозволи";
+$text['label-group_permissions']['vi'] = "Quyền";
 
 $text['label-group_name']['en-us'] = "Name";
 $text['label-group_name']['ar-eg'] = "";
@@ -1160,6 +1211,7 @@ $text['label-group_name']['ro-ro'] = "";
 $text['label-group_name']['ru-ru'] = "Название";
 $text['label-group_name']['sv-se'] = "Namn";
 $text['label-group_name']['uk-ua'] = "Назва";
+$text['label-group_name']['vi'] = "Tên";
 
 $text['label-group_members']['en-us'] = "Members";
 $text['label-group_members']['ar-eg'] = "";
@@ -1180,6 +1232,7 @@ $text['label-group_members']['ro-ro'] = "";
 $text['label-group_members']['ru-ru'] = "Участники";
 $text['label-group_members']['sv-se'] = "Medlemmar";
 $text['label-group_members']['uk-ua'] = "Учасники";
+$text['label-group_members']['vi'] = "Thành viên";
 
 $text['label-group_description']['en-us'] = "Description";
 $text['label-group_description']['ar-eg'] = "";
@@ -1200,6 +1253,7 @@ $text['label-group_description']['ro-ro'] = "";
 $text['label-group_description']['ru-ru'] = "Описание";
 $text['label-group_description']['sv-se'] = "Beskrivning";
 $text['label-group_description']['uk-ua'] = "Опис";
+$text['label-group_description']['vi'] = "Mô tả";
 
 $text['label-group']['en-us'] = "Group";
 $text['label-group']['ar-eg'] = "";
@@ -1220,6 +1274,7 @@ $text['label-group']['ro-ro'] = "";
 $text['label-group']['ru-ru'] = "Группа";
 $text['label-group']['sv-se'] = "Grupp";
 $text['label-group']['uk-ua'] = "Група";
+$text['label-group']['vi'] = "Nhóm";
 
 $text['label-global']['en-us'] = "Global";
 $text['label-global']['ar-eg'] = "";
@@ -1240,6 +1295,7 @@ $text['label-global']['ro-ro'] = "";
 $text['label-global']['ru-ru'] = "Глобальный";
 $text['label-global']['sv-se'] = "Global";
 $text['label-global']['uk-ua'] = "Глобально";
+$text['label-global']['vi'] = "Toàn cầu";
 
 $text['label-fixed']['en-us'] = "Fixed";
 $text['label-fixed']['ar-eg'] = "ثابت";
@@ -1260,6 +1316,7 @@ $text['label-fixed']['ro-ro'] = "Fix";
 $text['label-fixed']['ru-ru'] = "Фиксированный";
 $text['label-fixed']['sv-se'] = "Fast";
 $text['label-fixed']['uk-ua'] = "фіксований";
+$text['label-fixed']['vi'] = "Đã sửa";
 
 $text['label-first_name']['en-us'] = "First Name";
 $text['label-first_name']['ar-eg'] = "";
@@ -1280,6 +1337,7 @@ $text['label-first_name']['ro-ro'] = "";
 $text['label-first_name']['ru-ru'] = "Имя";
 $text['label-first_name']['sv-se'] = "Förnamn";
 $text['label-first_name']['uk-ua'] = "Ім’я";
+$text['label-first_name']['vi'] = "Tên";
 
 $text['label-email']['en-us'] = "Email";
 $text['label-email']['ar-eg'] = "";
@@ -1301,6 +1359,7 @@ $text['label-email']['ru-ru'] = "Email";
 $text['label-email']['sv-se'] = "E-post";
 $text['label-email']['uk-ua'] = "Електронна пошта";
 
+
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "";
 $text['label-domain']['de-at'] = "Domain"; //copied from de-de
@@ -1320,6 +1379,7 @@ $text['label-domain']['ro-ro'] = "Domeniu";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-contact']['en-us'] = "Contact";
 $text['label-contact']['ar-eg'] = "";
@@ -1340,6 +1400,7 @@ $text['label-contact']['ro-ro'] = "";
 $text['label-contact']['ru-ru'] = "Контакт";
 $text['label-contact']['sv-se'] = "Kontakt";
 $text['label-contact']['uk-ua'] = "Контакт";
+$text['label-contact']['vi'] = "Liên lạc";
 
 $text['label-confirm_password']['en-us'] = "Confirm Password";
 $text['label-confirm_password']['ar-eg'] = "";
@@ -1360,6 +1421,7 @@ $text['label-confirm_password']['ro-ro'] = "";
 $text['label-confirm_password']['ru-ru'] = "Подтвердите пароль";
 $text['label-confirm_password']['sv-se'] = "Bekräfta Lösenord";
 $text['label-confirm_password']['uk-ua'] = "Повторити пароль";
+$text['label-confirm_password']['vi'] = "Xác nhận mật khẩu";
 
 $text['label-company_name']['en-us'] = "Company Name";
 $text['label-company_name']['ar-eg'] = "";
@@ -1380,6 +1442,7 @@ $text['label-company_name']['ro-ro'] = "";
 $text['label-company_name']['ru-ru'] = "Название компании";
 $text['label-company_name']['sv-se'] = "Företags Namn";
 $text['label-company_name']['uk-ua'] = "Назва компанії";
+$text['label-company_name']['vi'] = "Tên công ty";
 
 $text['label-characters']['en-us'] = "Characters";
 $text['label-characters']['ar-eg'] = "الشخصيات";
@@ -1400,6 +1463,7 @@ $text['label-characters']['ro-ro'] = "caractere";
 $text['label-characters']['ru-ru'] = "символов";
 $text['label-characters']['sv-se'] = "tecken";
 $text['label-characters']['uk-ua'] = "персонажі";
+$text['label-characters']['vi'] = "Kí tự";
 
 $text['label-center']['en-us'] = "Center";
 $text['label-center']['ar-eg'] = "مركز";
@@ -1420,6 +1484,7 @@ $text['label-center']['ro-ro'] = "Centru";
 $text['label-center']['ru-ru'] = "Центр";
 $text['label-center']['sv-se'] = "Centrum";
 $text['label-center']['uk-ua'] = "центр";
+$text['label-center']['vi'] = "Trung tâm";
 
 $text['label-bottom']['en-us'] = "Bottom";
 $text['label-bottom']['ar-eg'] = "أسفل";
@@ -1440,6 +1505,7 @@ $text['label-bottom']['ro-ro'] = "Fund";
 $text['label-bottom']['ru-ru'] = "Низ";
 $text['label-bottom']['sv-se'] = "Botten";
 $text['label-bottom']['uk-ua'] = "дно";
+$text['label-bottom']['vi'] = "Dưới";
 
 $text['label-api_key']['en-us'] = "API Key";
 $text['label-api_key']['ar-eg'] = "";
@@ -1480,6 +1546,7 @@ $text['label-additional_info']['ro-ro'] = "";
 $text['label-additional_info']['ru-ru'] = "Дополнительная информация";
 $text['label-additional_info']['sv-se'] = "Ytterligare Info";
 $text['label-additional_info']['uk-ua'] = "Додаткова інформація";
+$text['label-additional_info']['vi'] = "Thông tin bổ sung";
 
 $text['label-24-hour']['en-us'] = "24-Hour";
 $text['label-24-hour']['ar-eg'] = "24 ساعة";
@@ -1540,6 +1607,7 @@ $text['header-user_setting-edit']['ro-ro'] = "";
 $text['header-user_setting-edit']['ru-ru'] = "Настройки пользователя";
 $text['header-user_setting-edit']['sv-se'] = "";
 $text['header-user_setting-edit']['uk-ua'] = "";
+$text['header-user_setting-edit']['vi'] = "Cài đặt người dùng";
 
 $text['header-user_setting-add']['en-us'] = "User Setting Add";
 $text['header-user_setting-add']['ar-eg'] = "";
@@ -1560,6 +1628,7 @@ $text['header-user_setting-add']['ro-ro'] = "";
 $text['header-user_setting-add']['ru-ru'] = "Добавить настройки пользователя";
 $text['header-user_setting-add']['sv-se'] = "";
 $text['header-user_setting-add']['uk-ua'] = "";
+$text['header-user_setting-add']['vi'] = "Thêm cài đặt người dùng";
 
 $text['header-user_manager']['en-us'] = "Users";
 $text['header-user_manager']['ar-eg'] = "";
@@ -1580,6 +1649,7 @@ $text['header-user_manager']['ro-ro'] = "";
 $text['header-user_manager']['ru-ru'] = "Пользователи";
 $text['header-user_manager']['sv-se'] = "Användar Inställningar";
 $text['header-user_manager']['uk-ua'] = "Користувачі";
+$text['header-user_manager']['vi'] = "Người dùng";
 
 $text['header-user_edit']['en-us'] = "User";
 $text['header-user_edit']['ar-eg'] = "";
@@ -1600,6 +1670,7 @@ $text['header-user_edit']['ro-ro'] = "";
 $text['header-user_edit']['ru-ru'] = "Пользователь";
 $text['header-user_edit']['sv-se'] = "Användare";
 $text['header-user_edit']['uk-ua'] = "Користувач";
+$text['header-user_edit']['vi'] = "Người dùng";
 
 $text['header-user_add']['en-us'] = "User";
 $text['header-user_add']['ar-eg'] = "";
@@ -1620,6 +1691,7 @@ $text['header-user_add']['ro-ro'] = "";
 $text['header-user_add']['ru-ru'] = "Пользователь";
 $text['header-user_add']['sv-se'] = "Användare";
 $text['header-user_add']['uk-ua'] = "Користувач";
+$text['header-user_add']['vi'] = "Người dùng";
 
 $text['header-group_permissions']['en-us'] = "Group Permissions: ";
 $text['header-group_permissions']['ar-eg'] = "";
@@ -1640,6 +1712,7 @@ $text['header-group_permissions']['ro-ro'] = "";
 $text['header-group_permissions']['ru-ru'] = "Права группы: ";
 $text['header-group_permissions']['sv-se'] = "Grupp Rättigheter";
 $text['header-group_permissions']['uk-ua'] = "Привілеї групи:";
+$text['header-group_permissions']['vi'] = "Quyền nhóm: ";
 
 $text['header-group_members']['en-us'] = "Group Members: ";
 $text['header-group_members']['ar-eg'] = "";
@@ -1660,6 +1733,7 @@ $text['header-group_members']['ro-ro'] = "";
 $text['header-group_members']['ru-ru'] = "Участники группы: ";
 $text['header-group_members']['sv-se'] = "Grupp Medlemmar:";
 $text['header-group_members']['uk-ua'] = "Учасники групи: ";
+$text['header-group_members']['vi'] = "Thành viên nhóm: ";
 
 $text['header-group_manager']['en-us'] = "Group Manager";
 $text['header-group_manager']['ar-eg'] = "";
@@ -1680,6 +1754,7 @@ $text['header-group_manager']['ro-ro'] = "";
 $text['header-group_manager']['ru-ru'] = "Управление группами";
 $text['header-group_manager']['sv-se'] = "Grupp Inställningar";
 $text['header-group_manager']['uk-ua'] = "Групи";
+$text['header-group_manager']['vi'] = "Quản lý nhóm";
 
 $text['header-group_edit']['en-us'] = "Edit Group";
 $text['header-group_edit']['ar-eg'] = "";
@@ -1700,6 +1775,7 @@ $text['header-group_edit']['ro-ro'] = "";
 $text['header-group_edit']['ru-ru'] = "Изменить группу";
 $text['header-group_edit']['sv-se'] = "Editera Grupp";
 $text['header-group_edit']['uk-ua'] = "Редагувати групу";
+$text['header-group_edit']['vi'] = "Chỉnh sửa nhóm";
 
 $text['header-group_add']['en-us'] = "Add Group";
 $text['header-group_add']['ar-eg'] = "";
@@ -1720,6 +1796,7 @@ $text['header-group_add']['ro-ro'] = "";
 $text['header-group_add']['ru-ru'] = "Добавить группу";
 $text['header-group_add']['sv-se'] = "Lägg Till Grupp";
 $text['header-group_add']['uk-ua'] = "Додати групу";
+$text['header-group_add']['vi'] = "Thêm nhóm";
 
 $text['description-user_setting-edit']['en-us'] = "Edit a setting for this user.";
 $text['description-user_setting-edit']['ar-eg'] = "";
@@ -1740,6 +1817,7 @@ $text['description-user_setting-edit']['ro-ro'] = "";
 $text['description-user_setting-edit']['ru-ru'] = "Изменить настройки пользователя.";
 $text['description-user_setting-edit']['sv-se'] = "";
 $text['description-user_setting-edit']['uk-ua'] = "";
+$text['description-user_setting-edit']['vi'] = "Chỉnh sửa cài đặt người dùng này.";
 
 $text['description-user_setting-add']['en-us'] = "Add a setting for this user.";
 $text['description-user_setting-add']['ar-eg'] = "";
@@ -1760,6 +1838,7 @@ $text['description-user_setting-add']['ro-ro'] = "";
 $text['description-user_setting-add']['ru-ru'] = "Добавьте параметр пользователя.";
 $text['description-user_setting-add']['sv-se'] = "";
 $text['description-user_setting-add']['uk-ua'] = "";
+$text['description-user_setting-add']['vi'] = "Thêm cài đặt cho người dùng này.";
 
 $text['description-user_manager']['en-us'] = "Add, edit, delete, and search users. ";
 $text['description-user_manager']['ar-eg'] = "";
@@ -1780,6 +1859,7 @@ $text['description-user_manager']['ro-ro'] = "";
 $text['description-user_manager']['ru-ru'] = "Добавление, изменение, удаление и поиск пользователей. ";
 $text['description-user_manager']['sv-se'] = "Lägg Till, editera, ta bort och sök användare.";
 $text['description-user_manager']['uk-ua'] = "Додавання, редагування, видалення та пошук користувачів";
+$text['description-user_manager']['vi'] = "Thêm, chỉnh sửa, xóa, và tìm kiếm người dùng. ";
 
 $text['description-user_language']['en-us'] = "Select the language.";
 $text['description-user_language']['ar-eg'] = "";
@@ -1800,6 +1880,7 @@ $text['description-user_language']['ro-ro'] = "Selecție limbă";
 $text['description-user_language']['ru-ru'] = "Выберите язык.";
 $text['description-user_language']['sv-se'] = "Välj Språk";
 $text['description-user_language']['uk-ua'] = "Виберіть мову";
+$text['description-user_language']['vi'] = "Chọn ngôn ngữ.";
 
 $text['description-user_edit']['en-us'] = "Edit user information and group membership. ";
 $text['description-user_edit']['ar-eg'] = "";
@@ -1820,6 +1901,7 @@ $text['description-user_edit']['ro-ro'] = "";
 $text['description-user_edit']['ru-ru'] = "Изменение информации о пользователях и членстве в группах. ";
 $text['description-user_edit']['sv-se'] = "Meditera användarinformation och grupp medlemskap.";
 $text['description-user_edit']['uk-ua'] = "Змініть інформацію користувача і членство в групі.";
+$text['description-user_edit']['vi'] = "Chỉnh sửa thông tin người dùng và thành viên nhóm. ";
 
 $text['description-user_add']['en-us'] = "To add a user, please fill out this form completely. All fields are required. ";
 $text['description-user_add']['ar-eg'] = "";
@@ -1840,6 +1922,7 @@ $text['description-user_add']['ro-ro'] = "";
 $text['description-user_add']['ru-ru'] = "Чтобы добавить пользователя, заполните эту форму полностью. Все поля обязательны для заполнения. ";
 $text['description-user_add']['sv-se'] = "För att lägga till en användare, fyll i hela detta formulär. Alla fält måste fyllas i.";
 $text['description-user_add']['uk-ua'] = "Щоб додати користувача, будь ласка, заповніть цю форму повністю. Всі поля обов'язкові для заповнення.";
+$text['description-user_add']['vi'] = "Để thêm người dùng, vui lòng điền vào mẫu này hoàn toàn. Tất cả các lĩnh vực được yêu cầu. ";
 
 $text['description-time_zone']['en-us'] = "Select the default time zone.";
 $text['description-time_zone']['ar-eg'] = "";
@@ -1860,6 +1943,7 @@ $text['description-time_zone']['ro-ro'] = "";
 $text['description-time_zone']['ru-ru'] = "Выберите часовой пояс по умолчанию.";
 $text['description-time_zone']['sv-se'] = "Välj standard tidszon";
 $text['description-time_zone']['uk-ua'] = "Виберіть часовий пояс за замовчуванням.";
+$text['description-time_zone']['vi'] = "Chọn múi giờ mặc định.";
 
 $text['description-status']['en-us'] = "Set the user's presence.";
 $text['description-status']['ar-eg'] = "";
@@ -1880,6 +1964,7 @@ $text['description-status']['ro-ro'] = "Selectați starea utilizatorului";
 $text['description-status']['ru-ru'] = "Установить статус присутствие.";
 $text['description-status']['sv-se'] = "Välj en användarstatus.";
 $text['description-status']['uk-ua'] = "Виберіть статус користувача";
+$text['description-status']['vi'] = "Cài đặt sự hiện diện của người dùng.";
 
 $text['description-group_permissions']['en-us'] = "Assign permissions for this group.";
 $text['description-group_permissions']['ar-eg'] = "";
@@ -1900,6 +1985,7 @@ $text['description-group_permissions']['ro-ro'] = "";
 $text['description-group_permissions']['ru-ru'] = "Назначить права для этой группы.";
 $text['description-group_permissions']['sv-se'] = "Tilldela rättigheter till denna grupp.";
 $text['description-group_permissions']['uk-ua'] = "Призначення привілеїв для цієї групи.";
+$text['description-group_permissions']['vi'] = "Gán quyền cho nhóm này.";
 
 $text['description-group_edit']['en-us'] = "Edit the properties of the group.";
 $text['description-group_edit']['ar-eg'] = "";
@@ -1920,6 +2006,7 @@ $text['description-group_edit']['ro-ro'] = "";
 $text['description-group_edit']['ru-ru'] = "Редактирование свойств группы.";
 $text['description-group_edit']['sv-se'] = "Editera inställningar för gruppen.";
 $text['description-group_edit']['uk-ua'] = "Зміна властивостей групи.";
+$text['description-group_edit']['vi'] = "Chỉnh sửa các thuộc tính của nhóm.";
 
 $text['description-group_add']['en-us'] = "Create a new user group.";
 $text['description-group_add']['ar-eg'] = "";
@@ -1940,6 +2027,7 @@ $text['description-group_add']['ro-ro'] = "";
 $text['description-group_add']['ru-ru'] = "Создать новую группу пользователей.";
 $text['description-group_add']['sv-se'] = "Skapa en ny användargrupp.";
 $text['description-group_add']['uk-ua'] = "Створити нову групу користувачів.";
+$text['description-group_add']['vi'] = "Tạo một nhóm người dùng mới.";
 
 $text['description-enabled']['en-us'] = "Set the status of this account.";
 $text['description-enabled']['ar-eg'] = "";
@@ -1960,6 +2048,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Установить статус учетной записи.";
 $text['description-enabled']['sv-se'] = "Välj status på denna standardinställning.";
 $text['description-enabled']['uk-ua'] = "Вкажіть стан цього облікового запису.";
+$text['description-enabled']['vi'] = "Đặt trạng thái của tài khoản này.";
 
 $text['description-contact_view']['en-us'] = "View";
 $text['description-contact_view']['ar-eg'] = "";
@@ -1980,6 +2069,7 @@ $text['description-contact_view']['ro-ro'] = "";
 $text['description-contact_view']['ru-ru'] = "Просмотр";
 $text['description-contact_view']['sv-se'] = "Granska";
 $text['description-contact_view']['uk-ua'] = "Перегляд";
+$text['description-contact_view']['vi'] = "Xem";
 
 $text['description-contact']['en-us'] = "Assign a contact to this user account.";
 $text['description-contact']['ar-eg'] = "";
@@ -2000,6 +2090,7 @@ $text['description-contact']['ro-ro'] = "";
 $text['description-contact']['ru-ru'] = "Назначить контакт для этой учетной записи пользователя.";
 $text['description-contact']['sv-se'] = "Tilldela en kontakt till detta konto.";
 $text['description-contact']['uk-ua'] = "Призначити контакт в цей обліковий запис користувача.";
+$text['description-contact']['vi'] = "Chỉ định liên hệ cho tài khoản người dùng này.";
 
 $text['description-api_key']['en-us'] = "Enter the API key is often a UUID. The API key should be 128 bit or greater.";
 $text['description-api_key']['ar-eg'] = "";
@@ -2020,6 +2111,7 @@ $text['description-api_key']['ro-ro'] = "";
 $text['description-api_key']['ru-ru'] = "Введите ключ API (обычно UUID). Ключ API должен быть 128 бит или больше.";
 $text['description-api_key']['sv-se'] = "Ange API nyckel (ofta UUID). API nyckeln borde vara 128 bit eller mer.";
 $text['description-api_key']['uk-ua'] = "Введіть ключ API, зазвичай UUID. Ключ API повинен бути 128 біт або більше.";
+$text['description-api_key']['vi'] = "Nhập khóa API thường là UUID. Khóa API phải là 128 bit hoặc lớn hơn.";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
@@ -2040,6 +2132,7 @@ $text['confirm-delete']['ro-ro'] = "";
 $text['confirm-delete']['ru-ru'] = "Вы действительно хотите удалить?";
 $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "Ви дійсно бажаєте це видалити?";
+$text['confirm-delete']['vi'] = "Bạn có thực sự muốn xóa không?";
 
 $text['button-show_all']['en-us'] = "Show All";
 $text['button-show_all']['ar-eg'] = "";
@@ -2060,6 +2153,7 @@ $text['button-show_all']['ro-ro'] = "";
 $text['button-show_all']['ru-ru'] = "Показать все";
 $text['button-show_all']['sv-se'] = "Visa Allt";
 $text['button-show_all']['uk-ua'] = "Показати всі";
+$text['button-show_all']['vi'] = "Hiển thị tất cả";
 
 $text['button-generate']['en-us'] = "Generate";
 $text['button-generate']['ar-eg'] = "";
@@ -2080,6 +2174,7 @@ $text['button-generate']['ro-ro'] = "";
 $text['button-generate']['ru-ru'] = "Сгенерировать";
 $text['button-generate']['sv-se'] = "Generera";
 $text['button-generate']['uk-ua'] = "Згенерувати";
+$text['button-generate']['vi'] = "Tạo";
 
 $text['button-create_account']['en-us'] = "Create Account";
 $text['button-create_account']['ar-eg'] = "";
@@ -2100,6 +2195,7 @@ $text['button-create_account']['ro-ro'] = "";
 $text['button-create_account']['ru-ru'] = "Создать учетную запись";
 $text['button-create_account']['sv-se'] = "Skapa Konto";
 $text['button-create_account']['uk-ua'] = "Створити обліковий запис";
+$text['button-create_account']['vi'] = "Tạo tài khoản";
 
 $text['button-add_member']['en-us'] = "Add Member";
 $text['button-add_member']['ar-eg'] = "";
@@ -2120,5 +2216,6 @@ $text['button-add_member']['ro-ro'] = "";
 $text['button-add_member']['ru-ru'] = "Добавить участника";
 $text['button-add_member']['sv-se'] = "Lägg Till Medlem";
 $text['button-add_member']['uk-ua'] = "Додати учасника";
+$text['button-add_member']['vi'] = "Thêm thành viên";
 
 ?>

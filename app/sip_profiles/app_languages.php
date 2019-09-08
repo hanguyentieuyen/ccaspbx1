@@ -60,6 +60,7 @@ $text['title-sip_profile_domains']['ro-ro'] = "";
 $text['title-sip_profile_domains']['ru-ru'] = "Домены";
 $text['title-sip_profile_domains']['sv-se'] = "Domäner";
 $text['title-sip_profile_domains']['uk-ua'] = "";
+$text['title-sip_profile_domains']['vi'] = "Tên miền";
 
 $text['title-sip_profile_domain']['en-us'] = "Domain";
 $text['title-sip_profile_domain']['ar-eg'] = "";
@@ -80,6 +81,7 @@ $text['title-sip_profile_domain']['ro-ro'] = "";
 $text['title-sip_profile_domain']['ru-ru'] = "Домен";
 $text['title-sip_profile_domain']['sv-se'] = "Domän";
 $text['title-sip_profile_domain']['uk-ua'] = "";
+$text['title-sip_profile_domain']['vi'] = "Tên miền";
 
 $text['title-sip_profile_setting']['en-us'] = "Profile Setting";
 $text['title-sip_profile_setting']['ar-eg'] = "";
@@ -100,6 +102,7 @@ $text['title-sip_profile_setting']['ro-ro'] = "";
 $text['title-sip_profile_setting']['ru-ru'] = "Настройки профиля";
 $text['title-sip_profile_setting']['sv-se'] = "Profilinställning";
 $text['title-sip_profile_setting']['uk-ua'] = "Налаштування профілю";
+$text['title-sip_profile_setting']['vi'] = "Cài đặt Profile";
 
 $text['label-sip_profile_name']['en-us'] = "Name";
 $text['label-sip_profile_name']['ar-eg'] = "";
@@ -120,6 +123,7 @@ $text['label-sip_profile_name']['ro-ro'] = "";
 $text['label-sip_profile_name']['ru-ru'] = "Название";
 $text['label-sip_profile_name']['sv-se'] = "Namn";
 $text['label-sip_profile_name']['uk-ua'] = "Назва";
+$text['label-sip_profile_name']['vi'] = "Tên";
 
 $text['label-sip_profile_value']['en-us'] = "Value";
 $text['label-sip_profile_value']['ar-eg'] = "";
@@ -140,6 +144,7 @@ $text['label-sip_profile_value']['ro-ro'] = "";
 $text['label-sip_profile_value']['ru-ru'] = "Значение";
 $text['label-sip_profile_value']['sv-se'] = "Värde";
 $text['label-sip_profile_value']['uk-ua'] = "Значення";
+$text['label-sip_profile_value']['vi'] = "Giá trị";
 
 $text['label-sip_profile_enabled']['en-us'] = "Enabled";
 $text['label-sip_profile_enabled']['ar-eg'] = "";
@@ -160,6 +165,7 @@ $text['label-sip_profile_enabled']['ro-ro'] = "";
 $text['label-sip_profile_enabled']['ru-ru'] = "Включено";
 $text['label-sip_profile_enabled']['sv-se'] = "Aktiverad";
 $text['label-sip_profile_enabled']['uk-ua'] = "Включено";
+$text['label-sip_profile_enabled']['vi'] = "Cho phép";
 
 $text['label-sip_profile_description']['en-us'] = "Description";
 $text['label-sip_profile_description']['ar-eg'] = "";
@@ -180,6 +186,7 @@ $text['label-sip_profile_description']['ro-ro'] = "";
 $text['label-sip_profile_description']['ru-ru'] = "Описание";
 $text['label-sip_profile_description']['sv-se'] = "Beskrivning";
 $text['label-sip_profile_description']['uk-ua'] = "Опис";
+$text['label-sip_profile_description']['vi'] = "Mô tả";
 
 $text['label-sip_profile_domain_name']['en-us'] = "Name";
 $text['label-sip_profile_domain_name']['ar-eg'] = "";
@@ -200,6 +207,7 @@ $text['label-sip_profile_domain_name']['ro-ro'] = "";
 $text['label-sip_profile_domain_name']['ru-ru'] = "Название";
 $text['label-sip_profile_domain_name']['sv-se'] = "Namn";
 $text['label-sip_profile_domain_name']['uk-ua'] = "Назва";
+$text['label-sip_profile_domain_name']['vi'] = "Tên";
 
 $text['label-sip_profile_domain_alias']['en-us'] = "Alias";
 $text['label-sip_profile_domain_alias']['ar-eg'] = "";
@@ -220,6 +228,7 @@ $text['label-sip_profile_domain_alias']['ro-ro'] = "";
 $text['label-sip_profile_domain_alias']['ru-ru'] = "Псевдоним";
 $text['label-sip_profile_domain_alias']['sv-se'] = "Alias";
 $text['label-sip_profile_domain_alias']['uk-ua'] = "";
+$text['label-sip_profile_domain_alias']['vi'] = "Biệt hiệu";
 
 $text['label-sip_profile_domain_parse']['en-us'] = "Parse";
 $text['label-sip_profile_domain_parse']['ar-eg'] = "";
@@ -240,6 +249,7 @@ $text['label-sip_profile_domain_parse']['ro-ro'] = "";
 $text['label-sip_profile_domain_parse']['ru-ru'] = "Parse";
 $text['label-sip_profile_domain_parse']['sv-se'] = "Parse";
 $text['label-sip_profile_domain_parse']['uk-ua'] = "";
+$text['label-sip_profile_domain_parse']['vi'] = "Phân tích";
 
 $text['label-sip_profile_setting_name']['en-us'] = "Name";
 $text['label-sip_profile_setting_name']['ar-eg'] = "";
@@ -260,6 +270,7 @@ $text['label-sip_profile_setting_name']['ro-ro'] = "";
 $text['label-sip_profile_setting_name']['ru-ru'] = "Название";
 $text['label-sip_profile_setting_name']['sv-se'] = "Namn";
 $text['label-sip_profile_setting_name']['uk-ua'] = "Назва";
+$text['label-sip_profile_setting_name']['vi'] = "Tên";
 
 $text['label-sip_profile_setting_value']['en-us'] = "Value";
 $text['label-sip_profile_setting_value']['ar-eg'] = "";
@@ -280,6 +291,7 @@ $text['label-sip_profile_setting_value']['ro-ro'] = "";
 $text['label-sip_profile_setting_value']['ru-ru'] = "Значение";
 $text['label-sip_profile_setting_value']['sv-se'] = "Värde";
 $text['label-sip_profile_setting_value']['uk-ua'] = "Значення";
+$text['label-sip_profile_setting_value']['vi'] = "Giá trị";
 
 $text['label-sip_profile_setting_enabled']['en-us'] = "Enabled";
 $text['label-sip_profile_setting_enabled']['ar-eg'] = "";
@@ -300,6 +312,7 @@ $text['label-sip_profile_setting_enabled']['ro-ro'] = "";
 $text['label-sip_profile_setting_enabled']['ru-ru'] = "Включено";
 $text['label-sip_profile_setting_enabled']['sv-se'] = "Aktiverad";
 $text['label-sip_profile_setting_enabled']['uk-ua'] = "Включено";
+$text['label-sip_profile_setting_enabled']['vi'] = "Cho phép";
 
 $text['label-sip_profile_setting_description']['en-us'] = "Description";
 $text['label-sip_profile_setting_description']['ar-eg'] = "";
@@ -320,6 +333,7 @@ $text['label-sip_profile_setting_description']['ro-ro'] = "";
 $text['label-sip_profile_setting_description']['ru-ru'] = "Описание";
 $text['label-sip_profile_setting_description']['sv-se'] = "Beskrivning";
 $text['label-sip_profile_setting_description']['uk-ua'] = "Опис";
+$text['label-sip_profile_setting_description']['vi'] = "Mô tả";
 
 $text['label-sip_profile_hostname']['en-us'] = "Hostname";
 $text['label-sip_profile_hostname']['ar-eg'] = "";
@@ -340,6 +354,7 @@ $text['label-sip_profile_hostname']['ro-ro'] = "";
 $text['label-sip_profile_hostname']['ru-ru'] = "Имя хоста";
 $text['label-sip_profile_hostname']['sv-se'] = "Hostname";
 $text['label-sip_profile_hostname']['uk-ua'] = "Назва хоста";
+$text['label-sip_profile_hostname']['vi'] = "Tên máy chủ";
 
 $text['label-sip_profile_settings']['en-us'] = "Settings";
 $text['label-sip_profile_settings']['ar-eg'] = "";
@@ -360,26 +375,7 @@ $text['label-sip_profile_settings']['ro-ro'] = "";
 $text['label-sip_profile_settings']['ru-ru'] = "Настройки";
 $text['label-sip_profile_settings']['sv-se'] = "Inställningar";
 $text['label-sip_profile_settings']['uk-ua'] = "Параметри";
-
-$text['label-new_sip_profile_name']['en-us'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['ar-eg'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['de-at'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['de-ch'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['de-de'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['es-cl'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['es-mx'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['fr-ca'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['fr-fr'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['he-il'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['it-it'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['nl-nl'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['pl-pl'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['pt-br'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['pt-pt'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['ro-ro'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['ru-ru'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['sv-se'] = "Enter new SIP Profile Name";
-$text['label-new_sip_profile_name']['uk-ua'] = "Enter new SIP Profile Name";
+$text['label-sip_profile_settings']['vi'] = "Cài đặt";
 
 $text['header-sip_profiles']['en-us'] = "SIP Profiles";
 $text['header-sip_profiles']['ar-eg'] = "";
@@ -400,6 +396,7 @@ $text['header-sip_profiles']['ro-ro'] = "";
 $text['header-sip_profiles']['ru-ru'] = "Профили SIP";
 $text['header-sip_profiles']['sv-se'] = "SIP Profiler";
 $text['header-sip_profiles']['uk-ua'] = "SIP профілі";
+$text['header-sip_profiles']['vi'] = "SIP Profiles";
 
 $text['header-sip_profile']['en-us'] = "SIP Profile";
 $text['header-sip_profile']['ar-eg'] = "";
@@ -440,6 +437,7 @@ $text['header-sip_profile_setting']['ro-ro'] = "";
 $text['header-sip_profile_setting']['ru-ru'] = "Настройки профиля";
 $text['header-sip_profile_setting']['sv-se'] = "Profilinställning";
 $text['header-sip_profile_setting']['uk-ua'] = "Налаштування профілю";
+$text['header-sip_profile_setting']['vi'] = "Cài đặt Profile";
 
 $text['header-sip_profile_hostname']['en-us'] = "Hostname";
 $text['header-sip_profile_hostname']['ar-eg'] = "";
@@ -460,6 +458,7 @@ $text['header-sip_profile_hostname']['ro-ro'] = "";
 $text['header-sip_profile_hostname']['ru-ru'] = "Имя хоста";
 $text['header-sip_profile_hostname']['sv-se'] = "Hostname";
 $text['header-sip_profile_hostname']['uk-ua'] = "Назва хоста";
+$text['header-sip_profile_hostname']['vi'] = "Tên máy chủ";
 
 $text['description-sip_profiles']['en-us'] = "Manage settings for SIP profiles.";
 $text['description-sip_profiles']['ar-eg'] = "";
@@ -480,6 +479,7 @@ $text['description-sip_profiles']['ro-ro'] = "";
 $text['description-sip_profiles']['ru-ru'] = "Управление настройками профилей SIP.";
 $text['description-sip_profiles']['sv-se'] = "Hantera inställningar för SIP profiler.";
 $text['description-sip_profiles']['uk-ua'] = "Налаштування профілю";
+$text['description-sip_profiles']['vi'] = "Quản lý cài đặt cho SIP profiles.";
 
 $text['description-sip_profile']['en-us'] = "Manage settings for the SIP profile.";
 $text['description-sip_profile']['ar-eg'] = "";
@@ -500,6 +500,7 @@ $text['description-sip_profile']['ro-ro'] = "";
 $text['description-sip_profile']['ru-ru'] = "Управление настройками профиля SIP.";
 $text['description-sip_profile']['sv-se'] = "Hantera inställningar för SIP profil.";
 $text['description-sip_profile']['uk-ua'] = "Налаштування SIP профілю";
+$text['description-sip_profile']['vi'] = "Quản lý cài đặt cho SIP profile.";
 
 $text['description-sip_profile_setting_value']['en-us'] = "Enter the value.";
 $text['description-sip_profile_setting_value']['ar-eg'] = "";
@@ -520,6 +521,7 @@ $text['description-sip_profile_setting_value']['ro-ro'] = "";
 $text['description-sip_profile_setting_value']['ru-ru'] = "Введите значение.";
 $text['description-sip_profile_setting_value']['sv-se'] = "Ange värde.";
 $text['description-sip_profile_setting_value']['uk-ua'] = "Вкажіть значення";
+$text['description-sip_profile_setting_value']['vi'] = "Nhập giá trị.";
 
 $text['description-sip_profile_setting_name']['en-us'] = "Enter the name.";
 $text['description-sip_profile_setting_name']['ar-eg'] = "";
@@ -540,6 +542,7 @@ $text['description-sip_profile_setting_name']['ro-ro'] = "";
 $text['description-sip_profile_setting_name']['ru-ru'] = "Введите название.";
 $text['description-sip_profile_setting_name']['sv-se'] = "Ange Namnet.";
 $text['description-sip_profile_setting_name']['uk-ua'] = "Вкажіть назву";
+$text['description-sip_profile_setting_name']['vi'] = "Nhập tên.";
 
 $text['description-sip_profile_setting_enabled']['en-us'] = "Choose to enable or disable this.";
 $text['description-sip_profile_setting_enabled']['ar-eg'] = "";
@@ -560,6 +563,7 @@ $text['description-sip_profile_setting_enabled']['ro-ro'] = "";
 $text['description-sip_profile_setting_enabled']['ru-ru'] = "Выберите для включенья или отключения функции.";
 $text['description-sip_profile_setting_enabled']['sv-se'] = "Välj att Aktivera eller Inaktivare detta.";
 $text['description-sip_profile_setting_enabled']['uk-ua'] = "Ви";
+$text['description-sip_profile_setting_enabled']['vi'] = "Chọn bật hoặc tắt tính năng này.";
 
 $text['description-sip_profile_setting_description']['en-us'] = "Enter the description.";
 $text['description-sip_profile_setting_description']['ar-eg'] = "";
@@ -580,6 +584,7 @@ $text['description-sip_profile_setting_description']['ro-ro'] = "";
 $text['description-sip_profile_setting_description']['ru-ru'] = "Введите описание.";
 $text['description-sip_profile_setting_description']['sv-se'] = "Ange en Beskrivning.";
 $text['description-sip_profile_setting_description']['uk-ua'] = "Введіть опис";
+$text['description-sip_profile_setting_description']['vi'] = "Nhập mô tả.";
 
 $text['description-sip_profile_name']['en-us'] = "Enter the SIP Profile name.";
 $text['description-sip_profile_name']['ar-eg'] = "";
@@ -600,6 +605,7 @@ $text['description-sip_profile_name']['ro-ro'] = "";
 $text['description-sip_profile_name']['ru-ru'] = "Введите имя профиля SIP.";
 $text['description-sip_profile_name']['sv-se'] = "Skriv in namnet på SIP Profilen.";
 $text['description-sip_profile_name']['uk-ua'] = "Введіть назву профілю";
+$text['description-sip_profile_name']['vi'] = "Nhập tên SIP Profile.";
 
 $text['description-sip_profile_hostname']['en-us'] = "Enter the hostname / switchname.";
 $text['description-sip_profile_hostname']['ar-eg'] = "";
@@ -620,6 +626,7 @@ $text['description-sip_profile_hostname']['ro-ro'] = "";
 $text['description-sip_profile_hostname']['ru-ru'] = "Введите имя хоста / имя PBX.";
 $text['description-sip_profile_hostname']['sv-se'] = "Fyll i hostname / switchname.";
 $text['description-sip_profile_hostname']['uk-ua'] = "Введіть назву хоста / switchname.";
+$text['description-sip_profile_hostname']['vi'] = "Nhập tên máy chủ / tên chuyển đổi.";
 
 $text['description-sip_profile_enabled']['en-us'] = "Control the state of the profile.";
 $text['description-sip_profile_enabled']['ar-eg'] = "";
@@ -640,5 +647,6 @@ $text['description-sip_profile_enabled']['ro-ro'] = "";
 $text['description-sip_profile_enabled']['ru-ru'] = "Управление состоянием профиля.";
 $text['description-sip_profile_enabled']['sv-se'] = "Styr tillståndet i profilen.";
 $text['description-sip_profile_enabled']['uk-ua'] = "Керування станом профілю";
+$text['description-sip_profile_enabled']['vi'] = "Kiểm soát trạng thái của hồ sơ.";
 
 ?>

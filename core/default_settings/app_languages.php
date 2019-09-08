@@ -20,6 +20,8 @@ $text['title-default_settings']['ro-ro'] = "";
 $text['title-default_settings']['ru-ru'] = "Настройки по умолчанию";
 $text['title-default_settings']['sv-se'] = "Standard Inställningar";
 $text['title-default_settings']['uk-ua'] = "Налаштування за замовчуванням";
+$text['title-default_settings']['vi'] = "Thiết lập mặc định";
+
 
 $text['title-default_setting-edit']['en-us'] = "Default Setting";
 $text['title-default_setting-edit']['ar-eg'] = "";
@@ -40,6 +42,9 @@ $text['title-default_setting-edit']['ro-ro'] = "";
 $text['title-default_setting-edit']['ru-ru'] = "Настройки по умолчанию";
 $text['title-default_setting-edit']['sv-se'] = "Standard Inställning";
 $text['title-default_setting-edit']['uk-ua'] = "Налаштування за замовчуванням";
+$text['title-default_setting-edit']['vi'] = "Thiết lập mặc định";
+
+
 
 $text['title-default_setting-add']['en-us'] = "Default Setting Add";
 $text['title-default_setting-add']['ar-eg'] = "";
@@ -60,6 +65,7 @@ $text['title-default_setting-add']['ro-ro'] = "";
 $text['title-default_setting-add']['ru-ru'] = "Добавить настройку по умолчанию";
 $text['title-default_setting-add']['sv-se'] = "Lägg Till Standard Inställning";
 $text['title-default_setting-add']['uk-ua'] = "";
+$text['title-default_setting-add']['vi'] = "Thêm cài đặt mặc định";
 
 $text['option-voicemail_file_listen']['en-us'] = "Listen Link (Login Required)";
 $text['option-voicemail_file_listen']['ar-eg'] = "";
@@ -80,6 +86,7 @@ $text['option-voicemail_file_listen']['ro-ro'] = "";
 $text['option-voicemail_file_listen']['ru-ru'] = "Ссылка для прослушивания (требуется вход в систему)";
 $text['option-voicemail_file_listen']['sv-se'] = "Lyssna-länk (Måste Logga In)";
 $text['option-voicemail_file_listen']['uk-ua'] = "Посилання на прослуховування (Входити обов’язково)";
+$text['option-voicemail_file_listen']['vi'] = "Liên kết(Yêu cầu đăng nhập)";
 
 $text['option-voicemail_file_link']['en-us'] = "Download Link (No Login Required)";
 $text['option-voicemail_file_link']['ar-eg'] = "";
@@ -100,6 +107,7 @@ $text['option-voicemail_file_link']['ro-ro'] = "";
 $text['option-voicemail_file_link']['ru-ru'] = "Ссылка для скачивания (не требуется вход в систему)";
 $text['option-voicemail_file_link']['sv-se'] = "Nedladdnings-länk (Ingen Inloggning Krävs)";
 $text['option-voicemail_file_link']['uk-ua'] = "Посилання на завантаження (Входити не обов’язково)";
+$text['option-voicemail_file_link']['vi'] = "Link tải xuống (Không cần đăng nhập)";
 
 $text['option-voicemail_file_attach']['en-us'] = "Audio File Attachment";
 $text['option-voicemail_file_attach']['ar-eg'] = "";
@@ -120,6 +128,7 @@ $text['option-voicemail_file_attach']['ro-ro'] = "";
 $text['option-voicemail_file_attach']['ru-ru'] = "Прикрепление аудиофайлов";
 $text['option-voicemail_file_attach']['sv-se'] = "Ljudfil Bifogad";
 $text['option-voicemail_file_attach']['uk-ua'] = "Приєднати аудіофайл";
+$text['option-voicemail_file_attach']['vi'] = "File đính kèm tập tin âm thanh";
 
 $text['message-toggled']['en-us'] = "Toggle Completed";
 $text['message-toggled']['ar-eg'] = "الانتهاء من تبديل";
@@ -140,6 +149,7 @@ $text['message-toggled']['ro-ro'] = "Completat toggle";
 $text['message-toggled']['ru-ru'] = "Переключить выполнено";
 $text['message-toggled']['sv-se'] = "Växla Avslutade";
 $text['message-toggled']['uk-ua'] = "переключити Завершений";
+$text['message-toggled']['vi'] = "Chuyển đổi thành công";
 
 $text['message-settings_reloaded']['en-us'] = "Settings Reloaded";
 $text['message-settings_reloaded']['ar-eg'] = "";
@@ -160,6 +170,7 @@ $text['message-settings_reloaded']['ro-ro'] = "";
 $text['message-settings_reloaded']['ru-ru'] = "Настройки перезагружены";
 $text['message-settings_reloaded']['sv-se'] = "Inställningar Reloaded";
 $text['message-settings_reloaded']['uk-ua'] = "налаштування Reloaded";
+$text['message-settings_reloaded']['vi'] = "Tải lại cài đặt";
 
 $text['message-delete_failed']['en-us'] = "No Settings Checked";
 $text['message-delete_failed']['ar-eg'] = "";
@@ -180,6 +191,7 @@ $text['message-delete_failed']['ro-ro'] = "";
 $text['message-delete_failed']['ru-ru'] = "Нет выбраных настроек";
 $text['message-delete_failed']['sv-se'] = "Borttagning Misslyckades";
 $text['message-delete_failed']['uk-ua'] = "Налаштування не вказано";
+$text['message-delete_failed']['vi'] = "Không có cài đặt nào được kiểm tra";
 
 $text['message-copy_failed']['en-us'] = "No Settings Checked or Invalid Domain";
 $text['message-copy_failed']['ar-eg'] = "";
@@ -200,6 +212,7 @@ $text['message-copy_failed']['ro-ro'] = "";
 $text['message-copy_failed']['ru-ru'] = "Не выбрано или настройка домена неверна";
 $text['message-copy_failed']['sv-se'] = "Ingen inställning markerad eller ogiltig domän.";
 $text['message-copy_failed']['uk-ua'] = "";
+$text['message-copy_failed']['vi'] = "Không có cài đặt nào được kiểm tra hoặc miền không hợp lệ";
 
 $text['label-web_fonts']['en-us'] = "Web Fonts";
 $text['label-web_fonts']['ar-eg'] = "الخطوط على شبكة الإنترنت";
@@ -220,6 +233,7 @@ $text['label-web_fonts']['ro-ro'] = "Fonturi web";
 $text['label-web_fonts']['ru-ru'] = "Шрифты Web";
 $text['label-web_fonts']['sv-se'] = "web teckensnitt";
 $text['label-web_fonts']['uk-ua'] = "веб-шрифти";
+$text['label-web_fonts']['vi'] = "Phông chữ web";
 
 $text['label-top']['en-us'] = "Top";
 $text['label-top']['ar-eg'] = "أعلى";
@@ -240,6 +254,7 @@ $text['label-top']['ro-ro'] = "Top";
 $text['label-top']['ru-ru'] = "Верхний";
 $text['label-top']['sv-se'] = "Topp";
 $text['label-top']['uk-ua'] = "топ";
+$text['label-top']['vi'] = "Trên";
 
 $text['label-text']['en-us'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
@@ -260,6 +275,7 @@ $text['label-text']['ro-ro'] = "Text";
 $text['label-text']['ru-ru'] = "Текст";
 $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
+$text['label-text']['vi'] = "Văn bản";
 
 $text['label-superfine']['en-us'] = "Superfine";
 $text['label-superfine']['ar-eg'] = "";
@@ -280,6 +296,7 @@ $text['label-superfine']['ro-ro'] = "";
 $text['label-superfine']['ru-ru'] = "Первоклассный";
 $text['label-superfine']['sv-se'] = "Superfin";
 $text['label-superfine']['uk-ua'] = "";
+$text['label-superfine']['vi'] = "Superfine";
 
 $text['label-static']['en-us'] = "Static";
 $text['label-static']['ar-eg'] = "ساكن";
@@ -300,6 +317,7 @@ $text['label-static']['ro-ro'] = "Static";
 $text['label-static']['ru-ru'] = "Статичный";
 $text['label-static']['sv-se'] = "Statisk";
 $text['label-static']['uk-ua'] = "статичний";
+$text['label-static']['vi'] = "Static";
 
 $text['label-reference']['en-us'] = "See";
 $text['label-reference']['ar-eg'] = "مرجع";
@@ -320,6 +338,7 @@ $text['label-reference']['ro-ro'] = "Referinţă";
 $text['label-reference']['ru-ru'] = "Вид";
 $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "посилання";
+$text['label-reference']['vi'] = "Xem";
 
 $text['label-right']['en-us'] = "Right";
 $text['label-right']['ar-eg'] = "حق";
@@ -340,6 +359,7 @@ $text['label-right']['ro-ro'] = "Dreapta";
 $text['label-right']['ru-ru'] = "Правый";
 $text['label-right']['sv-se'] = "Höger";
 $text['label-right']['uk-ua'] = "правий";
+$text['label-right']['vi'] = "Phải";
 
 $text['label-other']['en-us'] = "Other";
 $text['label-other']['ar-eg'] = "";
@@ -360,6 +380,7 @@ $text['label-other']['ro-ro'] = "";
 $text['label-other']['ru-ru'] = "Другие";
 $text['label-other']['sv-se'] = "Annat";
 $text['label-other']['uk-ua'] = "";
+$text['label-other']['vi'] = "Khác";
 
 $text['label-normal']['en-us'] = "Normal";
 $text['label-normal']['ar-eg'] = "";
@@ -380,6 +401,7 @@ $text['label-normal']['ro-ro'] = "";
 $text['label-normal']['ru-ru'] = "Нормальный";
 $text['label-normal']['sv-se'] = "Normal";
 $text['label-normal']['uk-ua'] = "звичайно";
+$text['label-normal']['vi'] = "Bình thường";
 
 $text['label-none']['en-us'] = "None";
 $text['label-none']['ar-eg'] = "لا شيء";
@@ -400,6 +422,7 @@ $text['label-none']['ro-ro'] = "Nici unul";
 $text['label-none']['ru-ru'] = "Никто";
 $text['label-none']['sv-se'] = "Ingen";
 $text['label-none']['uk-ua'] = "жоден";
+$text['label-none']['vi'] = "Không có";
 
 $text['label-left']['en-us'] = "Left";
 $text['label-left']['ar-eg'] = "اليسار";
@@ -420,6 +443,7 @@ $text['label-left']['ro-ro'] = "Stânga";
 $text['label-left']['ru-ru'] = "Слева";
 $text['label-left']['sv-se'] = "Vänster";
 $text['label-left']['uk-ua'] = "лівий";
+$text['label-left']['vi'] = "Trái";
 
 $text['label-inline']['en-us'] = "Inline";
 $text['label-inline']['ar-eg'] = "في النسق";
@@ -440,6 +464,7 @@ $text['label-inline']['ro-ro'] = "In linie";
 $text['label-inline']['ru-ru'] = "inline";
 $text['label-inline']['sv-se'] = "Inline";
 $text['label-inline']['uk-ua'] = "В лінію";
+$text['label-inline']['vi'] = "Cùng hàng";
 
 $text['label-image']['en-us'] = "Image";
 $text['label-image']['ar-eg'] = "صورة";
@@ -460,6 +485,7 @@ $text['label-image']['ro-ro'] = "Imagine";
 $text['label-image']['ru-ru'] = "Изображение";
 $text['label-image']['sv-se'] = "Bild";
 $text['label-image']['uk-ua'] = "зображення";
+$text['label-image']['vi'] = "Hình ảnh";
 
 $text['label-fixed']['en-us'] = "Fixed";
 $text['label-fixed']['ar-eg'] = "ثابت";
@@ -480,26 +506,7 @@ $text['label-fixed']['ro-ro'] = "Fix";
 $text['label-fixed']['ru-ru'] = "Фиксированный";
 $text['label-fixed']['sv-se'] = "Fast";
 $text['label-fixed']['uk-ua'] = "фіксований";
-
-$text['label-side']['en-us'] = "Side";
-$text['label-side']['ar-eg'] = "";
-$text['label-side']['de-at'] = "";
-$text['label-side']['de-ch'] = "";
-$text['label-side']['de-de'] = "";
-$text['label-side']['es-cl'] = "";
-$text['label-side']['es-mx'] = "";
-$text['label-side']['fr-ca'] = "";
-$text['label-side']['fr-fr'] = "";
-$text['label-side']['he-il'] = "";
-$text['label-side']['it-it'] = "";
-$text['label-side']['nl-nl'] = "";
-$text['label-side']['pl-pl'] = "";
-$text['label-side']['pt-br'] = "";
-$text['label-side']['pt-pt'] = "";
-$text['label-side']['ro-ro'] = "";
-$text['label-side']['ru-ru'] = "";
-$text['label-side']['sv-se'] = "";
-$text['label-side']['uk-ua'] = "";
+$text['label-fixed']['vi'] = "Đã sửa";
 
 $text['label-fine']['en-us'] = "Fine";
 $text['label-fine']['ar-eg'] = "";
@@ -520,6 +527,7 @@ $text['label-fine']['ro-ro'] = "";
 $text['label-fine']['ru-ru'] = "Хорошо";
 $text['label-fine']['sv-se'] = "Fin";
 $text['label-fine']['uk-ua'] = "";
+$text['label-fine']['vi'] = "Tốt";
 
 $text['label-center']['en-us'] = "Center";
 $text['label-center']['ar-eg'] = "مركز";
@@ -540,6 +548,7 @@ $text['label-center']['ro-ro'] = "Centru";
 $text['label-center']['ru-ru'] = "Центр";
 $text['label-center']['sv-se'] = "Centrum";
 $text['label-center']['uk-ua'] = "центр";
+$text['label-center']['vi'] = "Trung tâm";
 
 $text['label-bottom']['en-us'] = "Bottom";
 $text['label-bottom']['ar-eg'] = "أسفل";
@@ -560,6 +569,7 @@ $text['label-bottom']['ro-ro'] = "Fund";
 $text['label-bottom']['ru-ru'] = "Низ";
 $text['label-bottom']['sv-se'] = "Botten";
 $text['label-bottom']['uk-ua'] = "дно";
+$text['label-bottom']['vi'] = "Dưới";
 
 $text['label-24-hour']['en-us'] = "24-Hour";
 $text['label-24-hour']['ar-eg'] = "24 ساعة";
@@ -580,6 +590,7 @@ $text['label-24-hour']['ro-ro'] = "24 de ore";
 $text['label-24-hour']['ru-ru'] = "24-часовой";
 $text['label-24-hour']['sv-se'] = "24-timmars";
 $text['label-24-hour']['uk-ua'] = "24-годинний";
+$text['label-24-hour']['vi'] = "24-Giờ";
 
 $text['label-12-hour']['en-us'] = "12-Hour";
 $text['label-12-hour']['ar-eg'] = "12 ساعة";
@@ -600,86 +611,7 @@ $text['label-12-hour']['ro-ro'] = "12 de ore";
 $text['label-12-hour']['ru-ru'] = "12-часовой";
 $text['label-12-hour']['sv-se'] = "12-timmars";
 $text['label-12-hour']['uk-ua'] = "12-годинний";
-
-$text['label-hours']['en-us'] = "Hour(s)";
-$text['label-hours']['ar-eg'] = "";
-$text['label-hours']['de-at'] = "";
-$text['label-hours']['de-ch'] = "";
-$text['label-hours']['de-de'] = "";
-$text['label-hours']['es-cl'] = "";
-$text['label-hours']['es-mx'] = "";
-$text['label-hours']['fr-ca'] = "";
-$text['label-hours']['fr-fr'] = "";
-$text['label-hours']['he-il'] = "";
-$text['label-hours']['it-it'] = "";
-$text['label-hours']['nl-nl'] = "";
-$text['label-hours']['pl-pl'] = "";
-$text['label-hours']['pt-br'] = "";
-$text['label-hours']['pt-pt'] = "";
-$text['label-hours']['ro-ro'] = "";
-$text['label-hours']['ru-ru'] = "";
-$text['label-hours']['sv-se'] = "";
-$text['label-hours']['uk-ua'] = "";
-
-$text['label-days']['en-us'] = "Day(s)";
-$text['label-days']['ar-eg'] = "";
-$text['label-days']['de-at'] = "";
-$text['label-days']['de-ch'] = "";
-$text['label-days']['de-de'] = "";
-$text['label-days']['es-cl'] = "";
-$text['label-days']['es-mx'] = "";
-$text['label-days']['fr-ca'] = "";
-$text['label-days']['fr-fr'] = "";
-$text['label-days']['he-il'] = "";
-$text['label-days']['it-it'] = "";
-$text['label-days']['nl-nl'] = "";
-$text['label-days']['pl-pl'] = "";
-$text['label-days']['pt-br'] = "";
-$text['label-days']['pt-pt'] = "";
-$text['label-days']['ro-ro'] = "";
-$text['label-days']['ru-ru'] = "";
-$text['label-days']['sv-se'] = "";
-$text['label-days']['uk-ua'] = "";
-
-$text['label-messages']['en-us'] = "Message(s)";
-$text['label-messages']['ar-eg'] = "";
-$text['label-messages']['de-at'] = "";
-$text['label-messages']['de-ch'] = "";
-$text['label-messages']['de-de'] = "";
-$text['label-messages']['es-cl'] = "";
-$text['label-messages']['es-mx'] = "";
-$text['label-messages']['fr-ca'] = "";
-$text['label-messages']['fr-fr'] = "";
-$text['label-messages']['he-il'] = "";
-$text['label-messages']['it-it'] = "";
-$text['label-messages']['nl-nl'] = "";
-$text['label-messages']['pl-pl'] = "";
-$text['label-messages']['pt-br'] = "";
-$text['label-messages']['pt-pt'] = "";
-$text['label-messages']['ro-ro'] = "";
-$text['label-messages']['ru-ru'] = "";
-$text['label-messages']['sv-se'] = "";
-$text['label-messages']['uk-ua'] = "";
-
-$text['label-image_text']['en-us'] = "Image & Text";
-$text['label-image_text']['ar-eg'] = "";
-$text['label-image_text']['de-at'] = "";
-$text['label-image_text']['de-ch'] = "";
-$text['label-image_text']['de-de'] = "";
-$text['label-image_text']['es-cl'] = "";
-$text['label-image_text']['es-mx'] = "";
-$text['label-image_text']['fr-ca'] = "";
-$text['label-image_text']['fr-fr'] = "";
-$text['label-image_text']['he-il'] = "";
-$text['label-image_text']['it-it'] = "";
-$text['label-image_text']['nl-nl'] = "";
-$text['label-image_text']['pl-pl'] = "";
-$text['label-image_text']['pt-br'] = "";
-$text['label-image_text']['pt-pt'] = "";
-$text['label-image_text']['ro-ro'] = "";
-$text['label-image_text']['ru-ru'] = "";
-$text['label-image_text']['sv-se'] = "";
-$text['label-image_text']['uk-ua'] = "";
+$text['label-12-hour']['vi'] = "12-Giờ";
 
 $text['header-default_settings']['en-us'] = "Default Settings";
 $text['header-default_settings']['ar-eg'] = "";
@@ -700,6 +632,7 @@ $text['header-default_settings']['ro-ro'] = "";
 $text['header-default_settings']['ru-ru'] = "Настройки по умолчанию";
 $text['header-default_settings']['sv-se'] = "Standard Inställningar";
 $text['header-default_settings']['uk-ua'] = "";
+$text['header-default_settings']['vi'] = "Thiết lập mặc định";
 
 $text['header-default_setting-edit']['en-us'] = "Default Setting";
 $text['header-default_setting-edit']['ar-eg'] = "";
@@ -720,6 +653,7 @@ $text['header-default_setting-edit']['ro-ro'] = "";
 $text['header-default_setting-edit']['ru-ru'] = "Настройки по умолчанию";
 $text['header-default_setting-edit']['sv-se'] = "Standard Inställning";
 $text['header-default_setting-edit']['uk-ua'] = "";
+$text['header-default_setting-edit']['vi'] = "Thiết lập mặc định";
 
 $text['header-default_setting-add']['en-us'] = "Default Setting Add";
 $text['header-default_setting-add']['ar-eg'] = "";
@@ -740,6 +674,7 @@ $text['header-default_setting-add']['ro-ro'] = "";
 $text['header-default_setting-add']['ru-ru'] = "Добавить настройку по умолчанию";
 $text['header-default_setting-add']['sv-se'] = "Lägg Till Standard Inställning";
 $text['header-default_setting-add']['uk-ua'] = "";
+$text['header-default_setting-add']['vi'] = "Thêm cài đặt mặc định ";
 
 $text['description-order']['en-us'] = "Set the order (index) for this array element.";
 $text['description-order']['ar-eg'] = "";
@@ -760,6 +695,7 @@ $text['description-order']['ro-ro'] = "";
 $text['description-order']['ru-ru'] = "Установите порядок (индекс) для этого элемента массива.";
 $text['description-order']['sv-se'] = "Ställ in ordningen (index) för detta element.";
 $text['description-order']['uk-ua'] = "";
+$text['description-order']['vi'] = "Đặt thứ tự (chỉ mục) cho phần tử mảng này.";
 
 $text['description-enabled']['en-us'] = "Set the status of this default setting.";
 $text['description-enabled']['ar-eg'] = "";
@@ -780,6 +716,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Установите статус этого значения по умолчанию.";
 $text['description-enabled']['sv-se'] = "Välj status på denna standardinställning.";
 $text['description-enabled']['uk-ua'] = "";
+$text['description-enabled']['vi'] = "Đặt trạng thái của cài đặt mặc định này.";
 
 $text['description-default_settings']['en-us'] = "Settings used for all domains.";
 $text['description-default_settings']['ar-eg'] = "";
@@ -800,6 +737,7 @@ $text['description-default_settings']['ro-ro'] = "";
 $text['description-default_settings']['ru-ru'] = "Настройки для всех доменов.";
 $text['description-default_settings']['sv-se'] = "Inställning används för alla domäner.";
 $text['description-default_settings']['uk-ua'] = "Налаштування використовується для всіх доменів";
+$text['description-default_settings']['vi'] = "Cài đặt được sử dụng cho tất cả các tên miền.";
 
 $text['description-default_setting-edit']['en-us'] = "Settings used for all domains.";
 $text['description-default_setting-edit']['ar-eg'] = "";
@@ -820,6 +758,7 @@ $text['description-default_setting-edit']['ro-ro'] = "";
 $text['description-default_setting-edit']['ru-ru'] = "Настройки для всех доменов.";
 $text['description-default_setting-edit']['sv-se'] = "Inställning används för alla domäner.";
 $text['description-default_setting-edit']['uk-ua'] = "Налаштування використовується для всіх доменів";
+$text['description-default_setting-edit']['vi'] = "Cài đặt được sử dụng cho tất cả các tên miền.";
 
 $text['description-default_setting-add']['en-us'] = "Settings used for all domains.";
 $text['description-default_setting-add']['ar-eg'] = "";
@@ -840,6 +779,7 @@ $text['description-default_setting-add']['ro-ro'] = "";
 $text['description-default_setting-add']['ru-ru'] = "Настройки для всех доменов.";
 $text['description-default_setting-add']['sv-se'] = "Inställning används för alla domäner.";
 $text['description-default_setting-add']['uk-ua'] = "Налаштування використовується для всіх доменів";
+$text['description-default_setting-add']['vi'] = "Cài đặt được sử dụng cho tất cả các tên miền.";
 
 $text['button-toggle']['en-us'] = "Toggle";
 $text['button-toggle']['ar-eg'] = "تبديل";
@@ -860,5 +800,6 @@ $text['button-toggle']['ro-ro'] = "Comutare";
 $text['button-toggle']['ru-ru'] = "Переключатель";
 $text['button-toggle']['sv-se'] = "toggle";
 $text['button-toggle']['uk-ua'] = "тумблер";
+$text['button-toggle']['vi'] = "Chuyển đổi";
 
 ?>

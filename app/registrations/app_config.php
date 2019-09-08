@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Hiển thị đăng ký từ các thiết bị đầu cuối.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "registration_domain";

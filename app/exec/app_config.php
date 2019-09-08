@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cung cấp một cách thuận tiện để thực thi các lệnh hệ thống, PHP, switch và SQL.";
 
 	//permission details
 		$y=0;

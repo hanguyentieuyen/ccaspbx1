@@ -26,7 +26,8 @@
 		$apps[$x]['description']['ru-ru'] = "Обновление или восстановление настроек системы";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Cập nhật hoặc khôi phục các cài đặt hệ thống khác nhau.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "upgrade_source";

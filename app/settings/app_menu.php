@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Конфигурация";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Inställningar";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Налаштування";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Cài đặt";
 	$apps[$x]['menu'][$y]['uuid'] = "148ea42a-3711-3d64-181b-07a6a3c3ed60";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

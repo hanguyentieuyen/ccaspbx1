@@ -60,7 +60,8 @@
 		$text['title_description-bridge']['ru-ru'] = '';
 		$text['title_description-bridge']['sv-se'] = '';
 		$text['title_description-bridge']['uk-ua'] = '';
-
+		$text['title_description-bridge']['vi'] = 'Thêm báo cáo bridge tới danh sách chọn đích đến.';
+		
 		$text['label-bridge_name']['en-us'] = 'Name';
 		$text['label-bridge_name']['ar-eg'] = '';
 		$text['label-bridge_name']['de-at'] = '';
@@ -80,6 +81,7 @@
 		$text['label-bridge_name']['ru-ru'] = '';
 		$text['label-bridge_name']['sv-se'] = '';
 		$text['label-bridge_name']['uk-ua'] = '';
+		$text['label-bridge_name']['vi'] = 'Tên';
 
 		$text['description-bridge_name']['en-us'] = 'Enter the name.';
 		$text['description-bridge_name']['ar-eg'] = '';
@@ -100,6 +102,7 @@
 		$text['description-bridge_name']['ru-ru'] = '';
 		$text['description-bridge_name']['sv-se'] = '';
 		$text['description-bridge_name']['uk-ua'] = '';
+		$text['description-bridge_name']['vi'] = 'Nhập tên.';
 
 		$text['label-bridge_destination']['en-us'] = 'Destination';
 		$text['label-bridge_destination']['ar-eg'] = '';
@@ -120,6 +123,7 @@
 		$text['label-bridge_destination']['ru-ru'] = '';
 		$text['label-bridge_destination']['sv-se'] = '';
 		$text['label-bridge_destination']['uk-ua'] = '';
+		$text['label-bridge_destination']['vi'] = 'Nơi đến';
 
 		$text['description-bridge_destination']['en-us'] = 'Enter the destination.';
 		$text['description-bridge_destination']['ar-eg'] = '';
@@ -140,6 +144,7 @@
 		$text['description-bridge_destination']['ru-ru'] = '';
 		$text['description-bridge_destination']['sv-se'] = '';
 		$text['description-bridge_destination']['uk-ua'] = '';
+		$text['description-bridge_destination']['vi'] = 'Nhập nơi đến.';
 
 		$text['label-bridge_enabled']['en-us'] = 'Enabled';
 		$text['label-bridge_enabled']['ar-eg'] = '';
@@ -160,6 +165,7 @@
 		$text['label-bridge_enabled']['ru-ru'] = '';
 		$text['label-bridge_enabled']['sv-se'] = '';
 		$text['label-bridge_enabled']['uk-ua'] = '';
+		$text['label-bridge_enabled']['vi'] = 'Cho phép';
 
 		$text['description-bridge_enabled']['en-us'] = 'Select to enable or disable.';
 		$text['description-bridge_enabled']['ar-eg'] = '';
@@ -180,6 +186,7 @@
 		$text['description-bridge_enabled']['ru-ru'] = '';
 		$text['description-bridge_enabled']['sv-se'] = '';
 		$text['description-bridge_enabled']['uk-ua'] = '';
+		$text['description-bridge_enabled']['vi'] = 'Chọn để cho phép hoặc không cho phép.';
 
 		$text['label-bridge_description']['en-us'] = 'Description';
 		$text['label-bridge_description']['ar-eg'] = '';
@@ -200,6 +207,7 @@
 		$text['label-bridge_description']['ru-ru'] = '';
 		$text['label-bridge_description']['sv-se'] = '';
 		$text['label-bridge_description']['uk-ua'] = '';
+		$text['label-bridge_description']['vi'] = 'Mô tả';
 
 		$text['description-bridge_description']['en-us'] = 'Enter the description. ';
 		$text['description-bridge_description']['ar-eg'] = '';
@@ -220,5 +228,6 @@
 		$text['description-bridge_description']['ru-ru'] = '';
 		$text['description-bridge_description']['sv-se'] = '';
 		$text['description-bridge_description']['uk-ua'] = '';
+		$text['description-bridge_description']['vi'] = 'Thêm mô tả. ';
 
 ?>

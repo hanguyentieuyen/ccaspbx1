@@ -20,6 +20,7 @@ $text['title-domains']['ro-ro'] = "";
 $text['title-domains']['ru-ru'] = "Домены";
 $text['title-domains']['sv-se'] = "Domäner";
 $text['title-domains']['uk-ua'] = "Домени";
+$text['title-domains']['vi'] = "Tên miền";
 
 $text['title-domain_setting-edit']['en-us'] = "Domain Setting";
 $text['title-domain_setting-edit']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-domain_setting-edit']['ro-ro'] = "";
 $text['title-domain_setting-edit']['ru-ru'] = "Настройки домена";
 $text['title-domain_setting-edit']['sv-se'] = "Domän Inställning";
 $text['title-domain_setting-edit']['uk-ua'] = "Налаштування доменів";
+$text['title-domain_setting-edit']['vi'] = "Cài đặt tên miền";
 
 $text['title-domain_setting-add']['en-us'] = "Domain Setting Add";
 $text['title-domain_setting-add']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-domain_setting-add']['ro-ro'] = "";
 $text['title-domain_setting-add']['ru-ru'] = "Добавить настройку домена";
 $text['title-domain_setting-add']['sv-se'] = "Lägg Till Domän Inställning";
 $text['title-domain_setting-add']['uk-ua'] = "Додавання домену";
+$text['title-domain_setting-add']['vi'] = "Thêm cài đặt tên miền";
 
 $text['title-domain-edit']['en-us'] = "Domain";
 $text['title-domain-edit']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-domain-edit']['ro-ro'] = "";
 $text['title-domain-edit']['ru-ru'] = "Домен";
 $text['title-domain-edit']['sv-se'] = "Domän";
 $text['title-domain-edit']['uk-ua'] = "Домен";
+$text['title-domain-edit']['vi'] = "Tên miền";
 
 $text['title-domain-add']['en-us'] = "Domain Add";
 $text['title-domain-add']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-domain-add']['ro-ro'] = "";
 $text['title-domain-add']['ru-ru'] = "Добавить домен";
 $text['title-domain-add']['sv-se'] = "Lägg Till Domän";
 $text['title-domain-add']['uk-ua'] = "Новий домен";
+$text['title-domain-add']['vi'] = "Thêm tên miền";
 
 $text['message-delete_failed']['en-us'] = "No Settings Checked";
 $text['message-delete_failed']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['message-delete_failed']['ro-ro'] = "";
 $text['message-delete_failed']['ru-ru'] = "Не выбрана настройка";
 $text['message-delete_failed']['sv-se'] = "Ingen Inställning Markerad";
 $text['message-delete_failed']['uk-ua'] = "Налаштування не вказано";
+$text['message-delete_failed']['vi'] = "Không có cài đặt nào được kiểm tra";
 
 $text['label-web_fonts']['en-us'] = "Web Fonts";
 $text['label-web_fonts']['ar-eg'] = "الخطوط على شبكة الإنترنت";
@@ -140,6 +146,7 @@ $text['label-web_fonts']['ro-ro'] = "Fonturi web";
 $text['label-web_fonts']['ru-ru'] = "Шрифты Web";
 $text['label-web_fonts']['sv-se'] = "web teckensnitt";
 $text['label-web_fonts']['uk-ua'] = "веб-шрифти";
+$text['label-web_fonts']['vi'] = "Phông chữ web";
 
 $text['label-top']['en-us'] = "Top";
 $text['label-top']['ar-eg'] = "أعلى";
@@ -160,6 +167,7 @@ $text['label-top']['ro-ro'] = "Top";
 $text['label-top']['ru-ru'] = "Верхний";
 $text['label-top']['sv-se'] = "Topp";
 $text['label-top']['uk-ua'] = "топ";
+$text['label-top']['vi'] = "Trên";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Инструменты";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-text']['en-us'] = "Text";
 $text['label-text']['ar-eg'] = "نص";
@@ -200,6 +209,7 @@ $text['label-text']['ro-ro'] = "Text";
 $text['label-text']['ru-ru'] = "Текст";
 $text['label-text']['sv-se'] = "Text";
 $text['label-text']['uk-ua'] = "текст";
+$text['label-text']['vi'] = "Văn bản";
 
 $text['label-static']['en-us'] = "Static";
 $text['label-static']['ar-eg'] = "ساكن";
@@ -240,6 +250,7 @@ $text['label-right']['ro-ro'] = "Dreapta";
 $text['label-right']['ru-ru'] = "Правый";
 $text['label-right']['sv-se'] = "Höger";
 $text['label-right']['uk-ua'] = "правий";
+$text['label-right']['vi'] = "Phải";
 
 $text['label-reference']['en-us'] = "See";
 $text['label-reference']['ar-eg'] = "مرجع";
@@ -260,6 +271,7 @@ $text['label-reference']['ro-ro'] = "Referinţă";
 $text['label-reference']['ru-ru'] = "Вид";
 $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "посилання";
+$text['label-reference']['vi'] = "xem";
 
 $text['label-parent_domain']['en-us'] = "Parent Domain";
 $text['label-parent_domain']['ar-eg'] = "";
@@ -280,6 +292,7 @@ $text['label-parent_domain']['ro-ro'] = "";
 $text['label-parent_domain']['ru-ru'] = "Родительский домен";
 $text['label-parent_domain']['sv-se'] = "Överordnad Domän";
 $text['label-parent_domain']['uk-ua'] = "Батьківський домен";
+$text['label-parent_domain']['vi'] = "Tên miền mẹ";
 
 $text['label-other']['en-us'] = "Other";
 $text['label-other']['ar-eg'] = "";
@@ -300,6 +313,7 @@ $text['label-other']['ro-ro'] = "";
 $text['label-other']['ru-ru'] = "Другие";
 $text['label-other']['sv-se'] = "Annat";
 $text['label-other']['uk-ua'] = "";
+$text['label-other']['vi'] = "Khác";
 
 $text['label-none']['en-us'] = "None";
 $text['label-none']['ar-eg'] = "لا شيء";
@@ -320,6 +334,7 @@ $text['label-none']['ro-ro'] = "Nici unul";
 $text['label-none']['ru-ru'] = "Никто";
 $text['label-none']['sv-se'] = "Ingen";
 $text['label-none']['uk-ua'] = "жоден";
+$text['label-none']['vi'] = "Không";
 
 $text['label-manage']['en-us'] = "Manage";
 $text['label-manage']['ar-eg'] = "";
@@ -340,6 +355,7 @@ $text['label-manage']['ro-ro'] = "";
 $text['label-manage']['ru-ru'] = "Управлять";
 $text['label-manage']['sv-se'] = "Hantera";
 $text['label-manage']['uk-ua'] = "Керувати";
+$text['label-manage']['vi'] = "Quản lý";
 
 $text['label-left']['en-us'] = "Left";
 $text['label-left']['ar-eg'] = "اليسار";
@@ -360,6 +376,7 @@ $text['label-left']['ro-ro'] = "Stânga";
 $text['label-left']['ru-ru'] = "Слева";
 $text['label-left']['sv-se'] = "Vänster";
 $text['label-left']['uk-ua'] = "лівий";
+$text['label-left']['vi'] = "Trái";
 
 $text['label-inline']['en-us'] = "Inline";
 $text['label-inline']['ar-eg'] = "في النسق";
@@ -380,6 +397,7 @@ $text['label-inline']['ro-ro'] = "In linie";
 $text['label-inline']['ru-ru'] = "inline";
 $text['label-inline']['sv-se'] = "I kö";
 $text['label-inline']['uk-ua'] = "В лінію";
+$text['label-inline']['vi'] = "Cùng hàng";
 
 $text['label-image']['en-us'] = "Image";
 $text['label-image']['ar-eg'] = "صورة";
@@ -400,6 +418,7 @@ $text['label-image']['ro-ro'] = "Imagine";
 $text['label-image']['ru-ru'] = "Изображение";
 $text['label-image']['sv-se'] = "Bild";
 $text['label-image']['uk-ua'] = "зображення";
+$text['label-image']['vi'] = "Hình ảnh";
 
 $text['label-fixed']['en-us'] = "Fixed";
 $text['label-fixed']['ar-eg'] = "ثابت";
@@ -420,26 +439,7 @@ $text['label-fixed']['ro-ro'] = "Fix";
 $text['label-fixed']['ru-ru'] = "Фиксированный";
 $text['label-fixed']['sv-se'] = "Fast";
 $text['label-fixed']['uk-ua'] = "фіксований";
-
-$text['label-side']['en-us'] = "Side";
-$text['label-side']['ar-eg'] = "Side";
-$text['label-side']['de-at'] = "Side";
-$text['label-side']['de-ch'] = "Side";
-$text['label-side']['de-de'] = "Side";
-$text['label-side']['es-cl'] = "Side";
-$text['label-side']['es-mx'] = "Side";
-$text['label-side']['fr-ca'] = "Side";
-$text['label-side']['fr-fr'] = "Side";
-$text['label-side']['he-il'] = "Side";
-$text['label-side']['it-it'] = "Side";
-$text['label-side']['nl-nl'] = "Side";
-$text['label-side']['pl-pl'] = "Side";
-$text['label-side']['pt-br'] = "Side";
-$text['label-side']['pt-pt'] = "Side";
-$text['label-side']['ro-ro'] = "Side";
-$text['label-side']['ru-ru'] = "Side";
-$text['label-side']['sv-se'] = "Side";
-$text['label-side']['uk-ua'] = "Side";
+$text['label-fixed']['vi'] = "Đã sửa";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "";
@@ -460,6 +460,7 @@ $text['label-domain']['ro-ro'] = "";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-center']['en-us'] = "Center";
 $text['label-center']['ar-eg'] = "مركز";
@@ -480,6 +481,7 @@ $text['label-center']['ro-ro'] = "Centru";
 $text['label-center']['ru-ru'] = "Центр";
 $text['label-center']['sv-se'] = "Centrum";
 $text['label-center']['uk-ua'] = "центр";
+$text['label-center']['vi'] = "Trung tâm";
 
 $text['label-bottom']['en-us'] = "Bottom";
 $text['label-bottom']['ar-eg'] = "أسفل";
@@ -500,6 +502,7 @@ $text['label-bottom']['ro-ro'] = "Fund";
 $text['label-bottom']['ru-ru'] = "Низ";
 $text['label-bottom']['sv-se'] = "Botten";
 $text['label-bottom']['uk-ua'] = "дно";
+$text['label-bottom']['vi'] = "Dưới";
 
 $text['label-24-hour']['en-us'] = "24-Hour";
 $text['label-24-hour']['ar-eg'] = "24 ساعة";
@@ -520,6 +523,7 @@ $text['label-24-hour']['ro-ro'] = "24 de ore";
 $text['label-24-hour']['ru-ru'] = "24-часовой";
 $text['label-24-hour']['sv-se'] = "24-timmars";
 $text['label-24-hour']['uk-ua'] = "24-годинний";
+$text['label-24-hour']['vi'] = "24-Giờ";
 
 $text['label-12-hour']['en-us'] = "12-Hour";
 $text['label-12-hour']['ar-eg'] = "12 ساعة";
@@ -540,6 +544,7 @@ $text['label-12-hour']['ro-ro'] = "12 de ore";
 $text['label-12-hour']['ru-ru'] = "12-часовой";
 $text['label-12-hour']['sv-se'] = "12-timmars";
 $text['label-12-hour']['uk-ua'] = "12-годинний";
+$text['label-12-hour']['vi'] = "12-Giờ";
 
 $text['header-settings']['en-us'] = "Settings";
 $text['header-settings']['ar-eg'] = "";
@@ -560,6 +565,7 @@ $text['header-settings']['ro-ro'] = "";
 $text['header-settings']['ru-ru'] = "Настройки";
 $text['header-settings']['sv-se'] = "Inställning";
 $text['header-settings']['uk-ua'] = "Налаштування";
+$text['header-settings']['vi'] = "Cài đặt";
 
 $text['header-domains']['en-us'] = "Domains";
 $text['header-domains']['ar-eg'] = "";
@@ -580,6 +586,7 @@ $text['header-domains']['ro-ro'] = "";
 $text['header-domains']['ru-ru'] = "Домены";
 $text['header-domains']['sv-se'] = "Domäner";
 $text['header-domains']['uk-ua'] = "Домени";
+$text['header-domains']['vi'] = "Tên miền";
 
 $text['header-domain_setting-edit']['en-us'] = "Domain Setting";
 $text['header-domain_setting-edit']['ar-eg'] = "";
@@ -600,6 +607,7 @@ $text['header-domain_setting-edit']['ro-ro'] = "";
 $text['header-domain_setting-edit']['ru-ru'] = "Настройки домена";
 $text['header-domain_setting-edit']['sv-se'] = "Domän Inställning";
 $text['header-domain_setting-edit']['uk-ua'] = "Налаштування домену";
+$text['header-domain_setting-edit']['vi'] = "Cài đặt tên miền";
 
 $text['header-domain_setting-add']['en-us'] = "Domain Setting Add";
 $text['header-domain_setting-add']['ar-eg'] = "";
@@ -620,6 +628,7 @@ $text['header-domain_setting-add']['ro-ro'] = "";
 $text['header-domain_setting-add']['ru-ru'] = "Добавить настройки домена";
 $text['header-domain_setting-add']['sv-se'] = "Lägg Till Domän Inställning";
 $text['header-domain_setting-add']['uk-ua'] = "Параметри домену";
+$text['header-domain_setting-add']['vi'] = "Thêm cài đặt tên miền";
 
 $text['header-domain-edit']['en-us'] = "Domain";
 $text['header-domain-edit']['ar-eg'] = "";
@@ -640,6 +649,7 @@ $text['header-domain-edit']['ro-ro'] = "";
 $text['header-domain-edit']['ru-ru'] = "Домен";
 $text['header-domain-edit']['sv-se'] = "Domän";
 $text['header-domain-edit']['uk-ua'] = "Домен";
+$text['header-domain-edit']['vi'] = "Tên miền";
 
 $text['header-domain-add']['en-us'] = "Domain Add";
 $text['header-domain-add']['ar-eg'] = "";
@@ -660,6 +670,7 @@ $text['header-domain-add']['ro-ro'] = "";
 $text['header-domain-add']['ru-ru'] = "Добавить домен";
 $text['header-domain-add']['sv-se'] = "Lägg Till Domän";
 $text['header-domain-add']['uk-ua'] = "Новий домен";
+$text['header-domain-add']['vi'] = "Thêm tên miền";
 
 $text['description-setting_enabled']['en-us'] = "Set the status of this default setting.";
 $text['description-setting_enabled']['ar-eg'] = "";
@@ -680,6 +691,7 @@ $text['description-setting_enabled']['ro-ro'] = "";
 $text['description-setting_enabled']['ru-ru'] = "Установить этот параметр в значение по умолчанию.";
 $text['description-setting_enabled']['sv-se'] = "Ange status på denna standard inställning.";
 $text['description-setting_enabled']['uk-ua'] = "Встановіть стан цього параметра за замовчуванням.";
+$text['description-setting_enabled']['vi'] = "Đặt trạng thái của cài đặt mặc định này.";
 
 $text['description-parent_domain']['en-us'] = "Set the parent domain.";
 $text['description-parent_domain']['ar-eg'] = "";
@@ -700,6 +712,7 @@ $text['description-parent_domain']['ro-ro'] = "";
 $text['description-parent_domain']['ru-ru'] = "Установить родительский домен.";
 $text['description-parent_domain']['sv-se'] = "Ange Överordan Domän.";
 $text['description-parent_domain']['uk-ua'] = "Вкажіть батьківський домен";
+$text['description-parent_domain']['vi'] = "Đặt tên miền mẹ.";
 
 $text['description-order']['en-us'] = "Set the order for this array element.";
 $text['description-order']['ar-eg'] = "";
@@ -720,6 +733,7 @@ $text['description-order']['ro-ro'] = "";
 $text['description-order']['ru-ru'] = "Установите порядок для этого элемента массива.";
 $text['description-order']['sv-se'] = "Ställ in ordningen för detta element.";
 $text['description-order']['uk-ua'] = "Вкажіть порядок для масиву елементів";
+$text['description-order']['vi'] = "Đặt thứ tự cho phần tử mảng này.";
 
 $text['description-name']['en-us'] = "Enter the name of the domain.";
 $text['description-name']['ar-eg'] = "";
@@ -740,6 +754,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Введите имя домена.";
 $text['description-name']['sv-se'] = "Ange namn på Domänen.";
 $text['description-name']['uk-ua'] = "Вкажіть назву домену";
+$text['description-name']['vi'] = "Nhập tên miền.";
 
 $text['description-domains']['en-us'] = "Control the list of domains to manage.";
 $text['description-domains']['ar-eg'] = "";
@@ -760,6 +775,7 @@ $text['description-domains']['ro-ro'] = "";
 $text['description-domains']['ru-ru'] = "Списк доменов для управления.";
 $text['description-domains']['sv-se'] = "Kontrollera lista med Domäner att hantera.";
 $text['description-domains']['uk-ua'] = "Список доменів для керування";
+$text['description-domains']['vi'] = "Kiểm soát danh sách các tên miền cần quản lý.";
 
 $text['description-domain_setting-edit']['en-us'] = "Edit a setting for this domain.";
 $text['description-domain_setting-edit']['ar-eg'] = "";
@@ -780,6 +796,7 @@ $text['description-domain_setting-edit']['ro-ro'] = "";
 $text['description-domain_setting-edit']['ru-ru'] = "Изменить настройки для домена.";
 $text['description-domain_setting-edit']['sv-se'] = "Ändra en inställning för denna Domän.";
 $text['description-domain_setting-edit']['uk-ua'] = "Редагування параметрів для домену";
+$text['description-domain_setting-edit']['vi'] = "Chỉnh sửa cài đặt cho miền này.";
 
 $text['description-domain_setting-add']['en-us'] = "Add a setting for this domain.";
 $text['description-domain_setting-add']['ar-eg'] = "";
@@ -800,6 +817,7 @@ $text['description-domain_setting-add']['ro-ro'] = "";
 $text['description-domain_setting-add']['ru-ru'] = "Добавить настройку для домена.";
 $text['description-domain_setting-add']['sv-se'] = "Lägg Till en inställning för denna Domän.";
 $text['description-domain_setting-add']['uk-ua'] = "Додавання параметра для домену";
+$text['description-domain_setting-add']['vi'] = "Thêm cài đặt cho tên miền này.";
 
 $text['description-domain_enabled']['en-us'] = "Set the status of the domain.";
 $text['description-domain_enabled']['ar-eg'] = "";
@@ -820,6 +838,7 @@ $text['description-domain_enabled']['ro-ro'] = "";
 $text['description-domain_enabled']['ru-ru'] = "Установить статус домена.";
 $text['description-domain_enabled']['sv-se'] = "Ange status för Domänen.";
 $text['description-domain_enabled']['uk-ua'] = "Вкажіть стан домену";
+$text['description-domain_enabled']['vi'] = "Cài đặt trạng thái của tên miền.";
 
 $text['description-domain-edit']['en-us'] = "Edit the details of this domain.";
 $text['description-domain-edit']['ar-eg'] = "";
@@ -840,6 +859,7 @@ $text['description-domain-edit']['ro-ro'] = "";
 $text['description-domain-edit']['ru-ru'] = "Редактирование сведений о домене.";
 $text['description-domain-edit']['sv-se'] = "Ändra detaljer för denna Domän.";
 $text['description-domain-edit']['uk-ua'] = "Редагування деталей домену";
+$text['description-domain-edit']['vi'] = "Chỉnh sửa chi tiết cho tên miền";
 
 $text['description-domain-add']['en-us'] = "Enter the domain details below.";
 $text['description-domain-add']['ar-eg'] = "";
@@ -860,5 +880,6 @@ $text['description-domain-add']['ro-ro'] = "";
 $text['description-domain-add']['ru-ru'] = "Введите данные домена ниже.";
 $text['description-domain-add']['sv-se'] = "Ange domändetaljer nedan.";
 $text['description-domain-add']['uk-ua'] = "Введіть дані домену нижче.";
+$text['description-domain-add']['vi'] = "Nhập tên miền chi tiết bên dưới.";
 
 ?>

@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Контакты";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Kontakter";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Контакти";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Liên hệ";
 	$apps[$x]['menu'][$y]['uuid'] = "f14e6ab6-6565-d4e6-cbad-a51d2e3e8ec6";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

@@ -20,6 +20,7 @@ $text['title-queues']['ro-ro'] = "";
 $text['title-queues']['ru-ru'] = "Очереди";
 $text['title-queues']['sv-se'] = "Kö:er";
 $text['title-queues']['uk-ua'] = "";
+$text['title-queues']['vi'] = "Hàng chờ";
 
 $text['title-queue_edit']['en-us'] = "Queue Edit";
 $text['title-queue_edit']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-queue_edit']['ro-ro'] = "";
 $text['title-queue_edit']['ru-ru'] = "Редактирование очереди";
 $text['title-queue_edit']['sv-se'] = "Editera Kö";
 $text['title-queue_edit']['uk-ua'] = "";
+$text['title-queues']['vi'] = "Chỉnh sửa hàng chờ";
 
 $text['title-queue_detail_edit']['en-us'] = "Queue Detail Edit";
 $text['title-queue_detail_edit']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-queue_detail_edit']['ro-ro'] = "";
 $text['title-queue_detail_edit']['ru-ru'] = "Редактирование очереди";
 $text['title-queue_detail_edit']['sv-se'] = "Editera Kö Detaljer";
 $text['title-queue_detail_edit']['uk-ua'] = "";
+$text['title-queue_detail_edit']['vi'] = "Chỉnh sửa chi tiết hàng chờ";
 
 $text['title-queue_detail_add']['en-us'] = "Queue Detail Add";
 $text['title-queue_detail_add']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-queue_detail_add']['ro-ro'] = "";
 $text['title-queue_detail_add']['ru-ru'] = "Добавление детали в очередь";
 $text['title-queue_detail_add']['sv-se'] = "Lägg Till Kö Detaljer";
 $text['title-queue_detail_add']['uk-ua'] = "";
+$text['title-queue_detail_add']['vi'] = "Thêm chi tiết hàng chờ";
 
 $text['title-queue_add']['en-us'] = "Queue Add";
 $text['title-queue_add']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-queue_add']['ro-ro'] = "";
 $text['title-queue_add']['ru-ru'] = "Добавить Очередь";
 $text['title-queue_add']['sv-se'] = "Lägg Till Kö";
 $text['title-queue_add']['uk-ua'] = "";
+$text['title-queue_add']['vi'] = "Thêm hàng chờ";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-parameter']['en-us'] = "Parameter";
 $text['option-parameter']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['option-parameter']['ro-ro'] = "";
 $text['option-parameter']['ru-ru'] = "Параметр";
 $text['option-parameter']['sv-se'] = "Parameter";
 $text['option-parameter']['uk-ua'] = "";
+$text['option-parameter']['vi'] = "Tham số";
 
 $text['option-false']['en-us'] = "False";
 $text['option-false']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['option-false']['ro-ro'] = "";
 $text['option-false']['ru-ru'] = "Нет";
 $text['option-false']['sv-se'] = "Falsk";
 $text['option-false']['uk-ua'] = "";
+$text['option-false']['vi'] = "Tham số";
 
 $text['option-condition']['en-us'] = "Condition";
 $text['option-condition']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['option-condition']['ro-ro'] = "";
 $text['option-condition']['ru-ru'] = "Состояние";
 $text['option-condition']['sv-se'] = "Skick";
 $text['option-condition']['uk-ua'] = "";
+$text['option-condition']['vi'] = "Điều kiện";
 
 $text['option-anti-action']['en-us'] = "Anti-Action";
 $text['option-anti-action']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['option-anti-action']['ro-ro'] = "";
 $text['option-anti-action']['ru-ru'] = "Anti-Action";
 $text['option-anti-action']['sv-se'] = "Anti-Action";
 $text['option-anti-action']['uk-ua'] = "";
+$text['option-anti-action']['vi'] = "Hủy hoạt động";
 
 $text['option-action']['en-us'] = "Action";
 $text['option-action']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['option-action']['ro-ro'] = "";
 $text['option-action']['ru-ru'] = "Действие";
 $text['option-action']['sv-se'] = "Action";
 $text['option-action']['uk-ua'] = "";
+$text['option-action']['vi'] = "Hoạt động";
 
 $text['label-tag']['en-us'] = "Tag";
 $text['label-tag']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-tag']['ro-ro'] = "";
 $text['label-tag']['ru-ru'] = "Тег";
 $text['label-tag']['sv-se'] = "Tag";
 $text['label-tag']['uk-ua'] = "";
+$text['label-tag']['vi'] = "Tag";
 
 $text['label-field']['en-us'] = "Field";
 $text['label-field']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-field']['ro-ro'] = "";
 $text['label-field']['ru-ru'] = "Поле";
 $text['label-field']['sv-se'] = "Fält";
 $text['label-field']['uk-ua'] = "";
+$text['label-field']['vi'] = "Trường";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний Номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-expression']['en-us'] = "Expression";
 $text['label-expression']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-expression']['ro-ro'] = "";
 $text['label-expression']['ru-ru'] = "Выражение";
 $text['label-expression']['sv-se'] = "Uttryck";
 $text['label-expression']['uk-ua'] = "";
+$text['label-expression']['vi'] = "Thể hiện";
 
 $text['label-data']['en-us'] = "Data";
 $text['label-data']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-data']['ro-ro'] = "";
 $text['label-data']['ru-ru'] = "Дата";
 $text['label-data']['sv-se'] = "Data";
 $text['label-data']['uk-ua'] = "";
+$text['label-data']['vi'] = "Dữ liệu";
 
 $text['label-continue']['en-us'] = "Continue";
 $text['label-continue']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-continue']['ro-ro'] = "";
 $text['label-continue']['ru-ru'] = "Продолжить";
 $text['label-continue']['sv-se'] = "Fortsätt";
 $text['label-continue']['uk-ua'] = "";
+$text['label-continue']['vi'] = "Tiếp tục";
 
 $text['label-application']['en-us'] = "Application";
 $text['label-application']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-application']['ro-ro'] = "";
 $text['label-application']['ru-ru'] = "Заявка";
 $text['label-application']['sv-se'] = "Applikation";
 $text['label-application']['uk-ua'] = "";
+$text['label-application']['vi'] = "Ứng dụng";
 
 $text['label-agent_queue_extension']['en-us'] = "Queue Extension Number";
 $text['label-agent_queue_extension']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-agent_queue_extension']['ro-ro'] = "";
 $text['label-agent_queue_extension']['ru-ru'] = "Очередь Внутренних Номеров";
 $text['label-agent_queue_extension']['sv-se'] = "Kö Anknytningsnummer";
 $text['label-agent_queue_extension']['uk-ua'] = "";
+$text['label-agent_queue_extension']['vi'] = "Số máy nhánh hàng đợi";
 
 $text['label-agent_loginout_extension']['en-us'] = "Login/Logout Extension Number";
 $text['label-agent_loginout_extension']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-agent_loginout_extension']['ro-ro'] = "";
 $text['label-agent_loginout_extension']['ru-ru'] = "Внутренний номер вход / выход";
 $text['label-agent_loginout_extension']['sv-se'] = "Logga In/Logga Ut Anknytningsnummer";
 $text['label-agent_loginout_extension']['uk-ua'] = "";
+$text['label-agent_loginout_extension']['en-us'] = "Số mở rộng đăng nhập / đăng xuất";
 
 $text['header-queues']['en-us'] = "Queues";
 $text['header-queues']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['header-queues']['ro-ro'] = "";
 $text['header-queues']['ru-ru'] = "Очереди";
 $text['header-queues']['sv-se'] = "Kö:er";
 $text['header-queues']['uk-ua'] = "";
+$text['header-queues']['vi'] = "Hàng chờ";
 
 $text['header-queue_edit']['en-us'] = "Queue Edit";
 $text['header-queue_edit']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['header-queue_edit']['ro-ro'] = "";
 $text['header-queue_edit']['ru-ru'] = "редиктирование Очереди";
 $text['header-queue_edit']['sv-se'] = "Editera Kö";
 $text['header-queue_edit']['uk-ua'] = "";
+$text['header-queue_edit']['vi'] = "Chỉnh sửa hàng chờ";
 
 $text['header-queue_detail_edit']['en-us'] = "Queue Detail Edit";
 $text['header-queue_detail_edit']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['header-queue_detail_edit']['ro-ro'] = "";
 $text['header-queue_detail_edit']['ru-ru'] = "Редактирование деталей Очереди";
 $text['header-queue_detail_edit']['sv-se'] = "Editera Kö Detaljer";
 $text['header-queue_detail_edit']['uk-ua'] = "";
+$text['header-queue_detail_edit']['vi'] = "Chi tiết chỉnh sửa hàng chờ";
 
 $text['header-queue_detail_add']['en-us'] = "Queue Detail Add";
 $text['header-queue_detail_add']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['header-queue_detail_add']['ro-ro'] = "";
 $text['header-queue_detail_add']['ru-ru'] = "Добавление деталей в Очередь";
 $text['header-queue_detail_add']['sv-se'] = "Lägg Till Kö Detalj";
 $text['header-queue_detail_add']['uk-ua'] = "";
+$text['header-queue_detail_add']['vi'] = "Thêm chi tiết hàng chờ";
 
 $text['header-queue_add']['en-us'] = "Queue Add";
 $text['header-queue_add']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['header-queue_add']['ro-ro'] = "";
 $text['header-queue_add']['ru-ru'] = "Добавить Очередь";
 $text['header-queue_add']['sv-se'] = "Lägg Till Kö";
 $text['header-queue_add']['uk-ua'] = "";
+$text['header-queue_add']['vi'] = "Thêm hàng chờ";
 
 $text['header-conditions_and_actions']['en-us'] = "Conditions and Actions";
 $text['header-conditions_and_actions']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['header-conditions_and_actions']['ro-ro'] = "";
 $text['header-conditions_and_actions']['ru-ru'] = "Условия и действия";
 $text['header-conditions_and_actions']['sv-se'] = "Tillstånd och Actions";
 $text['header-conditions_and_actions']['uk-ua'] = "";
+$text['header-conditions_and_actions']['vi'] = "Điều kiện và hành động";
 
 $text['header-agent_details']['en-us'] = "Agent Details";
 $text['header-agent_details']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['header-agent_details']['ro-ro'] = "";
 $text['header-agent_details']['ru-ru'] = "Сведения об агенте";
 $text['header-agent_details']['sv-se'] = "Agent Detaljer";
 $text['header-agent_details']['uk-ua'] = "";
+$text['header-agent_details']['vi'] = "Chi tiết về agent";
 
 $text['header-additional_information']['en-us'] = "Additional Information";
 $text['header-additional_information']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['header-additional_information']['ro-ro'] = "";
 $text['header-additional_information']['ru-ru'] = "Дополнительная информация";
 $text['header-additional_information']['sv-se'] = "Ytterligare Information";
 $text['header-additional_information']['uk-ua'] = "";
+$text['header-additional_information']['vi'] = "Thêm thông tin";
 
 $text['description-queues']['en-us'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
 $text['description-queues']['ar-eg'] = "";
@@ -580,6 +608,7 @@ $text['description-queues']['ro-ro'] = "";
 $text['description-queues']['ru-ru'] = "Очереди используются для установки ожидающих линий для вызывающих абонентов. Также известны как очереди FIFO.";
 $text['description-queues']['sv-se'] = "Köer används för att konfigurera väntelinjer för uppringare. Även känd som FIFO Kö:er.";
 $text['description-queues']['uk-ua'] = "";
+$text['description-queues']['vi'] = "Hàng đợi được sử dụng để thiết lập các dòng chờ cho người gọi. Còn được gọi là FIFO hàng đợi.";
 
 $text['description-queue_edit']['en-us'] = "Queues are used to setup waiting lines for callers. Also known as FIFO Queues.";
 $text['description-queue_edit']['ar-eg'] = "";
@@ -600,6 +629,7 @@ $text['description-queue_edit']['ro-ro'] = "";
 $text['description-queue_edit']['ru-ru'] = "Очереди используются для установки ожидающих линий для вызывающих абонентов. Также известны как очереди FIFO.";
 $text['description-queue_edit']['sv-se'] = "Köer används för att konfigurera väntelinjer för uppringare. Även känd som FIFO Kö:er.";
 $text['description-queue_edit']['uk-ua'] = "";
+$text['description-queue_edit']['vi'] = "Hàng đợi được sử dụng để thiết lập các dòng chờ cho người gọi. Còn được gọi là FIFO hàng đợi.";
 
 $text['description-queue_add']['en-us'] = "In simple terms queues are holding patterns for callers to wait until someone is available to take the call. Also known as FIFO Queues.";
 $text['description-queue_add']['ar-eg'] = "";
@@ -620,6 +650,7 @@ $text['description-queue_add']['ro-ro'] = "";
 $text['description-queue_add']['ru-ru'] = "Говоря простыми словами, очереди удерживают звонящих на линии, пока кто-то не сможет принять вызов. Также известны как очереди FIFO.";
 $text['description-queue_add']['sv-se'] = "Enkelt förklarat så är kö:er en vänt plats för inkommande samtal fram tills någon kan ta samtalet. Även känt som FIFO Kö:er.";
 $text['description-queue_add']['uk-ua'] = "";
+$text['description-queue_add']['vi'] = "Nói một cách đơn giản, hàng đợi đang giữ các mẫu để người gọi chờ cho đến khi có người nhận cuộc gọi. Còn được gọi là FIFO hàng chờ.";
 
 $text['description-name']['en-us'] = "The name the queue will be assigned.";
 $text['description-name']['ar-eg'] = "";
@@ -640,6 +671,7 @@ $text['description-name']['ro-ro'] = "";
 $text['description-name']['ru-ru'] = "Имя очереди будет присвоено.";
 $text['description-name']['sv-se'] = "Namnet som kommer att kopplas till kö:n.";
 $text['description-name']['uk-ua'] = "";
+$text['description-name']['vi'] = "Tên hàng đợi sẽ được chỉ định.";
 
 $text['description-extension']['en-us'] = "The number that will be assigned to the queue.";
 $text['description-extension']['ar-eg'] = "";
@@ -660,6 +692,7 @@ $text['description-extension']['ro-ro'] = "";
 $text['description-extension']['ru-ru'] = "Номер, который будет назначен очереди.";
 $text['description-extension']['sv-se'] = "Numret som kommer att kopplas till kö:n.";
 $text['description-extension']['uk-ua'] = "";
+$text['description-extension']['vi'] = "Số sẽ được chỉ định cho hàng đợi.";
 
 $text['description-continue']['en-us'] = "Continue in most cases should be set to false.";
 $text['description-continue']['ar-eg'] = "";
@@ -680,6 +713,7 @@ $text['description-continue']['ro-ro'] = "";
 $text['description-continue']['ru-ru'] = "Для продолжения в большинстве случаев должно быть установлено значение Нет.";
 $text['description-continue']['sv-se'] = "Fortsätt i de flesta fall bör detta vara inställd på falsk.";
 $text['description-continue']['uk-ua'] = "";
+$text['description-continue']['vi'] = "Tiếp tục trong hầu hết các trường hợp nên được đặt thành false.";
 
 $text['description-conditions_and_actions']['en-us'] = "The following conditions, actions and anti-actions are used in the dialplan to direct call flow. Each is processed in order until you reach the action dialplan_detail_tag which tells what action to perform. You are not limited to only one condition or action dialplan_detail_tag for a given extension.";
 $text['description-conditions_and_actions']['ar-eg'] = "";
@@ -700,6 +734,7 @@ $text['description-conditions_and_actions']['ro-ro'] = "";
 $text['description-conditions_and_actions']['ru-ru'] = "Следующие условия, действия и антидействия используются в диалплане для направления потока вызовов. Каждый обрабатывается по порядку, пока не будет достигнуто действие dialplan_detail_tag, которое сообщает, какое действие выполнить. Вы не ограничены только одним условием или действием dialplan_detail_tag для данного расширения.";
 $text['description-conditions_and_actions']['sv-se'] = "Följande villkor, åtgärder och anti-handlingar används i nummerplanen för att styra ett samtals flöde. Varje steg bearbetas i ordning tills du når steget dialplan_detail_tag som berättar vilken åtgärd som ska utföras. Du är inte begränsad till endast ett villkor eller åtgärd dialplan_detail_tag för en viss anknytning.";
 $text['description-conditions_and_actions']['uk-ua'] = "";
+$text['description-conditions_and_actions']['vi'] = "Các điều kiện, hành động và chống lại hành động lại sau đây được sử dụng trong quay số để điều hướng cuộc gọi trực tiếp. Mỗi cái được xử lý theo thứ tự cho đến khi bạn đạt được hành động dialplan_detail_tag cho biết hành động nào cần thực hiện. Bạn không bị giới hạn chỉ một điều kiện hoặc hành động dialplan_detail_tag cho một máy nhánh nhất định.";
 
 $text['description-agent_queue_extension']['en-us'] = "The extension number for the Agent FIFO Queue. This is the holding pattern for agents waiting to service calls in the caller FIFO queue.";
 $text['description-agent_queue_extension']['ar-eg'] = "";
@@ -720,6 +755,7 @@ $text['description-agent_queue_extension']['ro-ro'] = "";
 $text['description-agent_queue_extension']['ru-ru'] = "Внутренний номер очереди агента FIFO. Это шаблон ожидания для операторов, ожидающих обслуживания вызовов в очереди FIFO вызывающего абонента.";
 $text['description-agent_queue_extension']['sv-se'] = "Anknytningsnumret för Agent FIFO Queue. Detta är väntplatsen för agenter som väntar på att betjäna samtal i den uppringande FIFO-köen.";
 $text['description-agent_queue_extension']['uk-ua'] = "";
+$text['description-agent_queue_extension']['vi'] = "Số máy nhánh cho hàng đợi của agent. Đây là kiểu giữ cho các agent đang chờ các cuộc gọi dịch vụ trong hàng đợi của người gọi FIFO.";
 
 $text['description-agent_loginout_extension']['en-us'] = "Agents use this extension number to login or logout of the Queue. After logging into the agent will be ready to receive calls from the Queue.";
 $text['description-agent_loginout_extension']['ar-eg'] = "";
@@ -742,4 +778,5 @@ $text['description-agent_loginout_extension']['sv-se'] = "
 Agenter använder det här anknytningsnumret för att logga in eller logga ut från köen. Efter att du loggat in i agenten kommer du att vara redo att ta emot samtal från köen.";
 $text['description-agent_loginout_extension']['uk-ua'] = "";
 
+$text['description-agent_loginout_extension']['vi'] = "Agent sử dụng số máy nhánh này để đăng nhập hoặc đăng xuất hàng đợi. Sau khi đăng nhập vào agent sẽ sẵn sàng nhận cuộc gọi từ Hàng đợi.";
 ?>

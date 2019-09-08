@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Điều khiển cuộc gọi cho phép khả năng gán số  hoạt động. Chúng có thể được sử dụng để tắt tiếng, bật tiếng hoặc các hoạt động khác trong cuộc gọi hội nghị.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "conference_control_view";
@@ -104,7 +104,7 @@
 		$apps[$x]['db'][$y]['fields'][$z]['type']['sqlite'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['type']['mysql'] = "char(36)";
 		$apps[$x]['db'][$y]['fields'][$z]['key']['type'] = "foreign";
-		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['table'] = "v_conference_controls";
+		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['table'] = "v_conference_control";
 		$apps[$x]['db'][$y]['fields'][$z]['key']['reference']['field'] = "conference_control_uuid";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "control_digits";

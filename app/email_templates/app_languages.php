@@ -20,7 +20,8 @@
 		$text['title-email_templates']['ru-ru'] = 'Email шаблоны';
 		$text['title-email_templates']['sv-se'] = '';
 		$text['title-email_templates']['uk-ua'] = '';
-
+		$text['title-email_templates']['en-us'] = 'Mẫu Email';
+	
 		$text['title-email_template']['en-us'] = 'Email Template';
 		$text['title-email_template']['ar-eg'] = '';
 		$text['title-email_template']['de-at'] = '';
@@ -40,7 +41,7 @@
 		$text['title-email_template']['ru-ru'] = 'Email шаблон';
 		$text['title-email_template']['sv-se'] = '';
 		$text['title-email_template']['uk-ua'] = '';
-
+		$text['title-email_template']['en-us'] = 'Mẫu Email';
 		$text['title_description-email_template']['en-us'] = '';
 		$text['title_description-email_template']['ar-eg'] = '';
 		$text['title_description-email_template']['de-at'] = '';
@@ -80,7 +81,8 @@
 		$text['label-template_language']['ru-ru'] = 'Язык';
 		$text['label-template_language']['sv-se'] = '';
 		$text['label-template_language']['uk-ua'] = '';
-
+		$text['label-template_language']['vi'] = 'Ngôn ngữ';
+		
 		$text['description-template_language']['en-us'] = 'Enter the language.';
 		$text['description-template_language']['ar-eg'] = '';
 		$text['description-template_language']['de-at'] = '';
@@ -100,7 +102,8 @@
 		$text['description-template_language']['ru-ru'] = '';
 		$text['description-template_language']['sv-se'] = '';
 		$text['description-template_language']['uk-ua'] = '';
-
+		$text['description-template_language']['vi'] = 'Nhập ngôn ngữ.';
+		
 		$text['label-template_category']['en-us'] = 'Category';
 		$text['label-template_category']['ar-eg'] = '';
 		$text['label-template_category']['de-at'] = '';
@@ -120,7 +123,8 @@
 		$text['label-template_category']['ru-ru'] = 'Категория';
 		$text['label-template_category']['sv-se'] = '';
 		$text['label-template_category']['uk-ua'] = '';
-
+		$text['label-template_category']['vi'] = 'Danh mục';
+		
 		$text['description-template_category']['en-us'] = 'Select the category.';
 		$text['description-template_category']['ar-eg'] = '';
 		$text['description-template_category']['de-at'] = '';
@@ -140,7 +144,8 @@
 		$text['description-template_category']['ru-ru'] = '';
 		$text['description-template_category']['sv-se'] = '';
 		$text['description-template_category']['uk-ua'] = '';
-
+		$text['description-template_category']['vi'] = 'Chọn danh mục.';
+		
 		$text['label-template_subcategory']['en-us'] = 'Subcategory';
 		$text['label-template_subcategory']['ar-eg'] = '';
 		$text['label-template_subcategory']['de-at'] = '';
@@ -160,7 +165,8 @@
 		$text['label-template_subcategory']['ru-ru'] = 'Подкатегория';
 		$text['label-template_subcategory']['sv-se'] = '';
 		$text['label-template_subcategory']['uk-ua'] = '';
-
+		$text['label-template_subcategory']['vi'] = 'Danh mục con';
+		
 		$text['description-template_subcategory']['en-us'] = 'Enter the subcategory.';
 		$text['description-template_subcategory']['ar-eg'] = '';
 		$text['description-template_subcategory']['de-at'] = '';
@@ -180,6 +186,7 @@
 		$text['description-template_subcategory']['ru-ru'] = '';
 		$text['description-template_subcategory']['sv-se'] = '';
 		$text['description-template_subcategory']['uk-ua'] = '';
+		$text['description-template_subcategory']['vi'] = 'Nhập danh mục con.';
 
 		$text['label-template_subject']['en-us'] = 'Subject';
 		$text['label-template_subject']['ar-eg'] = '';
@@ -200,7 +207,8 @@
 		$text['label-template_subject']['ru-ru'] = 'Тема';
 		$text['label-template_subject']['sv-se'] = '';
 		$text['label-template_subject']['uk-ua'] = '';
-
+		$text['label-template_subject']['vi'] = 'Chủ đề';
+		
 		$text['description-template_subject']['en-us'] = 'Enter the template subject.';
 		$text['description-template_subject']['ar-eg'] = '';
 		$text['description-template_subject']['de-at'] = '';
@@ -220,7 +228,8 @@
 		$text['description-template_subject']['ru-ru'] = '';
 		$text['description-template_subject']['sv-se'] = '';
 		$text['description-template_subject']['uk-ua'] = '';
-
+		$text['description-template_subject']['vi'] = 'Chọn chủ đề cho email.';
+		
 		$text['label-template_body']['en-us'] = 'Body';
 		$text['label-template_body']['ar-eg'] = '';
 		$text['label-template_body']['de-at'] = '';
@@ -240,7 +249,8 @@
 		$text['label-template_body']['ru-ru'] = 'Cообщение';
 		$text['label-template_body']['sv-se'] = '';
 		$text['label-template_body']['uk-ua'] = '';
-
+		$text['label-template_body']['vi'] = 'Thân bài';
+		
 		$text['description-template_body']['en-us'] = 'Enter the template body.';
 		$text['description-template_body']['ar-eg'] = '';
 		$text['description-template_body']['de-at'] = '';
@@ -260,7 +270,8 @@
 		$text['description-template_body']['ru-ru'] = '';
 		$text['description-template_body']['sv-se'] = '';
 		$text['description-template_body']['uk-ua'] = '';
-
+		$text['description-template_body']['vi'] = 'Nhập phần thân bài của email.';
+		
 		$text['label-template_type']['en-us'] = 'Type';
 		$text['label-template_type']['ar-eg'] = '';
 		$text['label-template_type']['de-at'] = '';
@@ -280,7 +291,8 @@
 		$text['label-template_type']['ru-ru'] = '';
 		$text['label-template_type']['sv-se'] = '';
 		$text['label-template_type']['uk-ua'] = '';
-
+		$text['label-template_type']['vi'] = 'Loại';
+		
 		$text['description-template_type']['en-us'] = 'Set the type as html or text.';
 		$text['description-template_type']['ar-eg'] = '';
 		$text['description-template_type']['de-at'] = '';
@@ -300,7 +312,8 @@
 		$text['description-template_type']['ru-ru'] = '';
 		$text['description-template_type']['sv-se'] = '';
 		$text['description-template_type']['uk-ua'] = '';
-
+		$text['description-template_type']['vi'] = 'Đặt html hoặc văn bản.';
+		
 		$text['label-template_enabled']['en-us'] = 'Enabled';
 		$text['label-template_enabled']['ar-eg'] = '';
 		$text['label-template_enabled']['de-at'] = '';
@@ -320,7 +333,8 @@
 		$text['label-template_enabled']['ru-ru'] = 'Включено';
 		$text['label-template_enabled']['sv-se'] = '';
 		$text['label-template_enabled']['uk-ua'] = '';
-
+		$text['label-template_enabled']['vi'] = 'Cho phép';
+		
 		$text['description-template_enabled']['en-us'] = 'Set the status of the template.';
 		$text['description-template_enabled']['ar-eg'] = '';
 		$text['description-template_enabled']['de-at'] = '';
@@ -360,7 +374,8 @@
 		$text['label-template_description']['ru-ru'] = 'Описание';
 		$text['label-template_description']['sv-se'] = '';
 		$text['label-template_description']['uk-ua'] = '';
-
+		$text['label-template_description']['vi'] = 'Mô tả';
+		
 		$text['description-template_description']['en-us'] = 'Enter the description.';
 		$text['description-template_description']['ar-eg'] = '';
 		$text['description-template_description']['de-at'] = '';
@@ -380,5 +395,5 @@
 		$text['description-template_description']['ru-ru'] = '';
 		$text['description-template_description']['sv-se'] = '';
 		$text['description-template_description']['uk-ua'] = '';
-
+		$text['description-template_description']['vi'] = 'Nhập mô tả.';
 ?>

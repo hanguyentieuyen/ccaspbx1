@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Hàng đợi được sử dụng để thiết lập các dòng chờ cho người gọi. Còn được gọi là Hàng đợi.";
 
 	//permission details
 		$y=0;
@@ -45,8 +46,5 @@
 		$apps[$x]['permissions'][$y]['name'] = "fifo_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${domain_name}";
 
 ?>

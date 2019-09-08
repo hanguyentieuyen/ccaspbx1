@@ -20,6 +20,7 @@ $text['title-modules']['ro-ro'] = "";
 $text['title-modules']['ru-ru'] = "Модули";
 $text['title-modules']['sv-se'] = "Moduler";
 $text['title-modules']['uk-ua'] = "Модулі";
+$text['title-modules']['vi'] = "Các Module";
 
 $text['title-module_edit']['en-us'] = "Module Edit";
 $text['title-module_edit']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-module_edit']['ro-ro'] = "";
 $text['title-module_edit']['ru-ru'] = "Редавктор Модулей";
 $text['title-module_edit']['sv-se'] = "Editera Modul";
 $text['title-module_edit']['uk-ua'] = "Редагування модуля";
+$text['title-module_edit']['vi'] = "Chỉnh sửa Module";
 
 $text['title-module_add']['en-us'] = "Module Add";
 $text['title-module_add']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-module_add']['ro-ro'] = "";
 $text['title-module_add']['ru-ru'] = "Добавить Модуль";
 $text['title-module_add']['sv-se'] = "Lägg Till Modul";
 $text['title-module_add']['uk-ua'] = "Додавання модуля";
+$text['title-module_add']['vi'] = "Thêm Module";
 
 $text['label-unload_module']['en-us'] = "Unload Module";
 $text['label-unload_module']['ar-eg'] = "";
@@ -81,6 +84,7 @@ $text['label-unload_module']['ru-ru'] = "Выгрузка Модулей";
 $text['label-unload_module']['sv-se'] = "Ladda av Modul";
 $text['label-unload_module']['uk-ua'] = "Вивантажити модуль";
 
+
 $text['label-unknown']['en-us'] = "Unknown";
 $text['label-unknown']['ar-eg'] = "";
 $text['label-unknown']['de-at'] = "Unbekannt"; //copied from de-de
@@ -100,6 +104,7 @@ $text['label-unknown']['ro-ro'] = "";
 $text['label-unknown']['ru-ru'] = "Неизвестный";
 $text['label-unknown']['sv-se'] = "Okänd";
 $text['label-unknown']['uk-ua'] = "";
+$text['label-unknown']['vi'] = "Không biết";
 
 $text['label-none']['en-us'] = "None";
 $text['label-none']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-none']['ro-ro'] = "";
 $text['label-none']['ru-ru'] = "Никто";
 $text['label-none']['sv-se'] = "Ingen";
 $text['label-none']['uk-ua'] = "";
+$text['label-none']['vi'] = "Không ";
 
 $text['label-stopped']['en-us'] = "Stopped";
 $text['label-stopped']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-stopped']['ro-ro'] = "";
 $text['label-stopped']['ru-ru'] = "Остановлено";
 $text['label-stopped']['sv-se'] = "Stoppad";
 $text['label-stopped']['uk-ua'] = "Зупинено";
+$text['label-stopped']['vi'] = "Đã dừng";
 
 $text['label-stop']['en-us'] = "Stop";
 $text['label-stop']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-stop']['ro-ro'] = "";
 $text['label-stop']['ru-ru'] = "Стоп";
 $text['label-stop']['sv-se'] = "Stoppa";
 $text['label-stop']['uk-ua'] = "Зупинити";
+$text['label-stop']['vi'] = "Dừng lại";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Стан";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-start']['en-us'] = "Start";
 $text['label-start']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-start']['ro-ro'] = "";
 $text['label-start']['ru-ru'] = "Старт";
 $text['label-start']['sv-se'] = "Starta";
 $text['label-start']['uk-ua'] = "Запустити";
+$text['label-start']['vi'] = "Bắt đầu";
 
 $text['label-running']['en-us'] = "Running";
 $text['label-running']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-running']['ro-ro'] = "";
 $text['label-running']['ru-ru'] = "Запущено";
 $text['label-running']['sv-se'] = "I Drift";
 $text['label-running']['uk-ua'] = "Запущено";
+$text['label-running']['vi'] = "Đang chạy";
 
 $text['label-module_name']['en-us'] = "Module Name";
 $text['label-module_name']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-module_name']['ro-ro'] = "";
 $text['label-module_name']['ru-ru'] = "Имена Модулейe";
 $text['label-module_name']['sv-se'] = "Modul Namn";
 $text['label-module_name']['uk-ua'] = "Назва модуля";
+$text['label-module_name']['vi'] = "Tên Module";
 
 $text['label-module_category']['en-us'] = "Module Category";
 $text['label-module_category']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-module_category']['ro-ro'] = "";
 $text['label-module_category']['ru-ru'] = "Категория модуля";
 $text['label-module_category']['sv-se'] = "Modul Kategori";
 $text['label-module_category']['uk-ua'] = "Категорія модуля";
+$text['label-module_category']['vi'] = "Danh mục Module";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Уведомление";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "Повідомлення";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-load_module']['en-us'] = "Load Module";
 $text['label-load_module']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-load_module']['ro-ro'] = "";
 $text['label-load_module']['ru-ru'] = "Загрузка Модулей";
 $text['label-load_module']['sv-se'] = "Ladda Modul";
 $text['label-load_module']['uk-ua'] = "Завантажити модуль";
+$text['label-load_module']['vi'] = "Tải Module";
 
 $text['label-label']['en-us'] = "Label";
 $text['label-label']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-label']['ro-ro'] = "";
 $text['label-label']['ru-ru'] = "Метка";
 $text['label-label']['sv-se'] = "Etikett";
 $text['label-label']['uk-ua'] = "Назва";
+$text['label-label']['vi'] = "Nhãn hiệu";
 
 $text['label-default_enabled']['en-us'] = "Default Enabled";
 $text['label-default_enabled']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-default_enabled']['ro-ro'] = "";
 $text['label-default_enabled']['ru-ru'] = "Включены параметры по умолчанию";
 $text['label-default_enabled']['sv-se'] = "Aktiverad som Standard";
 $text['label-default_enabled']['uk-ua'] = "Включено типові значення";
+$text['label-default_enabled']['vi'] = "Đã bật mặc định";
 
 $text['label-action']['en-us'] = "Action";
 $text['label-action']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-action']['ro-ro'] = "";
 $text['label-action']['ru-ru'] = "Действие";
 $text['label-action']['sv-se'] = "Åtgärd";
 $text['label-action']['uk-ua'] = "Дія";
+$text['label-action']['vi'] = "Hoạt động";
 
 $text['header-modules']['en-us'] = "Modules";
 $text['header-modules']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['header-modules']['ro-ro'] = "";
 $text['header-modules']['ru-ru'] = "Модули";
 $text['header-modules']['sv-se'] = "Moduler";
 $text['header-modules']['uk-ua'] = "Модулі";
+$text['header-modules']['vi'] = "Các Module";
 
 $text['header-module_edit']['en-us'] = "Module Edit";
 $text['header-module_edit']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['header-module_edit']['ro-ro'] = "";
 $text['header-module_edit']['ru-ru'] = "Редактировать Модуль";
 $text['header-module_edit']['sv-se'] = "Editera Modul";
 $text['header-module_edit']['uk-ua'] = "Редагування модуля";
+$text['header-module_edit']['vi'] = "Chỉnh sửa Module";
 
 $text['header-module_add']['en-us'] = "Module Add";
 $text['header-module_add']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['header-module_add']['ro-ro'] = "";
 $text['header-module_add']['ru-ru'] = "Добавить Модуль";
 $text['header-module_add']['sv-se'] = "Lägg Till Modul";
 $text['header-module_add']['uk-ua'] = "Додавання модуля";
+$text['header-module_add']['vi'] = "Thêm Module";
 
 $text['description-modules']['en-us'] = "Modules extend the features of the system. Use this page to enable or disable modules.";
 $text['description-modules']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['description-modules']['ro-ro'] = "";
 $text['description-modules']['ru-ru'] = "Модули расширяют возможности системы. Используйте эту страницу для включения или отключения модулей.";
 $text['description-modules']['sv-se'] = "Moduler utökar funktionerna i systemet. Använd den här sidan för att aktivera eller inaktivera moduler.";
 $text['description-modules']['uk-ua'] = "Модулі розширюють можливості системи. Використовуйте цю сторінку, щоб включити або відключити модулі.";
+$text['description-modules']['vi'] = "Các mô-đun mở rộng các tính năng của hệ thống. Sử dụng trang này để bật hoặc tắt các mô-đun.";
 
 $text['error-event-socket']['en-us'] = "Connection to Event Socket failed.";
 $text['error-event-socket']['ar-eg'] = "";
@@ -460,5 +482,6 @@ $text['error-event-socket']['ro-ro'] = "";
 $text['error-event-socket']['ru-ru'] = "Подключение к сокету событий не удалось.";
 $text['error-event-socket']['sv-se'] = "Kontakten till 'Event Socket' misslyckades.";
 $text['error-event-socket']['uk-ua'] = "Помилка підключення до сокета подій";
+$text['error-event-socket']['vi'] = "Không kết nối được với Event Socket.";
 
 ?>

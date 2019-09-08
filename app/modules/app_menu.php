@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Модули";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Moduler";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Модулі";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Modules";
 	$apps[$x]['menu'][$y]['uuid'] = "49fdb4e1-5417-0e7a-84b3-eb77f5263ea7";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

@@ -1,7 +1,7 @@
 <?php
 
 	//application details
-		$apps[$x]['name'] = "IVR Menus";
+		$apps[$x]['name'] = "IVR Menu";
 		$apps[$x]['uuid'] = "a5788e9b-58bc-bd1b-df59-fff5d51253ab";
 		$apps[$x]['category'] = "Switch";
 		$apps[$x]['subcategory'] = "";
@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Menu IVR phát bản ghi hoặc cụm từ được xác định trước trình bày cho người gọi các tùy chọn để chọn. Mỗi tùy chọn có một điểm đến tương ứng. Các điểm đến có thể là máy nhánh, thư thoại, menu IVR, nhóm săn, tiện ích mở rộng FAX, v.v.";
 
 	//destination details
 		$y=0;
@@ -37,7 +38,6 @@
 		$apps[$x]['destinations'][$y]['order_by'] = "ivr_menu_extension asc";
 		$apps[$x]['destinations'][$y]['field']['name'] = "ivr_menu_name";
 		$apps[$x]['destinations'][$y]['field']['destination'] = "ivr_menu_extension";
-		$apps[$x]['destinations'][$y]['field']['context'] = "ivr_menu_context";
 		$apps[$x]['destinations'][$y]['select_value']['dialplan'] = "transfer:\${destination} XML \${context}";
 		$apps[$x]['destinations'][$y]['select_value']['ivr'] = "menu-exec-app:transfer \${destination} XML \${context}";
 		$apps[$x]['destinations'][$y]['select_label'] = "\${destination} \${name}";
@@ -93,12 +93,6 @@
 		$apps[$x]['permissions'][$y]['name'] = "ivr_menu_option_delete";
 		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 		$apps[$x]['permissions'][$y]['groups'][] = "admin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "ivr_menu_context";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
-		$y++;
-		$apps[$x]['permissions'][$y]['name'] = "ivr_menu_domain";
-		$apps[$x]['permissions'][$y]['groups'][] = "superadmin";
 
 	//default settings
 		$y=0;
@@ -125,9 +119,6 @@
 		$apps[$x]['default_settings'][$y]['default_setting_value'] = "3";
 		$apps[$x]['default_settings'][$y]['default_setting_enabled'] = "false";
 		$apps[$x]['default_settings'][$y]['default_setting_description'] = "";
-
-	//cache details
-		$apps[$x]['cache']['key'] = "dialplan.\${ivr_menu_context}";
 
 	//schema details
 		$y=0;
@@ -257,10 +248,6 @@
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
 		$z++;
 		$apps[$x]['db'][$y]['fields'][$z]['name'] = "ivr_menu_cid_prefix";
-		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
-		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
-		$z++;
-		$apps[$x]['db'][$y]['fields'][$z]['name'] = "ivr_menu_context";
 		$apps[$x]['db'][$y]['fields'][$z]['type'] = "text";
 		$apps[$x]['db'][$y]['fields'][$z]['description']['en-us'] = "";
 		$z++;

@@ -20,6 +20,7 @@ $text['title-conference_centers']['ro-ro'] = "";
 $text['title-conference_centers']['ru-ru'] = "Конференц-центр";
 $text['title-conference_centers']['sv-se'] = "Konferenscenter";
 $text['title-conference_centers']['uk-ua'] = "Конференц-центри";
+$text['title-conference_centers']['vi'] = "Trung tâm hội nghị";
 
 $text['title-conference_center']['en-us'] = "Conference Center";
 $text['title-conference_center']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-conference_center']['ro-ro'] = "";
 $text['title-conference_center']['ru-ru'] = "Конференц-центр";
 $text['title-conference_center']['sv-se'] = "Konferenscenter";
 $text['title-conference_center']['uk-ua'] = "Конференц-центр";
+$text['title-conference_center']['vi'] = "Trung tâm hội nghị";
 
 $text['title_description-conference_centers']['en-us'] = "Conference Centers are a group of conference rooms. They can be organized by cost center, geographically, or other criteria.";
 $text['title_description-conference_centers']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title_description-conference_centers']['ro-ro'] = "";
 $text['title_description-conference_centers']['ru-ru'] = "Конференс-центр это группа конференц залов. Они могут быть организованы по загрузке, географически, или по другим критериям.";
 $text['title_description-conference_centers']['sv-se'] = "Konferenscenter är en grupp med konferensrum. De kan sorteras på kostnadscenter, geografisk placering eller andra kriterier.";
 $text['title_description-conference_centers']['uk-ua'] = "Конференц-центри є група конференц-залів. Вони можуть бути організовані МВЗ, географічно або інших критеріїв.";
+$text['title_description-conference_centers']['vi'] = "Trung tâm hội nghị là một nhóm các phòng hội nghị. Chúng có thể được tổ chức theo trung tâm chi phí, theo địa lý hoặc các tiêu chí khác.";
 
 $text['label-conference_center_name']['en-us'] = "Name";
 $text['label-conference_center_name']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-conference_center_name']['ro-ro'] = "";
 $text['label-conference_center_name']['ru-ru'] = "Имя";
 $text['label-conference_center_name']['sv-se'] = "Namn";
 $text['label-conference_center_name']['uk-ua'] = "Назва";
+$text['label-conference_center_name']['vi'] = "Tên";
 
 $text['description-conference_center_name']['en-us'] = "Enter the conference center name.";
 $text['description-conference_center_name']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['description-conference_center_name']['ro-ro'] = "";
 $text['description-conference_center_name']['ru-ru'] = "Введите имя конференц-центра.";
 $text['description-conference_center_name']['sv-se'] = "Ange namn på konferenscenter.";
 $text['description-conference_center_name']['uk-ua'] = "Введіть назву конференц-ценру";
+$text['description-conference_center_name']['vi'] = "Nhập tên trung tâm hội nghị.";
 
 $text['label-conference_center_extension']['en-us'] = "Extension";
 $text['label-conference_center_extension']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-conference_center_extension']['ro-ro'] = "";
 $text['label-conference_center_extension']['ru-ru'] = "Внутренний номер";
 $text['label-conference_center_extension']['sv-se'] = "Anknytning";
 $text['label-conference_center_extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-conference_center_extension']['vi'] = "Máy nhánh";
 
 $text['description-conference_center_extension']['en-us'] = "Enter the conference center extension number.";
 $text['description-conference_center_extension']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['description-conference_center_extension']['ro-ro'] = "";
 $text['description-conference_center_extension']['ru-ru'] = "Введите внутренний номер конференц-центра.";
 $text['description-conference_center_extension']['sv-se'] = "Ange konferenscenter anknytningsnummer.";
 $text['description-conference_center_extension']['uk-ua'] = "Введіть номер розширення конференц-центру.";
+$text['description-conference_center_extension']['vi'] = "Nhập số mở rộng trung tâm hội nghị.";
 
 $text['label-conference_center_pin_length']['en-us'] = "PIN Length";
 $text['label-conference_center_pin_length']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-conference_center_pin_length']['ro-ro'] = "";
 $text['label-conference_center_pin_length']['ru-ru'] = "Длина PIN кода";
 $text['label-conference_center_pin_length']['sv-se'] = "PIN Längd";
 $text['label-conference_center_pin_length']['uk-ua'] = "Довжина PIN-коду ";
+$text['label-conference_center_pin_length']['vi'] = "Độ dài PIN";
 
 $text['description-conference_center_pin_length']['en-us'] = "Enter the minimum PIN length.";
 $text['description-conference_center_pin_length']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['description-conference_center_pin_length']['ro-ro'] = "";
 $text['description-conference_center_pin_length']['ru-ru'] = "Введите минимальную длину PIN кода.";
 $text['description-conference_center_pin_length']['sv-se'] = "Ange minimum PIN längd.";
 $text['description-conference_center_pin_length']['uk-ua'] = "Введіть мінімальну довжину PIN-коду.";
+$text['description-conference_center_pin_length']['vi'] = "Nhập độ dài mã PIN tối thiểu.";
 
 $text['label-conference_center_greeting']['en-us'] = "Greeting";
 $text['label-conference_center_greeting']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-conference_center_greeting']['ro-ro'] = "";
 $text['label-conference_center_greeting']['ru-ru'] = "Приветствие";
 $text['label-conference_center_greeting']['sv-se'] = "Hälsning";
 $text['label-conference_center_greeting']['uk-ua'] = "Привітання";
+$text['label-conference_center_greeting']['vi'] = "Câu chào";
 
 $text['description-conference_center_greeting']['en-us'] = "Select the greeting that is played before joining the conference room.";
 $text['description-conference_center_greeting']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['description-conference_center_greeting']['ro-ro'] = "";
 $text['description-conference_center_greeting']['ru-ru'] = "Выберите приветствие, которое будет проигрываться перед входом в комнату.";
 $text['description-conference_center_greeting']['sv-se'] = "Välj hälsningsmeddelande som skall spelas upp före anslutning till konferensrummet.";
 $text['description-conference_center_greeting']['uk-ua'] = "Виберіть привітання, яке грає до вступу в конференц-зал.";
+$text['description-conference_center_greeting']['vi'] = "Chọn lời chào được phát trước khi tham gia phòng hội thảo.";
 
 $text['label-conference_center_enabled']['en-us'] = "Enabled";
 $text['label-conference_center_enabled']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-conference_center_enabled']['ro-ro'] = "";
 $text['label-conference_center_enabled']['ru-ru'] = "Включено";
 $text['label-conference_center_enabled']['sv-se'] = "Aktiverad";
 $text['label-conference_center_enabled']['uk-ua'] = "Включено";
+$text['label-conference_center_enabled']['vi'] = "Cho phép";
 
 $text['description-conference_center_enabled']['en-us'] = "Select whether to enable or disable the conference center.";
 $text['description-conference_center_enabled']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['description-conference_center_enabled']['ro-ro'] = "";
 $text['description-conference_center_enabled']['ru-ru'] = "Укажите, следует ли включить или отключить конференц-центр.";
 $text['description-conference_center_enabled']['sv-se'] = "Välj om konferenscenter skall vara aktiv eller ej.";
 $text['description-conference_center_enabled']['uk-ua'] = "Виберіть, щоб включити або відключити конференц-центр.";
+$text['description-conference_center_enabled']['vi'] = "Chọn bật hoặc tắt trung tâm hội nghị.";
 
 $text['label-conference_center_description']['en-us'] = "Description";
 $text['label-conference_center_description']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-conference_center_description']['ro-ro'] = "";
 $text['label-conference_center_description']['ru-ru'] = "Описание";
 $text['label-conference_center_description']['sv-se'] = "Beskrivning";
 $text['label-conference_center_description']['uk-ua'] = "Опис";
+$text['label-conference_center_description']['vi'] = "Mô tả";
 
 $text['title-conference_sessions']['en-us'] = "Conference Sessions";
 $text['title-conference_sessions']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['title-conference_sessions']['ro-ro'] = "";
 $text['title-conference_sessions']['ru-ru'] = "Сессии конференции";
 $text['title-conference_sessions']['sv-se'] = "Konferenssessioner";
 $text['title-conference_sessions']['uk-ua'] = "Сесії конференції";
+$text['title-conference_sessions']['vi'] = "Phiên hội nghị";
 
 $text['title-conference_session_details']['en-us'] = "Conference Session Details";
 $text['title-conference_session_details']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['title-conference_session_details']['ro-ro'] = "";
 $text['title-conference_session_details']['ru-ru'] = "Детали сессии конференции";
 $text['title-conference_session_details']['sv-se'] = "Konferens Session Detaljer";
 $text['title-conference_session_details']['uk-ua'] = "Деталі сесії конференції";
+$text['title-conference_session_details']['vi'] = "Chi tiết phiên hội nghị";
 
 $text['title-conference_rooms']['en-us'] = "Conference Rooms";
 $text['title-conference_rooms']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['title-conference_rooms']['ro-ro'] = "";
 $text['title-conference_rooms']['ru-ru'] = "Конференц комнаты";
 $text['title-conference_rooms']['sv-se'] = "Konferensrum";
 $text['title-conference_rooms']['uk-ua'] = "Конференц-зали";
+$text['title-conference_rooms']['vi'] = "Phòng hội nghị";
 
 $text['title-conference_room']['en-us'] = "Conference Room";
 $text['title-conference_room']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['title-conference_room']['ro-ro'] = "";
 $text['title-conference_room']['ru-ru'] = "Конференц комната";
 $text['title-conference_room']['sv-se'] = "Konferensrum";
 $text['title-conference_room']['uk-ua'] = "Конференц-зал";
+$text['title-conference_room']['vi'] = "Phòng hội nghị";
 
 $text['message-unique_participant_pin']['en-us'] = "Please provide a unique Participant PIN number.";
 $text['message-unique_participant_pin']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['message-unique_participant_pin']['ro-ro'] = "";
 $text['message-unique_participant_pin']['ru-ru'] = "Пожалуйста, задайте уникальный PIN код участника.";
 $text['message-unique_participant_pin']['sv-se'] = "Ange en unik PIN kod för deltagare.";
 $text['message-unique_participant_pin']['uk-ua'] = "Будь ласка, надайте унікальний PIN-код для учасника";
+$text['message-unique_participant_pin']['vi'] = "Vui lòng cung cấp số PIN duy nhất cho người tham gia .";
 
 $text['message-unique_moderator_pin']['en-us'] = "Please provide a unique Moderator PIN number.";
 $text['message-unique_moderator_pin']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['message-unique_moderator_pin']['ro-ro'] = "";
 $text['message-unique_moderator_pin']['ru-ru'] = "Пожалуйста, задайте уникальный PIN код модератора.";
 $text['message-unique_moderator_pin']['sv-se'] = "Ange en unik PIN kod för moderator.";
 $text['message-unique_moderator_pin']['uk-ua'] = "Будь ласка, надайте унікальний PIN-код для модератора.";
+$text['message-unique_moderator_pin']['vi'] = "Vui lòng cung cấp số PIN duy nhất của người điều hành .";
 
 $text['message-non_unique_pin']['en-us'] = "Moderator and Participant PIN numbers must be unique.";
 $text['message-non_unique_pin']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['message-non_unique_pin']['ro-ro'] = "";
 $text['message-non_unique_pin']['ru-ru'] = "PIN коды модератора и участника должны быть уникальными.";
 $text['message-non_unique_pin']['sv-se'] = "Moderator och Deltagar PIN koder måste vara unika.";
 $text['message-non_unique_pin']['uk-ua'] = "PIN-коди модератора і учасника повинні бути унікальними.";
+$text['message-non_unique_pin']['vi'] = "Số PIN của người điều hành và người tham gia phải là duy nhất.";
 
 $text['message-minimum_pin_length']['en-us'] = "Minimum PIN length required:";
 $text['message-minimum_pin_length']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['message-minimum_pin_length']['ro-ro'] = "";
 $text['message-minimum_pin_length']['ru-ru'] = "Минимальная длина PIN кода:";
 $text['message-minimum_pin_length']['sv-se'] = "Minimum läng på PIN:";
 $text['message-minimum_pin_length']['uk-ua'] = "Мінімальна довжина PIN-коду:";
+$text['message-minimum_pin_length']['vi'] = "Yêu cầu độ dài mã PIN tối thiểu:";
 
 $text['label-wait_moderator']['en-us'] = "Secure";
 $text['label-wait_moderator']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['label-wait_moderator']['ro-ro'] = "";
 $text['label-wait_moderator']['ru-ru'] = "Безопасно";
 $text['label-wait_moderator']['sv-se'] = "Säker";
 $text['label-wait_moderator']['uk-ua'] = "Захищено";
+$text['label-wait_moderator']['vi'] = "Bảo mật";
 
 $text['label-wait_for_moderator']['en-us'] = "Wait for Moderator";
 $text['label-wait_for_moderator']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['label-wait_for_moderator']['ro-ro'] = "";
 $text['label-wait_for_moderator']['ru-ru'] = "Ждать модератора";
 $text['label-wait_for_moderator']['sv-se'] = "Vänta på Moderator";
 $text['label-wait_for_moderator']['uk-ua'] = "Очікування на модератора";
+$text['label-wait_for_moderator']['vi'] = "Đợi người điều hành";
 
 $text['label-view']['en-us'] = "View";
 $text['label-view']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['label-view']['ro-ro'] = "";
 $text['label-view']['ru-ru'] = "Просмотр";
 $text['label-view']['sv-se'] = "Visa";
 $text['label-view']['uk-ua'] = "Перегляд";
+$text['label-view']['vi'] = "Xem";
 
 $text['label-uuid']['en-us'] = "UUID";
 $text['label-uuid']['ar-eg'] = "";
@@ -540,6 +565,7 @@ $text['label-users']['ro-ro'] = "";
 $text['label-users']['ru-ru'] = "Пользователи";
 $text['label-users']['sv-se'] = "Användare";
 $text['label-users']['uk-ua'] = "Користувачі";
+$text['label-users']['vi'] = "Người dùng";
 
 $text['label-username']['en-us'] = "Username";
 $text['label-username']['ar-eg'] = "";
@@ -560,6 +586,7 @@ $text['label-username']['ro-ro'] = "";
 $text['label-username']['ru-ru'] = "Имя пользователя";
 $text['label-username']['sv-se'] = "Användarnamn";
 $text['label-username']['uk-ua'] = "Ім’я користувача";
+$text['label-username']['vi'] = "Tên người dùng";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "";
@@ -580,6 +607,7 @@ $text['label-tools']['ro-ro'] = "";
 $text['label-tools']['ru-ru'] = "Параметры";
 $text['label-tools']['sv-se'] = "Verktyg";
 $text['label-tools']['uk-ua'] = "Параметри";
+$text['label-tools']['vi'] = "Công cụ";
 
 $text['label-to']['en-us'] = "To";
 $text['label-to']['ar-eg'] = "";
@@ -600,6 +628,7 @@ $text['label-to']['ro-ro'] = "";
 $text['label-to']['ru-ru'] = "До";
 $text['label-to']['sv-se'] = "Till";
 $text['label-to']['uk-ua'] = "До";
+$text['label-to']['vi'] = "Đến";
 
 $text['label-time']['en-us'] = "Time";
 $text['label-time']['ar-eg'] = "";
@@ -620,6 +649,7 @@ $text['label-time']['ro-ro'] = "";
 $text['label-time']['ru-ru'] = "Время";
 $text['label-time']['sv-se'] = "Tid";
 $text['label-time']['uk-ua'] = "Час";
+$text['label-time']['vi'] = "Thời gian";
 
 $text['label-start']['en-us'] = "Start";
 $text['label-start']['ar-eg'] = "";
@@ -640,6 +670,7 @@ $text['label-start']['ro-ro'] = "";
 $text['label-start']['ru-ru'] = "Начало";
 $text['label-start']['sv-se'] = "Starta";
 $text['label-start']['uk-ua'] = "Запустити";
+$text['label-start']['vi'] = "Bắt đầu";
 
 $text['label-sounds']['en-us'] = "Sounds";
 $text['label-sounds']['ar-eg'] = "";
@@ -660,6 +691,7 @@ $text['label-sounds']['ro-ro'] = "";
 $text['label-sounds']['ru-ru'] = "Звуки";
 $text['label-sounds']['sv-se'] = "Ljud";
 $text['label-sounds']['uk-ua'] = "Мелодії";
+$text['label-sounds']['vi'] = "Âm thanh";
 
 $text['label-sessions']['en-us'] = "Sessions";
 $text['label-sessions']['ar-eg'] = "";
@@ -680,6 +712,7 @@ $text['label-sessions']['ro-ro'] = "";
 $text['label-sessions']['ru-ru'] = "Сессии";
 $text['label-sessions']['sv-se'] = "Sessioner";
 $text['label-sessions']['uk-ua'] = "Сесії";
+$text['label-sessions']['vi'] = "Phiên";
 
 $text['label-schedule']['en-us'] = "Schedule";
 $text['label-schedule']['ar-eg'] = "";
@@ -700,6 +733,7 @@ $text['label-schedule']['ro-ro'] = "";
 $text['label-schedule']['ru-ru'] = "Планировщик";
 $text['label-schedule']['sv-se'] = "Schema";
 $text['label-schedule']['uk-ua'] = "Розклад";
+$text['label-schedule']['vi'] = "Lịch trình";
 
 $text['label-room-name']['en-us'] = "Room Name";
 $text['label-room-name']['ar-eg'] = "";
@@ -720,6 +754,7 @@ $text['label-room-name']['ro-ro'] = "";
 $text['label-room-name']['ru-ru'] = "Запись";
 $text['label-room-name']['sv-se'] = "Rums Namn";
 $text['label-room-name']['uk-ua'] = "Назва кімнати";
+$text['label-room-name']['vi'] = "Tên phòng";
 
 $text['label-recording']['en-us'] = "Recording";
 $text['label-recording']['ar-eg'] = "";
@@ -740,6 +775,7 @@ $text['label-recording']['ro-ro'] = "";
 $text['label-recording']['ru-ru'] = "";
 $text['label-recording']['sv-se'] = "Inspelning";
 $text['label-recording']['uk-ua'] = "Запис";
+$text['label-recording']['vi'] = "Bản ghi";
 
 $text['label-record']['en-us'] = "Record";
 $text['label-record']['ar-eg'] = "";
@@ -760,6 +796,7 @@ $text['label-record']['ro-ro'] = "";
 $text['label-record']['ru-ru'] = "Запись";
 $text['label-record']['sv-se'] = "Spela In";
 $text['label-record']['uk-ua'] = "Запис";
+$text['label-record']['vi'] = "Ghi âm";
 
 $text['label-profile']['en-us'] = "Profile";
 $text['label-profile']['ar-eg'] = "";
@@ -780,6 +817,7 @@ $text['label-profile']['ro-ro'] = "";
 $text['label-profile']['ru-ru'] = "Профиль";
 $text['label-profile']['sv-se'] = "Profil";
 $text['label-profile']['uk-ua'] = "Профіль";
+$text['label-profile']['vi'] = "Profile";
 
 $text['label-play']['en-us'] = "Play";
 $text['label-play']['ar-eg'] = "";
@@ -800,6 +838,7 @@ $text['label-play']['ro-ro'] = "";
 $text['label-play']['ru-ru'] = "Воспроизвести";
 $text['label-play']['sv-se'] = "Spela Upp";
 $text['label-play']['uk-ua'] = "Відтворити";
+$text['label-play']['vi'] = "Phát";
 
 $text['label-participant-pin']['en-us'] = "Participant";
 $text['label-participant-pin']['ar-eg'] = "";
@@ -820,6 +859,7 @@ $text['label-participant-pin']['ro-ro'] = "";
 $text['label-participant-pin']['ru-ru'] = "Участник";
 $text['label-participant-pin']['sv-se'] = "Deltagare";
 $text['label-participant-pin']['uk-ua'] = "Учасник";
+$text['label-participant-pin']['vi'] = "Người tham dự";
 
 $text['label-network-address']['en-us'] = "Network Address";
 $text['label-network-address']['ar-eg'] = "";
@@ -840,6 +880,7 @@ $text['label-network-address']['ro-ro'] = "";
 $text['label-network-address']['ru-ru'] = "Сетевой адрес";
 $text['label-network-address']['sv-se'] = "Nätverks-adress";
 $text['label-network-address']['uk-ua'] = "Адреса мережі";
+$text['label-network-address']['vi'] = "Địa chỉ mạng";
 
 $text['label-mute']['en-us'] = "Mute";
 $text['label-mute']['ar-eg'] = "";
@@ -860,6 +901,7 @@ $text['label-mute']['ro-ro'] = "";
 $text['label-mute']['ru-ru'] = "Отключить микрофон";
 $text['label-mute']['sv-se'] = "Mikrofon Av";
 $text['label-mute']['uk-ua'] = "Приглушити";
+$text['label-mute']['vi'] = "Tắt tiếng";
 
 $text['label-moderator-pin']['en-us'] = "Moderator";
 $text['label-moderator-pin']['ar-eg'] = "";
@@ -880,6 +922,7 @@ $text['label-moderator-pin']['ro-ro'] = "";
 $text['label-moderator-pin']['ru-ru'] = "Модератор";
 $text['label-moderator-pin']['sv-se'] = "Moderator";
 $text['label-moderator-pin']['uk-ua'] = "Модератор";
+$text['label-moderator-pin']['vi'] = "Người điều hành";
 
 $text['label-moderator']['en-us'] = "Moderator";
 $text['label-moderator']['ar-eg'] = "";
@@ -900,6 +943,7 @@ $text['label-moderator']['ro-ro'] = "";
 $text['label-moderator']['ru-ru'] = "Модератор";
 $text['label-moderator']['sv-se'] = "Moderator";
 $text['label-moderator']['uk-ua'] = "Модератор";
+$text['label-moderator']['vi'] = "Người điều hành";
 
 $text['label-members']['en-us'] = "Count";
 $text['label-members']['ar-eg'] = "";
@@ -920,6 +964,7 @@ $text['label-members']['ro-ro'] = "";
 $text['label-members']['ru-ru'] = "Всего";
 $text['label-members']['sv-se'] = "Antal";
 $text['label-members']['uk-ua'] = "Кількість";
+$text['label-members']['vi'] = "Số lượng";
 
 $text['label-member-type-participant']['en-us'] = "participant";
 $text['label-member-type-participant']['ar-eg'] = "";
@@ -940,6 +985,7 @@ $text['label-member-type-participant']['ro-ro'] = "";
 $text['label-member-type-participant']['ru-ru'] = "участник";
 $text['label-member-type-participant']['sv-se'] = "deltagare";
 $text['label-member-type-participant']['uk-ua'] = "учасник";
+$text['label-member-type-participant']['vi'] = "người tham dự";
 
 $text['label-member-type-moderator']['en-us'] = "moderator";
 $text['label-member-type-moderator']['ar-eg'] = "";
@@ -960,6 +1006,7 @@ $text['label-member-type-moderator']['ro-ro'] = "";
 $text['label-member-type-moderator']['ru-ru'] = "модератор";
 $text['label-member-type-moderator']['sv-se'] = "moderator";
 $text['label-member-type-moderator']['uk-ua'] = "модератор";
+$text['label-member-type-moderator']['vi'] = "Người điều hành";
 
 $text['label-member-pin']['en-us'] = "PIN Numbers";
 $text['label-member-pin']['ar-eg'] = "";
@@ -980,6 +1027,7 @@ $text['label-member-pin']['ro-ro'] = "";
 $text['label-member-pin']['ru-ru'] = "PIN коды";
 $text['label-member-pin']['sv-se'] = "PIN Kod";
 $text['label-member-pin']['uk-ua'] = "PIN ";
+$text['label-member-pin']['vi'] = "Mã PIN";
 
 $text['label-max-members']['en-us'] = "Max Members";
 $text['label-max-members']['ar-eg'] = "";
@@ -1000,6 +1048,7 @@ $text['label-max-members']['ro-ro'] = "";
 $text['label-max-members']['ru-ru'] = "Участников, не более";
 $text['label-max-members']['sv-se'] = "Max Antal Medlemmar";
 $text['label-max-members']['uk-ua'] = "Макс. учасників";
+$text['label-max-members']['vi'] = "Thành viên tối đa";
 
 $text['label-from']['en-us'] = "From";
 $text['label-from']['ar-eg'] = "";
@@ -1020,6 +1069,7 @@ $text['label-from']['ro-ro'] = "";
 $text['label-from']['ru-ru'] = "От";
 $text['label-from']['sv-se'] = "Från";
 $text['label-from']['uk-ua'] = "Від";
+$text['label-from']['vi'] = "Từ";
 
 $text['label-exit-sound']['en-us'] = "Exit Sound";
 $text['label-exit-sound']['ar-eg'] = "";
@@ -1040,6 +1090,7 @@ $text['label-exit-sound']['ro-ro'] = "";
 $text['label-exit-sound']['ru-ru'] = "Звук при выходе";
 $text['label-exit-sound']['sv-se'] = "Avslutningsljud";
 $text['label-exit-sound']['uk-ua'] = "Мелодія при виході";
+$text['label-exit-sound']['vi'] = "Thoát âm thanh";
 
 $text['label-enter-sound']['en-us'] = "Enter Sound";
 $text['label-enter-sound']['ar-eg'] = "";
@@ -1060,6 +1111,7 @@ $text['label-enter-sound']['ro-ro'] = "";
 $text['label-enter-sound']['ru-ru'] = "Звук при входе";
 $text['label-enter-sound']['sv-se'] = "Startljud";
 $text['label-enter-sound']['uk-ua'] = "Мелодія при вході";
+$text['label-enter-sound']['vi'] = "Nhập âm thanh";
 
 $text['label-end']['en-us'] = "End";
 $text['label-end']['ar-eg'] = "";
@@ -1080,6 +1132,7 @@ $text['label-end']['ro-ro'] = "";
 $text['label-end']['ru-ru'] = "Конец";
 $text['label-end']['sv-se'] = "Slut";
 $text['label-end']['uk-ua'] = "Кінець";
+$text['label-end']['vi'] = "Kết thúc";
 
 $text['label-edit']['en-us'] = "Edit";
 $text['label-edit']['ar-eg'] = "";
@@ -1100,6 +1153,7 @@ $text['label-edit']['ro-ro'] = "";
 $text['label-edit']['ru-ru'] = "Правка";
 $text['label-edit']['sv-se'] = "Redigera";
 $text['label-edit']['uk-ua'] = "Редагувати";
+$text['label-edit']['vi'] = "Chỉnh sửa";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -1120,6 +1174,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "Загрузка";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "Скачати";
+$text['label-download']['vi'] = "Tải xuống";
 
 $text['label-details']['en-us'] = "Details";
 $text['label-details']['ar-eg'] = "";
@@ -1140,6 +1195,7 @@ $text['label-details']['ro-ro'] = "";
 $text['label-details']['ru-ru'] = "Детали";
 $text['label-details']['sv-se'] = "Detaljer";
 $text['label-details']['uk-ua'] = "Деталі";
+$text['label-details']['vi'] = "Chi tiét";
 
 $text['label-conference_name']['en-us'] = "Conference Name";
 $text['label-conference_name']['ar-eg'] = "";
@@ -1160,6 +1216,7 @@ $text['label-conference_name']['ro-ro'] = "";
 $text['label-conference_name']['ru-ru'] = "Имя конференции";
 $text['label-conference_name']['sv-se'] = "Konferens Namn";
 $text['label-conference_name']['uk-ua'] = "Назва конференції";
+$text['label-conference_name']['vi'] = "Tên hội nghị";
 
 $text['label-cdr']['en-us'] = "CDR";
 $text['label-cdr']['ar-eg'] = "";
@@ -1200,6 +1257,7 @@ $text['label-caller-id-number']['ro-ro'] = "";
 $text['label-caller-id-number']['ru-ru'] = "Caller ID номер звонящего";
 $text['label-caller-id-number']['sv-se'] = "Nummerpresentation";
 $text['label-caller-id-number']['uk-ua'] = "Caller ID Номер";
+$text['label-caller-id-number']['vi'] = "Số ID người gọi";
 
 $text['label-caller-id-name']['en-us'] = "Caller ID Name";
 $text['label-caller-id-name']['ar-eg'] = "";
@@ -1220,6 +1278,7 @@ $text['label-caller-id-name']['ro-ro'] = "";
 $text['label-caller-id-name']['ru-ru'] = "Caller ID имя звонящего";
 $text['label-caller-id-name']['sv-se'] = "Namnpresentation";
 $text['label-caller-id-name']['uk-ua'] = "Caller ID Ім’я";
+$text['label-caller-id-name']['vi'] = "Tên ID người gọi";
 
 $text['label-announce']['en-us'] = "Announce";
 $text['label-announce']['ar-eg'] = "";
@@ -1240,6 +1299,7 @@ $text['label-announce']['ro-ro'] = "";
 $text['label-announce']['ru-ru'] = "Анонс";
 $text['label-announce']['sv-se'] = "Meddela";
 $text['label-announce']['uk-ua'] = "Анонс";
+$text['label-announce']['vi'] = "Thông báo";
 
 $text['description-users']['en-us'] = "Assign additional users as administrators of this conference room.";
 $text['description-users']['ar-eg'] = "";
@@ -1260,6 +1320,7 @@ $text['description-users']['ro-ro'] = "";
 $text['description-users']['ru-ru'] = "Назначьте дополнительных пользователей как администраторов для данной комнаты.";
 $text['description-users']['sv-se'] = "Lägg till ytterligare användare som administratörer för detta konferensrum.";
 $text['description-users']['uk-ua'] = "Зв'язати додаткових користувачів як адміністраторів цього конференц-залу.";
+$text['description-users']['vi'] = "Chỉ định người dùng bổ sung là quản trị viên của phòng hội thảo này.";
 
 $text['description-schedule']['en-us'] = "Set a start and stop date/time for this room.";
 $text['description-schedule']['ar-eg'] = "";
@@ -1280,6 +1341,7 @@ $text['description-schedule']['ro-ro'] = "";
 $text['description-schedule']['ru-ru'] = "Установить дату / время начала и окончания для этой комнаты.";
 $text['description-schedule']['sv-se'] = "Sätt en start och stopp datum/tid för detta rum.";
 $text['description-schedule']['uk-ua'] = "Встановіть час початку/завершення для цієї кімнати.";
+$text['description-schedule']['vi'] = "Đặt ngày bắt đầu và ngày dừng / thời gian cho phòng này.";
 
 $text['description-room-name']['en-us'] = "Enter a name for the conference room.";
 $text['description-room-name']['ar-eg'] = "";
@@ -1300,6 +1362,7 @@ $text['description-room-name']['ro-ro'] = "";
 $text['description-room-name']['ru-ru'] = "Введите имя для комнаты.";
 $text['description-room-name']['sv-se'] = "Ange namn för detta konferensrum";
 $text['description-room-name']['uk-ua'] = "Введіть назву конференц-залу.";
+$text['description-room-name']['vi'] = "Nhập tên cho phòng hội thảo.";
 
 $text['description-profile']['en-us'] = "Conference Profile is a collection of settings for the conference center.";
 $text['description-profile']['ar-eg'] = "";
@@ -1320,6 +1383,7 @@ $text['description-profile']['ro-ro'] = "";
 $text['description-profile']['ru-ru'] = "Профили конференции это набор настроек для конференц-центра.";
 $text['description-profile']['sv-se'] = "Konferensprofil är en samling av inställningar för konferens centret.";
 $text['description-profile']['uk-ua'] = "Профіль конференції є колекція налаштувань для конференц-центру.";
+$text['description-profile']['vi'] = "Profile hội nghị là tập hợp các cài đặt cho trung tâm hội nghị.";
 
 $text['description-participant-pin']['en-us'] = "Pin number for the participants.";
 $text['description-participant-pin']['ar-eg'] = "";
@@ -1340,6 +1404,7 @@ $text['description-participant-pin']['ro-ro'] = "";
 $text['description-participant-pin']['ru-ru'] = "PIN код для участников.";
 $text['description-participant-pin']['sv-se'] = "PIN kod för deltagare";
 $text['description-participant-pin']['uk-ua'] = "PIN-код для учасників.";
+$text['description-participant-pin']['vi'] = "Mã pin cho người tham gia.";
 
 $text['description-moderator_pin']['en-us'] = "Pin number for the moderators.";
 $text['description-moderator_pin']['ar-eg'] = "";
@@ -1360,6 +1425,7 @@ $text['description-moderator_pin']['ro-ro'] = "";
 $text['description-moderator_pin']['ru-ru'] = "PIN код для модераторов.";
 $text['description-moderator_pin']['sv-se'] = "PIN kod för moderator.";
 $text['description-moderator_pin']['uk-ua'] = "PIN-код для  модераторів.";
+$text['description-moderator_pin']['vi'] = "Mã pin cho người điều hành.";
 
 $text['description-conference_sessions']['en-us'] = "Conference Sessions are log details about the conferences.";
 $text['description-conference_sessions']['ar-eg'] = "";
@@ -1380,6 +1446,7 @@ $text['description-conference_sessions']['ro-ro'] = "";
 $text['description-conference_sessions']['ru-ru'] = "Сессии конференции - это данные журнала о конференциях.";
 $text['description-conference_sessions']['sv-se'] = "Konferenssessioner är detaljerad log om konferenserna.";
 $text['description-conference_sessions']['uk-ua'] = "Сесії конференції є даних журналу про конференції.";
+$text['description-conference_sessions']['vi'] = "Phiên hội nghị là chi tiết nhật ký về các hội nghị.";
 
 $text['description-conference_session_details']['en-us'] = "Conference Sessions are log details of the conferences calls.";
 $text['description-conference_session_details']['ar-eg'] = "";
@@ -1400,6 +1467,7 @@ $text['description-conference_session_details']['ro-ro'] = "";
 $text['description-conference_session_details']['ru-ru'] = "Сеансы конференции - это журнал событий конференций.";
 $text['description-conference_session_details']['sv-se'] = "Konferenssessioner är detaljerad log om konferenserna.";
 $text['description-conference_session_details']['uk-ua'] = "Сесії конференції є відомості з журналу викликів конференцій.";
+$text['description-conference_session_details']['vi'] = "Phiên hội nghị là chi tiết nhật ký của các cuộc gọi hội nghị.";
 
 $text['description-conference_centers']['en-us'] = "Conference Centers are a group of conference rooms. They can be organized by cost center, geographically, or other criteria.";
 $text['description-conference_centers']['ar-eg'] = "";
@@ -1420,6 +1488,7 @@ $text['description-conference_centers']['ro-ro'] = "";
 $text['description-conference_centers']['ru-ru'] = "Конференц-центры это группа конференц-комнат. Они могут быть организованы по загрузке, географически, или по другим критериям.";
 $text['description-conference_centers']['sv-se'] = "Konferenscenter är en grupp med konferensrum. De kan sorteras på kostnadscenter, geografisk placering eller andra kriterier.";
 $text['description-conference_centers']['uk-ua'] = "Конференц-центри є група конференц-залів. Вони можуть бути організовані МВЗ, географічно або інших критеріїв.";
+$text['description-conference_centers']['vi'] = "Trung tâm hội nghị là một nhóm các phòng hội nghị. Chúng có thể được tổ chức theo trung tâm chi phí, theo địa lý hoặc các tiêu chí khác.";
 
 $text['description-conference_center']['en-us'] = "Conference Center is used to setup one or more conference rooms with a name, extension number, a required pin number length, and a description.";
 $text['description-conference_center']['ar-eg'] = "";
@@ -1440,6 +1509,7 @@ $text['description-conference_center']['ro-ro'] = "";
 $text['description-conference_center']['ru-ru'] = "Конференц-центр используется для настройки одной и более комнат и таких параметров как имя, внутренний номер, длину PIN кода, и описание.";
 $text['description-conference_center']['sv-se'] = "Konferenscenter används för att sätt aupp en eller fler konferensrum med ett namn, anknytningsnummer, PIN kod och en beskrivning.";
 $text['description-conference_center']['uk-ua'] = "Конференц-центр використовується для установки одного або декількох конференц-залів з ім'ям, додатковий номер, в необхідної довжини контактний номер та опис.";
+$text['description-conference_center']['vi'] = "Trung tâm hội nghị được sử dụng để thiết lập một hoặc nhiều phòng hội nghị với tên, số máy nhánh, độ dài số pin yêu cầu và mô tả.";
 
 $text['button-sessions']['en-us'] = "Sessions";
 $text['button-sessions']['ar-eg'] = "";
@@ -1460,6 +1530,7 @@ $text['button-sessions']['ro-ro'] = "";
 $text['button-sessions']['ru-ru'] = "Сессии";
 $text['button-sessions']['sv-se'] = "Sessioner";
 $text['button-sessions']['uk-ua'] = "Сесії";
+$text['button-sessions']['vi'] = "Phiên";
 
 $text['button-rooms']['en-us'] = "Rooms";
 $text['button-rooms']['ar-eg'] = "";
@@ -1480,5 +1551,6 @@ $text['button-rooms']['ro-ro'] = "";
 $text['button-rooms']['ru-ru'] = "Комнаты";
 $text['button-rooms']['sv-se'] = "Rum";
 $text['button-rooms']['uk-ua'] = "Кімнати";
+$text['button-rooms']['vi'] = "Phòng";
 
 ?>
